@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Kal " label=" Kal " />
+      <node id=" Corl " label=" Corl " />
+      <node id=" Lirin " label=" Lirin " />
+      <node id=" Shardbearer Parshendi " label=" Shardbearer Parshendi " />
+      <node id=" Syl " label=" Syl " />
+      <node id=" Kalak " label=" Kalak " />
+      <node id=" Laral " label=" Laral " />
+      <node id=" Renarin Prince " label=" Renarin Prince " />
+      <node id=" Rilla " label=" Rilla " />
+      <node id=" Ralik Nu " label=" Ralik Nu " />
+      <node id=" Natir " label=" Natir " />
+      <node id=" Roion " label=" Roion " />
+      <node id=" Amaram Highmarshal " label=" Amaram Highmarshal " />
+      <node id=" Alabet " label=" Alabet " />
+      <node id=" Tvlakv " label=" Tvlakv " />
+      <node id=" Natam " label=" Natam " />
+      <node id=" Teleb " label=" Teleb " />
+      <node id=" Brightlord Amaram " label=" Brightlord Amaram " />
+      <node id=" Vstim " label=" Vstim " />
+      <node id=" Blade " label=" Blade " />
+      <node id=" Barm " label=" Barm " />
+      <node id=" Janala " label=" Janala " />
+      <node id=" Hatham Highprince " label=" Hatham Highprince " />
+      <node id=" Murk " label=" Murk " />
+      <node id=" Kadash " label=" Kadash " />
+      <node id=" Drehy " label=" Drehy " />
+      <node id=" Gaz " label=" Gaz " />
+      <node id=" Matal " label=" Matal " />
+      <node id=" Vorinism " label=" Vorinism " />
+      <node id=" Yalb " label=" Yalb " />
+      <node id=" Salas " label=" Salas " />
+      <node id=" Shardblades " label=" Shardblades " />
+      <node id=" Jasnah Kholin " label=" Jasnah Kholin " />
+      <node id=" Hashal " label=" Hashal " />
+      <node id=" Hoid " label=" Hoid " />
+      <node id=" Elthebar " label=" Elthebar " />
+      <node id=" Kabsal Brother " label=" Kabsal Brother " />
+      <node id=" Dabbid " label=" Dabbid " />
+      <node id=" Herdazian " label=" Herdazian " />
+      <node id=" Jest " label=" Jest " />
+      <node id=" Ruthar " label=" Ruthar " />
+      <node id=" Kholin Adolin " label=" Kholin Adolin " />
+      <node id=" Resi " label=" Resi " />
+      <node id=" Falksi " label=" Falksi " />
+      <node id=" Terith Nanha " label=" Terith Nanha " />
+      <node id=" Vartian " label=" Vartian " />
+      <node id=" Stonestance " label=" Stonestance " />
+      <node id=" Malop " label=" Malop " />
+      <node id=" Cyn " label=" Cyn " />
+      <node id=" Bluth " label=" Bluth " />
+      <node id=" Makkek " label=" Makkek " />
+      <node id=" Vun Makak " label=" Vun Makak " />
+      <node id=" Gare " label=" Gare " />
+      <node id=" Miliv " label=" Miliv " />
+      <node id=" Davar Shallan " label=" Davar Shallan " />
+      <node id=" Azir " label=" Azir " />
+      <node id=" Lamaril " label=" Lamaril " />
+      <node id=" Gavashaw " label=" Gavashaw " />
+      <node id=" Szeth " label=" Szeth " />
+      <node id=" Taravangian " label=" Taravangian " />
+      <node id=" Taffa " label=" Taffa " />
+      <node id=" Sani " label=" Sani " />
+      <node id=" Nohadon " label=" Nohadon " />
+      <node id=" Jakamav " label=" Jakamav " />
+      <node id=" Hab " label=" Hab " />
+      <node id=" Kholin Gavilar " label=" Kholin Gavilar " />
+      <node id=" Kylrm " label=" Kylrm " />
+      <node id=" Goshel " label=" Goshel " />
+      <node id=" Bornwater " label=" Bornwater " />
+      <node id=" Durk " label=" Durk " />
+      <node id=" Koolf " label=" Koolf " />
+      <node id=" Elhokar " label=" Elhokar " />
+      <node id=" Kholin Dalinar " label=" Kholin Dalinar " />
+      <node id=" Alethi " label=" Alethi " />
+      <node id=" Naget " label=" Naget " />
+      <node id=" Varala " label=" Varala " />
+      <node id=" Sigzil " label=" Sigzil " />
+      <node id=" Dara " label=" Dara " />
+      <node id=" Urithiru " label=" Urithiru " />
+      <node id=" Jezerezeh " label=" Jezerezeh " />
+      <node id=" Leyten " label=" Leyten " />
+      <node id=" Torfin " label=" Torfin " />
+      <node id=" Vamah " label=" Vamah " />
+      <node id=" Kaladin Stormblessed " label=" Kaladin Stormblessed " />
+      <node id=" Oathbringer " label=" Oathbringer " />
+      <node id=" Lyndel " label=" Lyndel " />
+      <node id=" His Majesty " label=" His Majesty " />
+      <node id=" Keved Jah " label=" Keved Jah " />
+      <node id=" Earless Jaks " label=" Earless Jaks " />
+      <node id=" Windstance " label=" Windstance " />
+      <node id=" Moash " label=" Moash " />
+      <node id=" Kelek " label=" Kelek " />
+      <node id=" Hesina " label=" Hesina " />
+      <node id=" Stormlight " label=" Stormlight " />
+      <node id=" Roshar " label=" Roshar " />
+      <node id=" Maib " label=" Maib " />
+      <node id=" King Gavilar " label=" King Gavilar " />
+      <node id=" Shen " label=" Shen " />
+      <node id=" Navani Kholin " label=" Navani Kholin " />
+      <node id=" Spears " label=" Spears " />
+      <node id=" Yake " label=" Yake " />
+      <node id=" Elin " label=" Elin " />
+      <node id=" Rillir " label=" Rillir " />
+      <node id=" Tales Sela " label=" Tales Sela " />
+      <node id=" Morakotha Danlan " label=" Morakotha Danlan " />
+      <node id=" Gancho " label=" Gancho " />
+      <node id=" Nafti " label=" Nafti " />
+      <node id=" Axies " label=" Axies " />
+      <node id=" Tozbek " label=" Tozbek " />
+      <node id=" Stormfather " label=" Stormfather " />
+      <node id=" Shin " label=" Shin " />
+      <node id=" Hasavah " label=" Hasavah " />
+      <node id=" Peet " label=" Peet " />
+      <node id=" Moratel " label=" Moratel " />
+      <node id=" Inkima " label=" Inkima " />
+      <node id=" Gabrathin " label=" Gabrathin " />
+      <node id=" Lomard " label=" Lomard " />
+      <node id=" Nadris " label=" Nadris " />
+      <node id=" Makabaki " label=" Makabaki " />
+      <node id=" Cenn " label=" Cenn " />
+      <node id=" Ishikk " label=" Ishikk " />
+      <node id=" Horneater " label=" Horneater " />
+      <node id=" Parshendi Shardbearers " label=" Parshendi Shardbearers " />
+      <node id=" Rock " label=" Rock " />
+      <node id=" Lopen " label=" Lopen " />
+      <node id=" Tarah " label=" Tarah " />
+      <node id=" Dunny " label=" Dunny " />
+      <node id=" Eylita " label=" Eylita " />
+      <node id=" Nan Balat " label=" Nan Balat " />
+      <node id=" Wistiow Brightlord " label=" Wistiow Brightlord " />
+      <node id=" Sadeas Highprince " label=" Sadeas Highprince " />
+      <node id=" Bisig " label=" Bisig " />
+      <node id=" Teft " label=" Teft " />
+      <node id=" Elthal " label=" Elthal " />
+      <node id=" Tien " label=" Tien " />
+      <node id=" Jushu Asha " label=" Jushu Asha " />
+      <node id=" Shardblade " label=" Shardblade " />
+      <node id=" Alethkar " label=" Alethkar " />
+      <node id=" Harl " label=" Harl " />
+      <node id=" Litima " label=" Litima " />
+      <node id=" Luesh " label=" Luesh " />
+      <node id=" Teshav " label=" Teshav " />
+      <node id=" Seeli " label=" Seeli " />
+      <node id=" Tukks " label=" Tukks " />
+      <node id=" Coldwin " label=" Coldwin " />
+      <node id=" Shardplate " label=" Shardplate " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Kharbranth " label=" Kharbranth " />
+      <node id=" Elorim Rall " label=" Elorim Rall " />
+      <node id=" Aladar " label=" Aladar " />
+      <node id=" Jost " label=" Jost " />
+      <node id=" Hobber " label=" Hobber " />
+      <node id=" Coreb " label=" Coreb " />
+      <node id=" Reesh " label=" Reesh " />
+      <node id=" Skar " label=" Skar " />
+      <node id=" Derethil " label=" Derethil " />
+      <node id=" Alaxia " label=" Alaxia " />
+      <node id=" Gadol " label=" Gadol " />
+      <node id=" Varth " label=" Varth " />
+      <node id=" Brightlord Roshone " label=" Brightlord Roshone " />
+      <node id=" Adis " label=" Adis " />
+      <node id=" His Jezrien " label=" His Jezrien " />
+      <node id=" Bashin " label=" Bashin " />
+      <node id=" Nalma " label=" Nalma " />
+      <node id=" Mother " label=" Mother " />
+      <node id=" Dallet " label=" Dallet " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Kal " target=" Renarin Prince " weight="3" />
+      <edge id="1" source=" Kal " target=" Rillir " weight="3" />
+      <edge id="2" source=" Kal " target=" Lirin " weight="17" />
+      <edge id="3" source=" Kal " target=" Tien " weight="35" />
+      <edge id="4" source=" Kal " target=" Terith Nanha " weight="1" />
+      <edge id="5" source=" Kal " target=" Kaladin Stormblessed " weight="1" />
+      <edge id="6" source=" Kal " target=" Barm " weight="1" />
+      <edge id="7" source=" Kal " target=" Brightlord Roshone " weight="3" />
+      <edge id="8" source=" Kal " target=" Jest " weight="1" />
+      <edge id="9" source=" Kal " target=" Jost " weight="28" />
+      <edge id="10" source=" Kal " target=" Wistiow Brightlord " weight="3" />
+      <edge id="11" source=" Kal " target=" Naget " weight="1" />
+      <edge id="12" source=" Kal " target=" Hesina " weight="1" />
+      <edge id="13" source=" Kal " target=" Sani " weight="8" />
+      <edge id="14" source=" Kal " target=" Stormlight " weight="1" />
+      <edge id="15" source=" Kal " target=" Elorim Rall " weight="2" />
+      <edge id="16" source=" Kal " target=" Salas " weight="1" />
+      <edge id="17" source=" Kal " target=" Harl " weight="2" />
+      <edge id="18" source=" Corl " target=" Adis " weight="2" />
+      <edge id="19" source=" Corl " target=" Leyten " weight="1" />
+      <edge id="20" source=" Lirin " target=" Tien " weight="16" />
+      <edge id="21" source=" Lirin " target=" Alaxia " weight="1" />
+      <edge id="22" source=" Lirin " target=" Kaladin Stormblessed " weight="6" />
+      <edge id="23" source=" Lirin " target=" Hesina " weight="1" />
+      <edge id="24" source=" Lirin " target=" Brightlord Roshone " weight="2" />
+      <edge id="25" source=" Lirin " target=" Harl " weight="3" />
+      <edge id="26" source=" Lirin " target=" Sani " weight="3" />
+      <edge id="27" source=" Lirin " target=" Salas " weight="1" />
+      <edge id="28" source=" Shardbearer Parshendi " target=" King Gavilar " weight="3" />
+      <edge id="29" source=" Shardbearer Parshendi " target=" Kaladin Stormblessed " weight="11" />
+      <edge id="30" source=" Shardbearer Parshendi " target=" Brightlord Amaram " weight="1" />
+      <edge id="31" source=" Shardbearer Parshendi " target=" Shardblades " weight="1" />
+      <edge id="32" source=" Shardbearer Parshendi " target=" Blade " weight="1" />
+      <edge id="33" source=" Shardbearer Parshendi " target=" Shardblade " weight="1" />
+      <edge id="34" source=" Shardbearer Parshendi " target=" Alethi " weight="2" />
+      <edge id="35" source=" Shardbearer Parshendi " target=" Kholin Dalinar " weight="3" />
+      <edge id="36" source=" Shardbearer Parshendi " target=" Sadeas Highprince " weight="6" />
+      <edge id="37" source=" Shardbearer Parshendi " target=" Szeth " weight="1" />
+      <edge id="38" source=" Shardbearer Parshendi " target=" Dallet " weight="1" />
+      <edge id="39" source=" Shardbearer Parshendi " target=" Kholin Adolin " weight="2" />
+      <edge id="40" source=" Syl " target=" Shen " weight="2" />
+      <edge id="41" source=" Syl " target=" Lopen " weight="1" />
+      <edge id="42" source=" Syl " target=" Tien " weight="8" />
+      <edge id="43" source=" Syl " target=" Moash " weight="1" />
+      <edge id="44" source=" Syl " target=" Dunny " weight="2" />
+      <edge id="45" source=" Syl " target=" Varala " weight="4" />
+      <edge id="46" source=" Syl " target=" Kaladin Stormblessed " weight="5" />
+      <edge id="47" source=" Syl " target=" Skar " weight="1" />
+      <edge id="48" source=" Syl " target=" Gaz " weight="3" />
+      <edge id="49" source=" Syl " target=" Horneater " weight="1" />
+      <edge id="50" source=" Syl " target=" Davar Shallan " weight="1" />
+      <edge id="51" source=" Syl " target=" Rock " weight="1" />
+      <edge id="52" source=" Syl " target=" Roshar " weight="1" />
+      <edge id="53" source=" Syl " target=" Teft " weight="2" />
+      <edge id="54" source=" Kalak " target=" His Jezrien " weight="3" />
+      <edge id="55" source=" Laral " target=" Jost " weight="1" />
+      <edge id="56" source=" Laral " target=" Rillir " weight="1" />
+      <edge id="57" source=" Laral " target=" Tien " weight="1" />
+      <edge id="58" source=" Renarin Prince " target=" Morakotha Danlan " weight="1" />
+      <edge id="59" source=" Renarin Prince " target=" King Gavilar " weight="2" />
+      <edge id="60" source=" Renarin Prince " target=" Navani Kholin " weight="13" />
+      <edge id="61" source=" Renarin Prince " target=" Elthebar " weight="1" />
+      <edge id="62" source=" Renarin Prince " target=" Shardplate " weight="1" />
+      <edge id="63" source=" Renarin Prince " target=" Elhokar " weight="1" />
+      <edge id="64" source=" Renarin Prince " target=" Aladar " weight="1" />
+      <edge id="65" source=" Renarin Prince " target=" Kaladin Stormblessed " weight="1" />
+      <edge id="66" source=" Renarin Prince " target=" Oathbringer " weight="1" />
+      <edge id="67" source=" Renarin Prince " target=" Alethi " weight="1" />
+      <edge id="68" source=" Renarin Prince " target=" Jasnah Kholin " weight="1" />
+      <edge id="69" source=" Renarin Prince " target=" Rilla " weight="2" />
+      <edge id="70" source=" Renarin Prince " target=" Kholin Dalinar " weight="29" />
+      <edge id="71" source=" Renarin Prince " target=" Teshav " weight="1" />
+      <edge id="72" source=" Renarin Prince " target=" Janala " weight="2" />
+      <edge id="73" source=" Renarin Prince " target=" Parshendi Shardbearers " weight="1" />
+      <edge id="74" source=" Renarin Prince " target=" Sadeas Highprince " weight="6" />
+      <edge id="75" source=" Renarin Prince " target=" Kholin Adolin " weight="28" />
+      <edge id="76" source=" Rilla " target=" Sadeas Highprince " weight="1" />
+      <edge id="77" source=" Rilla " target=" Janala " weight="1" />
+      <edge id="78" source=" Ralik Nu " target=" Maib " weight="1" />
+      <edge id="79" source=" Natir " target=" Miliv " weight="1" />
+      <edge id="80" source=" Natir " target=" Brightlord Roshone " weight="1" />
+      <edge id="81" source=" Roion " target=" King Gavilar " weight="1" />
+      <edge id="82" source=" Roion " target=" Aladar " weight="1" />
+      <edge id="83" source=" Roion " target=" Kholin Dalinar " weight="1" />
+      <edge id="84" source=" Amaram Highmarshal " target=" Tien " weight="1" />
+      <edge id="85" source=" Amaram Highmarshal " target=" Brightlord Roshone " weight="1" />
+      <edge id="86" source=" Alabet " target=" Hab " weight="1" />
+      <edge id="87" source=" Tvlakv " target=" Bluth " weight="10" />
+      <edge id="88" source=" Tvlakv " target=" Kaladin Stormblessed " weight="5" />
+      <edge id="89" source=" Tvlakv " target=" Tien " weight="1" />
+      <edge id="90" source=" Natam " target=" Kaladin Stormblessed " weight="1" />
+      <edge id="91" source=" Teleb " target=" Kholin Dalinar " weight="2" />
+      <edge id="92" source=" Brightlord Amaram " target=" Bluth " weight="2" />
+      <edge id="93" source=" Brightlord Amaram " target=" Cenn " weight="2" />
+      <edge id="94" source=" Brightlord Amaram " target=" Tien " weight="5" />
+      <edge id="95" source=" Brightlord Amaram " target=" Gare " weight="2" />
+      <edge id="96" source=" Brightlord Amaram " target=" Kaladin Stormblessed " weight="14" />
+      <edge id="97" source=" Brightlord Amaram " target=" Shardblade " weight="1" />
+      <edge id="98" source=" Brightlord Amaram " target=" Brightlord Roshone " weight="2" />
+      <edge id="99" source=" Brightlord Amaram " target=" Reesh " weight="1" />
+      <edge id="100" source=" Brightlord Amaram " target=" Harl " weight="1" />
+      <edge id="101" source=" Brightlord Amaram " target=" Kholin Dalinar " weight="1" />
+      <edge id="102" source=" Brightlord Amaram " target=" Sadeas Highprince " weight="2" />
+      <edge id="103" source=" Vstim " target=" Kylrm " weight="1" />
+      <edge id="104" source=" Vstim " target=" Shin " weight="1" />
+      <edge id="105" source=" Blade " target=" Kholin Dalinar " weight="1" />
+      <edge id="106" source=" Janala " target=" Falksi " weight="2" />
+      <edge id="107" source=" Janala " target="#N/A" weight="1" />
+      <edge id="108" source=" Janala " target=" Sadeas Highprince " weight="1" />
+      <edge id="109" source=" Janala " target=" Kholin Adolin " weight="1" />
+      <edge id="110" source=" Hatham Highprince " target=" Kholin Dalinar " weight="4" />
+      <edge id="111" source=" Hatham Highprince " target=" Kholin Adolin " weight="1" />
+      <edge id="112" source=" Murk " target=" Kaladin Stormblessed " weight="1" />
+      <edge id="113" source=" Murk " target=" Leyten " weight="1" />
+      <edge id="114" source=" Kadash " target=" Kholin Adolin " weight="3" />
+      <edge id="115" source=" Drehy " target=" Shen " weight="1" />
+      <edge id="116" source=" Drehy " target=" Jasnah Kholin " weight="2" />
+      <edge id="117" source=" Drehy " target=" Moash " weight="1" />
+      <edge id="118" source=" Drehy " target=" Kaladin Stormblessed " weight="5" />
+      <edge id="119" source=" Drehy " target=" Stormlight " weight="1" />
+      <edge id="120" source=" Drehy " target=" Skar " weight="1" />
+      <edge id="121" source=" Drehy " target=" Sigzil " weight="1" />
+      <edge id="122" source=" Drehy " target=" Davar Shallan " weight="2" />
+      <edge id="123" source=" Drehy " target=" Roshar " weight="1" />
+      <edge id="124" source=" Gaz " target=" Lamaril " weight="8" />
+      <edge id="125" source=" Gaz " target=" Stormfather " weight="1" />
+      <edge id="126" source=" Gaz " target=" Lopen " weight="1" />
+      <edge id="127" source=" Gaz " target=" Hashal " weight="1" />
+      <edge id="128" source=" Gaz " target=" Kaladin Stormblessed " weight="45" />
+      <edge id="129" source=" Gaz " target=" Harl " weight="1" />
+      <edge id="130" source=" Gaz " target=" Leyten " weight="1" />
+      <edge id="131" source=" Gaz " target=" Teft " weight="1" />
+      <edge id="132" source=" Matal " target=" Lamaril " weight="1" />
+      <edge id="133" source=" Matal " target=" Sadeas Highprince " weight="2" />
+      <edge id="134" source=" Matal " target=" Kaladin Stormblessed " weight="5" />
+      <edge id="135" source=" Matal " target=" Hashal " weight="1" />
+      <edge id="136" source=" Vorinism " target=" Kabsal Brother " weight="1" />
+      <edge id="137" source=" Vorinism " target=" Davar Shallan " weight="1" />
+      <edge id="138" source=" Vorinism " target=" Jasnah Kholin " weight="1" />
+      <edge id="139" source=" Yalb " target=" Davar Shallan " weight="1" />
+      <edge id="140" source=" Salas " target=" Dunny " weight="1" />
+      <edge id="141" source=" Salas " target=" Kaladin Stormblessed " weight="2" />
+      <edge id="142" source=" Salas " target=" Horneater " weight="1" />
+      <edge id="143" source=" Salas " target=" Teft " weight="1" />
+      <edge id="144" source=" Shardblades " target=" King Gavilar " weight="1" />
+      <edge id="145" source=" Shardblades " target=" Resi " weight="1" />
+      <edge id="146" source=" Shardblades " target=" Kabsal Brother " weight="1" />
+      <edge id="147" source=" Shardblades " target=" Elhokar " weight="1" />
+      <edge id="148" source=" Shardblades " target=" Kholin Dalinar " weight="1" />
+      <edge id="149" source=" Shardblades " target=" Shardplate " weight="1" />
+      <edge id="150" source=" Shardblades " target=" Kholin Adolin " weight="1" />
+      <edge id="151" source=" Jasnah Kholin " target=" King Gavilar " weight="2" />
+      <edge id="152" source=" Jasnah Kholin " target=" Urithiru " weight="1" />
+      <edge id="153" source=" Jasnah Kholin " target=" Navani Kholin " weight="2" />
+      <edge id="154" source=" Jasnah Kholin " target=" Shin " weight="1" />
+      <edge id="155" source=" Jasnah Kholin " target=" Taravangian " weight="1" />
+      <edge id="156" source=" Jasnah Kholin " target=" Kabsal Brother " weight="12" />
+      <edge id="157" source=" Jasnah Kholin " target=" Elhokar " weight="1" />
+      <edge id="158" source=" Jasnah Kholin " target=" Nan Balat " weight="25" />
+      <edge id="159" source=" Jasnah Kholin " target=" Kaladin Stormblessed " weight="2" />
+      <edge id="160" source=" Jasnah Kholin " target=" Kholin Dalinar " weight="7" />
+      <edge id="161" source=" Jasnah Kholin " target=" Alethi " weight="1" />
+      <edge id="162" source=" Jasnah Kholin " target=" Stormlight " weight="2" />
+      <edge id="163" source=" Jasnah Kholin " target=" Morakotha Danlan " weight="3" />
+      <edge id="164" source=" Jasnah Kholin " target=" Kharbranth " weight="2" />
+      <edge id="165" source=" Jasnah Kholin " target=" Davar Shallan " weight="120" />
+      <edge id="166" source=" Jasnah Kholin " target=" Sadeas Highprince " weight="1" />
+      <edge id="167" source=" Jasnah Kholin " target=" Kholin Adolin " weight="1" />
+      <edge id="168" source=" Hashal " target=" Sadeas Highprince " weight="1" />
+      <edge id="169" source=" Hashal " target=" Kaladin Stormblessed " weight="3" />
+      <edge id="170" source=" Hoid " target=" Derethil " weight="3" />
+      <edge id="171" source=" Hoid " target=" Kaladin Stormblessed " weight="3" />
+      <edge id="172" source=" Kabsal Brother " target=" Nan Balat " weight="2" />
+      <edge id="173" source=" Kabsal Brother " target=" Kharbranth " weight="1" />
+      <edge id="174" source=" Kabsal Brother " target=" Davar Shallan " weight="3" />
+      <edge id="175" source=" Dabbid " target=" Shen " weight="1" />
+      <edge id="176" source=" Dabbid " target=" Lopen " weight="5" />
+      <edge id="177" source=" Dabbid " target=" Leyten " weight="1" />
+      <edge id="178" source=" Dabbid " target=" Tien " weight="1" />
+      <edge id="179" source=" Dabbid " target=" Kaladin Stormblessed " weight="4" />
+      <edge id="180" source=" Dabbid " target=" Hobber " weight="1" />
+      <edge id="181" source=" Herdazian " target=" Alethi " weight="1" />
+      <edge id="182" source=" Ruthar " target=" Kholin Dalinar " weight="1" />
+      <edge id="183" source=" Kholin Adolin " target=" Kaladin Stormblessed " weight="1" />
+      <edge id="184" source=" Kholin Adolin " target=" Windstance " weight="1" />
+      <edge id="185" source=" Kholin Adolin " target=" Sadeas Highprince " weight="11" />
+      <edge id="186" source=" Kholin Adolin " target=" Shardblade " weight="2" />
+      <edge id="187" source=" Kholin Adolin " target=" Stormlight " weight="1" />
+      <edge id="188" source=" Kholin Adolin " target=" King Gavilar " weight="7" />
+      <edge id="189" source=" Kholin Adolin " target=" Navani Kholin " weight="8" />
+      <edge id="190" source=" Kholin Adolin " target=" Shardplate " weight="2" />
+      <edge id="191" source=" Kholin Adolin " target="#N/A" weight="2" />
+      <edge id="192" source=" Kholin Adolin " target=" Morakotha Danlan " weight="1" />
+      <edge id="193" source=" Kholin Adolin " target=" Resi " weight="4" />
+      <edge id="194" source=" Kholin Adolin " target=" Elhokar " weight="5" />
+      <edge id="195" source=" Kholin Adolin " target=" Vartian " weight="1" />
+      <edge id="196" source=" Kholin Adolin " target=" Kholin Dalinar " weight="54" />
+      <edge id="197" source=" Kholin Adolin " target=" Lomard " weight="1" />
+      <edge id="198" source=" Resi " target=" King Gavilar " weight="5" />
+      <edge id="199" source=" Resi " target=" Stonestance " weight="2" />
+      <edge id="200" source=" Resi " target=" Elhokar " weight="1" />
+      <edge id="201" source=" Resi " target=" Shardblade " weight="1" />
+      <edge id="202" source=" Vartian " target=" Lomard " weight="1" />
+      <edge id="203" source=" Vartian " target=" Sadeas Highprince " weight="1" />
+      <edge id="204" source=" Malop " target=" Yake " weight="1" />
+      <edge id="205" source=" Malop " target=" Dunny " weight="1" />
+      <edge id="206" source=" Malop " target=" Earless Jaks " weight="2" />
+      <edge id="207" source=" Cyn " target=" Lyndel " weight="1" />
+      <edge id="208" source=" Bluth " target=" Kaladin Stormblessed " weight="22" />
+      <edge id="209" source=" Makkek " target=" Szeth " weight="8" />
+      <edge id="210" source=" Vun Makak " target=" Ishikk " weight="1" />
+      <edge id="211" source=" Gare " target=" Kaladin Stormblessed " weight="2" />
+      <edge id="212" source=" Davar Shallan " target=" King Gavilar " weight="1" />
+      <edge id="213" source=" Davar Shallan " target=" Alethkar " weight="1" />
+      <edge id="214" source=" Davar Shallan " target=" Jushu Asha " weight="3" />
+      <edge id="215" source=" Davar Shallan " target=" Nan Balat " weight="18" />
+      <edge id="216" source=" Davar Shallan " target=" Gabrathin " weight="1" />
+      <edge id="217" source=" Davar Shallan " target=" Kharbranth " weight="4" />
+      <edge id="218" source=" Davar Shallan " target=" Tozbek " weight="1" />
+      <edge id="219" source=" Azir " target=" Alethkar " weight="1" />
+      <edge id="220" source=" Azir " target=" Taravangian " weight="1" />
+      <edge id="221" source=" Lamaril " target=" Kaladin Stormblessed " weight="2" />
+      <edge id="222" source=" Gavashaw " target=" Bornwater " weight="1" />
+      <edge id="223" source=" Szeth " target=" King Gavilar " weight="5" />
+      <edge id="224" source=" Szeth " target=" Shardplate " weight="1" />
+      <edge id="225" source=" Szeth " target=" Shardblade " weight="2" />
+      <edge id="226" source=" Szeth " target=" Stormlight " weight="8" />
+      <edge id="227" source=" Szeth " target=" Taravangian " weight="1" />
+      <edge id="228" source=" Szeth " target=" Kholin Dalinar " weight="1" />
+      <edge id="229" source=" Taffa " target=" Seeli " weight="2" />
+      <edge id="230" source=" Taffa " target=" Kholin Dalinar " weight="3" />
+      <edge id="231" source=" Sani " target=" Tien " weight="1" />
+      <edge id="232" source=" Sani " target=" Hesina " weight="1" />
+      <edge id="233" source=" Nohadon " target=" Alethkar " weight="1" />
+      <edge id="234" source=" Nohadon " target=" Kholin Dalinar " weight="1" />
+      <edge id="235" source=" Jakamav " target=" Sadeas Highprince " weight="1" />
+      <edge id="236" source=" Jakamav " target=" Inkima " weight="1" />
+      <edge id="237" source=" Kholin Gavilar " target=" King Gavilar " weight="1" />
+      <edge id="238" source=" Kholin Gavilar " target=" Navani Kholin " weight="1" />
+      <edge id="239" source=" Kylrm " target=" Shin " weight="1" />
+      <edge id="240" source=" Goshel " target=" Dunny " weight="1" />
+      <edge id="241" source=" Goshel " target=" Nalma " weight="1" />
+      <edge id="242" source=" Goshel " target=" Dallet " weight="1" />
+      <edge id="243" source=" Durk " target=" Kaladin Stormblessed " weight="1" />
+      <edge id="244" source=" Koolf " target=" Sigzil " weight="1" />
+      <edge id="245" source=" Koolf " target=" Peet " weight="1" />
+      <edge id="246" source=" Koolf " target=" Skar " weight="1" />
+      <edge id="247" source=" Koolf " target=" Kaladin Stormblessed " weight="2" />
+      <edge id="248" source=" Elhokar " target=" King Gavilar " weight="4" />
+      <edge id="249" source=" Elhokar " target=" Navani Kholin " weight="2" />
+      <edge id="250" source=" Elhokar " target=" Shin " weight="1" />
+      <edge id="251" source=" Elhokar " target=" Kaladin Stormblessed " weight="1" />
+      <edge id="252" source=" Elhokar " target=" Kholin Dalinar " weight="33" />
+      <edge id="253" source=" Elhokar " target=" Oathbringer " weight="1" />
+      <edge id="254" source=" Elhokar " target=" Shardblade " weight="2" />
+      <edge id="255" source=" Elhokar " target=" Sadeas Highprince " weight="5" />
+      <edge id="256" source=" Elhokar " target=" Teft " weight="1" />
+      <edge id="257" source=" Kholin Dalinar " target=" Vamah " weight="2" />
+      <edge id="258" source=" Kholin Dalinar " target=" Kaladin Stormblessed " weight="12" />
+      <edge id="259" source=" Kholin Dalinar " target=" Navani Kholin " weight="5" />
+      <edge id="260" source=" Kholin Dalinar " target=" His Majesty " weight="1" />
+      <edge id="261" source=" Kholin Dalinar " target=" Sadeas Highprince " weight="16" />
+      <edge id="262" source=" Kholin Dalinar " target=" Windstance " weight="1" />
+      <edge id="263" source=" Kholin Dalinar " target=" Elthal " weight="1" />
+      <edge id="264" source=" Kholin Dalinar " target=" Tien " weight="1" />
+      <edge id="265" source=" Kholin Dalinar " target=" Shardblade " weight="2" />
+      <edge id="266" source=" Kholin Dalinar " target=" Stormlight " weight="1" />
+      <edge id="267" source=" Kholin Dalinar " target=" Teshav " weight="1" />
+      <edge id="268" source=" Kholin Dalinar " target=" Roshar " weight="2" />
+      <edge id="269" source=" Kholin Dalinar " target=" King Gavilar " weight="5" />
+      <edge id="270" source=" Kholin Dalinar " target=" Shen " weight="3" />
+      <edge id="271" source=" Kholin Dalinar " target=" Shardplate " weight="3" />
+      <edge id="272" source=" Kholin Dalinar " target="#N/A" weight="3" />
+      <edge id="273" source=" Kholin Dalinar " target=" Tales Sela " weight="1" />
+      <edge id="274" source=" Kholin Dalinar " target=" Morakotha Danlan " weight="1" />
+      <edge id="275" source=" Kholin Dalinar " target=" Skar " weight="1" />
+      <edge id="276" source=" Kholin Dalinar " target=" Oathbringer " weight="3" />
+      <edge id="277" source=" Kholin Dalinar " target=" Aladar " weight="2" />
+      <edge id="278" source=" Kholin Dalinar " target=" Stormfather " weight="2" />
+      <edge id="279" source=" Kholin Dalinar " target=" Seeli " weight="1" />
+      <edge id="280" source=" Kholin Dalinar " target=" Litima " weight="1" />
+      <edge id="281" source=" Kholin Dalinar " target=" Alethi " weight="3" />
+      <edge id="282" source=" Kholin Dalinar " target=" Sigzil " weight="1" />
+      <edge id="283" source=" Kholin Dalinar " target=" Bashin " weight="1" />
+      <edge id="284" source=" Alethi " target=" Moash " weight="1" />
+      <edge id="285" source=" Alethi " target=" Kaladin Stormblessed " weight="3" />
+      <edge id="286" source=" Naget " target=" Jost " weight="1" />
+      <edge id="287" source=" Varala " target=" Stormfather " weight="1" />
+      <edge id="288" source=" Varala " target=" Moash " weight="1" />
+      <edge id="289" source=" Varala " target=" Kaladin Stormblessed " weight="4" />
+      <edge id="290" source=" Varala " target=" Teft " weight="1" />
+      <edge id="291" source=" Sigzil " target=" Moash " weight="1" />
+      <edge id="292" source=" Sigzil " target=" Peet " weight="1" />
+      <edge id="293" source=" Sigzil " target=" Dunny " weight="1" />
+      <edge id="294" source=" Sigzil " target=" Kaladin Stormblessed " weight="4" />
+      <edge id="295" source=" Sigzil " target=" Alethkar " weight="1" />
+      <edge id="296" source=" Sigzil " target=" Teft " weight="1" />
+      <edge id="297" source=" Sigzil " target=" Rock " weight="1" />
+      <edge id="298" source=" Dara " target=" Nadris " weight="1" />
+      <edge id="299" source=" Jezerezeh " target=" Kelek " weight="2" />
+      <edge id="300" source=" Jezerezeh " target=" Elin " weight="1" />
+      <edge id="301" source=" Leyten " target=" Skar " weight="1" />
+      <edge id="302" source=" Leyten " target=" Kaladin Stormblessed " weight="2" />
+      <edge id="303" source=" Leyten " target=" Harl " weight="1" />
+      <edge id="304" source=" Leyten " target=" Teft " weight="1" />
+      <edge id="305" source=" Leyten " target=" Hobber " weight="1" />
+      <edge id="306" source=" Leyten " target=" Adis " weight="1" />
+      <edge id="307" source=" Torfin " target=" Dunny " weight="1" />
+      <edge id="308" source=" Kaladin Stormblessed " target=" Lopen " weight="7" />
+      <edge id="309" source=" Kaladin Stormblessed " target=" Dunny " weight="30" />
+      <edge id="310" source=" Kaladin Stormblessed " target=" Earless Jaks " weight="1" />
+      <edge id="311" source=" Kaladin Stormblessed " target=" Sadeas Highprince " weight="3" />
+      <edge id="312" source=" Kaladin Stormblessed " target=" Bisig " weight="1" />
+      <edge id="313" source=" Kaladin Stormblessed " target=" Teft " weight="79" />
+      <edge id="314" source=" Kaladin Stormblessed " target=" Tien " weight="56" />
+      <edge id="315" source=" Kaladin Stormblessed " target=" Moash " weight="28" />
+      <edge id="316" source=" Kaladin Stormblessed " target=" Shardblade " weight="1" />
+      <edge id="317" source=" Kaladin Stormblessed " target=" Stormlight " weight="4" />
+      <edge id="318" source=" Kaladin Stormblessed " target=" Harl " weight="5" />
+      <edge id="319" source=" Kaladin Stormblessed " target=" Tukks " weight="1" />
+      <edge id="320" source=" Kaladin Stormblessed " target=" Shen " weight="3" />
+      <edge id="321" source=" Kaladin Stormblessed " target=" Yake " weight="1" />
+      <edge id="322" source=" Kaladin Stormblessed " target="#N/A" weight="1" />
+      <edge id="323" source=" Kaladin Stormblessed " target=" Gancho " weight="2" />
+      <edge id="324" source=" Kaladin Stormblessed " target=" Hobber " weight="4" />
+      <edge id="325" source=" Kaladin Stormblessed " target=" Coreb " weight="1" />
+      <edge id="326" source=" Kaladin Stormblessed " target=" Rillir " weight="1" />
+      <edge id="327" source=" Kaladin Stormblessed " target=" Skar " weight="5" />
+      <edge id="328" source=" Kaladin Stormblessed " target=" Gadol " weight="5" />
+      <edge id="329" source=" Kaladin Stormblessed " target=" Cenn " weight="9" />
+      <edge id="330" source=" Kaladin Stormblessed " target=" Brightlord Roshone " weight="5" />
+      <edge id="331" source=" Kaladin Stormblessed " target=" Horneater " weight="4" />
+      <edge id="332" source=" Kaladin Stormblessed " target=" Dallet " weight="10" />
+      <edge id="333" source=" Kaladin Stormblessed " target=" Rock " weight="10" />
+      <edge id="334" source=" Oathbringer " target=" King Gavilar " weight="1" />
+      <edge id="335" source=" Keved Jah " target=" Alethkar " weight="2" />
+      <edge id="336" source=" Keved Jah " target=" King Gavilar " weight="1" />
+      <edge id="337" source=" Earless Jaks " target=" Dunny " weight="4" />
+      <edge id="338" source=" Earless Jaks " target=" Rock " weight="1" />
+      <edge id="339" source=" Windstance " target=" King Gavilar " weight="1" />
+      <edge id="340" source=" Moash " target=" Shen " weight="1" />
+      <edge id="341" source=" Moash " target=" Skar " weight="1" />
+      <edge id="342" source=" Moash " target=" Tien " weight="1" />
+      <edge id="343" source=" Moash " target=" Peet " weight="1" />
+      <edge id="344" source=" Moash " target=" Dunny " weight="2" />
+      <edge id="345" source=" Moash " target=" Sadeas Highprince " weight="1" />
+      <edge id="346" source=" Moash " target=" Teft " weight="2" />
+      <edge id="347" source=" Moash " target=" Rock " weight="1" />
+      <edge id="348" source=" Hesina " target=" Tien " weight="2" />
+      <edge id="349" source=" Stormlight " target=" King Gavilar " weight="2" />
+      <edge id="350" source=" Stormlight " target=" Shen " weight="1" />
+      <edge id="351" source=" Stormlight " target=" Tien " weight="1" />
+      <edge id="352" source=" Stormlight " target=" Teft " weight="1" />
+      <edge id="353" source=" Roshar " target=" Derethil " weight="1" />
+      <edge id="354" source=" Roshar " target=" Makabaki " weight="1" />
+      <edge id="355" source=" Maib " target=" Ishikk " weight="1" />
+      <edge id="356" source=" King Gavilar " target=" Sadeas Highprince " weight="8" />
+      <edge id="357" source=" King Gavilar " target=" Shardblade " weight="3" />
+      <edge id="358" source=" King Gavilar " target=" Alethkar " weight="3" />
+      <edge id="359" source=" King Gavilar " target=" Navani Kholin " weight="8" />
+      <edge id="360" source=" King Gavilar " target=" Shardplate " weight="1" />
+      <edge id="361" source=" King Gavilar " target=" Parshendi Shardbearers " weight="2" />
+      <edge id="362" source=" Shen " target=" Lopen " weight="3" />
+      <edge id="363" source=" Shen " target=" Rock " weight="1" />
+      <edge id="364" source=" Shen " target=" Skar " weight="1" />
+      <edge id="365" source=" Shen " target=" Sadeas Highprince " weight="1" />
+      <edge id="366" source=" Shen " target=" Teft " weight="6" />
+      <edge id="367" source=" Navani Kholin " target=" Sadeas Highprince " weight="3" />
+      <edge id="368" source=" Spears " target=" Dunny " weight="1" />
+      <edge id="369" source=" Yake " target=" Dunny " weight="1" />
+      <edge id="370" source=" Yake " target=" Hobber " weight="1" />
+      <edge id="371" source=" Rillir " target=" Brightlord Roshone " weight="1" />
+      <edge id="372" source=" Morakotha Danlan " target=" Litima " weight="1" />
+      <edge id="373" source=" Morakotha Danlan " target=" Sadeas Highprince " weight="1" />
+      <edge id="374" source=" Gancho " target=" Lopen " weight="1" />
+      <edge id="375" source=" Nafti " target=" Derethil " weight="1" />
+      <edge id="376" source=" Axies " target=" Elorim Rall " weight="2" />
+      <edge id="377" source=" Stormfather " target=" Dunny " weight="1" />
+      <edge id="378" source=" Stormfather " target=" Tien " weight="1" />
+      <edge id="379" source=" Hasavah " target=" Coldwin " weight="2" />
+      <edge id="380" source=" Peet " target=" Dunny " weight="1" />
+      <edge id="381" source=" Peet " target=" Hobber " weight="1" />
+      <edge id="382" source=" Peet " target=" Teft " weight="2" />
+      <edge id="383" source=" Moratel " target=" Sadeas Highprince " weight="1" />
+      <edge id="384" source=" Lomard " target=" Sadeas Highprince " weight="1" />
+      <edge id="385" source=" Cenn " target=" Tukks " weight="1" />
+      <edge id="386" source=" Cenn " target=" Dallet " weight="2" />
+      <edge id="387" source=" Cenn " target=" Tien " weight="1" />
+      <edge id="388" source=" Horneater " target=" Rock " weight="2" />
+      <edge id="389" source=" Horneater " target=" Dunny " weight="2" />
+      <edge id="390" source=" Horneater " target=" Teft " weight="3" />
+      <edge id="391" source=" Parshendi Shardbearers " target=" Sadeas Highprince " weight="1" />
+      <edge id="392" source=" Rock " target=" Lopen " weight="1" />
+      <edge id="393" source=" Rock " target=" Dunny " weight="6" />
+      <edge id="394" source=" Rock " target=" Skar " weight="1" />
+      <edge id="395" source=" Rock " target=" Sadeas Highprince " weight="1" />
+      <edge id="396" source=" Rock " target=" Teft " weight="7" />
+      <edge id="397" source=" Lopen " target=" Skar " weight="2" />
+      <edge id="398" source=" Lopen " target=" Tien " weight="1" />
+      <edge id="399" source=" Lopen " target=" Teft " weight="8" />
+      <edge id="400" source=" Tarah " target=" Tien " weight="3" />
+      <edge id="401" source=" Dunny " target=" Skar " weight="1" />
+      <edge id="402" source=" Dunny " target=" Sadeas Highprince " weight="1" />
+      <edge id="403" source=" Dunny " target=" Nalma " weight="1" />
+      <edge id="404" source=" Dunny " target=" Dallet " weight="1" />
+      <edge id="405" source=" Dunny " target=" Teft " weight="12" />
+      <edge id="406" source=" Eylita " target=" Nan Balat " weight="1" />
+      <edge id="407" source=" Nan Balat " target=" Jushu Asha " weight="1" />
+      <edge id="408" source=" Nan Balat " target=" Kharbranth " weight="1" />
+      <edge id="409" source=" Nan Balat " target=" Luesh " weight="4" />
+      <edge id="410" source=" Wistiow Brightlord " target=" Tien " weight="1" />
+      <edge id="411" source=" Wistiow Brightlord " target=" Brightlord Roshone " weight="2" />
+      <edge id="412" source=" Sadeas Highprince " target=" Teft " weight="1" />
+      <edge id="413" source=" Sadeas Highprince " target=" Alethkar " weight="3" />
+      <edge id="414" source=" Sadeas Highprince " target=" Shardplate " weight="1" />
+      <edge id="415" source=" Sadeas Highprince " target="#N/A" weight="2" />
+      <edge id="416" source=" Sadeas Highprince " target=" Brightlord Roshone " weight="2" />
+      <edge id="417" source=" Teft " target=" Gadol " weight="1" />
+      <edge id="418" source=" Teft " target=" Skar " weight="8" />
+      <edge id="419" source=" Tien " target=" Tukks " weight="1" />
+      <edge id="420" source=" Tien " target=" Varth " weight="1" />
+      <edge id="421" source=" Tien " target=" Brightlord Roshone " weight="4" />
+      <edge id="422" source=" Tien " target=" Jost " weight="4" />
+      <edge id="423" source=" Tien " target=" Mother " weight="2" />
+      <edge id="424" source=" Tien " target=" Dallet " weight="2" />
+      <edge id="425" source=" Shardblade " target=" Dallet " weight="1" />
+      <edge id="426" source=" Alethkar " target="#N/A" weight="1" />
+      <edge id="427" source=" Alethkar " target=" Kharbranth " weight="4" />
+      <edge id="428" source=" Tukks " target=" Dallet " weight="1" />
+      <edge id="429" source=" Kharbranth " target=" Brightlord Roshone " weight="1" />
+      <edge id="430" source=" Nalma " target=" Dallet " weight="1" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Monsieur " label=" Monsieur " />
+      <node id=" Owen " label=" Owen " />
+      <node id=" J. Browne Ross " label=" J. Browne Ross " />
+      <node id=" Perseus " label=" Perseus " />
+      <node id=" God " label=" God " />
+      <node id=" Steelkilt " label=" Steelkilt " />
+      <node id=" Mrs. Hussey " label=" Mrs. Hussey " />
+      <node id=" Desmarest " label=" Desmarest " />
+      <node id=" Fedallah " label=" Fedallah " />
+      <node id=" John Leo " label=" John Leo " />
+      <node id=" Jonah " label=" Jonah " />
+      <node id=" Manxman " label=" Manxman " />
+      <node id=" Vishnoo " label=" Vishnoo " />
+      <node id=" John Hunter " label=" John Hunter " />
+      <node id=" Cabaco " label=" Cabaco " />
+      <node id=" Behring " label=" Behring " />
+      <node id=" Beale " label=" Beale " />
+      <node id=" Mr. Starbuck " label=" Mr. Starbuck " />
+      <node id=" Yojo " label=" Yojo " />
+      <node id=" Aristotle " label=" Aristotle " />
+      <node id=" Archer " label=" Archer " />
+      <node id=" Cape Horn " label=" Cape Horn " />
+      <node id=" Frederick Cuvier " label=" Frederick Cuvier " />
+      <node id=" Flask Mr. " label=" Flask Mr. " />
+      <node id=" Moss " label=" Moss " />
+      <node id=" Sal " label=" Sal " />
+      <node id=" Muster " label=" Muster " />
+      <node id=" Gabriel " label=" Gabriel " />
+      <node id=" Sam " label=" Sam " />
+      <node id=" Paul St. " label=" Paul St. " />
+      <node id=" Lakeman " label=" Lakeman " />
+      <node id=" Sebastian Don " label=" Sebastian Don " />
+      <node id=" Solomon " label=" Solomon " />
+      <node id=" Tash " label=" Tash " />
+      <node id=" Bennett " label=" Bennett " />
+      <node id=" Tun Heidelburgh " label=" Tun Heidelburgh " />
+      <node id=" Harris " label=" Harris " />
+      <node id=" Peleg " label=" Peleg " />
+      <node id=" Pedro Don " label=" Pedro Don " />
+      <node id=" ISHMAEL Ishmael " label=" ISHMAEL Ishmael " />
+      <node id=" Tranquo " label=" Tranquo " />
+      <node id=" Daboll " label=" Daboll " />
+      <node id=" Nelson " label=" Nelson " />
+      <node id=" Cook " label=" Cook " />
+      <node id=" Pip " label=" Pip " />
+      <node id=" Adam " label=" Adam " />
+      <node id=" Huggins " label=" Huggins " />
+      <node id=" Leviathan " label=" Leviathan " />
+      <node id=" Bashaw " label=" Bashaw " />
+      <node id=" Luff " label=" Luff " />
+      <node id=" Boomer " label=" Boomer " />
+      <node id=" Martha " label=" Martha " />
+      <node id=" Mapple Father " label=" Mapple Father " />
+      <node id=" Aye " label=" Aye " />
+      <node id=" Burton " label=" Burton " />
+      <node id=" gore " label=" gore " />
+      <node id=" Caesar " label=" Caesar " />
+      <node id=" Ahab " label=" Ahab " />
+      <node id=" Daggoo " label=" Daggoo " />
+      <node id=" Bowditch " label=" Bowditch " />
+      <node id=" Elijah " label=" Elijah " />
+      <node id=" Jove " label=" Jove " />
+      <node id=" Rachel " label=" Rachel " />
+      <node id=" Stubb Massa " label=" Stubb Massa " />
+      <node id=" Snodhead Dr. " label=" Snodhead Dr. " />
+      <node id=" Bunger Dr. " label=" Bunger Dr. " />
+      <node id=" Sibbald " label=" Sibbald " />
+      <node id=" Hosea Hussey " label=" Hosea Hussey " />
+      <node id=" Derick De Deer " label=" Derick De Deer " />
+      <node id=" Mayhew " label=" Mayhew " />
+      <node id=" Leyden " label=" Leyden " />
+      <node id=" Brahma " label=" Brahma " />
+      <node id=" Parsee " label=" Parsee " />
+      <node id=" Mr. Stubb " label=" Mr. Stubb " />
+      <node id=" Dick " label=" Dick " />
+      <node id=" Gardiner " label=" Gardiner " />
+      <node id=" Enderby Samuel " label=" Enderby Samuel " />
+      <node id=" Radney " label=" Radney " />
+      <node id=" Tashtego " label=" Tashtego " />
+      <node id=" Miguel Don " label=" Miguel Don " />
+      <node id=" Dough-Boy " label=" Dough-Boy " />
+      <node id=" Jonas " label=" Jonas " />
+      <node id=" Macey " label=" Macey " />
+      <node id=" Dan Coopman " label=" Dan Coopman " />
+      <node id=" Bildad " label=" Bildad " />
+      <node id=" Napoleon " label=" Napoleon " />
+      <node id=" Clifford " label=" Clifford " />
+      <node id=" Deacon Deuteronomy " label=" Deacon Deuteronomy " />
+      <node id=" Tom " label=" Tom " />
+      <node id=" Sammy " label=" Sammy " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Monsieur " target=" Mr. Stubb " weight="1" />
+      <edge id="1" source=" Owen " target=" Desmarest " weight="1" />
+      <edge id="2" source=" Owen " target=" Sibbald " weight="1" />
+      <edge id="3" source=" Owen " target=" Beale " weight="1" />
+      <edge id="4" source=" Owen " target=" Bennett " weight="1" />
+      <edge id="5" source=" Owen " target=" J. Browne Ross " weight="1" />
+      <edge id="6" source=" Owen " target=" Aristotle " weight="1" />
+      <edge id="7" source=" Owen " target=" John Hunter " weight="1" />
+      <edge id="8" source=" Owen " target=" Frederick Cuvier " weight="1" />
+      <edge id="9" source=" J. Browne Ross " target=" Desmarest " weight="1" />
+      <edge id="10" source=" J. Browne Ross " target=" Aristotle " weight="1" />
+      <edge id="11" source=" J. Browne Ross " target=" Beale " weight="1" />
+      <edge id="12" source=" J. Browne Ross " target=" Bennett " weight="1" />
+      <edge id="13" source=" J. Browne Ross " target=" Sibbald " weight="1" />
+      <edge id="14" source=" J. Browne Ross " target=" John Hunter " weight="1" />
+      <edge id="15" source=" J. Browne Ross " target=" Frederick Cuvier " weight="1" />
+      <edge id="16" source=" Perseus " target=" Leviathan " weight="1" />
+      <edge id="17" source=" God " target=" Jonah " weight="2" />
+      <edge id="18" source=" God " target=" Paul St. " weight="1" />
+      <edge id="19" source=" Steelkilt " target=" Lakeman " weight="2" />
+      <edge id="20" source=" Steelkilt " target=" Aye " weight="1" />
+      <edge id="21" source=" Steelkilt " target=" Radney " weight="1" />
+      <edge id="22" source=" Mrs. Hussey " target=" Hosea Hussey " weight="2" />
+      <edge id="23" source=" Desmarest " target=" Aristotle " weight="1" />
+      <edge id="24" source=" Desmarest " target=" Beale " weight="1" />
+      <edge id="25" source=" Desmarest " target=" Bennett " weight="1" />
+      <edge id="26" source=" Desmarest " target=" Sibbald " weight="1" />
+      <edge id="27" source=" Desmarest " target=" John Hunter " weight="1" />
+      <edge id="28" source=" Desmarest " target=" Frederick Cuvier " weight="2" />
+      <edge id="29" source=" Fedallah " target=" Ahab " weight="6" />
+      <edge id="30" source=" Fedallah " target=" Elijah " weight="1" />
+      <edge id="31" source=" Fedallah " target=" Dick " weight="2" />
+      <edge id="32" source=" Fedallah " target=" Parsee " weight="1" />
+      <edge id="33" source=" Fedallah " target=" Tashtego " weight="1" />
+      <edge id="34" source=" Fedallah " target=" Mr. Stubb " weight="2" />
+      <edge id="35" source=" Fedallah " target=" Daggoo " weight="1" />
+      <edge id="36" source=" Fedallah " target=" Mr. Starbuck " weight="2" />
+      <edge id="37" source=" Fedallah " target=" Archer " weight="1" />
+      <edge id="38" source=" John Leo " target=" Solomon " weight="1" />
+      <edge id="39" source=" Jonah " target=" Aye " weight="1" />
+      <edge id="40" source=" Jonah " target=" ISHMAEL Ishmael " weight="1" />
+      <edge id="41" source=" Jonah " target=" Vishnoo " weight="1" />
+      <edge id="42" source=" Jonah " target=" Sibbald " weight="1" />
+      <edge id="43" source=" Jonah " target=" Harris " weight="1" />
+      <edge id="44" source=" Manxman " target=" Ahab " weight="1" />
+      <edge id="45" source=" Vishnoo " target=" Brahma " weight="1" />
+      <edge id="46" source=" John Hunter " target=" Sibbald " weight="1" />
+      <edge id="47" source=" John Hunter " target=" Beale " weight="1" />
+      <edge id="48" source=" John Hunter " target=" Bennett " weight="1" />
+      <edge id="49" source=" John Hunter " target=" Aristotle " weight="1" />
+      <edge id="50" source=" John Hunter " target=" Frederick Cuvier " weight="1" />
+      <edge id="51" source=" Cabaco " target=" Ahab " weight="1" />
+      <edge id="52" source=" Behring " target=" Leviathan " weight="1" />
+      <edge id="53" source=" Beale " target=" Sibbald " weight="1" />
+      <edge id="54" source=" Beale " target=" Bennett " weight="2" />
+      <edge id="55" source=" Beale " target=" Aristotle " weight="1" />
+      <edge id="56" source=" Beale " target=" Frederick Cuvier " weight="2" />
+      <edge id="57" source=" Beale " target=" Huggins " weight="2" />
+      <edge id="58" source=" Mr. Starbuck " target=" Bildad " weight="2" />
+      <edge id="59" source=" Mr. Starbuck " target=" Ahab " weight="14" />
+      <edge id="60" source=" Mr. Starbuck " target=" Daggoo " weight="1" />
+      <edge id="61" source=" Mr. Starbuck " target=" Aye " weight="1" />
+      <edge id="62" source=" Mr. Starbuck " target=" Tashtego " weight="3" />
+      <edge id="63" source=" Mr. Starbuck " target=" Stubb Massa " weight="1" />
+      <edge id="64" source=" Mr. Starbuck " target=" Mr. Stubb " weight="30" />
+      <edge id="65" source=" Mr. Starbuck " target=" Flask Mr. " weight="1" />
+      <edge id="66" source=" Mr. Starbuck " target=" Derick De Deer " weight="1" />
+      <edge id="67" source=" Mr. Starbuck " target=" Mayhew " weight="1" />
+      <edge id="68" source=" Mr. Starbuck " target=" Burton " weight="1" />
+      <edge id="69" source=" Mr. Starbuck " target=" Gabriel " weight="1" />
+      <edge id="70" source=" Mr. Starbuck " target=" Dick " weight="2" />
+      <edge id="71" source=" Mr. Starbuck " target=" Peleg " weight="3" />
+      <edge id="72" source=" Yojo " target=" Hosea Hussey " weight="1" />
+      <edge id="73" source=" Yojo " target=" Peleg " weight="1" />
+      <edge id="74" source=" Yojo " target=" ISHMAEL Ishmael " weight="1" />
+      <edge id="75" source=" Aristotle " target=" Bennett " weight="1" />
+      <edge id="76" source=" Aristotle " target=" Sibbald " weight="1" />
+      <edge id="77" source=" Aristotle " target=" Frederick Cuvier " weight="1" />
+      <edge id="78" source=" Archer " target=" Jove " weight="1" />
+      <edge id="79" source=" Archer " target=" Mr. Stubb " weight="1" />
+      <edge id="80" source=" Cape Horn " target=" Bildad " weight="1" />
+      <edge id="81" source=" Frederick Cuvier " target=" Sibbald " weight="1" />
+      <edge id="82" source=" Frederick Cuvier " target=" Bennett " weight="1" />
+      <edge id="83" source=" Frederick Cuvier " target=" Harris " weight="1" />
+      <edge id="84" source=" Frederick Cuvier " target=" Huggins " weight="1" />
+      <edge id="85" source=" Flask Mr. " target=" Mr. Stubb " weight="2" />
+      <edge id="86" source=" Moss " target=" Hosea Hussey " weight="1" />
+      <edge id="87" source=" Sal " target=" Sam " weight="1" />
+      <edge id="88" source=" Muster " target=" Ahab " weight="1" />
+      <edge id="89" source=" Muster " target=" Mr. Stubb " weight="2" />
+      <edge id="90" source=" Gabriel " target=" Ahab " weight="1" />
+      <edge id="91" source=" Gabriel " target=" Dick " weight="1" />
+      <edge id="92" source=" Gabriel " target=" Mayhew " weight="1" />
+      <edge id="93" source=" Paul St. " target=" Mr. Stubb " weight="1" />
+      <edge id="94" source=" Lakeman " target=" Radney " weight="4" />
+      <edge id="95" source=" Sebastian Don " target=" Pedro Don " weight="1" />
+      <edge id="96" source=" Solomon " target=" Leviathan " weight="1" />
+      <edge id="97" source=" Tash " target=" Ahab " weight="1" />
+      <edge id="98" source=" Tash " target=" Daggoo " weight="1" />
+      <edge id="99" source=" Tash " target=" Luff " weight="1" />
+      <edge id="100" source=" Bennett " target=" Sibbald " weight="1" />
+      <edge id="101" source=" Tun Heidelburgh " target=" Tashtego " weight="3" />
+      <edge id="102" source=" Harris " target=" Jonas " weight="1" />
+      <edge id="103" source=" Peleg " target=" Ahab " weight="5" />
+      <edge id="104" source=" Peleg " target=" Bildad " weight="18" />
+      <edge id="105" source=" Peleg " target=" Mapple Father " weight="1" />
+      <edge id="106" source=" Peleg " target=" Stubb Massa " weight="1" />
+      <edge id="107" source=" ISHMAEL Ishmael " target=" Ahab " weight="1" />
+      <edge id="108" source=" ISHMAEL Ishmael " target=" Hosea Hussey " weight="1" />
+      <edge id="109" source=" Tranquo " target=" Clifford " weight="1" />
+      <edge id="110" source=" Daboll " target=" Bowditch " weight="1" />
+      <edge id="111" source=" Nelson " target=" Napoleon " weight="1" />
+      <edge id="112" source=" Cook " target=" Mr. Stubb " weight="1" />
+      <edge id="113" source=" Pip " target=" Ahab " weight="4" />
+      <edge id="114" source=" Pip " target=" Mr. Stubb " weight="10" />
+      <edge id="115" source=" Pip " target=" Dough-Boy " weight="1" />
+      <edge id="116" source=" Adam " target=" Dick " weight="1" />
+      <edge id="117" source=" Leviathan " target=" Bashaw " weight="1" />
+      <edge id="118" source=" Luff " target=" Mr. Stubb " weight="1" />
+      <edge id="119" source=" Luff " target=" Tashtego " weight="1" />
+      <edge id="120" source=" Boomer " target=" Ahab " weight="1" />
+      <edge id="121" source=" Boomer " target=" Sammy " weight="1" />
+      <edge id="122" source=" Boomer " target=" Enderby Samuel " weight="1" />
+      <edge id="123" source=" Martha " target=" Tashtego " weight="1" />
+      <edge id="124" source=" Mapple Father " target=" Deacon Deuteronomy " weight="1" />
+      <edge id="125" source=" Aye " target=" Ahab " weight="2" />
+      <edge id="126" source=" Aye " target=" Mr. Stubb " weight="1" />
+      <edge id="127" source=" Aye " target=" Dick " weight="3" />
+      <edge id="128" source=" Aye " target=" Bowditch " weight="1" />
+      <edge id="129" source=" gore " target=" Mr. Stubb " weight="1" />
+      <edge id="130" source=" Caesar " target=" Ahab " weight="1" />
+      <edge id="131" source=" Ahab " target=" Daggoo " weight="2" />
+      <edge id="132" source=" Ahab " target=" Rachel " weight="2" />
+      <edge id="133" source=" Ahab " target=" Parsee " weight="4" />
+      <edge id="134" source=" Ahab " target=" Mr. Stubb " weight="32" />
+      <edge id="135" source=" Ahab " target=" Dick " weight="31" />
+      <edge id="136" source=" Ahab " target=" Gardiner " weight="1" />
+      <edge id="137" source=" Ahab " target=" Enderby Samuel " weight="5" />
+      <edge id="138" source=" Ahab " target=" Tashtego " weight="4" />
+      <edge id="139" source=" Ahab " target=" Dough-Boy " weight="1" />
+      <edge id="140" source=" Ahab " target=" Macey " weight="1" />
+      <edge id="141" source=" Ahab " target=" Elijah " weight="2" />
+      <edge id="142" source=" Ahab " target=" Mayhew " weight="3" />
+      <edge id="143" source=" Ahab " target=" Bildad " weight="2" />
+      <edge id="144" source=" Ahab " target=" Bunger Dr. " weight="2" />
+      <edge id="145" source=" Ahab " target=" Sammy " weight="1" />
+      <edge id="146" source=" Daggoo " target=" Tashtego " weight="7" />
+      <edge id="147" source=" Daggoo " target=" Dick " weight="1" />
+      <edge id="148" source=" Daggoo " target=" Derick De Deer " weight="1" />
+      <edge id="149" source=" Daggoo " target=" Dough-Boy " weight="1" />
+      <edge id="150" source=" Daggoo " target=" Mr. Stubb " weight="1" />
+      <edge id="151" source=" Rachel " target=" Mr. Stubb " weight="1" />
+      <edge id="152" source=" Stubb Massa " target=" Bildad " weight="1" />
+      <edge id="153" source=" Snodhead Dr. " target=" Dan Coopman " weight="1" />
+      <edge id="154" source=" Bunger Dr. " target=" Dick " weight="1" />
+      <edge id="155" source=" Derick De Deer " target=" Mr. Stubb " weight="2" />
+      <edge id="156" source=" Mayhew " target=" Dick " weight="1" />
+      <edge id="157" source=" Mayhew " target=" Macey " weight="1" />
+      <edge id="158" source=" Leyden " target=" Mr. Stubb " weight="1" />
+      <edge id="159" source=" Parsee " target=" Mr. Stubb " weight="1" />
+      <edge id="160" source=" Mr. Stubb " target=" Tashtego " weight="6" />
+      <edge id="161" source=" Mr. Stubb " target=" Dick " weight="1" />
+      <edge id="162" source=" Mr. Stubb " target=" Dough-Boy " weight="1" />
+      <edge id="163" source=" Dick " target=" Tashtego " weight="2" />
+      <edge id="164" source=" Dick " target=" Radney " weight="1" />
+      <edge id="165" source=" Dick " target=" Macey " weight="1" />
+      <edge id="166" source=" Enderby Samuel " target=" Sammy " weight="1" />
+      <edge id="167" source=" Tashtego " target=" Dough-Boy " weight="1" />
+      <edge id="168" source=" Miguel Don " target=" Tom " weight="1" />
+    </edges>
+  </graph>
+</gexf>

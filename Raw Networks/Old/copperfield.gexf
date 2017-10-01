@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Mr. Blackboy " label=" Mr. Blackboy " />
+      <node id=" Martha Endell " label=" Martha Endell " />
+      <node id=" Gray " label=" Gray " />
+      <node id=" Micawber MICAWBER WILKINS Wilkins " label=" Micawber MICAWBER WILKINS Wilkins " />
+      <node id=" Fibbitson Mrs. " label=" Fibbitson Mrs. " />
+      <node id=" Roderick Random " label=" Roderick Random " />
+      <node id=" Miss Lavinia " label=" Miss Lavinia " />
+      <node id=" Strong Mrs. " label=" Strong Mrs. " />
+      <node id=" Master Copperfield " label=" Master Copperfield " />
+      <node id=" Traddles Mrs. " label=" Traddles Mrs. " />
+      <node id=" Miss Larkins " label=" Miss Larkins " />
+      <node id=" Ury " label=" Ury " />
+      <node id=" Mr. Chillip " label=" Mr. Chillip " />
+      <node id=" Gummidge Mrs. " label=" Gummidge Mrs. " />
+      <node id=" Heep Mrs. " label=" Heep Mrs. " />
+      <node id=" Chestle Mr. " label=" Chestle Mr. " />
+      <node id=" Hamlet " label=" Hamlet " />
+      <node id=" Benjamin Thomas " label=" Benjamin Thomas " />
+      <node id=" Hungerford " label=" Hungerford " />
+      <node id=" Mr. Steerforth " label=" Mr. Steerforth " />
+      <node id=" Luke St. " label=" Luke St. " />
+      <node id=" Bush " label=" Bush " />
+      <node id=" Walker Mick " label=" Walker Mick " />
+      <node id=" Trotwood Betsey Copperfield " label=" Trotwood Betsey Copperfield " />
+      <node id=" Mr. Spiker Henry " label=" Mr. Spiker Henry " />
+      <node id=" Edward EDWARD " label=" Edward EDWARD " />
+      <node id=" Mr. Dixon " label=" Mr. Dixon " />
+      <node id=" St. Paul " label=" St. Paul " />
+      <node id=" Mr. Larkins " label=" Mr. Larkins " />
+      <node id=" T. Copperfield " label=" T. Copperfield " />
+      <node id=" Murdstone Mrs. " label=" Murdstone Mrs. " />
+      <node id=" Tiffey Mr. " label=" Tiffey Mr. " />
+      <node id=" Joe " label=" Joe " />
+      <node id=" Omer Mr. OMER " label=" Omer Mr. OMER " />
+      <node id=" Crupp Mrs. " label=" Crupp Mrs. " />
+      <node id=" Mr. Spenlow " label=" Mr. Spenlow " />
+      <node id=" Wickfield Miss " label=" Wickfield Miss " />
+      <node id=" Blas Gil " label=" Blas Gil " />
+      <node id=" Mr. Waterbrook " label=" Mr. Waterbrook " />
+      <node id=" Charley " label=" Charley " />
+      <node id=" James Steerforth " label=" James Steerforth " />
+      <node id=" Heaven " label=" Heaven " />
+      <node id=" Mowcher Miss " label=" Mowcher Miss " />
+      <node id=" Janet janet " label=" Janet janet " />
+      <node id=" Mrs. Joram " label=" Mrs. Joram " />
+      <node id=" Markleham Mrs. " label=" Markleham Mrs. " />
+      <node id=" Crewler Mrs. " label=" Crewler Mrs. " />
+      <node id=" Waterbrook Mrs. " label=" Waterbrook Mrs. " />
+      <node id=" Barkis Mrs. " label=" Barkis Mrs. " />
+      <node id=" Barkis P. C. " label=" Barkis P. C. " />
+      <node id=" MICAWBER EMMA Emma " label=" MICAWBER EMMA Emma " />
+      <node id=" DRAPER " label=" DRAPER " />
+      <node id=" Dora Miss " label=" Dora Miss " />
+      <node id=" MELL Mell Mrs. " label=" MELL Mell Mrs. " />
+      <node id=" Grinby " label=" Grinby " />
+      <node id=" Spiker Mrs. Henry " label=" Spiker Mrs. Henry " />
+      <node id=" Heep Uriah HEEP " label=" Heep Uriah HEEP " />
+      <node id=" Mr. Mills " label=" Mr. Mills " />
+      <node id=" Horace " label=" Horace " />
+      <node id=" Mr. Creakle " label=" Mr. Creakle " />
+      <node id=" Bailey " label=" Bailey " />
+      <node id=" Thomas Mr. Traddles " label=" Thomas Mr. Traddles " />
+      <node id=" Micawber Master " label=" Micawber Master " />
+      <node id=" Grainger " label=" Grainger " />
+      <node id=" Mr. PEGGOTTY Peggotty " label=" Mr. PEGGOTTY Peggotty " />
+      <node id=" Mr. Dick MR. DICK " label=" Mr. Dick MR. DICK " />
+      <node id=" Mr. Copperfield " label=" Mr. Copperfield " />
+      <node id=" Micawber MICAWBER Mr. " label=" Micawber MICAWBER Mr. " />
+      <node id=" Mr. Wickfield " label=" Mr. Wickfield " />
+      <node id=" Watts " label=" Watts " />
+      <node id=" Traddles Tommy " label=" Traddles Tommy " />
+      <node id=" Anne Mary " label=" Anne Mary " />
+      <node id=" Mister Copperfield " label=" Mister Copperfield " />
+      <node id=" Dobbin " label=" Dobbin " />
+      <node id=" Aye " label=" Aye " />
+      <node id=" Mr. Heep " label=" Mr. Heep " />
+      <node id=" Steerforth Mrs. " label=" Steerforth Mrs. " />
+      <node id=" Gummidge Missis " label=" Gummidge Missis " />
+      <node id=" BARKIS Mr. Barkis " label=" BARKIS Mr. Barkis " />
+      <node id=" Jip " label=" Jip " />
+      <node id=" Gravesen " label=" Gravesen " />
+      <node id=" Lincoln " label=" Lincoln " />
+      <node id=" Griffin " label=" Griffin " />
+      <node id=" Mr. Mell " label=" Mr. Mell " />
+      <node id=" Jones Tom " label=" Jones Tom " />
+      <node id=" Polly " label=" Polly " />
+      <node id=" Tidd Mr. " label=" Tidd Mr. " />
+      <node id=" Shakespeare " label=" Shakespeare " />
+      <node id=" Miss Spenlow " label=" Miss Spenlow " />
+      <node id=" Kidgerbury Mrs. " label=" Kidgerbury Mrs. " />
+      <node id=" Clarissa Miss " label=" Clarissa Miss " />
+      <node id=" Wickfield Agnes " label=" Wickfield Agnes " />
+      <node id=" Mills Miss " label=" Mills Miss " />
+      <node id=" Betsey Trotwood Miss " label=" Betsey Trotwood Miss " />
+      <node id=" Chillip Mrs. " label=" Chillip Mrs. " />
+      <node id=" Tungay " label=" Tungay " />
+      <node id=" Trot " label=" Trot " />
+      <node id=" Annie " label=" Annie " />
+      <node id=" Markham " label=" Markham " />
+      <node id=" Miss Murdstone " label=" Miss Murdstone " />
+      <node id=" Jane Murdstone " label=" Jane Murdstone " />
+      <node id=" Sophy " label=" Sophy " />
+      <node id=" Master Davy " label=" Master Davy " />
+      <node id=" Blunderstone " label=" Blunderstone " />
+      <node id=" Clara Peggotty " label=" Clara Peggotty " />
+      <node id=" John " label=" John " />
+      <node id=" Mills Julia " label=" Mills Julia " />
+      <node id=" Micawber MICAWBER Mrs. " label=" Micawber MICAWBER Mrs. " />
+      <node id=" Littimer Mr. " label=" Littimer Mr. " />
+      <node id=" Emily " label=" Emily " />
+      <node id=" Mr. Murdstone " label=" Mr. Murdstone " />
+      <node id=" Mr. Jorkins " label=" Mr. Jorkins " />
+      <node id=" Mr. Gulpidge " label=" Mr. Gulpidge " />
+      <node id=" Dartle Miss " label=" Dartle Miss " />
+      <node id=" James Mr. " label=" James Mr. " />
+      <node id=" DAVID COPPERFIELD Copperfield David " label=" DAVID COPPERFIELD Copperfield David " />
+      <node id=" AGNES Miss Agnes " label=" AGNES Miss Agnes " />
+      <node id=" Dora Spenlow " label=" Dora Spenlow " />
+      <node id=" â Dan l " label=" â Dan l " />
+      <node id=" Mr. Jack Maldon " label=" Mr. Jack Maldon " />
+      <node id=" Creakle Mrs. " label=" Creakle Mrs. " />
+      <node id=" Adams " label=" Adams " />
+      <node id=" Hopkins " label=" Hopkins " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Charles " label=" Charles " />
+      <node id=" Minnie " label=" Minnie " />
+      <node id=" Ham Peggotty " label=" Ham Peggotty " />
+      <node id=" Sarah Jane " label=" Sarah Jane " />
+      <node id=" J. Steerforth " label=" J. Steerforth " />
+      <node id=" Mr. Brooks " label=" Mr. Brooks " />
+      <node id=" W. Mr. " label=" W. Mr. " />
+      <node id=" Quinion Mr. " label=" Quinion Mr. " />
+      <node id=" Dartle Rosa " label=" Dartle Rosa " />
+      <node id=" Micawber Miss " label=" Micawber Miss " />
+      <node id=" T. Mr. " label=" T. Mr. " />
+      <node id=" Copperfield Mrs. " label=" Copperfield Mrs. " />
+      <node id=" Creakle Miss " label=" Creakle Miss " />
+      <node id=" Sharp Mr. " label=" Sharp Mr. " />
+      <node id=" Mr. Copperfull " label=" Mr. Copperfull " />
+      <node id=" Robinson Crusoe " label=" Robinson Crusoe " />
+      <node id=" Esquire " label=" Esquire " />
+      <node id=" Francis " label=" Francis " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Mr. Blackboy " target=" BARKIS Mr. Barkis " weight="1" />
+      <edge id="1" source=" Martha Endell " target=" Bush " weight="2" />
+      <edge id="2" source=" Martha Endell " target=" Mr. PEGGOTTY Peggotty " weight="9" />
+      <edge id="3" source=" Martha Endell " target=" Master Davy " weight="7" />
+      <edge id="4" source=" Martha Endell " target=" Omer Mr. OMER " weight="1" />
+      <edge id="5" source=" Martha Endell " target=" Emily " weight="3" />
+      <edge id="6" source=" Martha Endell " target=" Minnie " weight="1" />
+      <edge id="7" source=" Martha Endell " target=" Ham Peggotty " weight="7" />
+      <edge id="8" source=" Martha Endell " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="9" source=" Martha Endell " target=" Dartle Miss " weight="1" />
+      <edge id="10" source=" Martha Endell " target=" Dartle Rosa " weight="1" />
+      <edge id="11" source=" Gray " target=" Traddles Tommy " weight="1" />
+      <edge id="12" source=" Gray " target=" Micawber MICAWBER Mr. " weight="1" />
+      <edge id="13" source=" Gray " target=" Mr. Chillip " weight="1" />
+      <edge id="14" source=" Micawber MICAWBER WILKINS Wilkins " target=" Mr. Mell " weight="1" />
+      <edge id="15" source=" Micawber MICAWBER WILKINS Wilkins " target=" Micawber MICAWBER Mr. " weight="4" />
+      <edge id="16" source=" Micawber MICAWBER WILKINS Wilkins " target=" Micawber MICAWBER Mrs. " weight="2" />
+      <edge id="17" source=" Micawber MICAWBER WILKINS Wilkins " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="18" source=" Micawber MICAWBER WILKINS Wilkins " target=" Heep Uriah HEEP " weight="1" />
+      <edge id="19" source=" Micawber MICAWBER WILKINS Wilkins " target=" MICAWBER EMMA Emma " weight="1" />
+      <edge id="20" source=" Micawber MICAWBER WILKINS Wilkins " target=" Dora Miss " weight="1" />
+      <edge id="21" source=" Micawber MICAWBER WILKINS Wilkins " target=" Mr. Copperfield " weight="1" />
+      <edge id="22" source=" Micawber MICAWBER WILKINS Wilkins " target=" W. Mr. " weight="2" />
+      <edge id="23" source=" Micawber MICAWBER WILKINS Wilkins " target=" Thomas Mr. Traddles " weight="3" />
+      <edge id="24" source=" Micawber MICAWBER WILKINS Wilkins " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="25" source=" Fibbitson Mrs. " target="#N/A" weight="1" />
+      <edge id="26" source=" Roderick Random " target=" Jones Tom " weight="1" />
+      <edge id="27" source=" Roderick Random " target=" Blas Gil " weight="1" />
+      <edge id="28" source=" Roderick Random " target=" Robinson Crusoe " weight="1" />
+      <edge id="29" source=" Miss Lavinia " target=" DAVID COPPERFIELD Copperfield David " weight="2" />
+      <edge id="30" source=" Miss Lavinia " target=" Dora Miss " weight="6" />
+      <edge id="31" source=" Miss Lavinia " target=" Mr. Copperfield " weight="6" />
+      <edge id="32" source=" Miss Lavinia " target=" Jip " weight="4" />
+      <edge id="33" source=" Miss Lavinia " target=" Thomas Mr. Traddles " weight="7" />
+      <edge id="34" source=" Miss Lavinia " target=" Francis " weight="1" />
+      <edge id="35" source=" Miss Lavinia " target=" AGNES Miss Agnes " weight="2" />
+      <edge id="36" source=" Miss Lavinia " target=" Clarissa Miss " weight="6" />
+      <edge id="37" source=" Strong Mrs. " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="38" source=" Strong Mrs. " target=" Mr. Jack Maldon " weight="1" />
+      <edge id="39" source=" Strong Mrs. " target=" Mr. Wickfield " weight="1" />
+      <edge id="40" source=" Strong Mrs. " target=" Annie " weight="1" />
+      <edge id="41" source=" Strong Mrs. " target=" Sophy " weight="1" />
+      <edge id="42" source=" Master Copperfield " target=" Mister Copperfield " weight="4" />
+      <edge id="43" source=" Master Copperfield " target=" Micawber MICAWBER Mr. " weight="2" />
+      <edge id="44" source=" Master Copperfield " target=" Micawber MICAWBER Mrs. " weight="2" />
+      <edge id="45" source=" Master Copperfield " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="46" source=" Master Copperfield " target=" Heep Uriah HEEP " weight="25" />
+      <edge id="47" source=" Master Copperfield " target=" Heep Mrs. " weight="1" />
+      <edge id="48" source=" Master Copperfield " target=" Mr. Wickfield " weight="3" />
+      <edge id="49" source=" Master Copperfield " target=" Betsey Trotwood Miss " weight="1" />
+      <edge id="50" source=" Master Copperfield " target=" Tidd Mr. " weight="2" />
+      <edge id="51" source=" Master Copperfield " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="52" source=" Master Copperfield " target=" Annie " weight="1" />
+      <edge id="53" source=" Master Copperfield " target=" John " weight="1" />
+      <edge id="54" source=" Master Copperfield " target=" DAVID COPPERFIELD Copperfield David " weight="3" />
+      <edge id="55" source=" Master Copperfield " target=" AGNES Miss Agnes " weight="4" />
+      <edge id="56" source=" Master Copperfield " target=" Mr. Heep " weight="1" />
+      <edge id="57" source=" Traddles Mrs. " target=" Jones Tom " weight="1" />
+      <edge id="58" source=" Traddles Mrs. " target=" Copperfield Mrs. " weight="1" />
+      <edge id="59" source=" Traddles Mrs. " target=" Thomas Mr. Traddles " weight="1" />
+      <edge id="60" source=" Traddles Mrs. " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="61" source=" Miss Larkins " target=" Bailey " weight="3" />
+      <edge id="62" source=" Miss Larkins " target=" Mr. Copperfield " weight="1" />
+      <edge id="63" source=" Miss Larkins " target=" Mr. Larkins " weight="2" />
+      <edge id="64" source=" Ury " target=" Heep Mrs. " weight="1" />
+      <edge id="65" source=" Ury " target=" Micawber MICAWBER Mr. " weight="1" />
+      <edge id="66" source=" Ury " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="67" source=" Mr. Chillip " target=" Murdstone Mrs. " weight="1" />
+      <edge id="68" source=" Mr. Chillip " target=" Miss Murdstone " weight="1" />
+      <edge id="69" source=" Mr. Chillip " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="70" source=" Mr. Chillip " target=" Omer Mr. OMER " weight="1" />
+      <edge id="71" source=" Mr. Chillip " target=" Mr. Murdstone " weight="1" />
+      <edge id="72" source=" Mr. Chillip " target=" Chillip Mrs. " weight="1" />
+      <edge id="73" source=" Mr. Chillip " target=" Blunderstone " weight="1" />
+      <edge id="74" source=" Mr. Chillip " target=" BARKIS Mr. Barkis " weight="1" />
+      <edge id="75" source=" Gummidge Mrs. " target=" â Dan l " weight="10" />
+      <edge id="76" source=" Gummidge Mrs. " target=" Mr. PEGGOTTY Peggotty " weight="52" />
+      <edge id="77" source=" Gummidge Mrs. " target=" Ham Peggotty " weight="10" />
+      <edge id="78" source=" Gummidge Mrs. " target=" Master Davy " weight="5" />
+      <edge id="79" source=" Gummidge Mrs. " target=" J. Steerforth " weight="2" />
+      <edge id="80" source=" Gummidge Mrs. " target=" Quinion Mr. " weight="1" />
+      <edge id="81" source=" Heep Mrs. " target=" Micawber MICAWBER Mr. " weight="2" />
+      <edge id="82" source=" Heep Mrs. " target=" Mr. Heep " weight="1" />
+      <edge id="83" source=" Heep Mrs. " target=" Heep Uriah HEEP " weight="2" />
+      <edge id="84" source=" Heep Mrs. " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="85" source=" Heep Mrs. " target=" Traddles Tommy " weight="1" />
+      <edge id="86" source=" Heep Mrs. " target=" DAVID COPPERFIELD Copperfield David " weight="2" />
+      <edge id="87" source=" Heep Mrs. " target=" AGNES Miss Agnes " weight="3" />
+      <edge id="88" source=" Chestle Mr. " target=" Mr. Copperfield " weight="1" />
+      <edge id="89" source=" Hamlet " target=" Heep Uriah HEEP " weight="1" />
+      <edge id="90" source=" Hamlet " target=" Waterbrook Mrs. " weight="1" />
+      <edge id="91" source=" Hamlet " target=" Mr. Waterbrook " weight="2" />
+      <edge id="92" source=" Benjamin Thomas " target=" Thomas Mr. Traddles " weight="1" />
+      <edge id="93" source=" Hungerford " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="94" source=" Mr. Steerforth " target=" Mr. PEGGOTTY Peggotty " weight="2" />
+      <edge id="95" source=" Luke St. " target=" Miss Murdstone " weight="1" />
+      <edge id="96" source=" Luke St. " target=" Micawber MICAWBER Mrs. " weight="1" />
+      <edge id="97" source=" Bush " target=" Micawber MICAWBER Mr. " weight="2" />
+      <edge id="98" source=" Bush " target=" Micawber MICAWBER Mrs. " weight="1" />
+      <edge id="99" source=" Bush " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="100" source=" Bush " target=" Master Davy " weight="1" />
+      <edge id="101" source=" Bush " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="102" source=" Walker Mick " target=" Mowcher Miss " weight="1" />
+      <edge id="103" source=" Walker Mick " target=" Quinion Mr. " weight="2" />
+      <edge id="104" source=" Trotwood Betsey Copperfield " target=" Betsey Trotwood Miss " weight="1" />
+      <edge id="105" source=" Trotwood Betsey Copperfield " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="106" source=" Mr. Spiker Henry " target=" Waterbrook Mrs. " weight="1" />
+      <edge id="107" source=" Mr. Spiker Henry " target=" Mr. Gulpidge " weight="4" />
+      <edge id="108" source=" Mr. Spiker Henry " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="109" source=" Edward EDWARD " target=" Jane Murdstone " weight="2" />
+      <edge id="110" source=" Edward EDWARD " target=" Clara Peggotty " weight="1" />
+      <edge id="111" source=" Edward EDWARD " target=" Miss Murdstone " weight="2" />
+      <edge id="112" source=" Mr. Dixon " target=" Thomas Mr. Traddles " weight="1" />
+      <edge id="113" source=" Mr. Dixon " target=" Micawber MICAWBER Mr. " weight="1" />
+      <edge id="114" source=" Mr. Dixon " target=" Mr. Wickfield " weight="1" />
+      <edge id="115" source=" St. Paul " target=" Tiffey Mr. " weight="1" />
+      <edge id="116" source=" St. Paul " target=" Miss Murdstone " weight="1" />
+      <edge id="117" source=" St. Paul " target=" Mr. PEGGOTTY Peggotty " weight="2" />
+      <edge id="118" source=" St. Paul " target=" Heep Uriah HEEP " weight="1" />
+      <edge id="119" source=" St. Paul " target=" Mr. Spenlow " weight="2" />
+      <edge id="120" source=" St. Paul " target=" Dora Miss " weight="2" />
+      <edge id="121" source=" Mr. Larkins " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="122" source=" T. Copperfield " target=" Esquire " weight="2" />
+      <edge id="123" source=" Tiffey Mr. " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="124" source=" Tiffey Mr. " target=" Mr. Spenlow " weight="4" />
+      <edge id="125" source=" Tiffey Mr. " target=" Mr. Jorkins " weight="1" />
+      <edge id="126" source=" Tiffey Mr. " target=" Heep Uriah HEEP " weight="1" />
+      <edge id="127" source=" Tiffey Mr. " target=" Dora Miss " weight="1" />
+      <edge id="128" source=" Tiffey Mr. " target=" Mr. Copperfield " weight="1" />
+      <edge id="129" source=" Joe " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="130" source=" Omer Mr. OMER " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="131" source=" Omer Mr. OMER " target=" DRAPER " weight="1" />
+      <edge id="132" source=" Omer Mr. OMER " target=" Emily " weight="6" />
+      <edge id="133" source=" Omer Mr. OMER " target=" Minnie " weight="5" />
+      <edge id="134" source=" Omer Mr. OMER " target=" BARKIS Mr. Barkis " weight="2" />
+      <edge id="135" source=" Omer Mr. OMER " target=" Mrs. Joram " weight="5" />
+      <edge id="136" source=" Crupp Mrs. " target=" Mr. PEGGOTTY Peggotty " weight="3" />
+      <edge id="137" source=" Crupp Mrs. " target=" Heep Uriah HEEP " weight="1" />
+      <edge id="138" source=" Crupp Mrs. " target=" Mr. Spenlow " weight="1" />
+      <edge id="139" source=" Crupp Mrs. " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="140" source=" Crupp Mrs. " target=" Dora Miss " weight="1" />
+      <edge id="141" source=" Crupp Mrs. " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="142" source=" Crupp Mrs. " target=" J. Steerforth " weight="3" />
+      <edge id="143" source=" Crupp Mrs. " target=" Mr. Copperfull " weight="1" />
+      <edge id="144" source=" Crupp Mrs. " target=" Anne Mary " weight="1" />
+      <edge id="145" source=" Mr. Spenlow " target=" Miss Murdstone " weight="3" />
+      <edge id="146" source=" Mr. Spenlow " target=" Mr. PEGGOTTY Peggotty " weight="2" />
+      <edge id="147" source=" Mr. Spenlow " target=" Heep Uriah HEEP " weight="1" />
+      <edge id="148" source=" Mr. Spenlow " target=" Mr. Jorkins " weight="3" />
+      <edge id="149" source=" Mr. Spenlow " target=" Mr. Murdstone " weight="3" />
+      <edge id="150" source=" Mr. Spenlow " target=" Mills Miss " weight="2" />
+      <edge id="151" source=" Mr. Spenlow " target=" Dora Miss " weight="3" />
+      <edge id="152" source=" Mr. Spenlow " target=" Robinson Crusoe " weight="1" />
+      <edge id="153" source=" Mr. Spenlow " target=" Mr. Copperfield " weight="5" />
+      <edge id="154" source=" Mr. Spenlow " target=" BARKIS Mr. Barkis " weight="1" />
+      <edge id="155" source=" Mr. Spenlow " target=" J. Steerforth " weight="1" />
+      <edge id="156" source=" Mr. Spenlow " target=" Miss Spenlow " weight="1" />
+      <edge id="157" source=" Mr. Spenlow " target=" Traddles Tommy " weight="1" />
+      <edge id="158" source=" Mr. Spenlow " target=" DAVID COPPERFIELD Copperfield David " weight="3" />
+      <edge id="159" source=" Mr. Spenlow " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="160" source=" Wickfield Miss " target=" Micawber MICAWBER Mr. " weight="2" />
+      <edge id="161" source=" Wickfield Miss " target=" Heep Uriah HEEP " weight="2" />
+      <edge id="162" source=" Wickfield Miss " target=" Mr. Wickfield " weight="3" />
+      <edge id="163" source=" Wickfield Miss " target=" Sophy " weight="1" />
+      <edge id="164" source=" Wickfield Miss " target=" DAVID COPPERFIELD Copperfield David " weight="2" />
+      <edge id="165" source=" Wickfield Miss " target=" AGNES Miss Agnes " weight="2" />
+      <edge id="166" source=" Blas Gil " target=" Jones Tom " weight="1" />
+      <edge id="167" source=" Blas Gil " target=" Mr. Creakle " weight="1" />
+      <edge id="168" source=" Blas Gil " target=" Robinson Crusoe " weight="1" />
+      <edge id="169" source=" Mr. Waterbrook " target=" Waterbrook Mrs. " weight="1" />
+      <edge id="170" source=" Charley " target=" Griffin " weight="2" />
+      <edge id="171" source=" James Steerforth " target=" J. Steerforth " weight="1" />
+      <edge id="172" source=" James Steerforth " target=" Dartle Miss " weight="2" />
+      <edge id="173" source=" James Steerforth " target=" Steerforth Mrs. " weight="1" />
+      <edge id="174" source=" Heaven " target=" Micawber MICAWBER Mr. " weight="1" />
+      <edge id="175" source=" Heaven " target=" Chillip Mrs. " weight="1" />
+      <edge id="176" source=" Mowcher Miss " target=" Emily " weight="2" />
+      <edge id="177" source=" Mowcher Miss " target=" Mr. Copperfield " weight="2" />
+      <edge id="178" source=" Mowcher Miss " target=" J. Steerforth " weight="11" />
+      <edge id="179" source=" Janet janet " target=" Miss Murdstone " weight="1" />
+      <edge id="180" source=" Janet janet " target=" Mr. Dick MR. DICK " weight="4" />
+      <edge id="181" source=" Janet janet " target=" Micawber MICAWBER Mr. " weight="1" />
+      <edge id="182" source=" Janet janet " target=" Mr. Murdstone " weight="1" />
+      <edge id="183" source=" Janet janet " target=" J. Steerforth " weight="1" />
+      <edge id="184" source=" Mrs. Joram " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="185" source=" Mrs. Joram " target=" Emily " weight="1" />
+      <edge id="186" source=" Mrs. Joram " target=" Minnie " weight="5" />
+      <edge id="187" source=" Mrs. Joram " target=" Ham Peggotty " weight="1" />
+      <edge id="188" source=" Mrs. Joram " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="189" source=" Mrs. Joram " target=" BARKIS Mr. Barkis " weight="2" />
+      <edge id="190" source=" Mrs. Joram " target=" DRAPER " weight="1" />
+      <edge id="191" source=" Markleham Mrs. " target=" Mr. Dick MR. DICK " weight="2" />
+      <edge id="192" source=" Markleham Mrs. " target=" Mr. Jack Maldon " weight="1" />
+      <edge id="193" source=" Markleham Mrs. " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="194" source=" Markleham Mrs. " target=" Annie " weight="2" />
+      <edge id="195" source=" Crewler Mrs. " target=" Horace " weight="5" />
+      <edge id="196" source=" Crewler Mrs. " target=" Traddles Tommy " weight="2" />
+      <edge id="197" source=" Crewler Mrs. " target=" Sarah Jane " weight="1" />
+      <edge id="198" source=" Waterbrook Mrs. " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="199" source=" Barkis Mrs. " target=" Mr. PEGGOTTY Peggotty " weight="2" />
+      <edge id="200" source=" Barkis Mrs. " target=" BARKIS Mr. Barkis " weight="1" />
+      <edge id="201" source=" Barkis P. C. " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="202" source=" Barkis P. C. " target=" BARKIS Mr. Barkis " weight="1" />
+      <edge id="203" source=" MICAWBER EMMA Emma " target=" Micawber MICAWBER Mr. " weight="2" />
+      <edge id="204" source=" MICAWBER EMMA Emma " target=" Micawber MICAWBER Mrs. " weight="1" />
+      <edge id="205" source=" MICAWBER EMMA Emma " target=" T. Mr. " weight="1" />
+      <edge id="206" source=" MICAWBER EMMA Emma " target=" Mr. Copperfield " weight="2" />
+      <edge id="207" source=" MICAWBER EMMA Emma " target=" Thomas Mr. Traddles " weight="3" />
+      <edge id="208" source=" DRAPER " target=" Mr. Copperfield " weight="1" />
+      <edge id="209" source=" Dora Miss " target=" Micawber MICAWBER Mr. " weight="3" />
+      <edge id="210" source=" Dora Miss " target=" Miss Murdstone " weight="9" />
+      <edge id="211" source=" Dora Miss " target=" Sophy " weight="2" />
+      <edge id="212" source=" Dora Miss " target=" Master Davy " weight="1" />
+      <edge id="213" source=" Dora Miss " target=" Traddles Tommy " weight="1" />
+      <edge id="214" source=" Dora Miss " target=" Anne Mary " weight="1" />
+      <edge id="215" source=" Dora Miss " target=" Mills Julia " weight="4" />
+      <edge id="216" source=" Dora Miss " target=" Emily " weight="2" />
+      <edge id="217" source=" Dora Miss " target=" Mr. Jorkins " weight="1" />
+      <edge id="218" source=" Dora Miss " target=" Jip " weight="5" />
+      <edge id="219" source=" Dora Miss " target=" DAVID COPPERFIELD Copperfield David " weight="2" />
+      <edge id="220" source=" Dora Miss " target=" AGNES Miss Agnes " weight="3" />
+      <edge id="221" source=" Dora Miss " target=" Heep Uriah HEEP " weight="1" />
+      <edge id="222" source=" Dora Miss " target=" Mr. Mills " weight="2" />
+      <edge id="223" source=" Dora Miss " target=" Shakespeare " weight="2" />
+      <edge id="224" source=" Dora Miss " target=" Kidgerbury Mrs. " weight="1" />
+      <edge id="225" source=" Dora Miss " target=" Thomas Mr. Traddles " weight="1" />
+      <edge id="226" source=" Dora Miss " target=" Clarissa Miss " weight="2" />
+      <edge id="227" source=" Dora Miss " target=" Mr. PEGGOTTY Peggotty " weight="3" />
+      <edge id="228" source=" Dora Miss " target=" Mills Miss " weight="4" />
+      <edge id="229" source=" Dora Miss " target=" Betsey Trotwood Miss " weight="1" />
+      <edge id="230" source=" Dora Miss " target=" Mr. Dick MR. DICK " weight="2" />
+      <edge id="231" source=" Dora Miss " target=" Francis " weight="2" />
+      <edge id="232" source=" Dora Miss " target=" Mr. Copperfield " weight="3" />
+      <edge id="233" source=" MELL Mell Mrs. " target=" Mr. Mell " weight="1" />
+      <edge id="234" source=" MELL Mell Mrs. " target=" Micawber MICAWBER Mrs. " weight="1" />
+      <edge id="235" source=" Grinby " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="236" source=" Grinby " target=" Quinion Mr. " weight="1" />
+      <edge id="237" source=" Grinby " target=" Mr. Murdstone " weight="1" />
+      <edge id="238" source=" Grinby " target=" Mr. Wickfield " weight="1" />
+      <edge id="239" source=" Grinby " target=" Miss Murdstone " weight="3" />
+      <edge id="240" source=" Spiker Mrs. Henry " target=" Traddles Tommy " weight="1" />
+      <edge id="241" source=" Spiker Mrs. Henry " target=" Mr. Copperfield " weight="1" />
+      <edge id="242" source=" Heep Uriah HEEP " target=" Micawber MICAWBER Mr. " weight="36" />
+      <edge id="243" source=" Heep Uriah HEEP " target=" Mr. Wickfield " weight="23" />
+      <edge id="244" source=" Heep Uriah HEEP " target=" Mister Copperfield " weight="4" />
+      <edge id="245" source=" Heep Uriah HEEP " target=" Mr. Heep " weight="2" />
+      <edge id="246" source=" Heep Uriah HEEP " target=" Micawber MICAWBER Mrs. " weight="3" />
+      <edge id="247" source=" Heep Uriah HEEP " target=" Littimer Mr. " weight="1" />
+      <edge id="248" source=" Heep Uriah HEEP " target=" DAVID COPPERFIELD Copperfield David " weight="5" />
+      <edge id="249" source=" Heep Uriah HEEP " target=" AGNES Miss Agnes " weight="20" />
+      <edge id="250" source=" Heep Uriah HEEP " target=" Mr. Jack Maldon " weight="3" />
+      <edge id="251" source=" Heep Uriah HEEP " target=" Mr. Creakle " weight="1" />
+      <edge id="252" source=" Heep Uriah HEEP " target=" Tidd Mr. " weight="3" />
+      <edge id="253" source=" Heep Uriah HEEP " target=" Traddles Tommy " weight="1" />
+      <edge id="254" source=" Heep Uriah HEEP " target=" W. Mr. " weight="5" />
+      <edge id="255" source=" Heep Uriah HEEP " target=" Thomas Mr. Traddles " weight="3" />
+      <edge id="256" source=" Heep Uriah HEEP " target=" Wickfield Agnes " weight="1" />
+      <edge id="257" source=" Heep Uriah HEEP " target=" Mr. PEGGOTTY Peggotty " weight="1" />
+      <edge id="258" source=" Heep Uriah HEEP " target=" Betsey Trotwood Miss " weight="1" />
+      <edge id="259" source=" Heep Uriah HEEP " target=" Mr. Dick MR. DICK " weight="3" />
+      <edge id="260" source=" Heep Uriah HEEP " target=" Mr. Copperfield " weight="3" />
+      <edge id="261" source=" Mr. Mills " target=" Mills Miss " weight="1" />
+      <edge id="262" source=" Mr. Mills " target=" Jip " weight="1" />
+      <edge id="263" source=" Mr. Mills " target=" Mills Julia " weight="1" />
+      <edge id="264" source=" Horace " target=" Traddles Tommy " weight="1" />
+      <edge id="265" source=" Horace " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="266" source=" Horace " target=" Sophy " weight="2" />
+      <edge id="267" source=" Mr. Creakle " target=" Mr. Mell " weight="3" />
+      <edge id="268" source=" Mr. Creakle " target=" Creakle Mrs. " weight="1" />
+      <edge id="269" source=" Mr. Creakle " target=" Steerforth Mrs. " weight="1" />
+      <edge id="270" source=" Mr. Creakle " target="#N/A" weight="1" />
+      <edge id="271" source=" Mr. Creakle " target=" Sharp Mr. " weight="3" />
+      <edge id="272" source=" Mr. Creakle " target=" Tungay " weight="9" />
+      <edge id="273" source=" Mr. Creakle " target=" Creakle Miss " weight="2" />
+      <edge id="274" source=" Mr. Creakle " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="275" source=" Mr. Creakle " target=" Mr. Copperfield " weight="1" />
+      <edge id="276" source=" Mr. Creakle " target=" J. Steerforth " weight="7" />
+      <edge id="277" source=" Mr. Creakle " target=" Traddles Tommy " weight="2" />
+      <edge id="278" source=" Thomas Mr. Traddles " target=" Micawber MICAWBER Mr. " weight="7" />
+      <edge id="279" source=" Thomas Mr. Traddles " target=" Micawber MICAWBER Mrs. " weight="2" />
+      <edge id="280" source=" Thomas Mr. Traddles " target=" Copperfield Mrs. " weight="1" />
+      <edge id="281" source=" Thomas Mr. Traddles " target=" Mr. Wickfield " weight="1" />
+      <edge id="282" source=" Thomas Mr. Traddles " target=" T. Mr. " weight="1" />
+      <edge id="283" source=" Thomas Mr. Traddles " target=" Mr. Dick MR. DICK " weight="1" />
+      <edge id="284" source=" Thomas Mr. Traddles " target=" Traddles Tommy " weight="1" />
+      <edge id="285" source=" Thomas Mr. Traddles " target=" Jip " weight="2" />
+      <edge id="286" source=" Thomas Mr. Traddles " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="287" source=" Thomas Mr. Traddles " target=" Mr. Copperfield " weight="4" />
+      <edge id="288" source=" Micawber Master " target=" Micawber MICAWBER Mrs. " weight="1" />
+      <edge id="289" source=" Micawber Master " target=" Micawber Miss " weight="1" />
+      <edge id="290" source=" Grainger " target=" Markham " weight="3" />
+      <edge id="291" source=" Grainger " target=" J. Steerforth " weight="1" />
+      <edge id="292" source=" Mr. PEGGOTTY Peggotty " target=" Micawber MICAWBER Mr. " weight="9" />
+      <edge id="293" source=" Mr. PEGGOTTY Peggotty " target=" Miss Murdstone " weight="7" />
+      <edge id="294" source=" Mr. PEGGOTTY Peggotty " target=" Mr. Wickfield " weight="1" />
+      <edge id="295" source=" Mr. PEGGOTTY Peggotty " target=" Master Davy " weight="26" />
+      <edge id="296" source=" Mr. PEGGOTTY Peggotty " target=" Blunderstone " weight="3" />
+      <edge id="297" source=" Mr. PEGGOTTY Peggotty " target=" Micawber MICAWBER Mrs. " weight="1" />
+      <edge id="298" source=" Mr. PEGGOTTY Peggotty " target=" Steerforth Mrs. " weight="4" />
+      <edge id="299" source=" Mr. PEGGOTTY Peggotty " target=" Emily " weight="10" />
+      <edge id="300" source=" Mr. PEGGOTTY Peggotty " target=" Mr. Murdstone " weight="3" />
+      <edge id="301" source=" Mr. PEGGOTTY Peggotty " target=" Mr. Jorkins " weight="1" />
+      <edge id="302" source=" Mr. PEGGOTTY Peggotty " target=" Betsey Trotwood Miss " weight="1" />
+      <edge id="303" source=" Mr. PEGGOTTY Peggotty " target=" BARKIS Mr. Barkis " weight="12" />
+      <edge id="304" source=" Mr. PEGGOTTY Peggotty " target=" Dartle Miss " weight="2" />
+      <edge id="305" source=" Mr. PEGGOTTY Peggotty " target=" AGNES Miss Agnes " weight="10" />
+      <edge id="306" source=" Mr. PEGGOTTY Peggotty " target=" â Dan l " weight="1" />
+      <edge id="307" source=" Mr. PEGGOTTY Peggotty " target=" Sarah Jane " weight="1" />
+      <edge id="308" source=" Mr. PEGGOTTY Peggotty " target=" Ham Peggotty " weight="26" />
+      <edge id="309" source=" Mr. PEGGOTTY Peggotty " target=" Tidd Mr. " weight="1" />
+      <edge id="310" source=" Mr. PEGGOTTY Peggotty " target=" J. Steerforth " weight="4" />
+      <edge id="311" source=" Mr. PEGGOTTY Peggotty " target=" Gummidge Missis " weight="3" />
+      <edge id="312" source=" Mr. PEGGOTTY Peggotty " target=" Gravesen " weight="1" />
+      <edge id="313" source=" Mr. PEGGOTTY Peggotty " target=" Mr. Mell " weight="1" />
+      <edge id="314" source=" Mr. PEGGOTTY Peggotty " target=" Copperfield Mrs. " weight="1" />
+      <edge id="315" source=" Mr. PEGGOTTY Peggotty " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="316" source=" Mr. PEGGOTTY Peggotty " target=" Mr. Dick MR. DICK " weight="4" />
+      <edge id="317" source=" Mr. PEGGOTTY Peggotty " target=" Mr. Copperfield " weight="3" />
+      <edge id="318" source=" Mr. Dick MR. DICK " target=" Micawber MICAWBER Mr. " weight="6" />
+      <edge id="319" source=" Mr. Dick MR. DICK " target=" Mr. Wickfield " weight="1" />
+      <edge id="320" source=" Mr. Dick MR. DICK " target=" Mr. Murdstone " weight="1" />
+      <edge id="321" source=" Mr. Dick MR. DICK " target=" BARKIS Mr. Barkis " weight="1" />
+      <edge id="322" source=" Mr. Dick MR. DICK " target=" DAVID COPPERFIELD Copperfield David " weight="4" />
+      <edge id="323" source=" Mr. Dick MR. DICK " target=" AGNES Miss Agnes " weight="2" />
+      <edge id="324" source=" Mr. Dick MR. DICK " target=" Charles " weight="1" />
+      <edge id="325" source=" Mr. Dick MR. DICK " target=" Traddles Tommy " weight="8" />
+      <edge id="326" source=" Mr. Dick MR. DICK " target=" Betsey Trotwood Miss " weight="3" />
+      <edge id="327" source=" Mr. Dick MR. DICK " target=" Mr. Copperfull " weight="1" />
+      <edge id="328" source=" Mr. Dick MR. DICK " target=" Annie " weight="1" />
+      <edge id="329" source=" Mr. Copperfield " target=" Markham " weight="1" />
+      <edge id="330" source=" Mr. Copperfield " target=" Micawber MICAWBER Mr. " weight="25" />
+      <edge id="331" source=" Mr. Copperfield " target=" Miss Murdstone " weight="2" />
+      <edge id="332" source=" Mr. Copperfield " target=" Mills Miss " weight="4" />
+      <edge id="333" source=" Mr. Copperfield " target=" Micawber MICAWBER Mrs. " weight="5" />
+      <edge id="334" source=" Mr. Copperfield " target=" Littimer Mr. " weight="1" />
+      <edge id="335" source=" Mr. Copperfield " target=" Mr. Murdstone " weight="1" />
+      <edge id="336" source=" Mr. Copperfield " target=" Mr. Jorkins " weight="2" />
+      <edge id="337" source=" Mr. Copperfield " target=" BARKIS Mr. Barkis " weight="1" />
+      <edge id="338" source=" Mr. Copperfield " target=" James Mr. " weight="1" />
+      <edge id="339" source=" Mr. Copperfield " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="340" source=" Mr. Copperfield " target=" Polly " weight="1" />
+      <edge id="341" source=" Mr. Copperfield " target=" J. Steerforth " weight="4" />
+      <edge id="342" source=" Mr. Copperfield " target=" Traddles Tommy " weight="1" />
+      <edge id="343" source=" Mr. Copperfield " target=" Dartle Rosa " weight="2" />
+      <edge id="344" source=" Mr. Copperfield " target=" Clarissa Miss " weight="4" />
+      <edge id="345" source=" Mr. Copperfield " target=" Tungay " weight="1" />
+      <edge id="346" source=" Micawber MICAWBER Mr. " target=" Mr. Jack Maldon " weight="1" />
+      <edge id="347" source=" Micawber MICAWBER Mr. " target=" Mr. Wickfield " weight="6" />
+      <edge id="348" source=" Micawber MICAWBER Mr. " target=" Dobbin " weight="1" />
+      <edge id="349" source=" Micawber MICAWBER Mr. " target=" Mr. Heep " weight="1" />
+      <edge id="350" source=" Micawber MICAWBER Mr. " target=" Micawber MICAWBER Mrs. " weight="104" />
+      <edge id="351" source=" Micawber MICAWBER Mr. " target=" Littimer Mr. " weight="1" />
+      <edge id="352" source=" Micawber MICAWBER Mr. " target=" Mr. Murdstone " weight="1" />
+      <edge id="353" source=" Micawber MICAWBER Mr. " target=" DAVID COPPERFIELD Copperfield David " weight="13" />
+      <edge id="354" source=" Micawber MICAWBER Mr. " target=" AGNES Miss Agnes " weight="2" />
+      <edge id="355" source=" Micawber MICAWBER Mr. " target=" Hopkins " weight="3" />
+      <edge id="356" source=" Micawber MICAWBER Mr. " target=" J. Steerforth " weight="1" />
+      <edge id="357" source=" Micawber MICAWBER Mr. " target=" Traddles Tommy " weight="10" />
+      <edge id="358" source=" Micawber MICAWBER Mr. " target=" W. Mr. " weight="2" />
+      <edge id="359" source=" Micawber MICAWBER Mr. " target=" Quinion Mr. " weight="1" />
+      <edge id="360" source=" Micawber MICAWBER Mr. " target=" Micawber Miss " weight="1" />
+      <edge id="361" source=" Mr. Wickfield " target=" Mr. Jack Maldon " weight="5" />
+      <edge id="362" source=" Mr. Wickfield " target=" Mr. Heep " weight="2" />
+      <edge id="363" source=" Mr. Wickfield " target=" Watts " weight="1" />
+      <edge id="364" source=" Mr. Wickfield " target=" AGNES Miss Agnes " weight="22" />
+      <edge id="365" source=" Mr. Wickfield " target=" Miss Murdstone " weight="1" />
+      <edge id="366" source=" Mr. Wickfield " target=" Traddles Tommy " weight="1" />
+      <edge id="367" source=" Mr. Wickfield " target=" DAVID COPPERFIELD Copperfield David " weight="2" />
+      <edge id="368" source=" Mr. Wickfield " target=" Annie " weight="1" />
+      <edge id="369" source=" Traddles Tommy " target=" Mr. Mell " weight="1" />
+      <edge id="370" source=" Traddles Tommy " target=" Micawber MICAWBER Mrs. " weight="3" />
+      <edge id="371" source=" Traddles Tommy " target=" Sophy " weight="7" />
+      <edge id="372" source=" Traddles Tommy " target=" J. Steerforth " weight="1" />
+      <edge id="373" source=" Traddles Tommy " target=" DAVID COPPERFIELD Copperfield David " weight="3" />
+      <edge id="374" source=" Traddles Tommy " target=" AGNES Miss Agnes " weight="2" />
+      <edge id="375" source=" Traddles Tommy " target=" Sarah Jane " weight="1" />
+      <edge id="376" source=" Mister Copperfield " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="377" source=" Dobbin " target=" Micawber MICAWBER Mrs. " weight="2" />
+      <edge id="378" source=" Aye " target=" Emily " weight="1" />
+      <edge id="379" source=" Aye " target=" J. Steerforth " weight="1" />
+      <edge id="380" source=" Mr. Heep " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="381" source=" Mr. Heep " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="382" source=" Steerforth Mrs. " target=" Littimer Mr. " weight="1" />
+      <edge id="383" source=" Steerforth Mrs. " target=" J. Steerforth " weight="4" />
+      <edge id="384" source=" Steerforth Mrs. " target=" Dartle Miss " weight="3" />
+      <edge id="385" source=" Steerforth Mrs. " target=" Dartle Rosa " weight="13" />
+      <edge id="386" source=" Steerforth Mrs. " target=" AGNES Miss Agnes " weight="3" />
+      <edge id="387" source=" Gummidge Missis " target=" Master Davy " weight="1" />
+      <edge id="388" source=" BARKIS Mr. Barkis " target=" Clara Peggotty " weight="2" />
+      <edge id="389" source=" BARKIS Mr. Barkis " target=" Ham Peggotty " weight="2" />
+      <edge id="390" source=" BARKIS Mr. Barkis " target=" Emily " weight="1" />
+      <edge id="391" source=" BARKIS Mr. Barkis " target=" Minnie " weight="1" />
+      <edge id="392" source=" BARKIS Mr. Barkis " target=" Master Davy " weight="1" />
+      <edge id="393" source=" BARKIS Mr. Barkis " target=" J. Steerforth " weight="2" />
+      <edge id="394" source=" BARKIS Mr. Barkis " target=" Blunderstone " weight="1" />
+      <edge id="395" source=" BARKIS Mr. Barkis " target=" Betsey Trotwood Miss " weight="1" />
+      <edge id="396" source=" BARKIS Mr. Barkis " target=" Miss Murdstone " weight="1" />
+      <edge id="397" source=" Jip " target=" Miss Murdstone " weight="4" />
+      <edge id="398" source=" Jip " target=" Mills Miss " weight="1" />
+      <edge id="399" source=" Jip " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="400" source=" Jip " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="401" source=" Gravesen " target=" Master Davy " weight="2" />
+      <edge id="402" source=" Lincoln " target=" J. Steerforth " weight="1" />
+      <edge id="403" source=" Mr. Mell " target=" Miss Murdstone " weight="1" />
+      <edge id="404" source=" Mr. Mell " target=" Sharp Mr. " weight="5" />
+      <edge id="405" source=" Mr. Mell " target=" Tungay " weight="1" />
+      <edge id="406" source=" Mr. Mell " target=" J. Steerforth " weight="2" />
+      <edge id="407" source=" Mr. Mell " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="408" source=" Jones Tom " target=" Littimer Mr. " weight="1" />
+      <edge id="409" source=" Jones Tom " target=" Sophy " weight="2" />
+      <edge id="410" source=" Jones Tom " target=" Robinson Crusoe " weight="1" />
+      <edge id="411" source=" Jones Tom " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="412" source=" Shakespeare " target=" Markham " weight="1" />
+      <edge id="413" source=" Shakespeare " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="414" source=" Miss Spenlow " target=" Mills Miss " weight="1" />
+      <edge id="415" source=" Miss Spenlow " target=" Miss Murdstone " weight="1" />
+      <edge id="416" source=" Clarissa Miss " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="417" source=" Clarissa Miss " target=" Francis " weight="1" />
+      <edge id="418" source=" Mills Miss " target=" Miss Murdstone " weight="1" />
+      <edge id="419" source=" Mills Miss " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="420" source=" Betsey Trotwood Miss " target=" Master Davy " weight="1" />
+      <edge id="421" source=" Betsey Trotwood Miss " target=" Clara Peggotty " weight="1" />
+      <edge id="422" source=" Betsey Trotwood Miss " target=" Miss Murdstone " weight="2" />
+      <edge id="423" source=" Betsey Trotwood Miss " target=" Mr. Murdstone " weight="3" />
+      <edge id="424" source=" Betsey Trotwood Miss " target=" Ham Peggotty " weight="2" />
+      <edge id="425" source=" Betsey Trotwood Miss " target=" Trot " weight="1" />
+      <edge id="426" source=" Betsey Trotwood Miss " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="427" source=" Betsey Trotwood Miss " target=" AGNES Miss Agnes " weight="2" />
+      <edge id="428" source=" Chillip Mrs. " target=" Mr. Murdstone " weight="1" />
+      <edge id="429" source=" Trot " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="430" source=" Annie " target=" Mr. Jack Maldon " weight="6" />
+      <edge id="431" source=" Annie " target=" Charles " weight="1" />
+      <edge id="432" source=" Annie " target=" John " weight="1" />
+      <edge id="433" source=" Annie " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="434" source=" Annie " target=" AGNES Miss Agnes " weight="4" />
+      <edge id="435" source=" Markham " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="436" source=" Markham " target=" J. Steerforth " weight="1" />
+      <edge id="437" source=" Miss Murdstone " target=" Jane Murdstone " weight="1" />
+      <edge id="438" source=" Miss Murdstone " target=" Master Davy " weight="1" />
+      <edge id="439" source=" Miss Murdstone " target=" Micawber MICAWBER Mrs. " weight="1" />
+      <edge id="440" source=" Miss Murdstone " target=" Mr. Murdstone " weight="9" />
+      <edge id="441" source=" Miss Murdstone " target=" DAVID COPPERFIELD Copperfield David " weight="3" />
+      <edge id="442" source=" Miss Murdstone " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="443" source=" Miss Murdstone " target=" Clara Peggotty " weight="7" />
+      <edge id="444" source=" Miss Murdstone " target=" Quinion Mr. " weight="1" />
+      <edge id="445" source=" Jane Murdstone " target=" Clara Peggotty " weight="2" />
+      <edge id="446" source=" Jane Murdstone " target=" Mr. Murdstone " weight="3" />
+      <edge id="447" source=" Jane Murdstone " target=" Master Davy " weight="2" />
+      <edge id="448" source=" Jane Murdstone " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="449" source=" Sophy " target=" Sarah Jane " weight="3" />
+      <edge id="450" source=" Sophy " target=" DAVID COPPERFIELD Copperfield David " weight="7" />
+      <edge id="451" source=" Master Davy " target=" Emily " weight="1" />
+      <edge id="452" source=" Master Davy " target=" J. Steerforth " weight="1" />
+      <edge id="453" source=" Master Davy " target=" Mr. Murdstone " weight="2" />
+      <edge id="454" source=" Master Davy " target=" Ham Peggotty " weight="3" />
+      <edge id="455" source=" Master Davy " target=" AGNES Miss Agnes " weight="2" />
+      <edge id="456" source=" Blunderstone " target=" J. Steerforth " weight="1" />
+      <edge id="457" source=" Clara Peggotty " target=" Mr. Murdstone " weight="6" />
+      <edge id="458" source=" Clara Peggotty " target=" DAVID COPPERFIELD Copperfield David " weight="1" />
+      <edge id="459" source=" Mills Julia " target=" Mr. Jack Maldon " weight="1" />
+      <edge id="460" source=" Micawber MICAWBER Mrs. " target=" Hopkins " weight="1" />
+      <edge id="461" source=" Micawber MICAWBER Mrs. " target=" J. Steerforth " weight="1" />
+      <edge id="462" source=" Micawber MICAWBER Mrs. " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="463" source=" Micawber MICAWBER Mrs. " target=" Micawber Miss " weight="2" />
+      <edge id="464" source=" Micawber MICAWBER Mrs. " target=" W. Mr. " weight="1" />
+      <edge id="465" source=" Micawber MICAWBER Mrs. " target=" DAVID COPPERFIELD Copperfield David " weight="11" />
+      <edge id="466" source=" Littimer Mr. " target=" Dartle Miss " weight="1" />
+      <edge id="467" source=" Littimer Mr. " target=" James Mr. " weight="2" />
+      <edge id="468" source=" Emily " target=" Minnie " weight="1" />
+      <edge id="469" source=" Emily " target=" Ham Peggotty " weight="1" />
+      <edge id="470" source=" Emily " target=" Dartle Miss " weight="1" />
+      <edge id="471" source=" Emily " target=" Dartle Rosa " weight="1" />
+      <edge id="472" source=" Emily " target=" AGNES Miss Agnes " weight="1" />
+      <edge id="473" source=" Mr. Murdstone " target=" Mr. Brooks " weight="4" />
+      <edge id="474" source=" Mr. Murdstone " target=" Quinion Mr. " weight="4" />
+      <edge id="475" source=" Mr. Murdstone " target=" DAVID COPPERFIELD Copperfield David " weight="4" />
+      <edge id="476" source=" Mr. Jorkins " target=" J. Steerforth " weight="1" />
+      <edge id="477" source=" Mr. Jorkins " target=" DAVID COPPERFIELD Copperfield David " weight="4" />
+      <edge id="478" source=" Dartle Miss " target=" J. Steerforth " weight="4" />
+      <edge id="479" source=" Dartle Miss " target=" Dartle Rosa " weight="2" />
+      <edge id="480" source=" Dartle Miss " target=" James Mr. " weight="4" />
+      <edge id="481" source=" DAVID COPPERFIELD Copperfield David " target=" Quinion Mr. " weight="1" />
+      <edge id="482" source=" DAVID COPPERFIELD Copperfield David " target=" AGNES Miss Agnes " weight="3" />
+      <edge id="483" source=" DAVID COPPERFIELD Copperfield David " target=" Dora Spenlow " weight="1" />
+      <edge id="484" source=" DAVID COPPERFIELD Copperfield David " target=" Mr. Jack Maldon " weight="1" />
+      <edge id="485" source=" DAVID COPPERFIELD Copperfield David " target=" Creakle Mrs. " weight="1" />
+      <edge id="486" source=" DAVID COPPERFIELD Copperfield David " target=" J. Steerforth " weight="3" />
+      <edge id="487" source=" DAVID COPPERFIELD Copperfield David " target=" Sharp Mr. " weight="2" />
+      <edge id="488" source=" AGNES Miss Agnes " target=" Mr. Jack Maldon " weight="2" />
+      <edge id="489" source=" AGNES Miss Agnes " target=" J. Steerforth " weight="4" />
+      <edge id="490" source=" â Dan l " target=" Ham Peggotty " weight="1" />
+      <edge id="491" source=" Mr. Jack Maldon " target=" Adams " weight="1" />
+      <edge id="492" source=" Creakle Mrs. " target=" J. Steerforth " weight="1" />
+      <edge id="493" source=" Ham Peggotty " target=" J. Steerforth " weight="2" />
+      <edge id="494" source=" J. Steerforth " target=" Dartle Rosa " weight="2" />
+      <edge id="495" source=" J. Steerforth " target=" Creakle Miss " weight="1" />
+      <edge id="496" source=" J. Steerforth " target=" Sharp Mr. " weight="2" />
+      <edge id="497" source=" J. Steerforth " target=" Esquire " weight="1" />
+      <edge id="498" source=" Mr. Brooks " target=" Quinion Mr. " weight="2" />
+    </edges>
+  </graph>
+</gexf>

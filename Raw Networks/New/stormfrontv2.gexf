@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Rodriguez Susan " label=" Rodriguez Susan " />
+      <node id=" Paula " label=" Paula " />
+      <node id=" Gimpy Lawrence " label=" Gimpy Lawrence " />
+      <node id=" Stanton Jennifer " label=" Stanton Jennifer " />
+      <node id=" Hendricks Mister " label=" Hendricks Mister " />
+      <node id=" Murph " label=" Murph " />
+      <node id=" Jen " label=" Jen " />
+      <node id=" McAnally " label=" McAnally " />
+      <node id=" Tomm Tommy " label=" Tomm Tommy " />
+      <node id=" Ron " label=" Ron " />
+      <node id=" Linda Randall " label=" Linda Randall " />
+      <node id=" Mr. Dresden " label=" Mr. Dresden " />
+      <node id=" Mike " label=" Mike " />
+      <node id=" Monica Sells " label=" Monica Sells " />
+      <node id=" Morgan " label=" Morgan " />
+      <node id=" Marcone Johnny " label=" Marcone Johnny " />
+      <node id=" Billy " label=" Billy " />
+      <node id=" Dresden Mister " label=" Dresden Mister " />
+      <node id=" Monica No-Last-Name " label=" Monica No-Last-Name " />
+      <node id=" Sells Jenny " label=" Sells Jenny " />
+      <node id=" Bob " label=" Bob " />
+      <node id=" Randall Miss " label=" Randall Miss " />
+      <node id=" Vic " label=" Vic " />
+      <node id=" Kalshazzak " label=" Kalshazzak " />
+      <node id=" Beckitt Mrs. " label=" Beckitt Mrs. " />
+      <node id=" Hendricks Mr. " label=" Hendricks Mr. " />
+      <node id=" Bianca " label=" Bianca " />
+      <node id=" Sells Victor " label=" Sells Victor " />
+      <node id=" Spike " label=" Spike " />
+      <node id=" Carmichael " label=" Carmichael " />
+      <node id=" Blackstone Dresden Copperfield Harry " label=" Blackstone Dresden Copperfield Harry " />
+      <node id=" George " label=" George " />
+      <node id=" MURPHY Murphy Karrin " label=" MURPHY Murphy Karrin " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Rodriguez Susan " target=" Morgan " weight="1" />
+      <edge id="1" source=" Rodriguez Susan " target=" Linda Randall " weight="2" />
+      <edge id="2" source=" Rodriguez Susan " target=" Sells Jenny " weight="1" />
+      <edge id="3" source=" Rodriguez Susan " target=" Blackstone Dresden Copperfield Harry " weight="4" />
+      <edge id="4" source=" Rodriguez Susan " target=" MURPHY Murphy Karrin " weight="1" />
+      <edge id="5" source=" Paula " target=" Bianca " weight="7" />
+      <edge id="6" source=" Gimpy Lawrence " target=" Marcone Johnny " weight="4" />
+      <edge id="7" source=" Gimpy Lawrence " target=" Hendricks Mister " weight="1" />
+      <edge id="8" source=" Gimpy Lawrence " target=" Spike " weight="1" />
+      <edge id="9" source=" Stanton Jennifer " target=" Tomm Tommy " weight="18" />
+      <edge id="10" source=" Stanton Jennifer " target=" Bianca " weight="1" />
+      <edge id="11" source=" Stanton Jennifer " target=" Monica No-Last-Name " weight="1" />
+      <edge id="12" source=" Stanton Jennifer " target=" Sells Victor " weight="1" />
+      <edge id="13" source=" Stanton Jennifer " target=" Randall Miss " weight="1" />
+      <edge id="14" source=" Stanton Jennifer " target=" Linda Randall " weight="4" />
+      <edge id="15" source=" Stanton Jennifer " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="16" source=" Stanton Jennifer " target=" Marcone Johnny " weight="2" />
+      <edge id="17" source=" Stanton Jennifer " target=" MURPHY Murphy Karrin " weight="2" />
+      <edge id="18" source=" Hendricks Mister " target=" Spike " weight="2" />
+      <edge id="19" source=" Hendricks Mister " target=" Marcone Johnny " weight="2" />
+      <edge id="20" source=" Murph " target=" Bianca " weight="1" />
+      <edge id="21" source=" Murph " target=" MURPHY Murphy Karrin " weight="1" />
+      <edge id="22" source=" Jen " target=" Tomm Tommy " weight="1" />
+      <edge id="23" source=" Jen " target=" Bianca " weight="1" />
+      <edge id="24" source=" McAnally " target=" Monica Sells " weight="1" />
+      <edge id="25" source=" Tomm Tommy " target=" Sells Jenny " weight="1" />
+      <edge id="26" source=" Tomm Tommy " target=" Bianca " weight="1" />
+      <edge id="27" source=" Tomm Tommy " target=" Monica No-Last-Name " weight="1" />
+      <edge id="28" source=" Tomm Tommy " target=" Sells Victor " weight="1" />
+      <edge id="29" source=" Tomm Tommy " target=" Linda Randall " weight="5" />
+      <edge id="30" source=" Tomm Tommy " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="31" source=" Tomm Tommy " target=" Marcone Johnny " weight="1" />
+      <edge id="32" source=" Tomm Tommy " target=" MURPHY Murphy Karrin " weight="2" />
+      <edge id="33" source=" Ron " target=" Carmichael " weight="1" />
+      <edge id="34" source=" Ron " target=" MURPHY Murphy Karrin " weight="1" />
+      <edge id="35" source=" Linda Randall " target=" Bianca " weight="2" />
+      <edge id="36" source=" Linda Randall " target=" Sells Jenny " weight="1" />
+      <edge id="37" source=" Linda Randall " target=" Sells Victor " weight="2" />
+      <edge id="38" source=" Linda Randall " target=" Carmichael " weight="1" />
+      <edge id="39" source=" Linda Randall " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="40" source=" Linda Randall " target=" Marcone Johnny " weight="1" />
+      <edge id="41" source=" Linda Randall " target=" Beckitt Mrs. " weight="2" />
+      <edge id="42" source=" Linda Randall " target=" MURPHY Murphy Karrin " weight="10" />
+      <edge id="43" source=" Mr. Dresden " target=" Monica No-Last-Name " weight="4" />
+      <edge id="44" source=" Mr. Dresden " target=" Sells Victor " weight="1" />
+      <edge id="45" source=" Mr. Dresden " target=" Mike " weight="1" />
+      <edge id="46" source=" Mr. Dresden " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="47" source=" Mr. Dresden " target=" Marcone Johnny " weight="3" />
+      <edge id="48" source=" Mr. Dresden " target=" MURPHY Murphy Karrin " weight="1" />
+      <edge id="49" source=" Mike " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="50" source=" Monica Sells " target=" Morgan " weight="1" />
+      <edge id="51" source=" Monica Sells " target=" Monica No-Last-Name " weight="1" />
+      <edge id="52" source=" Monica Sells " target=" Sells Victor " weight="1" />
+      <edge id="53" source=" Morgan " target=" Bianca " weight="1" />
+      <edge id="54" source=" Morgan " target=" Sells Victor " weight="1" />
+      <edge id="55" source=" Morgan " target=" MURPHY Murphy Karrin " weight="1" />
+      <edge id="56" source=" Marcone Johnny " target=" Spike " weight="3" />
+      <edge id="57" source=" Marcone Johnny " target=" Hendricks Mr. " weight="1" />
+      <edge id="58" source=" Marcone Johnny " target=" Dresden Mister " weight="1" />
+      <edge id="59" source=" Marcone Johnny " target=" Bianca " weight="1" />
+      <edge id="60" source=" Marcone Johnny " target=" Sells Jenny " weight="3" />
+      <edge id="61" source=" Marcone Johnny " target=" Sells Victor " weight="2" />
+      <edge id="62" source=" Marcone Johnny " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="63" source=" Marcone Johnny " target=" MURPHY Murphy Karrin " weight="1" />
+      <edge id="64" source=" Billy " target=" Sells Jenny " weight="1" />
+      <edge id="65" source=" Billy " target=" Sells Victor " weight="1" />
+      <edge id="66" source=" Monica No-Last-Name " target=" Sells Jenny " weight="1" />
+      <edge id="67" source=" Monica No-Last-Name " target=" Sells Victor " weight="3" />
+      <edge id="68" source=" Monica No-Last-Name " target=" Blackstone Dresden Copperfield Harry " weight="3" />
+      <edge id="69" source=" Monica No-Last-Name " target=" George " weight="1" />
+      <edge id="70" source=" Sells Jenny " target=" Sells Victor " weight="1" />
+      <edge id="71" source=" Sells Jenny " target=" MURPHY Murphy Karrin " weight="2" />
+      <edge id="72" source=" Bob " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="73" source=" Randall Miss " target=" MURPHY Murphy Karrin " weight="1" />
+      <edge id="74" source=" Vic " target=" Sells Victor " weight="1" />
+      <edge id="75" source=" Kalshazzak " target=" Sells Victor " weight="1" />
+      <edge id="76" source=" Hendricks Mr. " target=" Spike " weight="1" />
+      <edge id="77" source=" Bianca " target=" Carmichael " weight="1" />
+      <edge id="78" source=" Bianca " target=" George " weight="1" />
+      <edge id="79" source=" Bianca " target=" MURPHY Murphy Karrin " weight="7" />
+      <edge id="80" source=" Sells Victor " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="81" source=" Sells Victor " target=" MURPHY Murphy Karrin " weight="1" />
+      <edge id="82" source=" Carmichael " target=" Blackstone Dresden Copperfield Harry " weight="1" />
+      <edge id="83" source=" Carmichael " target=" MURPHY Murphy Karrin " weight="10" />
+      <edge id="84" source=" Blackstone Dresden Copperfield Harry " target=" MURPHY Murphy Karrin " weight="6" />
+    </edges>
+  </graph>
+</gexf>

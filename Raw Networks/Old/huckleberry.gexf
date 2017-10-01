@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Edmund Kean " label=" Edmund Kean " />
+      <node id=" Jack " label=" Jack " />
+      <node id=" Peter Wilks " label=" Peter Wilks " />
+      <node id=" Juliet " label=" Juliet " />
+      <node id=" Sawyer Tom " label=" Sawyer Tom " />
+      <node id=" Douglas " label=" Douglas " />
+      <node id=" Shepherdson Harney " label=" Shepherdson Harney " />
+      <node id=" Joanna " label=" Joanna " />
+      <node id=" Dunlap " label=" Dunlap " />
+      <node id=" Mr. Wilks " label=" Mr. Wilks " />
+      <node id=" Silas Uncle " label=" Silas Uncle " />
+      <node id=" Grangerford " label=" Grangerford " />
+      <node id=" Moses " label=" Moses " />
+      <node id=" Nichols " label=" Nichols " />
+      <node id=" Ann Mary " label=" Ann Mary " />
+      <node id=" Joe " label=" Joe " />
+      <node id=" Bartley " label=" Bartley " />
+      <node id=" Sheffield " label=" Sheffield " />
+      <node id=" Levi Bell " label=" Levi Bell " />
+      <node id=" Jake Packard " label=" Jake Packard " />
+      <node id=" Romeo " label=" Romeo " />
+      <node id=" Nat " label=" Nat " />
+      <node id=" Abner Shackleford " label=" Abner Shackleford " />
+      <node id=" Thatcher " label=" Thatcher " />
+      <node id=" Lothrop Mr. " label=" Lothrop Mr. " />
+      <node id=" Susan " label=" Susan " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Buck Harkness " label=" Buck Harkness " />
+      <node id=" Sarah " label=" Sarah " />
+      <node id=" Watson Miss " label=" Watson Miss " />
+      <node id=" Mrs. Phelps " label=" Mrs. Phelps " />
+      <node id=" Hornback Jim " label=" Hornback Jim " />
+      <node id=" Bob " label=" Bob " />
+      <node id=" Tom Mars " label=" Tom Mars " />
+      <node id=" Polly Aunt " label=" Polly Aunt " />
+      <node id=" Cain " label=" Cain " />
+      <node id=" Drury Lane " label=" Drury Lane " />
+      <node id=" Mr. Garrick " label=" Mr. Garrick " />
+      <node id=" Harvey Wilks " label=" Harvey Wilks " />
+      <node id=" Robinson Dr. " label=" Robinson Dr. " />
+      <node id=" Jane Miss Mary " label=" Jane Miss Mary " />
+      <node id=" Sally Aunt " label=" Sally Aunt " />
+      <node id=" Ike " label=" Ike " />
+      <node id=" Ben Rogers " label=" Ben Rogers " />
+      <node id=" Miss Sophia " label=" Miss Sophia " />
+      <node id=" Jackson George " label=" Jackson George " />
+      <node id=" Mars Sid " label=" Mars Sid " />
+      <node id=" Lize " label=" Lize " />
+      <node id=" Hobson " label=" Hobson " />
+      <node id=" Barlow " label=" Barlow " />
+      <node id=" Huckleberry " label=" Huckleberry " />
+      <node id=" Turner Jim " label=" Turner Jim " />
+      <node id=" Huck Finn " label=" Huck Finn " />
+      <node id=" Bill " label=" Bill " />
+      <node id=" Dey dey " label=" Dey dey " />
+      <node id=" Sollermun " label=" Sollermun " />
+      <node id=" Harper Jo " label=" Harper Jo " />
+      <node id=" Sherburn " label=" Sherburn " />
+      <node id=" Boggs " label=" Boggs " />
+      <node id=" Lear " label=" Lear " />
+      <node id=" Hank " label=" Hank " />
+      <node id=" William Fourth " label=" William Fourth " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Edmund Kean " target=" Juliet " weight="1" />
+      <edge id="1" source=" Jack " target=" Turner Jim " weight="1" />
+      <edge id="2" source=" Peter Wilks " target=" Hobson " weight="1" />
+      <edge id="3" source=" Peter Wilks " target=" Robinson Dr. " weight="1" />
+      <edge id="4" source=" Peter Wilks " target=" Bartley " weight="1" />
+      <edge id="5" source=" Peter Wilks " target=" Levi Bell " weight="1" />
+      <edge id="6" source=" Peter Wilks " target=" Harvey Wilks " weight="4" />
+      <edge id="7" source=" Peter Wilks " target=" Mr. Wilks " weight="1" />
+      <edge id="8" source=" Peter Wilks " target=" Jane Miss Mary " weight="2" />
+      <edge id="9" source=" Peter Wilks " target=" Abner Shackleford " weight="1" />
+      <edge id="10" source=" Peter Wilks " target=" Jackson George " weight="2" />
+      <edge id="11" source=" Peter Wilks " target=" William Fourth " weight="3" />
+      <edge id="12" source=" Juliet " target=" Romeo " weight="1" />
+      <edge id="13" source=" Sawyer Tom " target=" Polly Aunt " weight="9" />
+      <edge id="14" source=" Sawyer Tom " target=" Bill " weight="2" />
+      <edge id="15" source=" Sawyer Tom " target=" Mars Sid " weight="5" />
+      <edge id="16" source=" Sawyer Tom " target=" Turner Jim " weight="14" />
+      <edge id="17" source=" Sawyer Tom " target=" Watson Miss " weight="3" />
+      <edge id="18" source=" Sawyer Tom " target=" Mrs. Phelps " weight="1" />
+      <edge id="19" source=" Sawyer Tom " target=" Hornback Jim " weight="1" />
+      <edge id="20" source=" Sawyer Tom " target=" Bob " weight="1" />
+      <edge id="21" source=" Sawyer Tom " target=" Tom Mars " weight="1" />
+      <edge id="22" source=" Sawyer Tom " target=" Ann Mary " weight="3" />
+      <edge id="23" source=" Sawyer Tom " target=" Harper Jo " weight="2" />
+      <edge id="24" source=" Sawyer Tom " target=" Lize " weight="1" />
+      <edge id="25" source=" Sawyer Tom " target=" Huck Finn " weight="4" />
+      <edge id="26" source=" Sawyer Tom " target=" Sally Aunt " weight="24" />
+      <edge id="27" source=" Sawyer Tom " target=" Nat " weight="2" />
+      <edge id="28" source=" Sawyer Tom " target=" Thatcher " weight="2" />
+      <edge id="29" source=" Sawyer Tom " target=" Silas Uncle " weight="6" />
+      <edge id="30" source=" Sawyer Tom " target=" Nichols " weight="1" />
+      <edge id="31" source=" Douglas " target=" Grangerford " weight="1" />
+      <edge id="32" source=" Shepherdson Harney " target=" Buck Harkness " weight="1" />
+      <edge id="33" source=" Shepherdson Harney " target=" Miss Sophia " weight="3" />
+      <edge id="34" source=" Shepherdson Harney " target=" Jackson George " weight="1" />
+      <edge id="35" source=" Joanna " target=" Susan " weight="1" />
+      <edge id="36" source=" Joanna " target=" Jane Miss Mary " weight="1" />
+      <edge id="37" source=" Dunlap " target=" Mrs. Phelps " weight="1" />
+      <edge id="38" source=" Mr. Wilks " target=" William Fourth " weight="1" />
+      <edge id="39" source=" Silas Uncle " target=" Turner Jim " weight="1" />
+      <edge id="40" source=" Silas Uncle " target="#N/A" weight="1" />
+      <edge id="41" source=" Silas Uncle " target=" Polly Aunt " weight="1" />
+      <edge id="42" source=" Silas Uncle " target=" Sally Aunt " weight="9" />
+      <edge id="43" source=" Silas Uncle " target=" William Fourth " weight="1" />
+      <edge id="44" source=" Silas Uncle " target=" Mars Sid " weight="1" />
+      <edge id="45" source=" Moses " target=" Bob " weight="1" />
+      <edge id="46" source=" Ann Mary " target=" Bill " weight="1" />
+      <edge id="47" source=" Ann Mary " target=" Sarah " weight="1" />
+      <edge id="48" source=" Ann Mary " target=" Polly Aunt " weight="2" />
+      <edge id="49" source=" Ann Mary " target=" Harper Jo " weight="1" />
+      <edge id="50" source=" Ann Mary " target=" Mars Sid " weight="1" />
+      <edge id="51" source=" Ann Mary " target=" Thatcher " weight="1" />
+      <edge id="52" source=" Joe " target=" Hank " weight="1" />
+      <edge id="53" source=" Joe " target=" Bill " weight="1" />
+      <edge id="54" source=" Bartley " target=" Hobson " weight="1" />
+      <edge id="55" source=" Bartley " target=" Levi Bell " weight="2" />
+      <edge id="56" source=" Bartley " target=" Harvey Wilks " weight="1" />
+      <edge id="57" source=" Bartley " target=" Robinson Dr. " weight="2" />
+      <edge id="58" source=" Bartley " target=" Abner Shackleford " weight="2" />
+      <edge id="59" source=" Sheffield " target=" Levi Bell " weight="1" />
+      <edge id="60" source=" Levi Bell " target=" Hobson " weight="1" />
+      <edge id="61" source=" Levi Bell " target=" Harvey Wilks " weight="1" />
+      <edge id="62" source=" Levi Bell " target=" Robinson Dr. " weight="2" />
+      <edge id="63" source=" Levi Bell " target=" Abner Shackleford " weight="2" />
+      <edge id="64" source=" Jake Packard " target=" Bill " weight="2" />
+      <edge id="65" source=" Romeo " target=" Mr. Garrick " weight="1" />
+      <edge id="66" source=" Nat " target=" Turner Jim " weight="1" />
+      <edge id="67" source=" Abner Shackleford " target=" Hobson " weight="1" />
+      <edge id="68" source=" Abner Shackleford " target=" Harvey Wilks " weight="1" />
+      <edge id="69" source=" Abner Shackleford " target=" Robinson Dr. " weight="3" />
+      <edge id="70" source=" Thatcher " target=" Polly Aunt " weight="1" />
+      <edge id="71" source=" Thatcher " target=" Harper Jo " weight="1" />
+      <edge id="72" source=" Thatcher " target=" Mars Sid " weight="1" />
+      <edge id="73" source=" Lothrop Mr. " target=" Jane Miss Mary " weight="2" />
+      <edge id="74" source=" Susan " target=" Jane Miss Mary " weight="1" />
+      <edge id="75" source=" Buck Harkness " target=" Miss Sophia " weight="1" />
+      <edge id="76" source=" Watson Miss " target=" Polly Aunt " weight="1" />
+      <edge id="77" source=" Watson Miss " target=" Turner Jim " weight="10" />
+      <edge id="78" source=" Watson Miss " target=" Mars Sid " weight="1" />
+      <edge id="79" source=" Watson Miss " target=" Huckleberry " weight="2" />
+      <edge id="80" source=" Mrs. Phelps " target=" Polly Aunt " weight="1" />
+      <edge id="81" source=" Mrs. Phelps " target=" Sally Aunt " weight="1" />
+      <edge id="82" source=" Bob " target=" Bill " weight="1" />
+      <edge id="83" source=" Bob " target=" Dey dey " weight="1" />
+      <edge id="84" source=" Tom Mars " target=" Turner Jim " weight="1" />
+      <edge id="85" source=" Tom Mars " target=" Huck Finn " weight="1" />
+      <edge id="86" source=" Tom Mars " target=" Dey dey " weight="1" />
+      <edge id="87" source=" Polly Aunt " target=" Turner Jim " weight="2" />
+      <edge id="88" source=" Polly Aunt " target=" Harper Jo " weight="1" />
+      <edge id="89" source=" Polly Aunt " target=" Sally Aunt " weight="3" />
+      <edge id="90" source=" Polly Aunt " target=" Mars Sid " weight="3" />
+      <edge id="91" source=" Cain " target=" Sally Aunt " weight="1" />
+      <edge id="92" source=" Drury Lane " target=" Mr. Garrick " weight="1" />
+      <edge id="93" source=" Harvey Wilks " target=" Hobson " weight="1" />
+      <edge id="94" source=" Harvey Wilks " target=" Robinson Dr. " weight="1" />
+      <edge id="95" source=" Harvey Wilks " target=" Jane Miss Mary " weight="4" />
+      <edge id="96" source=" Harvey Wilks " target=" Jackson George " weight="3" />
+      <edge id="97" source=" Harvey Wilks " target=" William Fourth " weight="7" />
+      <edge id="98" source=" Robinson Dr. " target=" Hobson " weight="2" />
+      <edge id="99" source=" Robinson Dr. " target=" Jane Miss Mary " weight="1" />
+      <edge id="100" source=" Jane Miss Mary " target=" Mars Sid " weight="1" />
+      <edge id="101" source=" Jane Miss Mary " target=" Jackson George " weight="1" />
+      <edge id="102" source=" Jane Miss Mary " target=" William Fourth " weight="2" />
+      <edge id="103" source=" Sally Aunt " target=" Lize " weight="1" />
+      <edge id="104" source=" Sally Aunt " target=" Turner Jim " weight="6" />
+      <edge id="105" source=" Sally Aunt " target=" Mars Sid " weight="2" />
+      <edge id="106" source=" Ike " target=" Turner Jim " weight="1" />
+      <edge id="107" source=" Ike " target=" Ben Rogers " weight="1" />
+      <edge id="108" source=" Ben Rogers " target=" Turner Jim " weight="1" />
+      <edge id="109" source=" Ben Rogers " target=" Huck Finn " weight="1" />
+      <edge id="110" source=" Ben Rogers " target=" Harper Jo " weight="2" />
+      <edge id="111" source=" Jackson George " target=" William Fourth " weight="2" />
+      <edge id="112" source=" Mars Sid " target=" Turner Jim " weight="1" />
+      <edge id="113" source=" Mars Sid " target=" Harper Jo " weight="1" />
+      <edge id="114" source=" Barlow " target=" Turner Jim " weight="1" />
+      <edge id="115" source=" Turner Jim " target=" Bill " weight="2" />
+      <edge id="116" source=" Turner Jim " target=" Huck Finn " weight="15" />
+      <edge id="117" source=" Turner Jim " target=" Lear " weight="2" />
+      <edge id="118" source=" Huck Finn " target=" Sollermun " weight="1" />
+      <edge id="119" source=" Bill " target=" Hank " weight="1" />
+      <edge id="120" source=" Sherburn " target=" Boggs " weight="6" />
+    </edges>
+  </graph>
+</gexf>

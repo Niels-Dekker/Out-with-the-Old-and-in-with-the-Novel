@@ -1,0 +1,590 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Edan Baron " label=" Edan Baron " />
+      <node id=" Eventeo " label=" Eventeo " />
+      <node id=" Dula " label=" Dula " />
+      <node id=" Arteth Fjon " label=" Arteth Fjon " />
+      <node id=" AonDor " label=" AonDor " />
+      <node id=" Idan " label=" Idan " />
+      <node id=" Arelon " label=" Arelon " />
+      <node id=" Dashe " label=" Dashe " />
+      <node id=" Aanden Baron " label=" Aanden Baron " />
+      <node id=" Diren " label=" Diren " />
+      <node id=" Ramear " label=" Ramear " />
+      <node id=" Hoid " label=" Hoid " />
+      <node id=" Meala " label=" Meala " />
+      <node id=" Teoish " label=" Teoish " />
+      <node id=" Lord Telrii lord " label=" Lord Telrii lord " />
+      <node id=" Aon Ien " label=" Aon Ien " />
+      <node id=" Loren " label=" Loren " />
+      <node id=" Kae " label=" Kae " />
+      <node id=" Seaden " label=" Seaden " />
+      <node id=" Duke Roial " label=" Duke Roial " />
+      <node id=" Ketol " label=" Ketol " />
+      <node id=" Dulas " label=" Dulas " />
+      <node id=" Wulfden " label=" Wulfden " />
+      <node id=" Lady Sarene " label=" Lady Sarene " />
+      <node id=" Riil " label=" Riil " />
+      <node id=" Dothgen " label=" Dothgen " />
+      <node id=" Mareshe " label=" Mareshe " />
+      <node id=" Dilaf " label=" Dilaf " />
+      <node id=" Baron Shuden " label=" Baron Shuden " />
+      <node id=" Dreok Crushthroat " label=" Dreok Crushthroat " />
+      <node id=" Lord Waren " label=" Lord Waren " />
+      <node id=" Jindo " label=" Jindo " />
+      <node id=" Duladel " label=" Duladel " />
+      <node id=" Horen " label=" Horen " />
+      <node id=" Count Ahan " label=" Count Ahan " />
+      <node id=" Kaise " label=" Kaise " />
+      <node id=" Kiin " label=" Kiin " />
+      <node id=" Spirit " label=" Spirit " />
+      <node id=" Derethi " label=" Derethi " />
+      <node id=" Aon Rao " label=" Aon Rao " />
+      <node id=" Lukel " label=" Lukel " />
+      <node id=" Domi Idos " label=" Domi Idos " />
+      <node id=" Seinalan " label=" Seinalan " />
+      <node id=" Kaloo " label=" Kaloo " />
+      <node id=" Opelon " label=" Opelon " />
+      <node id=" Dakhor " label=" Dakhor " />
+      <node id=" Aon Omi " label=" Aon Omi " />
+      <node id=" Iadon King " label=" Iadon King " />
+      <node id=" Teod " label=" Teod " />
+      <node id=" Taan " label=" Taan " />
+      <node id=" Mr. Jaddeth " label=" Mr. Jaddeth " />
+      <node id=" Kahar " label=" Kahar " />
+      <node id=" lord Hrathen Lord " label=" lord Hrathen Lord " />
+      <node id=" Lord Edan " label=" Lord Edan " />
+      <node id=" Wyrn " label=" Wyrn " />
+      <node id=" Aonic " label=" Aonic " />
+      <node id=" MaeDal " label=" MaeDal " />
+      <node id=" Fjordell " label=" Fjordell " />
+      <node id=" Dor " label=" Dor " />
+      <node id=" Korathi " label=" Korathi " />
+      <node id=" Aon Reo " label=" Aon Reo " />
+      <node id=" Graeo " label=" Graeo " />
+      <node id=" Hrovell " label=" Hrovell " />
+      <node id=" Fjorden " label=" Fjorden " />
+      <node id=" Hunkey Kay " label=" Hunkey Kay " />
+      <node id=" Elantris New " label=" Elantris New " />
+      <node id=" Maare " label=" Maare " />
+      <node id=" Svrakiss " label=" Svrakiss " />
+      <node id=" Jalla " label=" Jalla " />
+      <node id=" Shaod " label=" Shaod " />
+      <node id=" Dereth " label=" Dereth " />
+      <node id=" Seons " label=" Seons " />
+      <node id=" Lord Eondel " label=" Lord Eondel " />
+      <node id=" Omin Father " label=" Omin Father " />
+      <node id=" Daorn " label=" Daorn " />
+      <node id=" Seon " label=" Seon " />
+      <node id=" Shaor " label=" Shaor " />
+      <node id=" Daora " label=" Daora " />
+      <node id=" Korath " label=" Korath " />
+      <node id=" Dion " label=" Dion " />
+      <node id=" Ashe Aon " label=" Ashe Aon " />
+      <node id=" Forton " label=" Forton " />
+      <node id=" Duke Telrii " label=" Duke Telrii " />
+      <node id=" Torena " label=" Torena " />
+      <node id=" Shu-Dereth " label=" Shu-Dereth " />
+      <node id=" Elantrian " label=" Elantrian " />
+      <node id=" Shu-Korath " label=" Shu-Korath " />
+      <node id=" Adien " label=" Adien " />
+      <node id=" Jesker " label=" Jesker " />
+      <node id=" Leky Stick " label=" Leky Stick " />
+      <node id=" Karata " label=" Karata " />
+      <node id=" Galladon " label=" Galladon " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Arelish " label=" Arelish " />
+      <node id=" Saolin " label=" Saolin " />
+      <node id=" Duladen " label=" Duladen " />
+      <node id=" Eshen Queen " label=" Eshen Queen " />
+      <node id=" Raoden Prince " label=" Raoden Prince " />
+      <node id=" Lord Shuden " label=" Lord Shuden " />
+      <node id=" lord Jaddeth Lord " label=" lord Jaddeth Lord " />
+      <node id=" Lord Roial " label=" Lord Roial " />
+      <node id=" Lord Ahan " label=" Lord Ahan " />
+      <node id=" Aon Tia " label=" Aon Tia " />
+      <node id=" Mother " label=" Mother " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Edan Baron " target=" Duke Roial " weight="1" />
+      <edge id="1" source=" Edan Baron " target=" Lukel " weight="1" />
+      <edge id="2" source=" Edan Baron " target=" Lady Sarene " weight="1" />
+      <edge id="3" source=" Edan Baron " target=" Lord Ahan " weight="3" />
+      <edge id="4" source=" Edan Baron " target=" Kiin " weight="2" />
+      <edge id="5" source=" Edan Baron " target=" Lord Eondel " weight="3" />
+      <edge id="6" source=" Edan Baron " target=" Iadon King " weight="7" />
+      <edge id="7" source=" Edan Baron " target=" Baron Shuden " weight="1" />
+      <edge id="8" source=" Eventeo " target=" Dreok Crushthroat " weight="1" />
+      <edge id="9" source=" Eventeo " target=" Arelon " weight="1" />
+      <edge id="10" source=" Eventeo " target=" Lady Sarene " weight="9" />
+      <edge id="11" source=" Eventeo " target=" lord Hrathen Lord " weight="4" />
+      <edge id="12" source=" Eventeo " target=" Hunkey Kay " weight="1" />
+      <edge id="13" source=" Eventeo " target=" Iadon King " weight="1" />
+      <edge id="14" source=" Eventeo " target=" Ashe Aon " weight="1" />
+      <edge id="15" source=" Eventeo " target=" Dilaf " weight="1" />
+      <edge id="16" source=" Dula " target=" Duke Roial " weight="2" />
+      <edge id="17" source=" Dula " target=" Ashe Aon " weight="1" />
+      <edge id="18" source=" Dula " target=" Lukel " weight="1" />
+      <edge id="19" source=" Dula " target=" Elantris New " weight="1" />
+      <edge id="20" source=" Dula " target=" Lady Sarene " weight="19" />
+      <edge id="21" source=" Dula " target=" lord Hrathen Lord " weight="1" />
+      <edge id="22" source=" Dula " target=" Lord Ahan " weight="1" />
+      <edge id="23" source=" Dula " target=" Kaloo " weight="3" />
+      <edge id="24" source=" Dula " target=" Galladon " weight="11" />
+      <edge id="25" source=" Dula " target=" Raoden Prince " weight="25" />
+      <edge id="26" source=" Dula " target=" Mareshe " weight="2" />
+      <edge id="27" source=" Dula " target=" Elantrian " weight="1" />
+      <edge id="28" source=" Dula " target=" Dilaf " weight="1" />
+      <edge id="29" source=" Arteth Fjon " target=" lord Jaddeth Lord " weight="4" />
+      <edge id="30" source=" Arteth Fjon " target=" Arelon " weight="1" />
+      <edge id="31" source=" Arteth Fjon " target=" Dilaf " weight="1" />
+      <edge id="32" source=" Arteth Fjon " target=" lord Hrathen Lord " weight="13" />
+      <edge id="33" source=" AonDor " target=" Ashe Aon " weight="1" />
+      <edge id="34" source=" Idan " target=" Lord Waren " weight="1" />
+      <edge id="35" source=" Idan " target=" lord Hrathen Lord " weight="7" />
+      <edge id="36" source=" Arelon " target=" Fjorden " weight="2" />
+      <edge id="37" source=" Arelon " target=" Ashe Aon " weight="1" />
+      <edge id="38" source=" Arelon " target=" Dilaf " weight="2" />
+      <edge id="39" source=" Arelon " target=" Baron Shuden " weight="1" />
+      <edge id="40" source=" Arelon " target=" Opelon " weight="1" />
+      <edge id="41" source=" Arelon " target=" Elantris New " weight="2" />
+      <edge id="42" source=" Arelon " target=" Shu-Korath " weight="1" />
+      <edge id="43" source=" Arelon " target=" Lady Sarene " weight="19" />
+      <edge id="44" source=" Arelon " target=" Duladen " weight="1" />
+      <edge id="45" source=" Arelon " target=" Lord Eondel " weight="1" />
+      <edge id="46" source=" Arelon " target=" Seon " weight="1" />
+      <edge id="47" source=" Arelon " target=" Teod " weight="5" />
+      <edge id="48" source=" Arelon " target=" Mr. Jaddeth " weight="1" />
+      <edge id="49" source=" Arelon " target=" Kae " weight="1" />
+      <edge id="50" source=" Arelon " target=" lord Hrathen Lord " weight="17" />
+      <edge id="51" source=" Arelon " target=" Lord Ahan " weight="1" />
+      <edge id="52" source=" Arelon " target=" Duladel " weight="1" />
+      <edge id="53" source=" Arelon " target=" Wyrn " weight="3" />
+      <edge id="54" source=" Arelon " target=" Raoden Prince " weight="6" />
+      <edge id="55" source=" Arelon " target=" Iadon King " weight="4" />
+      <edge id="56" source=" Dashe " target=" Taan " weight="1" />
+      <edge id="57" source=" Dashe " target=" Aanden Baron " weight="4" />
+      <edge id="58" source=" Dashe " target=" Saolin " weight="1" />
+      <edge id="59" source=" Dashe " target=" Galladon " weight="1" />
+      <edge id="60" source=" Dashe " target=" Raoden Prince " weight="7" />
+      <edge id="61" source=" Dashe " target=" Karata " weight="3" />
+      <edge id="62" source=" Aanden Baron " target=" Taan " weight="2" />
+      <edge id="63" source=" Aanden Baron " target=" Elantris New " weight="2" />
+      <edge id="64" source=" Aanden Baron " target=" Shaor " weight="2" />
+      <edge id="65" source=" Aanden Baron " target=" Shaod " weight="1" />
+      <edge id="66" source=" Aanden Baron " target=" Lady Sarene " weight="1" />
+      <edge id="67" source=" Aanden Baron " target=" Ashe Aon " weight="1" />
+      <edge id="68" source=" Aanden Baron " target=" Galladon " weight="2" />
+      <edge id="69" source=" Aanden Baron " target=" Raoden Prince " weight="11" />
+      <edge id="70" source=" Aanden Baron " target=" Karata " weight="5" />
+      <edge id="71" source=" Diren " target=" Mr. Jaddeth " weight="1" />
+      <edge id="72" source=" Diren " target=" lord Hrathen Lord " weight="4" />
+      <edge id="73" source=" Ramear " target=" Lord Waren " weight="1" />
+      <edge id="74" source=" Ramear " target=" lord Hrathen Lord " weight="1" />
+      <edge id="75" source=" Hoid " target=" Elantris New " weight="1" />
+      <edge id="76" source=" Hoid " target=" Iadon King " weight="1" />
+      <edge id="77" source=" Hoid " target=" Lady Sarene " weight="1" />
+      <edge id="78" source=" Hoid " target=" Ashe Aon " weight="1" />
+      <edge id="79" source=" Meala " target=" Seon " weight="1" />
+      <edge id="80" source=" Meala " target=" Lady Sarene " weight="3" />
+      <edge id="81" source=" Teoish " target=" Derethi " weight="1" />
+      <edge id="82" source=" Lord Telrii lord " target=" Iadon King " weight="1" />
+      <edge id="83" source=" Lord Telrii lord " target=" Duke Telrii " weight="1" />
+      <edge id="84" source=" Lord Telrii lord " target=" Lord Roial " weight="1" />
+      <edge id="85" source=" Lord Telrii lord " target=" lord Hrathen Lord " weight="1" />
+      <edge id="86" source=" Aon Ien " target=" Raoden Prince " weight="6" />
+      <edge id="87" source=" Aon Ien " target=" Galladon " weight="1" />
+      <edge id="88" source=" Aon Ien " target=" lord Hrathen Lord " weight="1" />
+      <edge id="89" source=" Loren " target=" Elantris New " weight="1" />
+      <edge id="90" source=" Loren " target=" Raoden Prince " weight="3" />
+      <edge id="91" source=" Loren " target=" Karata " weight="2" />
+      <edge id="92" source=" Kae " target=" Lady Sarene " weight="8" />
+      <edge id="93" source=" Kae " target=" Ashe Aon " weight="1" />
+      <edge id="94" source=" Kae " target=" Mr. Jaddeth " weight="1" />
+      <edge id="95" source=" Kae " target=" Elantris New " weight="7" />
+      <edge id="96" source=" Kae " target=" Shaod " weight="1" />
+      <edge id="97" source=" Kae " target=" Seons " weight="1" />
+      <edge id="98" source=" Kae " target=" lord Hrathen Lord " weight="23" />
+      <edge id="99" source=" Kae " target=" Dakhor " weight="1" />
+      <edge id="100" source=" Kae " target=" Derethi " weight="1" />
+      <edge id="101" source=" Kae " target=" Raoden Prince " weight="9" />
+      <edge id="102" source=" Kae " target=" Iadon King " weight="3" />
+      <edge id="103" source=" Kae " target=" Duke Telrii " weight="1" />
+      <edge id="104" source=" Kae " target=" Dilaf " weight="3" />
+      <edge id="105" source=" Kae " target=" Shu-Dereth " weight="1" />
+      <edge id="106" source=" Seaden " target=" Lord Ahan " weight="2" />
+      <edge id="107" source=" Seaden " target=" Raoden Prince " weight="1" />
+      <edge id="108" source=" Seaden " target=" Lady Sarene " weight="3" />
+      <edge id="109" source=" Seaden " target=" Torena " weight="1" />
+      <edge id="110" source=" Seaden " target=" Count Ahan " weight="1" />
+      <edge id="111" source=" Duke Roial " target=" Dulas " weight="1" />
+      <edge id="112" source=" Duke Roial " target=" Fjorden " weight="1" />
+      <edge id="113" source=" Duke Roial " target=" Ashe Aon " weight="2" />
+      <edge id="114" source=" Duke Roial " target=" Duke Telrii " weight="3" />
+      <edge id="115" source=" Duke Roial " target=" Baron Shuden " weight="5" />
+      <edge id="116" source=" Duke Roial " target=" Kiin " weight="3" />
+      <edge id="117" source=" Duke Roial " target=" Jalla " weight="1" />
+      <edge id="118" source=" Duke Roial " target=" Lukel " weight="2" />
+      <edge id="119" source=" Duke Roial " target=" Domi Idos " weight="5" />
+      <edge id="120" source=" Duke Roial " target=" Seinalan " weight="1" />
+      <edge id="121" source=" Duke Roial " target=" Kaloo " weight="2" />
+      <edge id="122" source=" Duke Roial " target=" Lady Sarene " weight="63" />
+      <edge id="123" source=" Duke Roial " target=" Lord Eondel " weight="1" />
+      <edge id="124" source=" Duke Roial " target=" Eshen Queen " weight="1" />
+      <edge id="125" source=" Duke Roial " target=" Omin Father " weight="2" />
+      <edge id="126" source=" Duke Roial " target=" lord Hrathen Lord " weight="8" />
+      <edge id="127" source=" Duke Roial " target=" Lord Ahan " weight="7" />
+      <edge id="128" source=" Duke Roial " target=" Galladon " weight="1" />
+      <edge id="129" source=" Duke Roial " target=" Raoden Prince " weight="10" />
+      <edge id="130" source=" Duke Roial " target=" Iadon King " weight="8" />
+      <edge id="131" source=" Ketol " target=" Iadon King " weight="2" />
+      <edge id="132" source=" Ketol " target=" Lady Sarene " weight="4" />
+      <edge id="133" source=" Dulas " target=" Elantris New " weight="1" />
+      <edge id="134" source=" Dulas " target=" Galladon " weight="1" />
+      <edge id="135" source=" Wulfden " target=" Shu-Korath " weight="1" />
+      <edge id="136" source=" Lady Sarene " target=" Aon Reo " weight="1" />
+      <edge id="137" source=" Lady Sarene " target=" Graeo " weight="5" />
+      <edge id="138" source=" Lady Sarene " target=" Kaise " weight="19" />
+      <edge id="139" source=" Lady Sarene " target=" Lord Roial " weight="1" />
+      <edge id="140" source=" Lady Sarene " target=" Daorn " weight="4" />
+      <edge id="141" source=" Lady Sarene " target=" Fjorden " weight="2" />
+      <edge id="142" source=" Lady Sarene " target=" Ashe Aon " weight="15" />
+      <edge id="143" source=" Lady Sarene " target=" Kaloo " weight="9" />
+      <edge id="144" source=" Lady Sarene " target=" Elantrian " weight="2" />
+      <edge id="145" source=" Lady Sarene " target=" Dilaf " weight="6" />
+      <edge id="146" source=" Lady Sarene " target=" Shu-Dereth " weight="1" />
+      <edge id="147" source=" Lady Sarene " target=" Adien " weight="2" />
+      <edge id="148" source=" Lady Sarene " target=" Duke Telrii " weight="19" />
+      <edge id="149" source=" Lady Sarene " target=" Lukel " weight="37" />
+      <edge id="150" source=" Lady Sarene " target=" Lord Waren " weight="1" />
+      <edge id="151" source=" Lady Sarene " target=" Jindo " weight="1" />
+      <edge id="152" source=" Lady Sarene " target=" Elantris New " weight="25" />
+      <edge id="153" source=" Lady Sarene " target=" Shu-Korath " weight="1" />
+      <edge id="154" source=" Lady Sarene " target=" Maare " weight="3" />
+      <edge id="155" source=" Lady Sarene " target=" Torena " weight="3" />
+      <edge id="156" source=" Lady Sarene " target=" Svrakiss " weight="1" />
+      <edge id="157" source=" Lady Sarene " target=" Kiin " weight="48" />
+      <edge id="158" source=" Lady Sarene " target=" Jalla " weight="3" />
+      <edge id="159" source=" Lady Sarene " target=" Hunkey Kay " weight="3" />
+      <edge id="160" source=" Lady Sarene " target=" Leky Stick " weight="1" />
+      <edge id="161" source=" Lady Sarene " target=" Spirit " weight="1" />
+      <edge id="162" source=" Lady Sarene " target=" Baron Shuden " weight="25" />
+      <edge id="163" source=" Lady Sarene " target=" Karata " weight="1" />
+      <edge id="164" source=" Lady Sarene " target=" Seinalan " weight="1" />
+      <edge id="165" source=" Lady Sarene " target=" Derethi " weight="2" />
+      <edge id="166" source=" Lady Sarene " target=" Domi Idos " weight="32" />
+      <edge id="167" source=" Lady Sarene " target="#N/A" weight="1" />
+      <edge id="168" source=" Lady Sarene " target=" Arelish " weight="1" />
+      <edge id="169" source=" Lady Sarene " target=" Count Ahan " weight="1" />
+      <edge id="170" source=" Lady Sarene " target=" Seons " weight="2" />
+      <edge id="171" source=" Lady Sarene " target=" Saolin " weight="3" />
+      <edge id="172" source=" Lady Sarene " target=" Duladen " weight="3" />
+      <edge id="173" source=" Lady Sarene " target=" Lord Eondel " weight="11" />
+      <edge id="174" source=" Lady Sarene " target=" Eshen Queen " weight="7" />
+      <edge id="175" source=" Lady Sarene " target=" Omin Father " weight="7" />
+      <edge id="176" source=" Lady Sarene " target=" Seon " weight="4" />
+      <edge id="177" source=" Lady Sarene " target=" Lord Shuden " weight="2" />
+      <edge id="178" source=" Lady Sarene " target=" Teod " weight="6" />
+      <edge id="179" source=" Lady Sarene " target=" Dreok Crushthroat " weight="1" />
+      <edge id="180" source=" Lady Sarene " target=" Taan " weight="1" />
+      <edge id="181" source=" Lady Sarene " target=" Mr. Jaddeth " weight="3" />
+      <edge id="182" source=" Lady Sarene " target=" Shaor " weight="2" />
+      <edge id="183" source=" Lady Sarene " target=" lord Hrathen Lord " weight="77" />
+      <edge id="184" source=" Lady Sarene " target=" Lord Ahan " weight="13" />
+      <edge id="185" source=" Lady Sarene " target=" Mareshe " weight="1" />
+      <edge id="186" source=" Lady Sarene " target=" Wyrn " weight="2" />
+      <edge id="187" source=" Lady Sarene " target=" Aonic " weight="2" />
+      <edge id="188" source=" Lady Sarene " target=" Galladon " weight="6" />
+      <edge id="189" source=" Lady Sarene " target=" Fjordell " weight="1" />
+      <edge id="190" source=" Lady Sarene " target=" Raoden Prince " weight="29" />
+      <edge id="191" source=" Lady Sarene " target=" Daora " weight="14" />
+      <edge id="192" source=" Lady Sarene " target=" Korathi " weight="1" />
+      <edge id="193" source=" Lady Sarene " target=" Iadon King " weight="67" />
+      <edge id="194" source=" Riil " target=" Raoden Prince " weight="2" />
+      <edge id="195" source=" Dothgen " target=" Fjordell " weight="1" />
+      <edge id="196" source=" Mareshe " target=" Kahar " weight="2" />
+      <edge id="197" source=" Mareshe " target=" Saolin " weight="1" />
+      <edge id="198" source=" Mareshe " target=" Galladon " weight="4" />
+      <edge id="199" source=" Mareshe " target=" Raoden Prince " weight="14" />
+      <edge id="200" source=" Mareshe " target=" Karata " weight="1" />
+      <edge id="201" source=" Dilaf " target=" Fjorden " weight="1" />
+      <edge id="202" source=" Dilaf " target=" Ashe Aon " weight="1" />
+      <edge id="203" source=" Dilaf " target=" Duke Telrii " weight="1" />
+      <edge id="204" source=" Dilaf " target=" Shu-Dereth " weight="2" />
+      <edge id="205" source=" Dilaf " target=" Lord Waren " weight="2" />
+      <edge id="206" source=" Dilaf " target=" Elantris New " weight="6" />
+      <edge id="207" source=" Dilaf " target=" Kiin " weight="1" />
+      <edge id="208" source=" Dilaf " target=" Baron Shuden " weight="1" />
+      <edge id="209" source=" Dilaf " target=" Derethi " weight="1" />
+      <edge id="210" source=" Dilaf " target=" Lukel " weight="1" />
+      <edge id="211" source=" Dilaf " target=" Dakhor " weight="1" />
+      <edge id="212" source=" Dilaf " target=" lord Jaddeth Lord " weight="2" />
+      <edge id="213" source=" Dilaf " target=" Mr. Jaddeth " weight="3" />
+      <edge id="214" source=" Dilaf " target=" lord Hrathen Lord " weight="161" />
+      <edge id="215" source=" Dilaf " target=" Wyrn " weight="1" />
+      <edge id="216" source=" Dilaf " target=" Raoden Prince " weight="3" />
+      <edge id="217" source=" Dilaf " target=" Korathi " weight="2" />
+      <edge id="218" source=" Baron Shuden " target=" Korath " weight="1" />
+      <edge id="219" source=" Baron Shuden " target=" Ashe Aon " weight="1" />
+      <edge id="220" source=" Baron Shuden " target=" Torena " weight="4" />
+      <edge id="221" source=" Baron Shuden " target=" Jindo " weight="2" />
+      <edge id="222" source=" Baron Shuden " target=" Duladel " weight="1" />
+      <edge id="223" source=" Baron Shuden " target=" Daora " weight="1" />
+      <edge id="224" source=" Baron Shuden " target=" Kiin " weight="1" />
+      <edge id="225" source=" Baron Shuden " target=" Karata " weight="1" />
+      <edge id="226" source=" Baron Shuden " target=" Lukel " weight="9" />
+      <edge id="227" source=" Baron Shuden " target=" Domi Idos " weight="1" />
+      <edge id="228" source=" Baron Shuden " target=" Kaloo " weight="2" />
+      <edge id="229" source=" Baron Shuden " target=" Lord Eondel " weight="8" />
+      <edge id="230" source=" Baron Shuden " target=" Eshen Queen " weight="2" />
+      <edge id="231" source=" Baron Shuden " target=" Lord Shuden " weight="1" />
+      <edge id="232" source=" Baron Shuden " target=" Teod " weight="1" />
+      <edge id="233" source=" Baron Shuden " target=" Lord Roial " weight="1" />
+      <edge id="234" source=" Baron Shuden " target=" lord Hrathen Lord " weight="1" />
+      <edge id="235" source=" Baron Shuden " target=" Lord Ahan " weight="3" />
+      <edge id="236" source=" Baron Shuden " target=" Aonic " weight="1" />
+      <edge id="237" source=" Baron Shuden " target=" Galladon " weight="1" />
+      <edge id="238" source=" Baron Shuden " target=" Raoden Prince " weight="6" />
+      <edge id="239" source=" Baron Shuden " target=" Iadon King " weight="2" />
+      <edge id="240" source=" Baron Shuden " target=" Korathi " weight="1" />
+      <edge id="241" source=" Lord Waren " target=" Mr. Jaddeth " weight="1" />
+      <edge id="242" source=" Lord Waren " target=" lord Hrathen Lord " weight="4" />
+      <edge id="243" source=" Lord Waren " target=" Eshen Queen " weight="1" />
+      <edge id="244" source=" Lord Waren " target=" Korathi " weight="1" />
+      <edge id="245" source=" Jindo " target=" Torena " weight="1" />
+      <edge id="246" source=" Jindo " target=" Omin Father " weight="1" />
+      <edge id="247" source=" Duladel " target=" Shaod " weight="1" />
+      <edge id="248" source=" Duladel " target=" Opelon " weight="1" />
+      <edge id="249" source=" Duladel " target=" Eshen Queen " weight="1" />
+      <edge id="250" source=" Duladel " target=" Raoden Prince " weight="1" />
+      <edge id="251" source=" Duladel " target=" lord Hrathen Lord " weight="1" />
+      <edge id="252" source=" Duladel " target=" Teod " weight="1" />
+      <edge id="253" source=" Horen " target=" Raoden Prince " weight="1" />
+      <edge id="254" source=" Horen " target=" Karata " weight="1" />
+      <edge id="255" source=" Count Ahan " target=" Torena " weight="1" />
+      <edge id="256" source=" Kaise " target=" Lukel " weight="4" />
+      <edge id="257" source=" Kaise " target=" Domi Idos " weight="1" />
+      <edge id="258" source=" Kaise " target=" Adien " weight="1" />
+      <edge id="259" source=" Kaise " target=" Kiin " weight="1" />
+      <edge id="260" source=" Kaise " target=" Duladen " weight="1" />
+      <edge id="261" source=" Kaise " target=" Daorn " weight="2" />
+      <edge id="262" source=" Kaise " target=" Torena " weight="1" />
+      <edge id="263" source=" Kiin " target=" Seons " weight="1" />
+      <edge id="264" source=" Kiin " target=" Ashe Aon " weight="1" />
+      <edge id="265" source=" Kiin " target=" Lord Edan " weight="1" />
+      <edge id="266" source=" Kiin " target=" Hunkey Kay " weight="1" />
+      <edge id="267" source=" Kiin " target=" Adien " weight="1" />
+      <edge id="268" source=" Kiin " target=" Lukel " weight="9" />
+      <edge id="269" source=" Kiin " target=" Domi Idos " weight="2" />
+      <edge id="270" source=" Kiin " target=" Lord Eondel " weight="14" />
+      <edge id="271" source=" Kiin " target=" Iadon King " weight="2" />
+      <edge id="272" source=" Kiin " target=" Lord Shuden " weight="1" />
+      <edge id="273" source=" Kiin " target=" Lord Roial " weight="1" />
+      <edge id="274" source=" Kiin " target=" lord Hrathen Lord " weight="3" />
+      <edge id="275" source=" Kiin " target=" Lord Ahan " weight="2" />
+      <edge id="276" source=" Kiin " target=" Raoden Prince " weight="12" />
+      <edge id="277" source=" Kiin " target=" Daora " weight="3" />
+      <edge id="278" source=" Kiin " target=" Mother " weight="1" />
+      <edge id="279" source=" Spirit " target=" Raoden Prince " weight="1" />
+      <edge id="280" source=" Spirit " target=" Taan " weight="1" />
+      <edge id="281" source=" Derethi " target=" lord Jaddeth Lord " weight="1" />
+      <edge id="282" source=" Derethi " target=" Korathi " weight="1" />
+      <edge id="283" source=" Derethi " target=" Ashe Aon " weight="1" />
+      <edge id="284" source=" Derethi " target=" Wyrn " weight="1" />
+      <edge id="285" source=" Derethi " target=" Jesker " weight="1" />
+      <edge id="286" source=" Derethi " target=" Raoden Prince " weight="1" />
+      <edge id="287" source=" Derethi " target=" Iadon King " weight="2" />
+      <edge id="288" source=" Derethi " target=" Duke Telrii " weight="1" />
+      <edge id="289" source=" Derethi " target=" Teod " weight="1" />
+      <edge id="290" source=" Derethi " target=" lord Hrathen Lord " weight="7" />
+      <edge id="291" source=" Aon Rao " target=" Raoden Prince " weight="3" />
+      <edge id="292" source=" Lukel " target=" Shaod " weight="1" />
+      <edge id="293" source=" Lukel " target=" Ashe Aon " weight="1" />
+      <edge id="294" source=" Lukel " target=" Duke Telrii " weight="1" />
+      <edge id="295" source=" Lukel " target=" Adien " weight="1" />
+      <edge id="296" source=" Lukel " target=" Elantris New " weight="2" />
+      <edge id="297" source=" Lukel " target=" Jalla " weight="5" />
+      <edge id="298" source=" Lukel " target=" Domi Idos " weight="4" />
+      <edge id="299" source=" Lukel " target=" Kaloo " weight="2" />
+      <edge id="300" source=" Lukel " target=" Lord Eondel " weight="6" />
+      <edge id="301" source=" Lukel " target=" Omin Father " weight="1" />
+      <edge id="302" source=" Lukel " target=" Daorn " weight="2" />
+      <edge id="303" source=" Lukel " target=" Lord Shuden " weight="1" />
+      <edge id="304" source=" Lukel " target=" Lord Roial " weight="1" />
+      <edge id="305" source=" Lukel " target=" Lord Ahan " weight="1" />
+      <edge id="306" source=" Lukel " target=" Raoden Prince " weight="13" />
+      <edge id="307" source=" Lukel " target=" Daora " weight="3" />
+      <edge id="308" source=" Lukel " target=" Mother " weight="1" />
+      <edge id="309" source=" Lukel " target=" Iadon King " weight="1" />
+      <edge id="310" source=" Domi Idos " target=" Lord Ahan " weight="1" />
+      <edge id="311" source=" Domi Idos " target=" Mr. Jaddeth " weight="1" />
+      <edge id="312" source=" Domi Idos " target=" Ashe Aon " weight="1" />
+      <edge id="313" source=" Domi Idos " target=" Wyrn " weight="1" />
+      <edge id="314" source=" Domi Idos " target=" Lord Eondel " weight="3" />
+      <edge id="315" source=" Domi Idos " target=" Jesker " weight="1" />
+      <edge id="316" source=" Domi Idos " target=" Omin Father " weight="1" />
+      <edge id="317" source=" Domi Idos " target=" Raoden Prince " weight="1" />
+      <edge id="318" source=" Domi Idos " target=" Iadon King " weight="4" />
+      <edge id="319" source=" Domi Idos " target=" lord Hrathen Lord " weight="1" />
+      <edge id="320" source=" Seinalan " target=" Shu-Korath " weight="1" />
+      <edge id="321" source=" Seinalan " target=" Ashe Aon " weight="1" />
+      <edge id="322" source=" Seinalan " target=" Omin Father " weight="2" />
+      <edge id="323" source=" Seinalan " target=" Iadon King " weight="2" />
+      <edge id="324" source=" Seinalan " target=" lord Hrathen Lord " weight="1" />
+      <edge id="325" source=" Kaloo " target=" Ashe Aon " weight="1" />
+      <edge id="326" source=" Kaloo " target=" Lord Eondel " weight="1" />
+      <edge id="327" source=" Kaloo " target=" Raoden Prince " weight="1" />
+      <edge id="328" source=" Kaloo " target=" Duke Telrii " weight="1" />
+      <edge id="329" source=" Dakhor " target=" lord Hrathen Lord " weight="4" />
+      <edge id="330" source=" Aon Omi " target=" Lord Eondel " weight="1" />
+      <edge id="331" source=" Aon Omi " target=" Omin Father " weight="1" />
+      <edge id="332" source=" Aon Omi " target=" lord Hrathen Lord " weight="1" />
+      <edge id="333" source=" Iadon King " target=" Fjorden " weight="1" />
+      <edge id="334" source=" Iadon King " target=" Ashe Aon " weight="1" />
+      <edge id="335" source=" Iadon King " target=" Duke Telrii " weight="2" />
+      <edge id="336" source=" Iadon King " target=" Elantris New " weight="6" />
+      <edge id="337" source=" Iadon King " target=" Saolin " weight="1" />
+      <edge id="338" source=" Iadon King " target=" Duladen " weight="1" />
+      <edge id="339" source=" Iadon King " target=" Eshen Queen " weight="2" />
+      <edge id="340" source=" Iadon King " target=" Seon " weight="1" />
+      <edge id="341" source=" Iadon King " target=" Teod " weight="1" />
+      <edge id="342" source=" Iadon King " target=" Mr. Jaddeth " weight="1" />
+      <edge id="343" source=" Iadon King " target=" lord Hrathen Lord " weight="9" />
+      <edge id="344" source=" Iadon King " target=" Lord Ahan " weight="1" />
+      <edge id="345" source=" Iadon King " target=" Wyrn " weight="1" />
+      <edge id="346" source=" Iadon King " target=" Aonic " weight="1" />
+      <edge id="347" source=" Iadon King " target=" Raoden Prince " weight="7" />
+      <edge id="348" source=" Iadon King " target=" Korathi " weight="1" />
+      <edge id="349" source=" Teod " target=" Fjorden " weight="3" />
+      <edge id="350" source=" Teod " target=" Mr. Jaddeth " weight="2" />
+      <edge id="351" source=" Teod " target=" lord Hrathen Lord " weight="1" />
+      <edge id="352" source=" Teod " target=" Wyrn " weight="1" />
+      <edge id="353" source=" Teod " target=" Raoden Prince " weight="4" />
+      <edge id="354" source=" Teod " target=" Ashe Aon " weight="1" />
+      <edge id="355" source=" Taan " target=" Shaod " weight="1" />
+      <edge id="356" source=" Taan " target=" Kahar " weight="1" />
+      <edge id="357" source=" Taan " target=" Omin Father " weight="1" />
+      <edge id="358" source=" Taan " target=" Raoden Prince " weight="16" />
+      <edge id="359" source=" Mr. Jaddeth " target=" lord Jaddeth Lord " weight="1" />
+      <edge id="360" source=" Mr. Jaddeth " target=" Duke Telrii " weight="2" />
+      <edge id="361" source=" Mr. Jaddeth " target=" Korathi " weight="1" />
+      <edge id="362" source=" Mr. Jaddeth " target=" Fjorden " weight="2" />
+      <edge id="363" source=" Mr. Jaddeth " target=" Wyrn " weight="2" />
+      <edge id="364" source=" Mr. Jaddeth " target=" Forton " weight="1" />
+      <edge id="365" source=" Mr. Jaddeth " target=" Fjordell " weight="1" />
+      <edge id="366" source=" Mr. Jaddeth " target=" Jesker " weight="1" />
+      <edge id="367" source=" Mr. Jaddeth " target=" Elantrian " weight="1" />
+      <edge id="368" source=" Mr. Jaddeth " target=" lord Hrathen Lord " weight="18" />
+      <edge id="369" source=" Kahar " target=" Shaod " weight="1" />
+      <edge id="370" source=" Kahar " target=" Ashe Aon " weight="1" />
+      <edge id="371" source=" Kahar " target=" Galladon " weight="1" />
+      <edge id="372" source=" Kahar " target=" Raoden Prince " weight="11" />
+      <edge id="373" source=" lord Hrathen Lord " target=" Fjorden " weight="4" />
+      <edge id="374" source=" lord Hrathen Lord " target=" Hrovell " weight="1" />
+      <edge id="375" source=" lord Hrathen Lord " target=" Shaod " weight="2" />
+      <edge id="376" source=" lord Hrathen Lord " target=" Ashe Aon " weight="2" />
+      <edge id="377" source=" lord Hrathen Lord " target=" Forton " weight="11" />
+      <edge id="378" source=" lord Hrathen Lord " target=" Elantrian " weight="2" />
+      <edge id="379" source=" lord Hrathen Lord " target=" Duke Telrii " weight="42" />
+      <edge id="380" source=" lord Hrathen Lord " target=" Elantris New " weight="32" />
+      <edge id="381" source=" lord Hrathen Lord " target=" Jesker " weight="1" />
+      <edge id="382" source=" lord Hrathen Lord " target=" Shu-Dereth " weight="2" />
+      <edge id="383" source=" lord Hrathen Lord " target=" Seons " weight="1" />
+      <edge id="384" source=" lord Hrathen Lord " target=" Duladen " weight="2" />
+      <edge id="385" source=" lord Hrathen Lord " target=" Lord Eondel " weight="2" />
+      <edge id="386" source=" lord Hrathen Lord " target=" Omin Father " weight="2" />
+      <edge id="387" source=" lord Hrathen Lord " target=" Seon " weight="2" />
+      <edge id="388" source=" lord Hrathen Lord " target=" lord Jaddeth Lord " weight="2" />
+      <edge id="389" source=" lord Hrathen Lord " target=" Lord Ahan " weight="1" />
+      <edge id="390" source=" lord Hrathen Lord " target=" Wyrn " weight="12" />
+      <edge id="391" source=" lord Hrathen Lord " target=" Aonic " weight="1" />
+      <edge id="392" source=" lord Hrathen Lord " target=" Galladon " weight="2" />
+      <edge id="393" source=" lord Hrathen Lord " target=" Fjordell " weight="1" />
+      <edge id="394" source=" lord Hrathen Lord " target=" Raoden Prince " weight="11" />
+      <edge id="395" source=" Lord Edan " target=" Lord Eondel " weight="1" />
+      <edge id="396" source=" Wyrn " target=" Seon " weight="1" />
+      <edge id="397" source=" Wyrn " target=" Elantris New " weight="2" />
+      <edge id="398" source=" Wyrn " target=" Shu-Korath " weight="1" />
+      <edge id="399" source=" Wyrn " target=" Fjorden " weight="1" />
+      <edge id="400" source=" Wyrn " target=" Raoden Prince " weight="1" />
+      <edge id="401" source=" Wyrn " target=" Duke Telrii " weight="2" />
+      <edge id="402" source=" Aonic " target=" Duladen " weight="1" />
+      <edge id="403" source=" Aonic " target=" Raoden Prince " weight="1" />
+      <edge id="404" source=" Aonic " target=" Korathi " weight="1" />
+      <edge id="405" source=" MaeDal " target=" Ashe Aon " weight="1" />
+      <edge id="406" source=" Fjordell " target=" Elantris New " weight="1" />
+      <edge id="407" source=" Dor " target=" Raoden Prince " weight="3" />
+      <edge id="408" source=" Dor " target=" Galladon " weight="1" />
+      <edge id="409" source=" Dor " target=" Ashe Aon " weight="1" />
+      <edge id="410" source=" Korathi " target=" Elantris New " weight="2" />
+      <edge id="411" source=" Korathi " target=" Jesker " weight="1" />
+      <edge id="412" source=" Korathi " target=" Raoden Prince " weight="1" />
+      <edge id="413" source=" Fjorden " target=" Elantris New " weight="1" />
+      <edge id="414" source=" Fjorden " target=" Raoden Prince " weight="1" />
+      <edge id="415" source=" Fjorden " target=" Duke Telrii " weight="5" />
+      <edge id="416" source=" Elantris New " target=" Shaod " weight="2" />
+      <edge id="417" source=" Elantris New " target=" Karata " weight="3" />
+      <edge id="418" source=" Elantris New " target=" Seons " weight="1" />
+      <edge id="419" source=" Elantris New " target=" Lord Eondel " weight="2" />
+      <edge id="420" source=" Elantris New " target=" Lord Roial " weight="1" />
+      <edge id="421" source=" Elantris New " target=" Galladon " weight="5" />
+      <edge id="422" source=" Elantris New " target=" Raoden Prince " weight="36" />
+      <edge id="423" source=" Jalla " target=" Raoden Prince " weight="1" />
+      <edge id="424" source=" Shaod " target=" Raoden Prince " weight="6" />
+      <edge id="425" source=" Dereth " target=" Korath " weight="1" />
+      <edge id="426" source=" Seons " target=" Raoden Prince " weight="1" />
+      <edge id="427" source=" Seons " target=" Ashe Aon " weight="1" />
+      <edge id="428" source=" Lord Eondel " target=" Lord Roial " weight="1" />
+      <edge id="429" source=" Lord Eondel " target=" Lord Shuden " weight="1" />
+      <edge id="430" source=" Lord Eondel " target=" Lord Ahan " weight="6" />
+      <edge id="431" source=" Lord Eondel " target=" Arelish " weight="1" />
+      <edge id="432" source=" Lord Eondel " target=" Duke Telrii " weight="1" />
+      <edge id="433" source=" Lord Eondel " target=" Torena " weight="1" />
+      <edge id="434" source=" Lord Eondel " target=" Shu-Dereth " weight="1" />
+      <edge id="435" source=" Omin Father " target=" Raoden Prince " weight="1" />
+      <edge id="436" source=" Daorn " target=" Adien " weight="1" />
+      <edge id="437" source=" Seon " target=" Duke Telrii " weight="1" />
+      <edge id="438" source=" Seon " target=" Ashe Aon " weight="3" />
+      <edge id="439" source=" Seon " target=" Raoden Prince " weight="3" />
+      <edge id="440" source=" Seon " target="#N/A" weight="1" />
+      <edge id="441" source=" Shaor " target=" Saolin " weight="4" />
+      <edge id="442" source=" Shaor " target=" Raoden Prince " weight="16" />
+      <edge id="443" source=" Shaor " target=" Galladon " weight="1" />
+      <edge id="444" source=" Daora " target=" Raoden Prince " weight="2" />
+      <edge id="445" source=" Daora " target=" Torena " weight="1" />
+      <edge id="446" source=" Dion " target=" Raoden Prince " weight="1" />
+      <edge id="447" source=" Ashe Aon " target=" Duke Telrii " weight="1" />
+      <edge id="448" source=" Ashe Aon " target=" Arelish " weight="1" />
+      <edge id="449" source=" Ashe Aon " target=" Shu-Korath " weight="1" />
+      <edge id="450" source=" Ashe Aon " target=" Galladon " weight="1" />
+      <edge id="451" source=" Ashe Aon " target=" Raoden Prince " weight="6" />
+      <edge id="452" source=" Duke Telrii " target=" Lord Roial " weight="1" />
+      <edge id="453" source=" Duke Telrii " target=" Lord Ahan " weight="1" />
+      <edge id="454" source=" Duke Telrii " target=" Raoden Prince " weight="1" />
+      <edge id="455" source=" Torena " target=" Lord Ahan " weight="1" />
+      <edge id="456" source=" Torena " target=" Raoden Prince " weight="2" />
+      <edge id="457" source=" Torena " target=" Lord Shuden " weight="1" />
+      <edge id="458" source=" Elantrian " target=" Duladen " weight="1" />
+      <edge id="459" source=" Elantrian " target=" Galladon " weight="1" />
+      <edge id="460" source=" Elantrian " target=" Raoden Prince " weight="2" />
+      <edge id="461" source=" Shu-Korath " target=" Raoden Prince " weight="1" />
+      <edge id="462" source=" Adien " target=" Raoden Prince " weight="2" />
+      <edge id="463" source=" Jesker " target=" Galladon " weight="1" />
+      <edge id="464" source=" Leky Stick " target=" Raoden Prince " weight="1" />
+      <edge id="465" source=" Karata " target=" Saolin " weight="2" />
+      <edge id="466" source=" Karata " target=" Galladon " weight="3" />
+      <edge id="467" source=" Karata " target=" Raoden Prince " weight="31" />
+      <edge id="468" source=" Galladon " target=" Saolin " weight="5" />
+      <edge id="469" source=" Galladon " target=" Duladen " weight="1" />
+      <edge id="470" source=" Galladon " target=" Raoden Prince " weight="28" />
+      <edge id="471" source=" Saolin " target=" Raoden Prince " weight="24" />
+      <edge id="472" source=" Duladen " target=" Raoden Prince " weight="2" />
+      <edge id="473" source=" Eshen Queen " target=" Raoden Prince " weight="1" />
+      <edge id="474" source=" Raoden Prince " target=" Aon Tia " weight="3" />
+      <edge id="475" source=" Raoden Prince " target=" Lord Roial " weight="1" />
+      <edge id="476" source=" Raoden Prince " target=" Lord Ahan " weight="2" />
+    </edges>
+  </graph>
+</gexf>

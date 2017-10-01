@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Janellaine " label=" Janellaine " />
+      <node id=" Duke Nicovante " label=" Duke Nicovante " />
+      <node id=" Morgante " label=" Morgante " />
+      <node id=" Salvaras " label=" Salvaras " />
+      <node id=" Sanzas " label=" Sanzas " />
+      <node id=" Markos " label=" Markos " />
+      <node id=" Vestris " label=" Vestris " />
+      <node id=" DoÃ±a de Marre " label=" DoÃ±a de Marre " />
+      <node id=" Bondsmagi " label=" Bondsmagi " />
+      <node id=" Gathis " label=" Gathis " />
+      <node id=" Lamora Master " label=" Lamora Master " />
+      <node id=" Stephen Reynart " label=" Stephen Reynart " />
+      <node id=" Maranzalla Don " label=" Maranzalla Don " />
+      <node id=" Auster " label=" Auster " />
+      <node id=" Fehrwight Lukas LUKAS " label=" Fehrwight Lukas LUKAS " />
+      <node id=" Isla Durona " label=" Isla Durona " />
+      <node id=" ContÃ© " label=" ContÃ© " />
+      <node id=" Strollo Madam " label=" Strollo Madam " />
+      <node id=" Angevine " label=" Angevine " />
+      <node id=" Barsavi Vencarlo Capa CAPA " label=" Barsavi Vencarlo Capa CAPA " />
+      <node id=" Falselight " label=" Falselight " />
+      <node id=" Previn Koreander " label=" Previn Koreander " />
+      <node id=" Lady Salvara lady " label=" Lady Salvara lady " />
+      <node id=" Benjavier " label=" Benjavier " />
+      <node id=" Don Javarriz " label=" Don Javarriz " />
+      <node id=" Sanza Galdo " label=" Sanza Galdo " />
+      <node id=" Barsavi Pachero " label=" Barsavi Pachero " />
+      <node id=" Luciano Anatolius " label=" Luciano Anatolius " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Bellarigio Don " label=" Bellarigio Don " />
+      <node id=" Strollo Ambrosine " label=" Strollo Ambrosine " />
+      <node id=" Camorr " label=" Camorr " />
+      <node id=" Camorri " label=" Camorri " />
+      <node id=" Cheryn " label=" Cheryn " />
+      <node id=" Berangias " label=" Berangias " />
+      <node id=" Tal Verrar " label=" Tal Verrar " />
+      <node id=" Aza Guilla " label=" Aza Guilla " />
+      <node id=" LORENZO Lorenzo Salvara Don DON " label=" LORENZO Lorenzo Salvara Don DON " />
+      <node id=" Eymon " label=" Eymon " />
+      <node id=" Thiefmaker " label=" Thiefmaker " />
+      <node id=" Raza Capa " label=" Raza Capa " />
+      <node id=" Master Callas " label=" Master Callas " />
+      <node id=" Callas Tavrin " label=" Callas Tavrin " />
+      <node id=" Constanzo " label=" Constanzo " />
+      <node id=" Karthain " label=" Karthain " />
+      <node id=" Perelandro " label=" Perelandro " />
+      <node id=" Anjais " label=" Anjais " />
+      <node id=" Gilles " label=" Gilles " />
+      <node id=" Nazca Barsavi " label=" Nazca Barsavi " />
+      <node id=" Vidrik " label=" Vidrik " />
+      <node id=" Avram Anatolius " label=" Avram Anatolius " />
+      <node id=" DoÃ±a Angiavesta Vorchenza " label=" DoÃ±a Angiavesta Vorchenza " />
+      <node id=" Raven " label=" Raven " />
+      <node id=" Harza " label=" Harza " />
+      <node id=" Raiza " label=" Raiza " />
+      <node id=" LAMORA LOCKE Lamora Locke " label=" LAMORA LOCKE Lamora Locke " />
+      <node id=" Coin-Kisser " label=" Coin-Kisser " />
+      <node id=" Tesso Volanti " label=" Tesso Volanti " />
+      <node id=" Sendovani " label=" Sendovani " />
+      <node id=" Gervain " label=" Gervain " />
+      <node id=" Lamora Locke-after-your-father " label=" Lamora Locke-after-your-father " />
+      <node id=" Gregor Foss " label=" Gregor Foss " />
+      <node id=" Ferenz " label=" Ferenz " />
+      <node id=" Bondsmage " label=" Bondsmage " />
+      <node id=" Vitale " label=" Vitale " />
+      <node id=" Meraggio GIANCANA Giancana MERAGGIO " label=" Meraggio GIANCANA Giancana MERAGGIO " />
+      <node id=" Sanza Calo " label=" Sanza Calo " />
+      <node id=" Dama Elliza " label=" Dama Elliza " />
+      <node id=" Veslin " label=" Veslin " />
+      <node id=" VI Henry " label=" VI Henry " />
+      <node id=" Julien " label=" Julien " />
+      <node id=" Don Jacobo " label=" Don Jacobo " />
+      <node id=" Gray King " label=" Gray King " />
+      <node id=" Felice " label=" Felice " />
+      <node id=" Lashani " label=" Lashani " />
+      <node id=" Eccari Evante " label=" Eccari Evante " />
+      <node id=" Ibelius " label=" Ibelius " />
+      <node id=" Hill " label=" Hill " />
+      <node id=" TANNEN Jean JEAN Tannen " label=" TANNEN Jean JEAN Tannen " />
+      <node id=" Papa " label=" Papa " />
+      <node id=" Cicilia Ricura de " label=" Cicilia Ricura de " />
+      <node id=" Lord Salvara lord " label=" Lord Salvara lord " />
+      <node id=" Coalsmoke " label=" Coalsmoke " />
+      <node id=" Graumann " label=" Graumann " />
+      <node id=" Magris " label=" Magris " />
+      <node id=" Falconer " label=" Falconer " />
+      <node id=" Thorn " label=" Thorn " />
+      <node id=" Iono " label=" Iono " />
+      <node id=" Emberlain von Graf " label=" Emberlain von Graf " />
+      <node id=" DoÃ±a Salvara Sofia " label=" DoÃ±a Salvara Sofia " />
+      <node id=" Federico " label=" Federico " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Janellaine " target=" Sanza Calo " weight="1" />
+      <edge id="1" source=" Janellaine " target=" Bondsmagi " weight="1" />
+      <edge id="2" source=" Janellaine " target=" Sanza Galdo " weight="1" />
+      <edge id="3" source=" Duke Nicovante " target=" DoÃ±a Angiavesta Vorchenza " weight="1" />
+      <edge id="4" source=" Duke Nicovante " target=" Stephen Reynart " weight="3" />
+      <edge id="5" source=" Duke Nicovante " target=" ContÃ© " weight="1" />
+      <edge id="6" source=" Duke Nicovante " target=" Raven " weight="3" />
+      <edge id="7" source=" Duke Nicovante " target=" Maranzalla Don " weight="1" />
+      <edge id="8" source=" Duke Nicovante " target=" DoÃ±a Salvara Sofia " weight="1" />
+      <edge id="9" source=" Duke Nicovante " target=" TANNEN Jean JEAN Tannen " weight="2" />
+      <edge id="10" source=" Duke Nicovante " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="11" source=" Duke Nicovante " target=" Tal Verrar " weight="1" />
+      <edge id="12" source=" Duke Nicovante " target=" Barsavi Vencarlo Capa CAPA " weight="1" />
+      <edge id="13" source=" Morgante " target=" Dama Elliza " weight="1" />
+      <edge id="14" source=" Morgante " target=" Sendovani " weight="2" />
+      <edge id="15" source=" Morgante " target=" Perelandro " weight="1" />
+      <edge id="16" source=" Morgante " target=" Iono " weight="1" />
+      <edge id="17" source=" Morgante " target=" Ferenz " weight="1" />
+      <edge id="18" source=" Morgante " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="19" source=" Salvaras " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="20" source=" Salvaras " target=" DoÃ±a Salvara Sofia " weight="1" />
+      <edge id="21" source=" Sanzas " target=" Maranzalla Don " weight="1" />
+      <edge id="22" source=" Sanzas " target=" TANNEN Jean JEAN Tannen " weight="2" />
+      <edge id="23" source=" Sanzas " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="24" source=" Markos " target=" Gervain " weight="4" />
+      <edge id="25" source=" Vestris " target=" Falconer " weight="1" />
+      <edge id="26" source=" Vestris " target=" LAMORA LOCKE Lamora Locke " weight="5" />
+      <edge id="27" source=" Vestris " target=" Raza Capa " weight="1" />
+      <edge id="28" source=" DoÃ±a de Marre " target=" Auster " weight="1" />
+      <edge id="29" source=" DoÃ±a de Marre " target=" Don Javarriz " weight="1" />
+      <edge id="30" source=" DoÃ±a de Marre " target=" Fehrwight Lukas LUKAS " weight="2" />
+      <edge id="31" source=" Bondsmagi " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="32" source=" Gathis " target=" TANNEN Jean JEAN Tannen " weight="4" />
+      <edge id="33" source=" Gathis " target=" LAMORA LOCKE Lamora Locke " weight="3" />
+      <edge id="34" source=" Lamora Master " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="35" source=" Lamora Master " target=" Ibelius " weight="3" />
+      <edge id="36" source=" Lamora Master " target=" Falconer " weight="1" />
+      <edge id="37" source=" Lamora Master " target=" Luciano Anatolius " weight="1" />
+      <edge id="38" source=" Stephen Reynart " target=" Lord Salvara lord " weight="1" />
+      <edge id="39" source=" Stephen Reynart " target=" LAMORA LOCKE Lamora Locke " weight="17" />
+      <edge id="40" source=" Stephen Reynart " target=" DoÃ±a Angiavesta Vorchenza " weight="8" />
+      <edge id="41" source=" Stephen Reynart " target=" Maranzalla Don " weight="5" />
+      <edge id="42" source=" Stephen Reynart " target=" Raven " weight="1" />
+      <edge id="43" source=" Stephen Reynart " target=" Raza Capa " weight="1" />
+      <edge id="44" source=" Stephen Reynart " target=" ContÃ© " weight="1" />
+      <edge id="45" source=" Stephen Reynart " target=" DoÃ±a Salvara Sofia " weight="2" />
+      <edge id="46" source=" Stephen Reynart " target=" LORENZO Lorenzo Salvara Don DON " weight="5" />
+      <edge id="47" source=" Stephen Reynart " target=" Bondsmage " weight="1" />
+      <edge id="48" source=" Stephen Reynart " target=" Fehrwight Lukas LUKAS " weight="1" />
+      <edge id="49" source=" Maranzalla Don " target=" DoÃ±a Angiavesta Vorchenza " weight="3" />
+      <edge id="50" source=" Maranzalla Don " target=" Aza Guilla " weight="1" />
+      <edge id="51" source=" Maranzalla Don " target=" Raza Capa " weight="4" />
+      <edge id="52" source=" Maranzalla Don " target=" Berangias " weight="1" />
+      <edge id="53" source=" Maranzalla Don " target=" Ibelius " weight="1" />
+      <edge id="54" source=" Maranzalla Don " target=" LORENZO Lorenzo Salvara Don DON " weight="1" />
+      <edge id="55" source=" Maranzalla Don " target=" TANNEN Jean JEAN Tannen " weight="35" />
+      <edge id="56" source=" Maranzalla Don " target=" LAMORA LOCKE Lamora Locke " weight="3" />
+      <edge id="57" source=" Maranzalla Don " target=" Tal Verrar " weight="1" />
+      <edge id="58" source=" Auster " target=" Fehrwight Lukas LUKAS " weight="4" />
+      <edge id="59" source=" Auster " target=" DoÃ±a Salvara Sofia " weight="1" />
+      <edge id="60" source=" Fehrwight Lukas LUKAS " target=" Lord Salvara lord " weight="1" />
+      <edge id="61" source=" Fehrwight Lukas LUKAS " target=" Don Jacobo " weight="1" />
+      <edge id="62" source=" Fehrwight Lukas LUKAS " target=" Eccari Evante " weight="1" />
+      <edge id="63" source=" Fehrwight Lukas LUKAS " target=" Raven " weight="1" />
+      <edge id="64" source=" Fehrwight Lukas LUKAS " target=" TANNEN Jean JEAN Tannen " weight="2" />
+      <edge id="65" source=" Fehrwight Lukas LUKAS " target=" Callas Tavrin " weight="1" />
+      <edge id="66" source=" Fehrwight Lukas LUKAS " target=" DoÃ±a Salvara Sofia " weight="4" />
+      <edge id="67" source=" Fehrwight Lukas LUKAS " target=" LORENZO Lorenzo Salvara Don DON " weight="10" />
+      <edge id="68" source=" Fehrwight Lukas LUKAS " target=" LAMORA LOCKE Lamora Locke " weight="14" />
+      <edge id="69" source=" Fehrwight Lukas LUKAS " target=" Meraggio GIANCANA Giancana MERAGGIO " weight="1" />
+      <edge id="70" source=" Isla Durona " target=" Raza Capa " weight="1" />
+      <edge id="71" source=" Isla Durona " target=" DoÃ±a Salvara Sofia " weight="1" />
+      <edge id="72" source=" ContÃ© " target=" Sanza Calo " weight="5" />
+      <edge id="73" source=" ContÃ© " target=" DoÃ±a Angiavesta Vorchenza " weight="1" />
+      <edge id="74" source=" ContÃ© " target=" LORENZO Lorenzo Salvara Don DON " weight="7" />
+      <edge id="75" source=" ContÃ© " target=" LAMORA LOCKE Lamora Locke " weight="18" />
+      <edge id="76" source=" ContÃ© " target=" Tal Verrar " weight="1" />
+      <edge id="77" source=" Strollo Madam " target=" LAMORA LOCKE Lamora Locke " weight="8" />
+      <edge id="78" source=" Strollo Madam " target=" Sanza Galdo " weight="1" />
+      <edge id="79" source=" Angevine " target=" Sanza Calo " weight="1" />
+      <edge id="80" source=" Angevine " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="81" source=" Angevine " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="82" source=" Barsavi Vencarlo Capa CAPA " target=" Tesso Volanti " weight="1" />
+      <edge id="83" source=" Barsavi Vencarlo Capa CAPA " target=" Julien " weight="2" />
+      <edge id="84" source=" Barsavi Vencarlo Capa CAPA " target=" Sanza Calo " weight="2" />
+      <edge id="85" source=" Barsavi Vencarlo Capa CAPA " target=" Bondsmage " weight="1" />
+      <edge id="86" source=" Barsavi Vencarlo Capa CAPA " target=" Falconer " weight="1" />
+      <edge id="87" source=" Barsavi Vencarlo Capa CAPA " target=" Raiza " weight="1" />
+      <edge id="88" source=" Barsavi Vencarlo Capa CAPA " target=" Cheryn " weight="1" />
+      <edge id="89" source=" Barsavi Vencarlo Capa CAPA " target=" Sanza Galdo " weight="1" />
+      <edge id="90" source=" Barsavi Vencarlo Capa CAPA " target=" Raza Capa " weight="18" />
+      <edge id="91" source=" Barsavi Vencarlo Capa CAPA " target=" Anjais " weight="2" />
+      <edge id="92" source=" Barsavi Vencarlo Capa CAPA " target=" Camorr " weight="1" />
+      <edge id="93" source=" Barsavi Vencarlo Capa CAPA " target=" Nazca Barsavi " weight="1" />
+      <edge id="94" source=" Barsavi Vencarlo Capa CAPA " target=" TANNEN Jean JEAN Tannen " weight="12" />
+      <edge id="95" source=" Barsavi Vencarlo Capa CAPA " target=" LORENZO Lorenzo Salvara Don DON " weight="1" />
+      <edge id="96" source=" Barsavi Vencarlo Capa CAPA " target=" LAMORA LOCKE Lamora Locke " weight="46" />
+      <edge id="97" source=" Barsavi Vencarlo Capa CAPA " target=" Barsavi Pachero " weight="4" />
+      <edge id="98" source=" Barsavi Vencarlo Capa CAPA " target=" Luciano Anatolius " weight="1" />
+      <edge id="99" source=" Barsavi Vencarlo Capa CAPA " target=" Federico " weight="3" />
+      <edge id="100" source=" Falselight " target=" LAMORA LOCKE Lamora Locke " weight="4" />
+      <edge id="101" source=" Falselight " target=" Coin-Kisser " weight="1" />
+      <edge id="102" source=" Previn Koreander " target=" LAMORA LOCKE Lamora Locke " weight="6" />
+      <edge id="103" source=" Previn Koreander " target=" Master Callas " weight="1" />
+      <edge id="104" source=" Previn Koreander " target=" Meraggio GIANCANA Giancana MERAGGIO " weight="1" />
+      <edge id="105" source=" Lady Salvara lady " target=" LAMORA LOCKE Lamora Locke " weight="1" />
+      <edge id="106" source=" Benjavier " target=" LORENZO Lorenzo Salvara Don DON " weight="1" />
+      <edge id="107" source=" Benjavier " target=" LAMORA LOCKE Lamora Locke " weight="1" />
+      <edge id="108" source=" Benjavier " target=" Meraggio GIANCANA Giancana MERAGGIO " weight="1" />
+      <edge id="109" source=" Sanza Galdo " target=" Tesso Volanti " weight="1" />
+      <edge id="110" source=" Sanza Galdo " target=" Sanza Calo " weight="80" />
+      <edge id="111" source=" Sanza Galdo " target=" Sendovani " weight="1" />
+      <edge id="112" source=" Sanza Galdo " target=" Karthain " weight="1" />
+      <edge id="113" source=" Sanza Galdo " target="#N/A" weight="1" />
+      <edge id="114" source=" Sanza Galdo " target=" Harza " weight="1" />
+      <edge id="115" source=" Sanza Galdo " target=" Camorri " weight="1" />
+      <edge id="116" source=" Sanza Galdo " target=" LORENZO Lorenzo Salvara Don DON " weight="2" />
+      <edge id="117" source=" Sanza Galdo " target=" TANNEN Jean JEAN Tannen " weight="12" />
+      <edge id="118" source=" Sanza Galdo " target=" LAMORA LOCKE Lamora Locke " weight="56" />
+      <edge id="119" source=" Barsavi Pachero " target=" Tesso Volanti " weight="1" />
+      <edge id="120" source=" Barsavi Pachero " target=" LAMORA LOCKE Lamora Locke " weight="1" />
+      <edge id="121" source=" Barsavi Pachero " target=" Anjais " weight="7" />
+      <edge id="122" source=" Barsavi Pachero " target=" Papa " weight="1" />
+      <edge id="123" source=" Luciano Anatolius " target=" Raza Capa " weight="2" />
+      <edge id="124" source=" Luciano Anatolius " target=" Camorr " weight="1" />
+      <edge id="125" source=" Luciano Anatolius " target=" Falconer " weight="1" />
+      <edge id="126" source="#N/A" target=" TANNEN Jean JEAN Tannen " weight="2" />
+      <edge id="127" source="#N/A" target=" Emberlain von Graf " weight="1" />
+      <edge id="128" source="#N/A" target=" LORENZO Lorenzo Salvara Don DON " weight="1" />
+      <edge id="129" source=" Bellarigio Don " target=" Lashani " weight="1" />
+      <edge id="130" source=" Strollo Ambrosine " target=" Camorr " weight="1" />
+      <edge id="131" source=" Camorr " target=" LAMORA LOCKE Lamora Locke " weight="1" />
+      <edge id="132" source=" Camorr " target=" Tal Verrar " weight="1" />
+      <edge id="133" source=" Camorri " target=" Sanza Calo " weight="1" />
+      <edge id="134" source=" Camorri " target=" LAMORA LOCKE Lamora Locke " weight="1" />
+      <edge id="135" source=" Camorri " target=" Tal Verrar " weight="1" />
+      <edge id="136" source=" Cheryn " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="137" source=" Cheryn " target=" Raiza " weight="1" />
+      <edge id="138" source=" Berangias " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="139" source=" Berangias " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="140" source=" Tal Verrar " target=" LAMORA LOCKE Lamora Locke " weight="1" />
+      <edge id="141" source=" Aza Guilla " target=" Perelandro " weight="1" />
+      <edge id="142" source=" Aza Guilla " target=" Iono " weight="1" />
+      <edge id="143" source=" LORENZO Lorenzo Salvara Don DON " target=" Sanza Calo " weight="1" />
+      <edge id="144" source=" LORENZO Lorenzo Salvara Don DON " target=" Lord Salvara lord " weight="1" />
+      <edge id="145" source=" LORENZO Lorenzo Salvara Don DON " target=" Don Jacobo " weight="1" />
+      <edge id="146" source=" LORENZO Lorenzo Salvara Don DON " target=" DoÃ±a Angiavesta Vorchenza " weight="1" />
+      <edge id="147" source=" LORENZO Lorenzo Salvara Don DON " target=" Perelandro " weight="1" />
+      <edge id="148" source=" LORENZO Lorenzo Salvara Don DON " target=" Callas Tavrin " weight="1" />
+      <edge id="149" source=" LORENZO Lorenzo Salvara Don DON " target=" DoÃ±a Salvara Sofia " weight="4" />
+      <edge id="150" source=" LORENZO Lorenzo Salvara Don DON " target=" TANNEN Jean JEAN Tannen " weight="4" />
+      <edge id="151" source=" LORENZO Lorenzo Salvara Don DON " target=" LAMORA LOCKE Lamora Locke " weight="10" />
+      <edge id="152" source=" LORENZO Lorenzo Salvara Don DON " target=" Meraggio GIANCANA Giancana MERAGGIO " weight="3" />
+      <edge id="153" source=" Eymon " target=" Falconer " weight="1" />
+      <edge id="154" source=" Eymon " target=" LAMORA LOCKE Lamora Locke " weight="6" />
+      <edge id="155" source=" Eymon " target=" Raza Capa " weight="1" />
+      <edge id="156" source=" Thiefmaker " target=" Lamora Locke-after-your-father " weight="1" />
+      <edge id="157" source=" Thiefmaker " target=" LAMORA LOCKE Lamora Locke " weight="1" />
+      <edge id="158" source=" Thiefmaker " target=" Veslin " weight="1" />
+      <edge id="159" source=" Thiefmaker " target=" Hill " weight="1" />
+      <edge id="160" source=" Raza Capa " target=" Bondsmage " weight="1" />
+      <edge id="161" source=" Raza Capa " target=" DoÃ±a Angiavesta Vorchenza " weight="1" />
+      <edge id="162" source=" Raza Capa " target=" Gray King " weight="1" />
+      <edge id="163" source=" Raza Capa " target=" DoÃ±a Salvara Sofia " weight="2" />
+      <edge id="164" source=" Raza Capa " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="165" source=" Raza Capa " target=" LAMORA LOCKE Lamora Locke " weight="17" />
+      <edge id="166" source=" Raza Capa " target=" Avram Anatolius " weight="1" />
+      <edge id="167" source=" Callas Tavrin " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="168" source=" Callas Tavrin " target=" LAMORA LOCKE Lamora Locke " weight="4" />
+      <edge id="169" source=" Constanzo " target=" Vidrik " weight="2" />
+      <edge id="170" source=" Karthain " target=" Sanza Calo " weight="1" />
+      <edge id="171" source=" Perelandro " target=" Sendovani " weight="1" />
+      <edge id="172" source=" Perelandro " target=" Iono " weight="1" />
+      <edge id="173" source=" Perelandro " target=" Hill " weight="1" />
+      <edge id="174" source=" Perelandro " target=" LAMORA LOCKE Lamora Locke " weight="3" />
+      <edge id="175" source=" Anjais " target=" LAMORA LOCKE Lamora Locke " weight="12" />
+      <edge id="176" source=" Anjais " target=" Papa " weight="1" />
+      <edge id="177" source=" Gilles " target=" DoÃ±a Angiavesta Vorchenza " weight="1" />
+      <edge id="178" source=" Gilles " target=" DoÃ±a Salvara Sofia " weight="1" />
+      <edge id="179" source=" Nazca Barsavi " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="180" source=" Avram Anatolius " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="181" source=" DoÃ±a Angiavesta Vorchenza " target=" Bondsmage " weight="1" />
+      <edge id="182" source=" DoÃ±a Angiavesta Vorchenza " target=" Falconer " weight="2" />
+      <edge id="183" source=" DoÃ±a Angiavesta Vorchenza " target=" Raven " weight="1" />
+      <edge id="184" source=" DoÃ±a Angiavesta Vorchenza " target=" DoÃ±a Salvara Sofia " weight="12" />
+      <edge id="185" source=" DoÃ±a Angiavesta Vorchenza " target=" LAMORA LOCKE Lamora Locke " weight="2" />
+      <edge id="186" source=" DoÃ±a Angiavesta Vorchenza " target=" Meraggio GIANCANA Giancana MERAGGIO " weight="1" />
+      <edge id="187" source=" Raven " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="188" source=" Raven " target=" LAMORA LOCKE Lamora Locke " weight="1" />
+      <edge id="189" source=" Harza " target=" Sanza Calo " weight="1" />
+      <edge id="190" source=" Harza " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="191" source=" Harza " target=" LAMORA LOCKE Lamora Locke " weight="7" />
+      <edge id="192" source=" Raiza " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="193" source=" LAMORA LOCKE Lamora Locke " target=" Sanza Calo " weight="44" />
+      <edge id="194" source=" LAMORA LOCKE Lamora Locke " target=" Meraggio GIANCANA Giancana MERAGGIO " weight="32" />
+      <edge id="195" source=" LAMORA LOCKE Lamora Locke " target=" Gray King " weight="3" />
+      <edge id="196" source=" LAMORA LOCKE Lamora Locke " target=" Felice " weight="1" />
+      <edge id="197" source=" LAMORA LOCKE Lamora Locke " target=" Ibelius " weight="1" />
+      <edge id="198" source=" LAMORA LOCKE Lamora Locke " target=" Hill " weight="4" />
+      <edge id="199" source=" LAMORA LOCKE Lamora Locke " target=" TANNEN Jean JEAN Tannen " weight="210" />
+      <edge id="200" source=" LAMORA LOCKE Lamora Locke " target=" VI Henry " weight="1" />
+      <edge id="201" source=" LAMORA LOCKE Lamora Locke " target=" Cicilia Ricura de " weight="1" />
+      <edge id="202" source=" LAMORA LOCKE Lamora Locke " target=" Federico " weight="5" />
+      <edge id="203" source=" LAMORA LOCKE Lamora Locke " target=" Coalsmoke " weight="1" />
+      <edge id="204" source=" LAMORA LOCKE Lamora Locke " target=" Graumann " weight="1" />
+      <edge id="205" source=" LAMORA LOCKE Lamora Locke " target=" Coin-Kisser " weight="1" />
+      <edge id="206" source=" LAMORA LOCKE Lamora Locke " target=" Tesso Volanti " weight="13" />
+      <edge id="207" source=" LAMORA LOCKE Lamora Locke " target=" Magris " weight="2" />
+      <edge id="208" source=" LAMORA LOCKE Lamora Locke " target=" Falconer " weight="5" />
+      <edge id="209" source=" LAMORA LOCKE Lamora Locke " target=" Lamora Locke-after-your-father " weight="1" />
+      <edge id="210" source=" LAMORA LOCKE Lamora Locke " target=" Vitale " weight="3" />
+      <edge id="211" source=" LAMORA LOCKE Lamora Locke " target=" Emberlain von Graf " weight="2" />
+      <edge id="212" source=" LAMORA LOCKE Lamora Locke " target=" Gregor Foss " weight="2" />
+      <edge id="213" source=" LAMORA LOCKE Lamora Locke " target=" DoÃ±a Salvara Sofia " weight="5" />
+      <edge id="214" source=" LAMORA LOCKE Lamora Locke " target=" Ferenz " weight="2" />
+      <edge id="215" source=" LAMORA LOCKE Lamora Locke " target=" Bondsmage " weight="4" />
+      <edge id="216" source=" Tesso Volanti " target=" Sanza Calo " weight="1" />
+      <edge id="217" source=" Tesso Volanti " target=" TANNEN Jean JEAN Tannen " weight="3" />
+      <edge id="218" source=" Sendovani " target=" Dama Elliza " weight="1" />
+      <edge id="219" source=" Sendovani " target=" Iono " weight="1" />
+      <edge id="220" source=" Lamora Locke-after-your-father " target=" Hill " weight="2" />
+      <edge id="221" source=" Gregor Foss " target=" Veslin " weight="4" />
+      <edge id="222" source=" Bondsmage " target=" Falconer " weight="1" />
+      <edge id="223" source=" Bondsmage " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="224" source=" Vitale " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="225" source=" Vitale " target=" Hill " weight="1" />
+      <edge id="226" source=" Meraggio GIANCANA Giancana MERAGGIO " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="227" source=" Sanza Calo " target=" TANNEN Jean JEAN Tannen " weight="16" />
+      <edge id="228" source=" Veslin " target=" Hill " weight="1" />
+      <edge id="229" source=" Julien " target=" Federico " weight="2" />
+      <edge id="230" source=" Gray King " target=" TANNEN Jean JEAN Tannen " weight="2" />
+      <edge id="231" source=" Eccari Evante " target=" Lord Salvara lord " weight="1" />
+      <edge id="232" source=" Ibelius " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="233" source=" Hill " target=" TANNEN Jean JEAN Tannen " weight="1" />
+      <edge id="234" source=" TANNEN Jean JEAN Tannen " target=" Coalsmoke " weight="1" />
+      <edge id="235" source=" TANNEN Jean JEAN Tannen " target=" Falconer " weight="3" />
+      <edge id="236" source=" TANNEN Jean JEAN Tannen " target=" DoÃ±a Salvara Sofia " weight="1" />
+      <edge id="237" source=" Thorn " target=" DoÃ±a Salvara Sofia " weight="1" />
+    </edges>
+  </graph>
+</gexf>

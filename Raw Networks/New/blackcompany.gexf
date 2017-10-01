@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Pokey " label=" Pokey " />
+      <node id=" Harden " label=" Harden " />
+      <node id=" Jolly " label=" Jolly " />
+      <node id=" Forsberg " label=" Forsberg " />
+      <node id=" Darling " label=" Darling " />
+      <node id=" Moonbiter " label=" Moonbiter " />
+      <node id=" Longhead " label=" Longhead " />
+      <node id=" Brown " label=" Brown " />
+      <node id=" Opal " label=" Opal " />
+      <node id=" Elmo " label=" Elmo " />
+      <node id=" Limper " label=" Limper " />
+      <node id=" Wild Bruce " label=" Wild Bruce " />
+      <node id=" Crispin " label=" Crispin " />
+      <node id=" Goblin " label=" Goblin " />
+      <node id=" Bomanz " label=" Bomanz " />
+      <node id=" Raven " label=" Raven " />
+      <node id=" Doughbelly " label=" Doughbelly " />
+      <node id=" Lane " label=" Lane " />
+      <node id=" Shifter " label=" Shifter " />
+      <node id=" Zouad " label=" Zouad " />
+      <node id=" Whitey " label=" Whitey " />
+      <node id=" Cornie " label=" Cornie " />
+      <node id=" Raker RAKER " label=" Raker RAKER " />
+      <node id=" Otto " label=" Otto " />
+      <node id=" Stormbringer " label=" Stormbringer " />
+      <node id=" Hagop " label=" Hagop " />
+      <node id=" Beryl " label=" Beryl " />
+      <node id=" Soulcatcher " label=" Soulcatcher " />
+      <node id=" Bonegnasher " label=" Bonegnasher " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Pokey " target=" Elmo " weight="1" />
+      <edge id="1" source=" Pokey " target=" Wild Bruce " weight="1" />
+      <edge id="2" source=" Harden " target=" Raven " weight="1" />
+      <edge id="3" source=" Harden " target=" Shifter " weight="1" />
+      <edge id="4" source=" Harden " target=" Soulcatcher " weight="1" />
+      <edge id="5" source=" Harden " target=" Stormbringer " weight="1" />
+      <edge id="6" source=" Jolly " target=" Longhead " weight="1" />
+      <edge id="7" source=" Forsberg " target=" Soulcatcher " weight="1" />
+      <edge id="8" source=" Forsberg " target=" Raker RAKER " weight="2" />
+      <edge id="9" source=" Darling " target=" Raven " weight="1" />
+      <edge id="10" source=" Moonbiter " target=" Bonegnasher " weight="2" />
+      <edge id="11" source=" Brown " target=" Goblin " weight="2" />
+      <edge id="12" source=" Opal " target=" Beryl " weight="1" />
+      <edge id="13" source=" Elmo " target=" Whitey " weight="1" />
+      <edge id="14" source=" Elmo " target=" Raven " weight="2" />
+      <edge id="15" source=" Elmo " target=" Cornie " weight="3" />
+      <edge id="16" source=" Elmo " target=" Doughbelly " weight="1" />
+      <edge id="17" source=" Elmo " target=" Raker RAKER " weight="2" />
+      <edge id="18" source=" Elmo " target=" Otto " weight="2" />
+      <edge id="19" source=" Elmo " target=" Hagop " weight="1" />
+      <edge id="20" source=" Elmo " target=" Soulcatcher " weight="2" />
+      <edge id="21" source=" Elmo " target=" Goblin " weight="4" />
+      <edge id="22" source=" Limper " target=" Raven " weight="1" />
+      <edge id="23" source=" Crispin " target=" Otto " weight="1" />
+      <edge id="24" source=" Goblin " target=" Otto " weight="1" />
+      <edge id="25" source=" Goblin " target=" Raven " weight="7" />
+      <edge id="26" source=" Goblin " target=" Soulcatcher " weight="1" />
+      <edge id="27" source=" Bomanz " target=" Raven " weight="1" />
+      <edge id="28" source=" Raven " target=" Zouad " weight="2" />
+      <edge id="29" source=" Raven " target=" Cornie " weight="2" />
+      <edge id="30" source=" Raven " target=" Raker RAKER " weight="4" />
+      <edge id="31" source=" Raven " target=" Otto " weight="2" />
+      <edge id="32" source=" Raven " target=" Stormbringer " weight="1" />
+      <edge id="33" source=" Raven " target=" Lane " weight="1" />
+      <edge id="34" source=" Raven " target=" Hagop " weight="1" />
+      <edge id="35" source=" Raven " target=" Shifter " weight="2" />
+      <edge id="36" source=" Raven " target=" Soulcatcher " weight="9" />
+      <edge id="37" source=" Raker RAKER " target=" Soulcatcher " weight="3" />
+      <edge id="38" source=" Raker RAKER " target=" Hagop " weight="1" />
+      <edge id="39" source=" Otto " target=" Hagop " weight="1" />
+      <edge id="40" source=" Otto " target=" Soulcatcher " weight="2" />
+      <edge id="41" source=" Stormbringer " target=" Soulcatcher " weight="1" />
+      <edge id="42" source=" Stormbringer " target=" Bonegnasher " weight="1" />
+    </edges>
+  </graph>
+</gexf>

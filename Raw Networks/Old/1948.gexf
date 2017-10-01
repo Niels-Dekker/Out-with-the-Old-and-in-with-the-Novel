@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Tillotson " label=" Tillotson " />
+      <node id=" B.B. " label=" B.B. " />
+      <node id=" Jones " label=" Jones " />
+      <node id=" Rutherford " label=" Rutherford " />
+      <node id=" Big Brother " label=" Big Brother " />
+      <node id=" O'Brien " label=" O'Brien " />
+      <node id=" Syme " label=" Syme " />
+      <node id=" Newspeak " label=" Newspeak " />
+      <node id=" Milton " label=" Milton " />
+      <node id=" Julia " label=" Julia " />
+      <node id=" Withers " label=" Withers " />
+      <node id=" Winston Smith " label=" Winston Smith " />
+      <node id=" Charrington Mr " label=" Charrington Mr " />
+      <node id=" Goldstein Emmanuel " label=" Goldstein Emmanuel " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Aaronson " label=" Aaronson " />
+      <node id=" Martin St " label=" Martin St " />
+      <node id=" Shakespeare " label=" Shakespeare " />
+      <node id=" Katharine " label=" Katharine " />
+      <node id=" Parsons Mrs " label=" Parsons Mrs " />
+      <node id=" Ogilvy " label=" Ogilvy " />
+      <node id=" Oldspeak " label=" Oldspeak " />
+      <node id=" Tom " label=" Tom " />
+      <node id=" Byron " label=" Byron " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Tillotson " target=" Winston Smith " weight="2" />
+      <edge id="1" source=" Tillotson " target=" Ogilvy " weight="1" />
+      <edge id="2" source=" B.B. " target=" Winston Smith " weight="1" />
+      <edge id="3" source=" B.B. " target=" Parsons Mrs " weight="1" />
+      <edge id="4" source=" Jones " target=" Winston Smith " weight="1" />
+      <edge id="5" source=" Jones " target=" Aaronson " weight="5" />
+      <edge id="6" source=" Jones " target=" Julia " weight="1" />
+      <edge id="7" source=" Jones " target=" Rutherford " weight="5" />
+      <edge id="8" source=" Rutherford " target=" Winston Smith " weight="1" />
+      <edge id="9" source=" Rutherford " target=" Aaronson " weight="6" />
+      <edge id="10" source=" Rutherford " target=" Julia " weight="1" />
+      <edge id="11" source=" Big Brother " target=" Goldstein Emmanuel " weight="2" />
+      <edge id="12" source=" Big Brother " target=" O'Brien " weight="1" />
+      <edge id="13" source=" O'Brien " target=" Julia " weight="21" />
+      <edge id="14" source=" O'Brien " target=" Winston Smith " weight="2" />
+      <edge id="15" source=" O'Brien " target=" Martin St " weight="1" />
+      <edge id="16" source=" O'Brien " target=" Charrington Mr " weight="4" />
+      <edge id="17" source=" O'Brien " target=" Goldstein Emmanuel " weight="2" />
+      <edge id="18" source=" Syme " target=" Winston Smith " weight="6" />
+      <edge id="19" source=" Syme " target=" Goldstein Emmanuel " weight="1" />
+      <edge id="20" source=" Newspeak " target=" Oldspeak " weight="1" />
+      <edge id="21" source=" Milton " target=" Byron " weight="2" />
+      <edge id="22" source=" Milton " target=" Shakespeare " weight="2" />
+      <edge id="23" source=" Julia " target="#N/A" weight="5" />
+      <edge id="24" source=" Julia " target=" Winston Smith " weight="4" />
+      <edge id="25" source=" Julia " target=" Aaronson " weight="1" />
+      <edge id="26" source=" Julia " target=" Charrington Mr " weight="1" />
+      <edge id="27" source=" Julia " target=" Katharine " weight="2" />
+      <edge id="28" source=" Julia " target=" Goldstein Emmanuel " weight="1" />
+      <edge id="29" source=" Withers " target=" Winston Smith " weight="1" />
+      <edge id="30" source=" Winston Smith " target=" Aaronson " weight="2" />
+      <edge id="31" source=" Winston Smith " target=" Ogilvy " weight="1" />
+      <edge id="32" source=" Winston Smith " target=" Martin St " weight="1" />
+      <edge id="33" source=" Winston Smith " target=" Charrington Mr " weight="9" />
+      <edge id="34" source=" Winston Smith " target=" Katharine " weight="12" />
+      <edge id="35" source=" Winston Smith " target=" Parsons Mrs " weight="5" />
+      <edge id="36" source=" Winston Smith " target=" Goldstein Emmanuel " weight="1" />
+      <edge id="37" source=" Charrington Mr " target="#N/A" weight="2" />
+      <edge id="38" source=" Charrington Mr " target=" Martin St " weight="1" />
+      <edge id="39" source=" Goldstein Emmanuel " target=" Parsons Mrs " weight="1" />
+      <edge id="40" source=" Shakespeare " target=" Byron " weight="2" />
+      <edge id="41" source=" Parsons Mrs " target=" Tom " weight="2" />
+    </edges>
+  </graph>
+</gexf>

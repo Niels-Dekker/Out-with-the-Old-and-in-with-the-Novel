@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Enoch J. Drebber " label=" Enoch J. Drebber " />
+      <node id=" JOHN John FERRIER Ferrier " label=" JOHN John FERRIER Ferrier " />
+      <node id=" Houndsditch " label=" Houndsditch " />
+      <node id=" Stangerson Mr. Joseph " label=" Stangerson Mr. Joseph " />
+      <node id=" Mr. Jefferson Hope " label=" Mr. Jefferson Hope " />
+      <node id=" Lauriston Gardens " label=" Lauriston Gardens " />
+      <node id=" Sawyer " label=" Sawyer " />
+      <node id=" Watson Dr. " label=" Watson Dr. " />
+      <node id=" Dupin " label=" Dupin " />
+      <node id=" Mr. Gregson " label=" Mr. Gregson " />
+      <node id=" Mrs. Charpentier " label=" Mrs. Charpentier " />
+      <node id=" Mr. Lestrade " label=" Mr. Lestrade " />
+      <node id=" Young " label=" Young " />
+      <node id=" Lucy Ferrier " label=" Lucy Ferrier " />
+      <node id=" JOHN John RANCE Rance " label=" JOHN John RANCE Rance " />
+      <node id=" Joseph Smith " label=" Joseph Smith " />
+      <node id=" Mr. Drebber " label=" Mr. Drebber " />
+      <node id=" Tobias Gregson GREGSON TOBIAS " label=" Tobias Gregson GREGSON TOBIAS " />
+      <node id=" Halliday " label=" Halliday " />
+      <node id=" Lecoq " label=" Lecoq " />
+      <node id=" Alice " label=" Alice " />
+      <node id=" Sierra Blanco " label=" Sierra Blanco " />
+      <node id=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " label=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " />
+      <node id=" Dennis " label=" Dennis " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Enoch J. Drebber " target=" Mr. Jefferson Hope " weight="1" />
+      <edge id="1" source=" Enoch J. Drebber " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="1" />
+      <edge id="2" source=" Enoch J. Drebber " target=" Stangerson Mr. Joseph " weight="1" />
+      <edge id="3" source=" JOHN John FERRIER Ferrier " target=" Stangerson Mr. Joseph " weight="1" />
+      <edge id="4" source=" JOHN John FERRIER Ferrier " target=" Mr. Jefferson Hope " weight="3" />
+      <edge id="5" source=" JOHN John FERRIER Ferrier " target=" Lucy Ferrier " weight="2" />
+      <edge id="6" source=" JOHN John FERRIER Ferrier " target=" Halliday " weight="1" />
+      <edge id="7" source=" JOHN John FERRIER Ferrier " target=" Sierra Blanco " weight="1" />
+      <edge id="8" source=" JOHN John FERRIER Ferrier " target=" Mr. Drebber " weight="2" />
+      <edge id="9" source=" JOHN John FERRIER Ferrier " target=" Young " weight="4" />
+      <edge id="10" source=" Houndsditch " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="1" />
+      <edge id="11" source=" Stangerson Mr. Joseph " target=" Mr. Lestrade " weight="5" />
+      <edge id="12" source=" Stangerson Mr. Joseph " target=" Mr. Jefferson Hope " weight="2" />
+      <edge id="13" source=" Stangerson Mr. Joseph " target=" Lucy Ferrier " weight="3" />
+      <edge id="14" source=" Stangerson Mr. Joseph " target=" Halliday " weight="1" />
+      <edge id="15" source=" Stangerson Mr. Joseph " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="2" />
+      <edge id="16" source=" Stangerson Mr. Joseph " target=" Mr. Drebber " weight="11" />
+      <edge id="17" source=" Stangerson Mr. Joseph " target=" Alice " weight="2" />
+      <edge id="18" source=" Mr. Jefferson Hope " target=" Lucy Ferrier " weight="3" />
+      <edge id="19" source=" Mr. Jefferson Hope " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="1" />
+      <edge id="20" source=" Mr. Jefferson Hope " target=" Mr. Drebber " weight="2" />
+      <edge id="21" source=" Lauriston Gardens " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="1" />
+      <edge id="22" source=" Sawyer " target=" Dennis " weight="2" />
+      <edge id="23" source=" Watson Dr. " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="1" />
+      <edge id="24" source=" Dupin " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="1" />
+      <edge id="25" source=" Mr. Gregson " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="1" />
+      <edge id="26" source=" Mr. Gregson " target=" Mr. Lestrade " weight="3" />
+      <edge id="27" source=" Mrs. Charpentier " target=" Mr. Drebber " weight="2" />
+      <edge id="28" source=" Mr. Lestrade " target=" Halliday " weight="1" />
+      <edge id="29" source=" Mr. Lestrade " target=" JOHN John RANCE Rance " weight="1" />
+      <edge id="30" source=" Mr. Lestrade " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="9" />
+      <edge id="31" source=" Mr. Lestrade " target=" Tobias Gregson GREGSON TOBIAS " weight="7" />
+      <edge id="32" source=" Young " target=" Sierra Blanco " weight="1" />
+      <edge id="33" source=" Young " target=" Joseph Smith " weight="1" />
+      <edge id="34" source=" Lucy Ferrier " target=" Mr. Drebber " weight="2" />
+      <edge id="35" source=" JOHN John RANCE Rance " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="2" />
+      <edge id="36" source=" Mr. Drebber " target=" Alice " weight="1" />
+      <edge id="37" source=" Mr. Drebber " target=" Halliday " weight="1" />
+      <edge id="38" source=" Mr. Drebber " target=" Tobias Gregson GREGSON TOBIAS " weight="1" />
+      <edge id="39" source=" Tobias Gregson GREGSON TOBIAS " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="6" />
+      <edge id="40" source=" Lecoq " target=" HOLMES Holmes Mr. MR. SHERLOCK Sherlock " weight="1" />
+    </edges>
+  </graph>
+</gexf>

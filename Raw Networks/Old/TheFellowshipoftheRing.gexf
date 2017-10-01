@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Anduin " label=" Anduin " />
+      <node id=" Mr. Pippin " label=" Mr. Pippin " />
+      <node id=" Bolgers " label=" Bolgers " />
+      <node id=" Gildor " label=" Gildor " />
+      <node id=" Cerin Amroth " label=" Cerin Amroth " />
+      <node id=" Ri " label=" Ri " />
+      <node id=" Mr. Brandybuck " label=" Mr. Brandybuck " />
+      <node id=" Grey " label=" Grey " />
+      <node id=" Balin " label=" Balin " />
+      <node id=" Lindir " label=" Lindir " />
+      <node id=" Brown " label=" Brown " />
+      <node id=" Celeborn Lord " label=" Celeborn Lord " />
+      <node id=" Black " label=" Black " />
+      <node id=" Holman " label=" Holman " />
+      <node id=" Elendil Isildur " label=" Elendil Isildur " />
+      <node id=" Hill " label=" Hill " />
+      <node id=" Bush " label=" Bush " />
+      <node id=" Dale Dimrill " label=" Dale Dimrill " />
+      <node id=" Hen Amon " label=" Hen Amon " />
+      <node id=" Combe " label=" Combe " />
+      <node id=" Hal " label=" Hal " />
+      <node id=" Brandybuck Rory " label=" Brandybuck Rory " />
+      <node id=" Gluin " label=" Gluin " />
+      <node id=" Mr. Drogo " label=" Mr. Drogo " />
+      <node id=" Thorin " label=" Thorin " />
+      <node id=" Lurien " label=" Lurien " />
+      <node id=" Lotho " label=" Lotho " />
+      <node id=" Mr. Merry " label=" Mr. Merry " />
+      <node id=" Legolas " label=" Legolas " />
+      <node id=" Radagast " label=" Radagast " />
+      <node id=" Silverlode " label=" Silverlode " />
+      <node id=" Mirkwood " label=" Mirkwood " />
+      <node id=" Buckland " label=" Buckland " />
+      <node id=" Boromir " label=" Boromir " />
+      <node id=" Sauron " label=" Sauron " />
+      <node id=" Rohan " label=" Rohan " />
+      <node id=" Moon " label=" Moon " />
+      <node id=" Celebrnan " label=" Celebrnan " />
+      <node id=" Bruinen " label=" Bruinen " />
+      <node id=" Lothlurien " label=" Lothlurien " />
+      <node id=" Elrohir " label=" Elrohir " />
+      <node id=" Bombadillo Tom " label=" Bombadillo Tom " />
+      <node id=" Strider Mr. " label=" Strider Mr. " />
+      <node id=" Lord Denethor " label=" Lord Denethor " />
+      <node id=" Brockhouse " label=" Brockhouse " />
+      <node id=" Fie " label=" Fie " />
+      <node id=" Mr. Gandalf " label=" Mr. Gandalf " />
+      <node id=" Elrond " label=" Elrond " />
+      <node id=" Goldberry " label=" Goldberry " />
+      <node id=" Odo Proudfoot " label=" Odo Proudfoot " />
+      <node id=" Lumpkin " label=" Lumpkin " />
+      <node id=" Ori " label=" Ori " />
+      <node id=" Haldir " label=" Haldir " />
+      <node id=" Erestor " label=" Erestor " />
+      <node id=" Bagshot Row " label=" Bagshot Row " />
+      <node id=" Gamgee Sam " label=" Gamgee Sam " />
+      <node id=" Shire " label=" Shire " />
+      <node id=" Saruman " label=" Saruman " />
+      <node id=" Varda " label=" Varda " />
+      <node id=" Lobelia " label=" Lobelia " />
+      <node id=" Nob " label=" Nob " />
+      <node id=" Galdor " label=" Galdor " />
+      <node id=" Bob " label=" Bob " />
+      <node id=" Beren " label=" Beren " />
+      <node id=" Frodo Baggins " label=" Frodo Baggins " />
+      <node id=" Gimli " label=" Gimli " />
+      <node id=" Caras Galadhon " label=" Caras Galadhon " />
+      <node id=" Caradhras " label=" Caradhras " />
+      <node id=" Grubbs " label=" Grubbs " />
+      <node id=" Glorfindel " label=" Glorfindel " />
+      <node id=" Narsil " label=" Narsil " />
+      <node id=" Brandybuck Merry " label=" Brandybuck Merry " />
+      <node id=" Bilbo Mr. Baggins " label=" Bilbo Mr. Baggins " />
+      <node id=" Arwen " label=" Arwen " />
+      <node id=" Weathertop " label=" Weathertop " />
+      <node id=" Gandalf miss " label=" Gandalf miss " />
+      <node id=" Wight " label=" Wight " />
+      <node id=" Mr. Underhill " label=" Mr. Underhill " />
+      <node id=" Sandyman Ted " label=" Sandyman Ted " />
+      <node id=" Fredegar Bolger " label=" Fredegar Bolger " />
+      <node id=" Bree " label=" Bree " />
+      <node id=" Edrendil " label=" Edrendil " />
+      <node id=" Elbereth " label=" Elbereth " />
+      <node id=" Bill Ferny " label=" Bill Ferny " />
+      <node id=" Lady Galadriel " label=" Lady Galadriel " />
+      <node id=" Anbrion " label=" Anbrion " />
+      <node id=" Peregrin Mr. " label=" Peregrin Mr. " />
+      <node id=" Folco Boffin " label=" Folco Boffin " />
+      <node id=" Mr. Took " label=" Mr. Took " />
+      <node id=" Hornblowers " label=" Hornblowers " />
+      <node id=" Elladan " label=" Elladan " />
+      <node id=" Harry " label=" Harry " />
+      <node id=" Delving Michel " label=" Delving Michel " />
+      <node id=" Dbin " label=" Dbin " />
+      <node id=" Otho " label=" Otho " />
+      <node id=" Gondor " label=" Gondor " />
+      <node id=" Dym Carn " label=" Dym Carn " />
+      <node id=" Brandybucks " label=" Brandybucks " />
+      <node id=" Lhaw Amon " label=" Lhaw Amon " />
+      <node id=" Frodo Mr. " label=" Frodo Mr. " />
+      <node id=" Archet " label=" Archet " />
+      <node id=" Brandy Hall " label=" Brandy Hall " />
+      <node id=" Bombadil Tom " label=" Bombadil Tom " />
+      <node id=" Bagginses " label=" Bagginses " />
+      <node id=" Mr. Butterbur " label=" Mr. Butterbur " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Anduin " target=" Lurien " weight="1" />
+      <edge id="1" source=" Anduin " target=" Silverlode " weight="2" />
+      <edge id="2" source=" Mr. Pippin " target=" Elrond " weight="2" />
+      <edge id="3" source=" Mr. Pippin " target=" Legolas " weight="3" />
+      <edge id="4" source=" Mr. Pippin " target=" Frodo Mr. " weight="1" />
+      <edge id="5" source=" Mr. Pippin " target=" Gamgee Sam " weight="31" />
+      <edge id="6" source=" Mr. Pippin " target=" Bilbo Mr. Baggins " weight="4" />
+      <edge id="7" source=" Mr. Pippin " target=" Fredegar Bolger " weight="1" />
+      <edge id="8" source=" Mr. Pippin " target=" Beren " weight="1" />
+      <edge id="9" source=" Mr. Pippin " target=" Frodo Baggins " weight="30" />
+      <edge id="10" source=" Mr. Pippin " target=" Gimli " weight="1" />
+      <edge id="11" source=" Mr. Pippin " target=" Brandybuck Merry " weight="3" />
+      <edge id="12" source=" Mr. Pippin " target=" Bill Ferny " weight="1" />
+      <edge id="13" source=" Mr. Pippin " target=" Strider Mr. " weight="1" />
+      <edge id="14" source=" Mr. Pippin " target=" Haldir " weight="1" />
+      <edge id="15" source=" Mr. Pippin " target=" Boromir " weight="2" />
+      <edge id="16" source=" Mr. Pippin " target=" Folco Boffin " weight="1" />
+      <edge id="17" source=" Bolgers " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="18" source=" Bolgers " target=" Hornblowers " weight="1" />
+      <edge id="19" source=" Bolgers " target=" Brandybucks " weight="1" />
+      <edge id="20" source=" Bolgers " target=" Bagginses " weight="1" />
+      <edge id="21" source=" Bolgers " target=" Grubbs " weight="1" />
+      <edge id="22" source=" Gildor " target=" Frodo Baggins " weight="8" />
+      <edge id="23" source=" Gildor " target=" Shire " weight="1" />
+      <edge id="24" source=" Cerin Amroth " target=" Frodo Baggins " weight="1" />
+      <edge id="25" source=" Cerin Amroth " target=" Haldir " weight="1" />
+      <edge id="26" source=" Ri " target=" Elrond " weight="2" />
+      <edge id="27" source=" Mr. Brandybuck " target=" Mr. Took " weight="1" />
+      <edge id="28" source=" Mr. Brandybuck " target=" Gamgee Sam " weight="1" />
+      <edge id="29" source=" Mr. Brandybuck " target=" Frodo Baggins " weight="1" />
+      <edge id="30" source=" Grey " target=" Radagast " weight="1" />
+      <edge id="31" source=" Balin " target=" Legolas " weight="1" />
+      <edge id="32" source=" Balin " target=" Dale Dimrill " weight="1" />
+      <edge id="33" source=" Balin " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="34" source=" Balin " target=" Dbin " weight="1" />
+      <edge id="35" source=" Balin " target=" Frodo Baggins " weight="1" />
+      <edge id="36" source=" Balin " target=" Gimli " weight="1" />
+      <edge id="37" source=" Balin " target=" Ori " weight="1" />
+      <edge id="38" source=" Lindir " target=" Bilbo Mr. Baggins " weight="2" />
+      <edge id="39" source=" Brown " target=" Saruman " weight="1" />
+      <edge id="40" source=" Celeborn Lord " target=" Haldir " weight="1" />
+      <edge id="41" source=" Celeborn Lord " target=" Lurien " weight="1" />
+      <edge id="42" source=" Celeborn Lord " target=" Lady Galadriel " weight="2" />
+      <edge id="43" source=" Black " target=" Sauron " weight="1" />
+      <edge id="44" source=" Holman " target=" Gamgee Sam " weight="1" />
+      <edge id="45" source=" Holman " target=" Bush " weight="1" />
+      <edge id="46" source=" Elendil Isildur " target=" Elrond " weight="1" />
+      <edge id="47" source=" Elendil Isildur " target=" Sauron " weight="1" />
+      <edge id="48" source=" Elendil Isildur " target=" Frodo Baggins " weight="1" />
+      <edge id="49" source=" Elendil Isildur " target=" Narsil " weight="1" />
+      <edge id="50" source=" Elendil Isildur " target=" Saruman " weight="1" />
+      <edge id="51" source=" Elendil Isildur " target=" Anbrion " weight="1" />
+      <edge id="52" source=" Hill " target=" Gamgee Sam " weight="1" />
+      <edge id="53" source=" Hill " target=" Frodo Baggins " weight="4" />
+      <edge id="54" source=" Hill " target=" Bagshot Row " weight="1" />
+      <edge id="55" source=" Hill " target=" Bombadil Tom " weight="1" />
+      <edge id="56" source=" Dale Dimrill " target=" Gluin " weight="1" />
+      <edge id="57" source=" Dale Dimrill " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="58" source=" Dale Dimrill " target=" Frodo Baggins " weight="1" />
+      <edge id="59" source=" Dale Dimrill " target=" Dbin " weight="1" />
+      <edge id="60" source=" Dale Dimrill " target=" Gimli " weight="1" />
+      <edge id="61" source=" Hen Amon " target=" Lhaw Amon " weight="1" />
+      <edge id="62" source=" Hen Amon " target=" Gamgee Sam " weight="1" />
+      <edge id="63" source=" Hen Amon " target=" Frodo Baggins " weight="1" />
+      <edge id="64" source=" Combe " target=" Archet " weight="2" />
+      <edge id="65" source=" Combe " target=" Bree " weight="1" />
+      <edge id="66" source=" Hal " target=" Sandyman Ted " weight="1" />
+      <edge id="67" source=" Brandybuck Rory " target=" Bilbo Mr. Baggins " weight="2" />
+      <edge id="68" source=" Gluin " target=" Frodo Baggins " weight="4" />
+      <edge id="69" source=" Gluin " target=" Gimli " weight="1" />
+      <edge id="70" source=" Mr. Drogo " target=" Elrond " weight="1" />
+      <edge id="71" source=" Mr. Drogo " target=" Bilbo Mr. Baggins " weight="2" />
+      <edge id="72" source=" Mr. Drogo " target=" Frodo Baggins " weight="5" />
+      <edge id="73" source=" Mr. Drogo " target=" Frodo Mr. " weight="1" />
+      <edge id="74" source=" Thorin " target=" Bilbo Mr. Baggins " weight="2" />
+      <edge id="75" source=" Thorin " target=" Gandalf miss " weight="1" />
+      <edge id="76" source=" Lurien " target=" Legolas " weight="2" />
+      <edge id="77" source=" Lurien " target=" Celebrnan " weight="1" />
+      <edge id="78" source=" Lurien " target=" Silverlode " weight="1" />
+      <edge id="79" source=" Lurien " target=" Lady Galadriel " weight="1" />
+      <edge id="80" source=" Lurien " target=" Lothlurien " weight="1" />
+      <edge id="81" source=" Lurien " target=" Gondor " weight="1" />
+      <edge id="82" source=" Lurien " target=" Haldir " weight="1" />
+      <edge id="83" source=" Lotho " target=" Frodo Baggins " weight="1" />
+      <edge id="84" source=" Lotho " target=" Lobelia " weight="1" />
+      <edge id="85" source=" Mr. Merry " target=" Gamgee Sam " weight="1" />
+      <edge id="86" source=" Mr. Merry " target=" Frodo Mr. " weight="1" />
+      <edge id="87" source=" Legolas " target=" Dbin " weight="1" />
+      <edge id="88" source=" Legolas " target=" Boromir " weight="1" />
+      <edge id="89" source=" Legolas " target=" Gamgee Sam " weight="5" />
+      <edge id="90" source=" Legolas " target=" Frodo Baggins " weight="1" />
+      <edge id="91" source=" Legolas " target=" Gimli " weight="2" />
+      <edge id="92" source=" Legolas " target=" Lothlurien " weight="2" />
+      <edge id="93" source=" Legolas " target=" Haldir " weight="1" />
+      <edge id="94" source=" Legolas " target=" Peregrin Mr. " weight="1" />
+      <edge id="95" source=" Legolas " target=" Lady Galadriel " weight="1" />
+      <edge id="96" source=" Silverlode " target=" Frodo Baggins " weight="1" />
+      <edge id="97" source=" Mirkwood " target=" Moon " weight="1" />
+      <edge id="98" source=" Buckland " target=" Gamgee Sam " weight="2" />
+      <edge id="99" source=" Buckland " target=" Bree " weight="1" />
+      <edge id="100" source=" Buckland " target=" Shire " weight="1" />
+      <edge id="101" source=" Buckland " target=" Frodo Mr. " weight="1" />
+      <edge id="102" source=" Buckland " target=" Lobelia " weight="1" />
+      <edge id="103" source=" Boromir " target=" Elrond " weight="2" />
+      <edge id="104" source=" Boromir " target=" Sauron " weight="1" />
+      <edge id="105" source=" Boromir " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="106" source=" Boromir " target=" Gamgee Sam " weight="2" />
+      <edge id="107" source=" Boromir " target=" Frodo Baggins " weight="1" />
+      <edge id="108" source=" Boromir " target=" Gondor " weight="2" />
+      <edge id="109" source=" Boromir " target=" Strider Mr. " weight="2" />
+      <edge id="110" source=" Boromir " target=" Peregrin Mr. " weight="1" />
+      <edge id="111" source=" Sauron " target=" Elrond " weight="1" />
+      <edge id="112" source=" Sauron " target=" Caradhras " weight="1" />
+      <edge id="113" source=" Sauron " target=" Rohan " weight="1" />
+      <edge id="114" source=" Sauron " target=" Glorfindel " weight="1" />
+      <edge id="115" source=" Sauron " target=" Beren " weight="1" />
+      <edge id="116" source=" Sauron " target=" Frodo Baggins " weight="1" />
+      <edge id="117" source=" Sauron " target=" Gimli " weight="1" />
+      <edge id="118" source=" Sauron " target=" Gondor " weight="2" />
+      <edge id="119" source=" Sauron " target=" Saruman " weight="2" />
+      <edge id="120" source=" Sauron " target=" Narsil " weight="1" />
+      <edge id="121" source=" Rohan " target=" Frodo Baggins " weight="2" />
+      <edge id="122" source=" Moon " target=" Elbereth " weight="1" />
+      <edge id="123" source=" Moon " target=" Frodo Mr. " weight="1" />
+      <edge id="124" source=" Bruinen " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="125" source=" Bruinen " target=" Frodo Baggins " weight="1" />
+      <edge id="126" source=" Lothlurien " target=" Frodo Baggins " weight="1" />
+      <edge id="127" source=" Elrohir " target=" Elrond " weight="1" />
+      <edge id="128" source=" Elrohir " target=" Elladan " weight="1" />
+      <edge id="129" source=" Bombadillo Tom " target=" Bombadil Tom " weight="3" />
+      <edge id="130" source=" Strider Mr. " target=" Elrond " weight="2" />
+      <edge id="131" source=" Strider Mr. " target=" Nob " weight="1" />
+      <edge id="132" source=" Strider Mr. " target=" Beren " weight="3" />
+      <edge id="133" source=" Strider Mr. " target=" Bilbo Mr. Baggins " weight="3" />
+      <edge id="134" source=" Strider Mr. " target=" Bree " weight="2" />
+      <edge id="135" source=" Strider Mr. " target=" Glorfindel " weight="4" />
+      <edge id="136" source=" Strider Mr. " target=" Gamgee Sam " weight="13" />
+      <edge id="137" source=" Strider Mr. " target=" Frodo Baggins " weight="34" />
+      <edge id="138" source=" Strider Mr. " target=" Weathertop " weight="1" />
+      <edge id="139" source=" Strider Mr. " target=" Brandybuck Merry " weight="1" />
+      <edge id="140" source=" Lord Denethor " target=" Elrond " weight="1" />
+      <edge id="141" source=" Brockhouse " target=" Odo Proudfoot " weight="1" />
+      <edge id="142" source=" Brockhouse " target=" Fredegar Bolger " weight="1" />
+      <edge id="143" source=" Brockhouse " target=" Folco Boffin " weight="1" />
+      <edge id="144" source=" Fie " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="145" source=" Fie " target=" Frodo Baggins " weight="1" />
+      <edge id="146" source=" Fie " target=" Gamgee Sam " weight="1" />
+      <edge id="147" source=" Mr. Gandalf " target=" Frodo Mr. " weight="1" />
+      <edge id="148" source=" Elrond " target=" Erestor " weight="1" />
+      <edge id="149" source=" Elrond " target=" Galdor " weight="2" />
+      <edge id="150" source=" Elrond " target=" Brandybuck Merry " weight="1" />
+      <edge id="151" source=" Elrond " target=" Glorfindel " weight="1" />
+      <edge id="152" source=" Elrond " target=" Gamgee Sam " weight="3" />
+      <edge id="153" source=" Elrond " target=" Frodo Baggins " weight="9" />
+      <edge id="154" source=" Elrond " target=" Shire " weight="1" />
+      <edge id="155" source=" Elrond " target=" Bilbo Mr. Baggins " weight="2" />
+      <edge id="156" source=" Elrond " target=" Elladan " weight="1" />
+      <edge id="157" source=" Goldberry " target=" Frodo Baggins " weight="1" />
+      <edge id="158" source=" Goldberry " target=" Bombadil Tom " weight="10" />
+      <edge id="159" source=" Odo Proudfoot " target=" Grubbs " weight="1" />
+      <edge id="160" source=" Odo Proudfoot " target=" Frodo Baggins " weight="1" />
+      <edge id="161" source=" Odo Proudfoot " target=" Fredegar Bolger " weight="1" />
+      <edge id="162" source=" Odo Proudfoot " target=" Folco Boffin " weight="1" />
+      <edge id="163" source=" Lumpkin " target=" Bombadil Tom " weight="4" />
+      <edge id="164" source=" Ori " target=" Gimli " weight="1" />
+      <edge id="165" source=" Ori " target=" Dbin " weight="1" />
+      <edge id="166" source=" Haldir " target=" Gamgee Sam " weight="1" />
+      <edge id="167" source=" Haldir " target=" Frodo Baggins " weight="4" />
+      <edge id="168" source=" Haldir " target=" Lady Galadriel " weight="1" />
+      <edge id="169" source=" Erestor " target=" Galdor " weight="1" />
+      <edge id="170" source=" Erestor " target=" Bombadil Tom " weight="1" />
+      <edge id="171" source=" Gamgee Sam " target=" Bilbo Mr. Baggins " weight="3" />
+      <edge id="172" source=" Gamgee Sam " target=" Sandyman Ted " weight="3" />
+      <edge id="173" source=" Gamgee Sam " target=" Bombadil Tom " weight="1" />
+      <edge id="174" source=" Gamgee Sam " target=" Shire " weight="1" />
+      <edge id="175" source=" Gamgee Sam " target=" Peregrin Mr. " weight="2" />
+      <edge id="176" source=" Gamgee Sam " target=" Bill Ferny " weight="2" />
+      <edge id="177" source=" Gamgee Sam " target=" Mr. Took " weight="1" />
+      <edge id="178" source=" Gamgee Sam " target=" Bob " weight="1" />
+      <edge id="179" source=" Gamgee Sam " target=" Beren " weight="1" />
+      <edge id="180" source=" Gamgee Sam " target=" Frodo Baggins " weight="24" />
+      <edge id="181" source=" Gamgee Sam " target=" Gimli " weight="4" />
+      <edge id="182" source=" Gamgee Sam " target=" Frodo Mr. " weight="3" />
+      <edge id="183" source=" Gamgee Sam " target=" Brandybuck Merry " weight="1" />
+      <edge id="184" source=" Gamgee Sam " target=" Lobelia " weight="1" />
+      <edge id="185" source=" Gamgee Sam " target=" Mr. Butterbur " weight="1" />
+      <edge id="186" source=" Shire " target=" Bilbo Mr. Baggins " weight="3" />
+      <edge id="187" source=" Shire " target=" Bree " weight="1" />
+      <edge id="188" source=" Shire " target=" Frodo Baggins " weight="1" />
+      <edge id="189" source=" Saruman " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="190" source=" Saruman " target=" Frodo Baggins " weight="1" />
+      <edge id="191" source=" Varda " target=" Elbereth " weight="1" />
+      <edge id="192" source=" Lobelia " target=" Frodo Mr. " weight="1" />
+      <edge id="193" source=" Lobelia " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="194" source=" Lobelia " target=" Frodo Baggins " weight="1" />
+      <edge id="195" source=" Lobelia " target=" Otho " weight="1" />
+      <edge id="196" source=" Nob " target=" Frodo Baggins " weight="1" />
+      <edge id="197" source=" Galdor " target=" Glorfindel " weight="1" />
+      <edge id="198" source=" Bob " target=" Bree " weight="1" />
+      <edge id="199" source=" Bob " target=" Bill Ferny " weight="2" />
+      <edge id="200" source=" Bob " target=" Mr. Butterbur " weight="1" />
+      <edge id="201" source=" Beren " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="202" source=" Beren " target=" Frodo Baggins " weight="1" />
+      <edge id="203" source=" Frodo Baggins " target=" Bilbo Mr. Baggins " weight="73" />
+      <edge id="204" source=" Frodo Baggins " target=" Gandalf miss " weight="5" />
+      <edge id="205" source=" Frodo Baggins " target=" Arwen " weight="2" />
+      <edge id="206" source=" Frodo Baggins " target=" Bombadil Tom " weight="6" />
+      <edge id="207" source=" Frodo Baggins " target=" Bree " weight="2" />
+      <edge id="208" source=" Frodo Baggins " target=" Edrendil " weight="1" />
+      <edge id="209" source=" Frodo Baggins " target=" Elbereth " weight="1" />
+      <edge id="210" source=" Frodo Baggins " target=" Lady Galadriel " weight="3" />
+      <edge id="211" source=" Frodo Baggins " target=" Peregrin Mr. " weight="1" />
+      <edge id="212" source=" Frodo Baggins " target=" Folco Boffin " weight="1" />
+      <edge id="213" source=" Frodo Baggins " target=" Mr. Took " weight="1" />
+      <edge id="214" source=" Frodo Baggins " target=" Harry " weight="1" />
+      <edge id="215" source=" Frodo Baggins " target=" Delving Michel " weight="1" />
+      <edge id="216" source=" Frodo Baggins " target=" Dbin " weight="1" />
+      <edge id="217" source=" Frodo Baggins " target=" Otho " weight="1" />
+      <edge id="218" source=" Frodo Baggins " target=" Glorfindel " weight="3" />
+      <edge id="219" source=" Frodo Baggins " target=" Mr. Underhill " weight="2" />
+      <edge id="220" source=" Frodo Baggins " target=" Gimli " weight="10" />
+      <edge id="221" source=" Frodo Baggins " target=" Brandybuck Merry " weight="5" />
+      <edge id="222" source=" Frodo Baggins " target=" Fredegar Bolger " weight="1" />
+      <edge id="223" source=" Frodo Baggins " target=" Mr. Butterbur " weight="1" />
+      <edge id="224" source=" Gimli " target=" Lady Galadriel " weight="2" />
+      <edge id="225" source=" Gimli " target=" Bill Ferny " weight="1" />
+      <edge id="226" source=" Gimli " target=" Dbin " weight="1" />
+      <edge id="227" source=" Gimli " target=" Brandybuck Merry " weight="1" />
+      <edge id="228" source=" Gimli " target=" Caradhras " weight="1" />
+      <edge id="229" source=" Caras Galadhon " target=" Lady Galadriel " weight="1" />
+      <edge id="230" source=" Grubbs " target=" Bilbo Mr. Baggins " weight="2" />
+      <edge id="231" source=" Grubbs " target=" Hornblowers " weight="2" />
+      <edge id="232" source=" Grubbs " target=" Brandybucks " weight="2" />
+      <edge id="233" source=" Glorfindel " target=" Bombadil Tom " weight="1" />
+      <edge id="234" source=" Brandybuck Merry " target=" Frodo Mr. " weight="1" />
+      <edge id="235" source=" Brandybuck Merry " target=" Bilbo Mr. Baggins " weight="1" />
+      <edge id="236" source=" Brandybuck Merry " target=" Fredegar Bolger " weight="2" />
+      <edge id="237" source=" Brandybuck Merry " target=" Brandy Hall " weight="1" />
+      <edge id="238" source=" Brandybuck Merry " target=" Bombadil Tom " weight="1" />
+      <edge id="239" source=" Brandybuck Merry " target=" Folco Boffin " weight="2" />
+      <edge id="240" source=" Bilbo Mr. Baggins " target=" Gandalf miss " weight="3" />
+      <edge id="241" source=" Bilbo Mr. Baggins " target=" Fredegar Bolger " weight="1" />
+      <edge id="242" source=" Bilbo Mr. Baggins " target=" Edrendil " weight="1" />
+      <edge id="243" source=" Bilbo Mr. Baggins " target=" Peregrin Mr. " weight="1" />
+      <edge id="244" source=" Bilbo Mr. Baggins " target=" Hornblowers " weight="2" />
+      <edge id="245" source=" Bilbo Mr. Baggins " target=" Dbin " weight="1" />
+      <edge id="246" source=" Bilbo Mr. Baggins " target=" Otho " weight="2" />
+      <edge id="247" source=" Bilbo Mr. Baggins " target=" Brandybucks " weight="3" />
+      <edge id="248" source=" Bilbo Mr. Baggins " target=" Delving Michel " weight="1" />
+      <edge id="249" source=" Bilbo Mr. Baggins " target=" Mr. Underhill " weight="1" />
+      <edge id="250" source=" Bilbo Mr. Baggins " target=" Bombadil Tom " weight="1" />
+      <edge id="251" source=" Wight " target=" Bombadil Tom " weight="1" />
+      <edge id="252" source=" Fredegar Bolger " target=" Folco Boffin " weight="3" />
+      <edge id="253" source=" Bree " target=" Bombadil Tom " weight="1" />
+      <edge id="254" source=" Bree " target=" Archet " weight="1" />
+      <edge id="255" source=" Bill Ferny " target=" Frodo Mr. " weight="1" />
+      <edge id="256" source=" Bill Ferny " target=" Mr. Butterbur " weight="1" />
+      <edge id="257" source=" Hornblowers " target=" Brandybucks " weight="2" />
+      <edge id="258" source=" Dym Carn " target=" Bombadil Tom " weight="1" />
+      <edge id="259" source=" Bombadil Tom " target=" Mr. Butterbur " weight="1" />
+    </edges>
+  </graph>
+</gexf>

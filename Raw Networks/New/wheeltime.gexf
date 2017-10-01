@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Machin Shin " label=" Machin Shin " />
+      <node id=" Ride Deven " label=" Ride Deven " />
+      <node id=" Whitecloak " label=" Whitecloak " />
+      <node id=" Luhhan Haral " label=" Luhhan Haral " />
+      <node id=" â Rand al Thor " label=" â Rand al Thor " />
+      <node id=" Calder " label=" Calder " />
+      <node id=" Farstrider Jain " label=" Farstrider Jain " />
+      <node id=" Malkier " label=" Malkier " />
+      <node id=" Bartim " label=" Bartim " />
+      <node id=" Blaes " label=" Blaes " />
+      <node id=" Mistress Luhhan " label=" Mistress Luhhan " />
+      <node id=" Watch Hill " label=" Watch Hill " />
+      <node id=" Shadar Logoth " label=" Shadar Logoth " />
+      <node id=" Howal Gode " label=" Howal Gode " />
+      <node id=" Master Luhhan " label=" Master Luhhan " />
+      <node id=" Mordeth " label=" Mordeth " />
+      <node id=" Kinch Hyam " label=" Kinch Hyam " />
+      <node id=" Caemlyn " label=" Caemlyn " />
+      <node id=" Manetheren " label=" Manetheren " />
+      <node id=" Mashadar " label=" Mashadar " />
+      <node id=" Gray " label=" Gray " />
+      <node id=" Winternight " label=" Winternight " />
+      <node id=" Ishamael " label=" Ishamael " />
+      <node id=" Mistress Alys " label=" Mistress Alys " />
+      <node id=" Aybara Perrin " label=" Aybara Perrin " />
+      <node id=" Mistress Grinwell " label=" Mistress Grinwell " />
+      <node id=" Elder Haman " label=" Elder Haman " />
+      <node id=" Galad " label=" Galad " />
+      <node id=" Balthamel " label=" Balthamel " />
+      <node id=" Draghkar " label=" Draghkar " />
+      <node id=" Fitch Master " label=" Fitch Master " />
+      <node id=" Master Grinwell " label=" Master Grinwell " />
+      <node id=" Thom Merrilin " label=" Thom Merrilin " />
+      <node id=" Oren Dautry " label=" Oren Dautry " />
+      <node id=" Baerlon " label=" Baerlon " />
+      <node id=" Hari " label=" Hari " />
+      <node id=" Strom " label=" Strom " />
+      <node id=" Aes Sedai " label=" Aes Sedai " />
+      <node id=" Trollocs " label=" Trollocs " />
+      <node id=" Sightburner " label=" Sightburner " />
+      <node id=" Elan Morin " label=" Elan Morin " />
+      <node id=" Maradon " label=" Maradon " />
+      <node id=" Thorin " label=" Thorin " />
+      <node id=" Brandelwyn " label=" Brandelwyn " />
+      <node id=" Elayne Lady " label=" Elayne Lady " />
+      <node id=" Fang " label=" Fang " />
+      <node id=" Ebou Dar " label=" Ebou Dar " />
+      <node id=" Horn " label=" Horn " />
+      <node id=" Shan Dai " label=" Shan Dai " />
+      <node id=" Aginor " label=" Aginor " />
+      <node id=" Absher " label=" Absher " />
+      <node id=" Ramey " label=" Ramey " />
+      <node id=" Damodred Taringail " label=" Damodred Taringail " />
+      <node id=" Amador " label=" Amador " />
+      <node id=" Tallanvor " label=" Tallanvor " />
+      <node id=" Lord Gareth " label=" Lord Gareth " />
+      <node id=" Moiraine Sedai " label=" Moiraine Sedai " />
+      <node id=" bush " label=" bush " />
+      <node id=" Darkfriends " label=" Darkfriends " />
+      <node id=" Illian " label=" Illian " />
+      <node id=" Crawe Samel " label=" Crawe Samel " />
+      <node id=" Daise " label=" Daise " />
+      <node id=" Darkfriend " label=" Darkfriend " />
+      <node id=" Aram " label=" Aram " />
+      <node id=" Bayle Domon " label=" Bayle Domon " />
+      <node id=" Barran " label=" Barran " />
+      <node id=" Gelb Floran " label=" Gelb Floran " />
+      <node id=" Lady Moiraine " label=" Lady Moiraine " />
+      <node id=" Elyas " label=" Elyas " />
+      <node id=" Bela " label=" Bela " />
+      <node id=" Thane Jon " label=" Thane Jon " />
+      <node id=" Morgase " label=" Morgase " />
+      <node id=" Shayol Ghul " label=" Shayol Ghul " />
+      <node id=" Mutch " label=" Mutch " />
+      <node id=" Ara " label=" Ara " />
+      <node id=" Aldieb " label=" Aldieb " />
+      <node id=" Malkieri " label=" Malkieri " />
+      <node id=" Ingtar " label=" Ingtar " />
+      <node id=" Dapple " label=" Dapple " />
+      <node id=" Lord Bornhald " label=" Lord Bornhald " />
+      <node id=" Balwen " label=" Balwen " />
+      <node id=" Bryne Gareth " label=" Bryne Gareth " />
+      <node id=" Valon Tar " label=" Valon Tar " />
+      <node id=" Shienar " label=" Shienar " />
+      <node id=" Hawkwing Artur " label=" Hawkwing Artur " />
+      <node id=" Ewin Finngar " label=" Ewin Finngar " />
+      <node id=" Hopper " label=" Hopper " />
+      <node id=" Lenn " label=" Lenn " />
+      <node id=" Cowin Fairheart " label=" Cowin Fairheart " />
+      <node id=" Green Man " label=" Green Man " />
+      <node id=" Halfmen " label=" Halfmen " />
+      <node id=" Breyan " label=" Breyan " />
+      <node id=" Master Andra " label=" Master Andra " />
+      <node id=" Fain Padan " label=" Fain Padan " />
+      <node id=" Arafel " label=" Arafel " />
+      <node id=" Lamgwin " label=" Lamgwin " />
+      <node id=" Aemon " label=" Aemon " />
+      <node id=" Myrddraal " label=" Myrddraal " />
+      <node id=" Aye " label=" Aye " />
+      <node id=" Whitecloaks " label=" Whitecloaks " />
+      <node id=" Sara " label=" Sara " />
+      <node id=" Tine Bel " label=" Tine Bel " />
+      <node id=" Adan " label=" Adan " />
+      <node id=" Aiel " label=" Aiel " />
+      <node id=" Byar " label=" Byar " />
+      <node id=" Isam " label=" Isam " />
+      <node id=" Cartman " label=" Cartman " />
+      <node id=" Baâalzamon " label=" Baâalzamon " />
+      <node id=" Leanna " label=" Leanna " />
+      <node id=" Halfman " label=" Halfman " />
+      <node id=" Valere " label=" Valere " />
+      <node id=" Elaida Sedai " label=" Elaida Sedai " />
+      <node id=" Jak " label=" Jak " />
+      <node id=" Ila " label=" Ila " />
+      <node id=" Amalasan Guaire " label=" Amalasan Guaire " />
+      <node id=" Bran " label=" Bran " />
+      <node id=" nettles Nettles " label=" nettles Nettles " />
+      <node id=" Dara Fal " label=" Dara Fal " />
+      <node id=" Ferry Taren " label=" Ferry Taren " />
+      <node id=" Avin " label=" Avin " />
+      <node id=" Grubb Mother " label=" Grubb Mother " />
+      <node id=" Mandarb " label=" Mandarb " />
+      <node id=" Red " label=" Red " />
+      <node id=" Lord Agelmar " label=" Lord Agelmar " />
+      <node id=" Nynaeve " label=" Nynaeve " />
+      <node id=" Davian " label=" Davian " />
+      <node id=" Hake Saml " label=" Hake Saml " />
+      <node id=" Darksbane Raolin " label=" Darksbane Raolin " />
+      <node id=" Loial " label=" Loial " />
+      <node id=" Paitr " label=" Paitr " />
+      <node id=" Matrim Cauthon " label=" Matrim Cauthon " />
+      <node id=" Shai " label=" Shai " />
+      <node id=" Lews Telamon Therin " label=" Lews Telamon Therin " />
+      <node id=" Egwene " label=" Egwene " />
+      <node id=" Whitebridge " label=" Whitebridge " />
+      <node id=" Congar Bili " label=" Congar Bili " />
+      <node id=" Master Cauthon " label=" Master Cauthon " />
+      <node id=" Else " label=" Else " />
+      <node id=" Raen " label=" Raen " />
+      <node id=" Caar " label=" Caar " />
+      <node id=" Gill Master " label=" Gill Master " />
+      <node id=" Mat " label=" Mat " />
+      <node id=" Ghealdan " label=" Ghealdan " />
+      <node id=" Emond " label=" Emond " />
+      <node id=" Eldrene " label=" Eldrene " />
+      <node id=" Lews Kinslayer Therin " label=" Lews Kinslayer Therin " />
+      <node id=" Hightower " label=" Hightower " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Ogier " label=" Ogier " />
+      <node id=" Lord Gawyn " label=" Lord Gawyn " />
+      <node id=" Alsbet Luhhan " label=" Alsbet Luhhan " />
+      <node id=" Coplin Darl " label=" Coplin Darl " />
+      <node id=" Stonebow Yurian " label=" Stonebow Yurian " />
+      <node id=" Lan " label=" Lan " />
+      <node id=" Owyn " label=" Owyn " />
+      <node id=" Dadaranell Mafal " label=" Dadaranell Mafal " />
+      <node id=" Buie Cenn " label=" Buie Cenn " />
+      <node id=" Tarwin " label=" Tarwin " />
+      <node id=" Aridhol " label=" Aridhol " />
+      <node id=" â Tam al Thor " label=" â Tam al Thor " />
+      <node id=" Wil " label=" Wil " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Machin Shin " target=" Gray " weight="1" />
+      <edge id="1" source=" Ride Deven " target=" Ferry Taren " weight="3" />
+      <edge id="2" source=" Ride Deven " target=" Aes Sedai " weight="1" />
+      <edge id="3" source=" Ride Deven " target=" Aybara Perrin " weight="1" />
+      <edge id="4" source=" Ride Deven " target=" Nynaeve " weight="1" />
+      <edge id="5" source=" Ride Deven " target=" Emond " weight="2" />
+      <edge id="6" source=" Ride Deven " target=" Watch Hill " weight="2" />
+      <edge id="7" source=" Ride Deven " target=" Wil " weight="1" />
+      <edge id="8" source=" Ride Deven " target=" Barran " weight="1" />
+      <edge id="9" source=" Whitecloak " target=" Byar " weight="1" />
+      <edge id="10" source=" Whitecloak " target=" Lord Bornhald " weight="1" />
+      <edge id="11" source=" Luhhan Haral " target=" Hari " weight="1" />
+      <edge id="12" source=" Luhhan Haral " target=" Aybara Perrin " weight="3" />
+      <edge id="13" source=" Luhhan Haral " target=" Crawe Samel " weight="1" />
+      <edge id="14" source=" Luhhan Haral " target=" Buie Cenn " weight="1" />
+      <edge id="15" source=" Luhhan Haral " target=" â Tam al Thor " weight="2" />
+      <edge id="16" source=" Luhhan Haral " target=" Thane Jon " weight="1" />
+      <edge id="17" source=" Luhhan Haral " target=" Alsbet Luhhan " weight="1" />
+      <edge id="18" source=" â Rand al Thor " target=" Aes Sedai " weight="1" />
+      <edge id="19" source=" â Rand al Thor " target=" Lady Moiraine " weight="1" />
+      <edge id="20" source=" â Rand al Thor " target=" Lan " weight="1" />
+      <edge id="21" source=" â Rand al Thor " target=" Jak " weight="1" />
+      <edge id="22" source=" â Rand al Thor " target=" Ewin Finngar " weight="1" />
+      <edge id="23" source=" â Rand al Thor " target=" Mat " weight="1" />
+      <edge id="24" source=" â Rand al Thor " target=" Bela " weight="1" />
+      <edge id="25" source=" â Rand al Thor " target=" Lord Agelmar " weight="1" />
+      <edge id="26" source=" â Rand al Thor " target=" Nynaeve " weight="1" />
+      <edge id="27" source=" â Rand al Thor " target=" Strom " weight="1" />
+      <edge id="28" source=" â Rand al Thor " target=" Hake Saml " weight="1" />
+      <edge id="29" source=" â Rand al Thor " target=" â Tam al Thor " weight="2" />
+      <edge id="30" source=" â Rand al Thor " target=" Thom Merrilin " weight="1" />
+      <edge id="31" source=" â Rand al Thor " target=" Egwene " weight="1" />
+      <edge id="32" source=" Calder " target=" Egwene " weight="1" />
+      <edge id="33" source=" Farstrider Jain " target=" Cowin Fairheart " weight="1" />
+      <edge id="34" source=" Malkier " target=" Leanna " weight="1" />
+      <edge id="35" source=" Malkier " target=" Lan " weight="1" />
+      <edge id="36" source=" Malkier " target=" Breyan " weight="1" />
+      <edge id="37" source=" Malkier " target="#N/A" weight="1" />
+      <edge id="38" source=" Malkier " target=" Shayol Ghul " weight="1" />
+      <edge id="39" source=" Malkier " target=" Cowin Fairheart " weight="1" />
+      <edge id="40" source=" Bartim " target=" Aes Sedai " weight="1" />
+      <edge id="41" source=" Bartim " target=" Gelb Floran " weight="2" />
+      <edge id="42" source=" Bartim " target=" Horn " weight="1" />
+      <edge id="43" source=" Bartim " target=" Valon Tar " weight="1" />
+      <edge id="44" source=" Bartim " target=" Thom Merrilin " weight="3" />
+      <edge id="45" source=" Blaes " target=" Darkfriend " weight="1" />
+      <edge id="46" source=" Blaes " target=" Shayol Ghul " weight="1" />
+      <edge id="47" source=" Mistress Luhhan " target=" Aybara Perrin " weight="2" />
+      <edge id="48" source=" Watch Hill " target=" Ferry Taren " weight="1" />
+      <edge id="49" source=" Watch Hill " target=" Lady Moiraine " weight="1" />
+      <edge id="50" source=" Watch Hill " target=" Emond " weight="1" />
+      <edge id="51" source=" Watch Hill " target=" Lan " weight="1" />
+      <edge id="52" source=" Shadar Logoth " target=" Aybara Perrin " weight="1" />
+      <edge id="53" source=" Shadar Logoth " target=" Lady Moiraine " weight="1" />
+      <edge id="54" source=" Shadar Logoth " target=" Lan " weight="1" />
+      <edge id="55" source=" Shadar Logoth " target=" Halfmen " weight="1" />
+      <edge id="56" source=" Shadar Logoth " target=" Mordeth " weight="1" />
+      <edge id="57" source=" Shadar Logoth " target=" Fain Padan " weight="1" />
+      <edge id="58" source=" Shadar Logoth " target=" Mashadar " weight="3" />
+      <edge id="59" source=" Shadar Logoth " target=" Emond " weight="1" />
+      <edge id="60" source=" Shadar Logoth " target=" Egwene " weight="1" />
+      <edge id="61" source=" Shadar Logoth " target=" Baerlon " weight="1" />
+      <edge id="62" source=" Howal Gode " target=" Fang " weight="1" />
+      <edge id="63" source=" Howal Gode " target=" Hake Saml " weight="1" />
+      <edge id="64" source=" Howal Gode " target=" Jak " weight="1" />
+      <edge id="65" source=" Howal Gode " target=" Darkfriends " weight="2" />
+      <edge id="66" source=" Howal Gode " target=" Strom " weight="1" />
+      <edge id="67" source=" Howal Gode " target=" Paitr " weight="2" />
+      <edge id="68" source=" Howal Gode " target=" Emond " weight="1" />
+      <edge id="69" source=" Master Luhhan " target=" Aybara Perrin " weight="1" />
+      <edge id="70" source=" Master Luhhan " target=" Moiraine Sedai " weight="1" />
+      <edge id="71" source=" Master Luhhan " target=" Whitebridge " weight="1" />
+      <edge id="72" source=" Master Luhhan " target=" Lan " weight="1" />
+      <edge id="73" source=" Master Luhhan " target=" Master Cauthon " weight="1" />
+      <edge id="74" source=" Master Luhhan " target=" Bela " weight="1" />
+      <edge id="75" source=" Master Luhhan " target=" Caemlyn " weight="1" />
+      <edge id="76" source=" Master Luhhan " target=" Egwene " weight="2" />
+      <edge id="77" source=" Mordeth " target=" Aybara Perrin " weight="3" />
+      <edge id="78" source=" Mordeth " target=" Aridhol " weight="2" />
+      <edge id="79" source=" Mordeth " target=" Thorin " weight="1" />
+      <edge id="80" source=" Mordeth " target=" Caar " weight="1" />
+      <edge id="81" source=" Mordeth " target=" Draghkar " weight="1" />
+      <edge id="82" source=" Mordeth " target=" â Tam al Thor " weight="1" />
+      <edge id="83" source=" Mordeth " target=" Mashadar " weight="1" />
+      <edge id="84" source=" Mordeth " target=" Thom Merrilin " weight="2" />
+      <edge id="85" source=" Mordeth " target=" Myrddraal " weight="1" />
+      <edge id="86" source=" Mordeth " target=" Balwen " weight="1" />
+      <edge id="87" source=" Kinch Hyam " target=" Damodred Taringail " weight="1" />
+      <edge id="88" source=" Kinch Hyam " target=" Gill Master " weight="1" />
+      <edge id="89" source=" Caemlyn " target=" Aybara Perrin " weight="1" />
+      <edge id="90" source=" Caemlyn " target=" Lady Moiraine " weight="1" />
+      <edge id="91" source=" Caemlyn " target=" Elaida Sedai " weight="1" />
+      <edge id="92" source=" Caemlyn " target=" Whitebridge " weight="1" />
+      <edge id="93" source=" Caemlyn " target=" Valon Tar " weight="2" />
+      <edge id="94" source=" Caemlyn " target=" Illian " weight="2" />
+      <edge id="95" source=" Caemlyn " target=" Ebou Dar " weight="1" />
+      <edge id="96" source=" Caemlyn " target=" Morgase " weight="1" />
+      <edge id="97" source=" Caemlyn " target=" Fain Padan " weight="2" />
+      <edge id="98" source=" Caemlyn " target=" Ogier " weight="1" />
+      <edge id="99" source=" Caemlyn " target=" Thom Merrilin " weight="1" />
+      <edge id="100" source=" Manetheren " target=" Lady Moiraine " weight="1" />
+      <edge id="101" source=" Manetheren " target=" Lord Agelmar " weight="1" />
+      <edge id="102" source=" Mashadar " target=" Fain Padan " weight="1" />
+      <edge id="103" source=" Mashadar " target=" Draghkar " weight="1" />
+      <edge id="104" source=" Mashadar " target=" Thom Merrilin " weight="1" />
+      <edge id="105" source=" Mashadar " target=" Myrddraal " weight="1" />
+      <edge id="106" source=" Gray " target=" Valon Tar " weight="1" />
+      <edge id="107" source=" Gray " target=" Lan " weight="1" />
+      <edge id="108" source=" Gray " target=" Bela " weight="1" />
+      <edge id="109" source=" Gray " target=" Loial " weight="4" />
+      <edge id="110" source=" Gray " target=" â Tam al Thor " weight="1" />
+      <edge id="111" source=" Gray " target=" Egwene " weight="1" />
+      <edge id="112" source=" Winternight " target=" Loial " weight="1" />
+      <edge id="113" source=" Ishamael " target=" Aginor " weight="1" />
+      <edge id="114" source=" Mistress Alys " target=" Master Andra " weight="1" />
+      <edge id="115" source=" Mistress Alys " target=" Fain Padan " weight="3" />
+      <edge id="116" source=" Mistress Alys " target=" â Tam al Thor " weight="1" />
+      <edge id="117" source=" Mistress Alys " target=" Thom Merrilin " weight="2" />
+      <edge id="118" source=" Aybara Perrin " target=" Green Man " weight="2" />
+      <edge id="119" source=" Aybara Perrin " target=" Halfmen " weight="1" />
+      <edge id="120" source=" Aybara Perrin " target=" Aginor " weight="1" />
+      <edge id="121" source=" Aybara Perrin " target=" Fain Padan " weight="2" />
+      <edge id="122" source=" Aybara Perrin " target=" Loial " weight="6" />
+      <edge id="123" source=" Aybara Perrin " target=" Egwene " weight="82" />
+      <edge id="124" source=" Aybara Perrin " target=" Valon Tar " weight="1" />
+      <edge id="125" source=" Aybara Perrin " target=" Moiraine Sedai " weight="2" />
+      <edge id="126" source=" Aybara Perrin " target=" bush " weight="3" />
+      <edge id="127" source=" Aybara Perrin " target=" Whitecloaks " weight="1" />
+      <edge id="128" source=" Aybara Perrin " target=" Aridhol " weight="1" />
+      <edge id="129" source=" Aybara Perrin " target=" Raen " weight="20" />
+      <edge id="130" source=" Aybara Perrin " target=" Gill Master " weight="5" />
+      <edge id="131" source=" Aybara Perrin " target=" Byar " weight="27" />
+      <edge id="132" source=" Aybara Perrin " target=" Lord Bornhald " weight="3" />
+      <edge id="133" source=" Aybara Perrin " target=" Mat " weight="3" />
+      <edge id="134" source=" Aybara Perrin " target=" Bayle Domon " weight="1" />
+      <edge id="135" source=" Aybara Perrin " target=" Lady Moiraine " weight="45" />
+      <edge id="136" source=" Aybara Perrin " target=" Hopper " weight="6" />
+      <edge id="137" source=" Aybara Perrin " target=" Elyas " weight="79" />
+      <edge id="138" source=" Aybara Perrin " target=" Ila " weight="8" />
+      <edge id="139" source=" Aybara Perrin " target=" Aram " weight="5" />
+      <edge id="140" source=" Aybara Perrin " target=" Bela " weight="36" />
+      <edge id="141" source=" Aybara Perrin " target=" Ara " weight="1" />
+      <edge id="142" source=" Aybara Perrin " target=" Fitch Master " weight="1" />
+      <edge id="143" source=" Aybara Perrin " target=" Lord Gawyn " weight="1" />
+      <edge id="144" source=" Aybara Perrin " target=" Thom Merrilin " weight="10" />
+      <edge id="145" source=" Aybara Perrin " target=" Aldieb " weight="1" />
+      <edge id="146" source=" Aybara Perrin " target=" Dapple " weight="3" />
+      <edge id="147" source=" Aybara Perrin " target=" Baerlon " weight="1" />
+      <edge id="148" source=" Aybara Perrin " target=" Ferry Taren " weight="1" />
+      <edge id="149" source=" Aybara Perrin " target=" Aes Sedai " weight="2" />
+      <edge id="150" source=" Aybara Perrin " target=" Sightburner " weight="1" />
+      <edge id="151" source=" Aybara Perrin " target=" Lan " weight="22" />
+      <edge id="152" source=" Aybara Perrin " target=" Maradon " weight="1" />
+      <edge id="153" source=" Aybara Perrin " target=" Mandarb " weight="1" />
+      <edge id="154" source=" Aybara Perrin " target=" Nynaeve " weight="8" />
+      <edge id="155" source=" Aybara Perrin " target=" Hawkwing Artur " weight="1" />
+      <edge id="156" source=" Aybara Perrin " target=" â Tam al Thor " weight="3" />
+      <edge id="157" source=" Aybara Perrin " target=" Emond " weight="9" />
+      <edge id="158" source=" Aybara Perrin " target=" Wil " weight="1" />
+      <edge id="159" source=" Mistress Grinwell " target=" Master Grinwell " weight="2" />
+      <edge id="160" source=" Mistress Grinwell " target=" Else " weight="1" />
+      <edge id="161" source=" Elder Haman " target=" Green Man " weight="1" />
+      <edge id="162" source=" Galad " target=" Lord Gawyn " weight="2" />
+      <edge id="163" source=" Galad " target=" Elayne Lady " weight="2" />
+      <edge id="164" source=" Balthamel " target=" Green Man " weight="1" />
+      <edge id="165" source=" Balthamel " target=" nettles Nettles " weight="1" />
+      <edge id="166" source=" Balthamel " target=" Lady Moiraine " weight="2" />
+      <edge id="167" source=" Draghkar " target=" Halfmen " weight="2" />
+      <edge id="168" source=" Draghkar " target=" Illian " weight="1" />
+      <edge id="169" source=" Draghkar " target=" Thom Merrilin " weight="1" />
+      <edge id="170" source=" Draghkar " target=" Myrddraal " weight="1" />
+      <edge id="171" source=" Fitch Master " target=" Lady Moiraine " weight="1" />
+      <edge id="172" source=" Fitch Master " target=" Valon Tar " weight="1" />
+      <edge id="173" source=" Fitch Master " target=" Sara " weight="3" />
+      <edge id="174" source=" Fitch Master " target=" Emond " weight="1" />
+      <edge id="175" source=" Fitch Master " target=" Bayle Domon " weight="1" />
+      <edge id="176" source=" Fitch Master " target=" Egwene " weight="1" />
+      <edge id="177" source=" Master Grinwell " target=" Else " weight="1" />
+      <edge id="178" source=" Thom Merrilin " target=" Fang " weight="1" />
+      <edge id="179" source=" Thom Merrilin " target=" Hake Saml " weight="1" />
+      <edge id="180" source=" Thom Merrilin " target=" Gill Master " weight="1" />
+      <edge id="181" source=" Thom Merrilin " target=" Damodred Taringail " weight="1" />
+      <edge id="182" source=" Thom Merrilin " target=" Moiraine Sedai " weight="1" />
+      <edge id="183" source=" Thom Merrilin " target=" Aye " weight="2" />
+      <edge id="184" source=" Thom Merrilin " target=" Master Andra " weight="1" />
+      <edge id="185" source=" Thom Merrilin " target=" Illian " weight="1" />
+      <edge id="186" source=" Thom Merrilin " target=" Sara " weight="1" />
+      <edge id="187" source=" Thom Merrilin " target=" Egwene " weight="8" />
+      <edge id="188" source=" Thom Merrilin " target=" Bayle Domon " weight="9" />
+      <edge id="189" source=" Thom Merrilin " target=" Gelb Floran " weight="2" />
+      <edge id="190" source=" Thom Merrilin " target=" Lady Moiraine " weight="32" />
+      <edge id="191" source=" Thom Merrilin " target=" Elaida Sedai " weight="2" />
+      <edge id="192" source=" Thom Merrilin " target=" Else " weight="1" />
+      <edge id="193" source=" Thom Merrilin " target=" Hightower " weight="1" />
+      <edge id="194" source=" Thom Merrilin " target=" Bela " weight="3" />
+      <edge id="195" source=" Thom Merrilin " target=" Morgase " weight="1" />
+      <edge id="196" source=" Thom Merrilin " target=" Aldieb " weight="4" />
+      <edge id="197" source=" Thom Merrilin " target=" Myrddraal " weight="1" />
+      <edge id="198" source=" Thom Merrilin " target=" Baerlon " weight="1" />
+      <edge id="199" source=" Thom Merrilin " target=" Coplin Darl " weight="1" />
+      <edge id="200" source=" Thom Merrilin " target=" Bryne Gareth " weight="1" />
+      <edge id="201" source=" Thom Merrilin " target=" Aes Sedai " weight="2" />
+      <edge id="202" source=" Thom Merrilin " target=" Trollocs " weight="1" />
+      <edge id="203" source=" Thom Merrilin " target=" Valon Tar " weight="3" />
+      <edge id="204" source=" Thom Merrilin " target=" Lan " weight="19" />
+      <edge id="205" source=" Thom Merrilin " target=" Owyn " weight="1" />
+      <edge id="206" source=" Thom Merrilin " target=" Maradon " weight="1" />
+      <edge id="207" source=" Thom Merrilin " target=" Nynaeve " weight="1" />
+      <edge id="208" source=" Thom Merrilin " target=" Darkfriends " weight="1" />
+      <edge id="209" source=" Thom Merrilin " target=" â Tam al Thor " weight="1" />
+      <edge id="210" source=" Thom Merrilin " target=" Emond " weight="3" />
+      <edge id="211" source=" Thom Merrilin " target=" Lenn " weight="1" />
+      <edge id="212" source=" Oren Dautry " target=" Thane Jon " weight="1" />
+      <edge id="213" source=" Baerlon " target=" Ferry Taren " weight="1" />
+      <edge id="214" source=" Baerlon " target=" Whitebridge " weight="1" />
+      <edge id="215" source=" Baerlon " target=" â Tam al Thor " weight="1" />
+      <edge id="216" source=" Baerlon " target=" Emond " weight="1" />
+      <edge id="217" source=" Baerlon " target=" Egwene " weight="1" />
+      <edge id="218" source=" Hari " target=" Congar Bili " weight="1" />
+      <edge id="219" source=" Hari " target=" Buie Cenn " weight="2" />
+      <edge id="220" source=" Hari " target=" Coplin Darl " weight="1" />
+      <edge id="221" source=" Strom " target=" Hake Saml " weight="3" />
+      <edge id="222" source=" Strom " target=" Jak " weight="7" />
+      <edge id="223" source=" Aes Sedai " target=" Fang " weight="1" />
+      <edge id="224" source=" Aes Sedai " target=" Moiraine Sedai " weight="1" />
+      <edge id="225" source=" Aes Sedai " target=" Lady Moiraine " weight="3" />
+      <edge id="226" source=" Aes Sedai " target=" Halfmen " weight="1" />
+      <edge id="227" source=" Aes Sedai " target=" Elyas " weight="1" />
+      <edge id="228" source=" Aes Sedai " target=" Nynaeve " weight="1" />
+      <edge id="229" source=" Aes Sedai " target=" Fain Padan " weight="1" />
+      <edge id="230" source=" Aes Sedai " target=" Loial " weight="1" />
+      <edge id="231" source=" Aes Sedai " target=" Lord Gawyn " weight="1" />
+      <edge id="232" source=" Aes Sedai " target=" Valon Tar " weight="3" />
+      <edge id="233" source=" Aes Sedai " target=" Egwene " weight="1" />
+      <edge id="234" source=" Aes Sedai " target=" Barran " weight="1" />
+      <edge id="235" source=" Trollocs " target=" Lady Moiraine " weight="1" />
+      <edge id="236" source=" Trollocs " target=" Isam " weight="1" />
+      <edge id="237" source=" Trollocs " target=" Bayle Domon " weight="1" />
+      <edge id="238" source=" Sightburner " target=" Raen " weight="1" />
+      <edge id="239" source=" Elan Morin " target=" Lews Telamon Therin " weight="3" />
+      <edge id="240" source=" Thorin " target=" Aridhol " weight="2" />
+      <edge id="241" source=" Thorin " target=" Balwen " weight="1" />
+      <edge id="242" source=" Thorin " target=" Caar " weight="1" />
+      <edge id="243" source=" Thorin " target=" Aemon " weight="1" />
+      <edge id="244" source=" Brandelwyn " target=" Emond " weight="1" />
+      <edge id="245" source=" Elayne Lady " target=" Tallanvor " weight="2" />
+      <edge id="246" source=" Elayne Lady " target=" Lord Gareth " weight="1" />
+      <edge id="247" source=" Elayne Lady " target=" Lady Moiraine " weight="1" />
+      <edge id="248" source=" Elayne Lady " target=" Valon Tar " weight="1" />
+      <edge id="249" source=" Elayne Lady " target=" Illian " weight="1" />
+      <edge id="250" source=" Elayne Lady " target=" Morgase " weight="5" />
+      <edge id="251" source=" Elayne Lady " target=" Nynaeve " weight="1" />
+      <edge id="252" source=" Elayne Lady " target=" Lord Gawyn " weight="4" />
+      <edge id="253" source=" Elayne Lady " target=" Emond " weight="1" />
+      <edge id="254" source=" Elayne Lady " target=" Grubb Mother " weight="1" />
+      <edge id="255" source=" Elayne Lady " target=" Gill Master " weight="1" />
+      <edge id="256" source=" Elayne Lady " target=" Egwene " weight="1" />
+      <edge id="257" source=" Fang " target=" Lady Moiraine " weight="1" />
+      <edge id="258" source=" Fang " target=" Valon Tar " weight="1" />
+      <edge id="259" source=" Fang " target=" Darkfriend " weight="1" />
+      <edge id="260" source=" Fang " target=" â Tam al Thor " weight="1" />
+      <edge id="261" source=" Fang " target=" Emond " weight="1" />
+      <edge id="262" source=" Fang " target=" Lamgwin " weight="1" />
+      <edge id="263" source=" Fang " target=" Darkfriends " weight="1" />
+      <edge id="264" source=" Ebou Dar " target=" Illian " weight="1" />
+      <edge id="265" source=" Horn " target=" Illian " weight="1" />
+      <edge id="266" source=" Horn " target=" Valere " weight="1" />
+      <edge id="267" source=" Shan Dai " target=" Lord Agelmar " weight="1" />
+      <edge id="268" source=" Shan Dai " target=" Tarwin " weight="1" />
+      <edge id="269" source=" Shan Dai " target=" Malkieri " weight="1" />
+      <edge id="270" source=" Shan Dai " target=" Ingtar " weight="1" />
+      <edge id="271" source=" Shan Dai " target=" Egwene " weight="1" />
+      <edge id="272" source=" Shan Dai " target=" Dara Fal " weight="1" />
+      <edge id="273" source=" Aginor " target=" Lady Moiraine " weight="1" />
+      <edge id="274" source=" Aginor " target=" Egwene " weight="1" />
+      <edge id="275" source=" Aginor " target=" Loial " weight="1" />
+      <edge id="276" source=" Absher " target=" Ferry Taren " weight="1" />
+      <edge id="277" source=" Absher " target=" Lady Moiraine " weight="1" />
+      <edge id="278" source=" Absher " target=" Emond " weight="1" />
+      <edge id="279" source=" Absher " target=" Nynaeve " weight="1" />
+      <edge id="280" source=" Ramey " target=" Loial " weight="1" />
+      <edge id="281" source=" Amador " target=" Byar " weight="1" />
+      <edge id="282" source=" Tallanvor " target=" Lord Gawyn " weight="8" />
+      <edge id="283" source=" Tallanvor " target=" Emond " weight="1" />
+      <edge id="284" source=" Lord Gareth " target=" Morgase " weight="2" />
+      <edge id="285" source=" Lord Gareth " target=" Elaida Sedai " weight="2" />
+      <edge id="286" source=" Lord Gareth " target=" Lord Gawyn " weight="2" />
+      <edge id="287" source=" Moiraine Sedai " target=" Lady Moiraine " weight="1" />
+      <edge id="288" source=" Moiraine Sedai " target=" Lan " weight="2" />
+      <edge id="289" source=" Moiraine Sedai " target=" Lord Agelmar " weight="1" />
+      <edge id="290" source=" Moiraine Sedai " target=" Fain Padan " weight="1" />
+      <edge id="291" source=" Moiraine Sedai " target=" â Tam al Thor " weight="1" />
+      <edge id="292" source=" Moiraine Sedai " target=" Emond " weight="1" />
+      <edge id="293" source=" Moiraine Sedai " target=" Egwene " weight="1" />
+      <edge id="294" source=" bush " target=" Egwene " weight="2" />
+      <edge id="295" source=" Darkfriends " target=" Ferry Taren " weight="1" />
+      <edge id="296" source=" Darkfriends " target=" Elaida Sedai " weight="1" />
+      <edge id="297" source=" Darkfriends " target=" Halfmen " weight="1" />
+      <edge id="298" source=" Darkfriends " target=" Lord Agelmar " weight="1" />
+      <edge id="299" source=" Darkfriends " target=" Fain Padan " weight="1" />
+      <edge id="300" source=" Darkfriends " target=" Byar " weight="2" />
+      <edge id="301" source=" Darkfriends " target=" Emond " weight="1" />
+      <edge id="302" source=" Illian " target=" Lady Moiraine " weight="1" />
+      <edge id="303" source=" Illian " target=" Valon Tar " weight="1" />
+      <edge id="304" source=" Illian " target=" Halfmen " weight="1" />
+      <edge id="305" source=" Illian " target=" Fain Padan " weight="1" />
+      <edge id="306" source=" Illian " target=" Bayle Domon " weight="1" />
+      <edge id="307" source=" Crawe Samel " target=" Thane Jon " weight="1" />
+      <edge id="308" source=" Daise " target=" â Tam al Thor " weight="1" />
+      <edge id="309" source=" Daise " target=" Bela " weight="1" />
+      <edge id="310" source=" Darkfriend " target=" Bryne Gareth " weight="1" />
+      <edge id="311" source=" Darkfriend " target=" Fain Padan " weight="1" />
+      <edge id="312" source=" Darkfriend " target=" Shayol Ghul " weight="1" />
+      <edge id="313" source=" Darkfriend " target=" Paitr " weight="1" />
+      <edge id="314" source=" Aram " target=" Ila " weight="2" />
+      <edge id="315" source=" Aram " target=" Raen " weight="1" />
+      <edge id="316" source=" Aram " target=" Bela " weight="1" />
+      <edge id="317" source=" Aram " target=" Egwene " weight="1" />
+      <edge id="318" source=" Bayle Domon " target=" â Tam al Thor " weight="1" />
+      <edge id="319" source=" Bayle Domon " target=" Gelb Floran " weight="4" />
+      <edge id="320" source=" Barran " target=" Egwene " weight="1" />
+      <edge id="321" source=" Barran " target=" Nynaeve " weight="2" />
+      <edge id="322" source=" Gelb Floran " target=" Egwene " weight="1" />
+      <edge id="323" source=" Gelb Floran " target=" Valon Tar " weight="1" />
+      <edge id="324" source=" Lady Moiraine " target=" Green Man " weight="4" />
+      <edge id="325" source=" Lady Moiraine " target=" Valere " weight="1" />
+      <edge id="326" source=" Lady Moiraine " target=" Fain Padan " weight="6" />
+      <edge id="327" source=" Lady Moiraine " target=" Red " weight="1" />
+      <edge id="328" source=" Lady Moiraine " target=" Lord Agelmar " weight="19" />
+      <edge id="329" source=" Lady Moiraine " target=" Egwene " weight="17" />
+      <edge id="330" source=" Lady Moiraine " target=" Whitebridge " weight="1" />
+      <edge id="331" source=" Lady Moiraine " target=" Dadaranell Mafal " weight="1" />
+      <edge id="332" source=" Lady Moiraine " target=" Ewin Finngar " weight="4" />
+      <edge id="333" source=" Lady Moiraine " target=" Gill Master " weight="3" />
+      <edge id="334" source=" Lady Moiraine " target=" Mat " weight="4" />
+      <edge id="335" source=" Lady Moiraine " target=" Elaida Sedai " weight="1" />
+      <edge id="336" source=" Lady Moiraine " target=" Lews Kinslayer Therin " weight="1" />
+      <edge id="337" source=" Lady Moiraine " target=" Bela " weight="1" />
+      <edge id="338" source=" Lady Moiraine " target=" Bran " weight="2" />
+      <edge id="339" source=" Lady Moiraine " target=" Ingtar " weight="3" />
+      <edge id="340" source=" Lady Moiraine " target=" Ogier " weight="1" />
+      <edge id="341" source=" Lady Moiraine " target=" Aldieb " weight="13" />
+      <edge id="342" source=" Lady Moiraine " target=" Morgase " weight="2" />
+      <edge id="343" source=" Lady Moiraine " target=" Lord Bornhald " weight="1" />
+      <edge id="344" source=" Lady Moiraine " target=" Coplin Darl " weight="1" />
+      <edge id="345" source=" Lady Moiraine " target=" Ferry Taren " weight="1" />
+      <edge id="346" source=" Lady Moiraine " target=" Aridhol " weight="1" />
+      <edge id="347" source=" Lady Moiraine " target=" Valon Tar " weight="6" />
+      <edge id="348" source=" Lady Moiraine " target=" Lan " weight="41" />
+      <edge id="349" source=" Lady Moiraine " target=" Shayol Ghul " weight="1" />
+      <edge id="350" source=" Lady Moiraine " target=" Grubb Mother " weight="1" />
+      <edge id="351" source=" Lady Moiraine " target=" Mandarb " weight="3" />
+      <edge id="352" source=" Lady Moiraine " target=" Loial " weight="5" />
+      <edge id="353" source=" Lady Moiraine " target=" Buie Cenn " weight="1" />
+      <edge id="354" source=" Lady Moiraine " target=" Nynaeve " weight="59" />
+      <edge id="355" source=" Lady Moiraine " target=" Master Andra " weight="1" />
+      <edge id="356" source=" Lady Moiraine " target=" â Tam al Thor " weight="21" />
+      <edge id="357" source=" Lady Moiraine " target=" Emond " weight="3" />
+      <edge id="358" source=" Lady Moiraine " target=" Avin " weight="1" />
+      <edge id="359" source=" Elyas " target=" Hopper " weight="1" />
+      <edge id="360" source=" Elyas " target=" Halfmen " weight="1" />
+      <edge id="361" source=" Elyas " target=" Raen " weight="7" />
+      <edge id="362" source=" Elyas " target=" Bela " weight="12" />
+      <edge id="363" source=" Elyas " target=" Emond " weight="4" />
+      <edge id="364" source=" Elyas " target=" Ila " weight="3" />
+      <edge id="365" source=" Elyas " target=" Egwene " weight="10" />
+      <edge id="366" source=" Bela " target=" Lan " weight="4" />
+      <edge id="367" source=" Bela " target=" Mandarb " weight="1" />
+      <edge id="368" source=" Bela " target=" Raen " weight="1" />
+      <edge id="369" source=" Bela " target=" Ila " weight="1" />
+      <edge id="370" source=" Bela " target=" Nynaeve " weight="2" />
+      <edge id="371" source=" Bela " target=" Congar Bili " weight="1" />
+      <edge id="372" source=" Bela " target=" â Tam al Thor " weight="7" />
+      <edge id="373" source=" Bela " target=" Emond " weight="2" />
+      <edge id="374" source=" Bela " target=" Mat " weight="1" />
+      <edge id="375" source=" Bela " target=" Aldieb " weight="1" />
+      <edge id="376" source=" Bela " target=" Egwene " weight="30" />
+      <edge id="377" source=" Thane Jon " target=" Lan " weight="1" />
+      <edge id="378" source=" Morgase " target=" Bryne Gareth " weight="1" />
+      <edge id="379" source=" Morgase " target=" Gill Master " weight="2" />
+      <edge id="380" source=" Shayol Ghul " target=" Leanna " weight="1" />
+      <edge id="381" source=" Shayol Ghul " target=" Valon Tar " weight="1" />
+      <edge id="382" source=" Shayol Ghul " target=" Breyan " weight="1" />
+      <edge id="383" source=" Shayol Ghul " target=" Lord Agelmar " weight="1" />
+      <edge id="384" source=" Shayol Ghul " target=" Fain Padan " weight="4" />
+      <edge id="385" source=" Mutch " target=" Sara " weight="1" />
+      <edge id="386" source=" Ara " target=" Lan " weight="1" />
+      <edge id="387" source=" Aldieb " target=" Lan " weight="3" />
+      <edge id="388" source=" Aldieb " target=" Lews Kinslayer Therin " weight="1" />
+      <edge id="389" source=" Aldieb " target=" Mandarb " weight="2" />
+      <edge id="390" source=" Aldieb " target=" Emond " weight="1" />
+      <edge id="391" source=" Ingtar " target=" Lord Agelmar " weight="2" />
+      <edge id="392" source=" Ingtar " target=" Lan " weight="1" />
+      <edge id="393" source=" Ingtar " target=" Tarwin " weight="1" />
+      <edge id="394" source=" Dapple " target=" Hopper " weight="2" />
+      <edge id="395" source=" Lord Bornhald " target=" Byar " weight="8" />
+      <edge id="396" source=" Lord Bornhald " target=" Egwene " weight="2" />
+      <edge id="397" source=" Balwen " target=" Aridhol " weight="1" />
+      <edge id="398" source=" Balwen " target=" Caar " weight="1" />
+      <edge id="399" source=" Bryne Gareth " target=" Elaida Sedai " weight="1" />
+      <edge id="400" source=" Bryne Gareth " target=" Grubb Mother " weight="1" />
+      <edge id="401" source=" Bryne Gareth " target=" Lord Gawyn " weight="1" />
+      <edge id="402" source=" Valon Tar " target=" Ghealdan " weight="1" />
+      <edge id="403" source=" Valon Tar " target=" Owyn " weight="1" />
+      <edge id="404" source=" Valon Tar " target=" Lord Agelmar " weight="1" />
+      <edge id="405" source=" Valon Tar " target=" Loial " weight="2" />
+      <edge id="406" source=" Valon Tar " target=" Emond " weight="1" />
+      <edge id="407" source=" Valon Tar " target=" Elaida Sedai " weight="1" />
+      <edge id="408" source=" Valon Tar " target=" Egwene " weight="1" />
+      <edge id="409" source=" Valon Tar " target=" Baâalzamon " weight="1" />
+      <edge id="410" source=" Shienar " target=" Arafel " weight="1" />
+      <edge id="411" source=" Shienar " target=" Tarwin " weight="1" />
+      <edge id="412" source=" Hawkwing Artur " target=" Lews Kinslayer Therin " weight="1" />
+      <edge id="413" source=" Hawkwing Artur " target=" Egwene " weight="1" />
+      <edge id="414" source=" Ewin Finngar " target=" Buie Cenn " weight="1" />
+      <edge id="415" source=" Ewin Finngar " target=" Adan " weight="1" />
+      <edge id="416" source=" Ewin Finngar " target=" â Tam al Thor " weight="1" />
+      <edge id="417" source=" Ewin Finngar " target=" Mat " weight="1" />
+      <edge id="418" source=" Hopper " target=" Egwene " weight="1" />
+      <edge id="419" source=" Hopper " target=" Emond " weight="1" />
+      <edge id="420" source=" Lenn " target=" Egwene " weight="1" />
+      <edge id="421" source=" Cowin Fairheart " target=" Leanna " weight="1" />
+      <edge id="422" source=" Cowin Fairheart " target=" Isam " weight="1" />
+      <edge id="423" source=" Cowin Fairheart " target=" Breyan " weight="1" />
+      <edge id="424" source=" Green Man " target=" Lan " weight="1" />
+      <edge id="425" source=" Green Man " target=" Loial " weight="2" />
+      <edge id="426" source=" Halfmen " target=" Fain Padan " weight="1" />
+      <edge id="427" source=" Breyan " target=" Leanna " weight="1" />
+      <edge id="428" source=" Fain Padan " target=" Lord Agelmar " weight="6" />
+      <edge id="429" source=" Fain Padan " target=" Ferry Taren " weight="1" />
+      <edge id="430" source=" Fain Padan " target=" Congar Bili " weight="1" />
+      <edge id="431" source=" Fain Padan " target=" â Tam al Thor " weight="2" />
+      <edge id="432" source=" Fain Padan " target=" Emond " weight="8" />
+      <edge id="433" source=" Fain Padan " target=" Egwene " weight="1" />
+      <edge id="434" source=" Fain Padan " target=" Baâalzamon " weight="1" />
+      <edge id="435" source=" Lamgwin " target=" Lord Gawyn " weight="1" />
+      <edge id="436" source=" Lamgwin " target=" Gill Master " weight="2" />
+      <edge id="437" source=" Aemon " target=" Red " weight="1" />
+      <edge id="438" source=" Aemon " target=" Eldrene " weight="1" />
+      <edge id="439" source=" Myrddraal " target=" Halfman " weight="1" />
+      <edge id="440" source=" Myrddraal " target=" Lan " weight="2" />
+      <edge id="441" source=" Tine Bel " target=" â Tam al Thor " weight="1" />
+      <edge id="442" source=" Tine Bel " target=" Emond " weight="1" />
+      <edge id="443" source=" Aiel " target=" Loial " weight="1" />
+      <edge id="444" source=" Aiel " target=" Egwene " weight="1" />
+      <edge id="445" source=" Byar " target=" Egwene " weight="1" />
+      <edge id="446" source=" Isam " target=" Leanna " weight="1" />
+      <edge id="447" source=" Cartman " target=" Hake Saml " weight="1" />
+      <edge id="448" source=" Baâalzamon " target=" Emond " weight="1" />
+      <edge id="449" source=" Leanna " target=" Lan " weight="1" />
+      <edge id="450" source=" Valere " target=" Lord Agelmar " weight="1" />
+      <edge id="451" source=" Elaida Sedai " target=" Gill Master " weight="1" />
+      <edge id="452" source=" Elaida Sedai " target=" Lord Gawyn " weight="2" />
+      <edge id="453" source=" Elaida Sedai " target=" Emond " weight="1" />
+      <edge id="454" source=" Jak " target=" Hake Saml " weight="7" />
+      <edge id="455" source=" Ila " target=" Raen " weight="4" />
+      <edge id="456" source=" Ila " target=" Egwene " weight="3" />
+      <edge id="457" source=" Amalasan Guaire " target=" Davian " weight="1" />
+      <edge id="458" source=" Amalasan Guaire " target=" Darksbane Raolin " weight="2" />
+      <edge id="459" source=" Amalasan Guaire " target=" Stonebow Yurian " weight="1" />
+      <edge id="460" source=" Bran " target=" â Tam al Thor " weight="1" />
+      <edge id="461" source=" nettles Nettles " target=" â Tam al Thor " weight="1" />
+      <edge id="462" source=" Dara Fal " target=" Lord Agelmar " weight="1" />
+      <edge id="463" source=" Ferry Taren " target=" Lan " weight="2" />
+      <edge id="464" source=" Ferry Taren " target=" Emond " weight="2" />
+      <edge id="465" source=" Ferry Taren " target=" Egwene " weight="1" />
+      <edge id="466" source=" Avin " target=" Lan " weight="1" />
+      <edge id="467" source=" Grubb Mother " target=" Gill Master " weight="1" />
+      <edge id="468" source=" Grubb Mother " target=" Nynaeve " weight="1" />
+      <edge id="469" source=" Mandarb " target=" Lan " weight="3" />
+      <edge id="470" source=" Mandarb " target=" Loial " weight="1" />
+      <edge id="471" source=" Red " target=" Lan " weight="1" />
+      <edge id="472" source=" Red " target=" Eldrene " weight="1" />
+      <edge id="473" source=" Lord Agelmar " target=" Lan " weight="1" />
+      <edge id="474" source=" Lord Agelmar " target=" Dadaranell Mafal " weight="1" />
+      <edge id="475" source=" Lord Agelmar " target=" Tarwin " weight="1" />
+      <edge id="476" source=" Lord Agelmar " target=" Loial " weight="1" />
+      <edge id="477" source=" Lord Agelmar " target=" Emond " weight="4" />
+      <edge id="478" source=" Lord Agelmar " target=" Nynaeve " weight="4" />
+      <edge id="479" source=" Lord Agelmar " target=" Egwene " weight="3" />
+      <edge id="480" source=" Nynaeve " target=" Lan " weight="11" />
+      <edge id="481" source=" Nynaeve " target=" â Tam al Thor " weight="1" />
+      <edge id="482" source=" Nynaeve " target=" Emond " weight="3" />
+      <edge id="483" source=" Nynaeve " target=" Egwene " weight="24" />
+      <edge id="484" source=" Davian " target=" Stonebow Yurian " weight="1" />
+      <edge id="485" source=" Davian " target=" Darksbane Raolin " weight="1" />
+      <edge id="486" source=" Hake Saml " target=" Lan " weight="1" />
+      <edge id="487" source=" Darksbane Raolin " target=" Stonebow Yurian " weight="1" />
+      <edge id="488" source=" Loial " target=" Lan " weight="1" />
+      <edge id="489" source=" Loial " target=" Gill Master " weight="5" />
+      <edge id="490" source=" Loial " target=" â Tam al Thor " weight="1" />
+      <edge id="491" source=" Loial " target=" Buie Cenn " weight="3" />
+      <edge id="492" source=" Loial " target=" Emond " weight="3" />
+      <edge id="493" source=" Loial " target=" Mat " weight="1" />
+      <edge id="494" source=" Loial " target=" Egwene " weight="1" />
+      <edge id="495" source=" Paitr " target=" Mat " weight="1" />
+      <edge id="496" source=" Matrim Cauthon " target=" Egwene " weight="1" />
+      <edge id="497" source=" Shai " target=" Lews Telamon Therin " weight="1" />
+      <edge id="498" source=" Egwene " target=" Raen " weight="1" />
+      <edge id="499" source=" Egwene " target=" Gill Master " weight="2" />
+      <edge id="500" source=" Egwene " target=" Mat " weight="1" />
+      <edge id="501" source=" Egwene " target=" Lan " weight="19" />
+      <edge id="502" source=" Egwene " target=" â Tam al Thor " weight="2" />
+      <edge id="503" source=" Egwene " target=" Emond " weight="6" />
+      <edge id="504" source=" Whitebridge " target=" Emond " weight="1" />
+      <edge id="505" source=" Congar Bili " target=" Buie Cenn " weight="2" />
+      <edge id="506" source=" Congar Bili " target=" Coplin Darl " weight="3" />
+      <edge id="507" source=" Master Cauthon " target=" Emond " weight="1" />
+      <edge id="508" source=" Raen " target=" Emond " weight="1" />
+      <edge id="509" source=" Caar " target=" Aridhol " weight="2" />
+      <edge id="510" source=" Gill Master " target=" Lan " weight="1" />
+      <edge id="511" source=" Gill Master " target=" Emond " weight="1" />
+      <edge id="512" source=" Gill Master " target=" Mat " weight="1" />
+      <edge id="513" source=" Emond " target=" Lord Gawyn " weight="1" />
+      <edge id="514" source=" Emond " target=" Lan " weight="6" />
+      <edge id="515" source=" Emond " target=" Buie Cenn " weight="1" />
+      <edge id="516" source=" Emond " target=" â Tam al Thor " weight="10" />
+      <edge id="517" source=" Emond " target=" Wil " weight="1" />
+      <edge id="518" source=" Hightower " target=" Lan " weight="4" />
+      <edge id="519" source="#N/A" target=" Lan " weight="1" />
+      <edge id="520" source=" Coplin Darl " target=" Buie Cenn " weight="1" />
+      <edge id="521" source=" Lan " target=" â Tam al Thor " weight="7" />
+      <edge id="522" source=" Buie Cenn " target=" â Tam al Thor " weight="3" />
+    </edges>
+  </graph>
+</gexf>

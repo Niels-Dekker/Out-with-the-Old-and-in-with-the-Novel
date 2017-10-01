@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" DR. Lanyon LANYON Dr. " label=" DR. Lanyon LANYON Dr. " />
+      <node id=" Enfield Mr. " label=" Enfield Mr. " />
+      <node id=" Danvers " label=" Danvers " />
+      <node id=" Poole " label=" Poole " />
+      <node id=" Mr. Hyde " label=" Mr. Hyde " />
+      <node id=" Bradshaw " label=" Bradshaw " />
+      <node id=" Jekyll Henry JEKYLL HENRY Dr. " label=" Jekyll Henry JEKYLL HENRY Dr. " />
+      <node id=" Carew " label=" Carew " />
+      <node id=" Edward Hyde " label=" Edward Hyde " />
+      <node id=" Utterson Mr. " label=" Utterson Mr. " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" DR. Lanyon LANYON Dr. " target=" Jekyll Henry JEKYLL HENRY Dr. " weight="4" />
+      <edge id="1" source=" DR. Lanyon LANYON Dr. " target=" Mr. Hyde " weight="5" />
+      <edge id="2" source=" DR. Lanyon LANYON Dr. " target=" Danvers " weight="1" />
+      <edge id="3" source=" DR. Lanyon LANYON Dr. " target=" Utterson Mr. " weight="2" />
+      <edge id="4" source=" DR. Lanyon LANYON Dr. " target=" Poole " weight="2" />
+      <edge id="5" source=" Enfield Mr. " target=" Jekyll Henry JEKYLL HENRY Dr. " weight="1" />
+      <edge id="6" source=" Enfield Mr. " target=" Utterson Mr. " weight="3" />
+      <edge id="7" source=" Danvers " target=" Mr. Hyde " weight="2" />
+      <edge id="8" source=" Danvers " target=" Utterson Mr. " weight="2" />
+      <edge id="9" source=" Poole " target=" Jekyll Henry JEKYLL HENRY Dr. " weight="4" />
+      <edge id="10" source=" Poole " target=" Mr. Hyde " weight="4" />
+      <edge id="11" source=" Poole " target=" Utterson Mr. " weight="1" />
+      <edge id="12" source=" Mr. Hyde " target=" Bradshaw " weight="1" />
+      <edge id="13" source=" Mr. Hyde " target=" Jekyll Henry JEKYLL HENRY Dr. " weight="17" />
+      <edge id="14" source=" Mr. Hyde " target=" Carew " weight="1" />
+      <edge id="15" source=" Mr. Hyde " target=" Utterson Mr. " weight="8" />
+      <edge id="16" source=" Bradshaw " target=" Jekyll Henry JEKYLL HENRY Dr. " weight="1" />
+      <edge id="17" source=" Jekyll Henry JEKYLL HENRY Dr. " target=" Carew " weight="1" />
+      <edge id="18" source=" Jekyll Henry JEKYLL HENRY Dr. " target=" Edward Hyde " weight="8" />
+      <edge id="19" source=" Jekyll Henry JEKYLL HENRY Dr. " target=" Utterson Mr. " weight="9" />
+      <edge id="20" source=" Edward Hyde " target=" Utterson Mr. " weight="2" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Walter " label=" Walter " />
+      <node id=" Greta Shaw Mrs. " label=" Greta Shaw Mrs. " />
+      <node id=" Cuthbert " label=" Cuthbert " />
+      <node id=" Cort " label=" Cort " />
+      <node id=" Moses " label=" Moses " />
+      <node id=" Brown " label=" Brown " />
+      <node id=" Tull " label=" Tull " />
+      <node id=" Sylvia Pittston " label=" Sylvia Pittston " />
+      <node id=" Allen " label=" Allen " />
+      <node id=" Zoltan " label=" Zoltan " />
+      <node id=" Hax " label=" Hax " />
+      <node id=" Susan " label=" Susan " />
+      <node id=" Merlin " label=" Merlin " />
+      <node id=" Amy Feldon " label=" Amy Feldon " />
+      <node id=" Jamie " label=" Jamie " />
+      <node id=" David " label=" David " />
+      <node id=" Nort " label=" Nort " />
+      <node id=" Jonson " label=" Jonson " />
+      <node id=" Alice " label=" Alice " />
+      <node id=" Thomas " label=" Thomas " />
+      <node id=" Sheb " label=" Sheb " />
+      <node id=" Aileen " label=" Aileen " />
+      <node id=" Marten " label=" Marten " />
+      <node id=" Chambers Jake " label=" Chambers Jake " />
+      <node id=" Soobie " label=" Soobie " />
+      <node id=" Cook " label=" Cook " />
+      <node id=" Allie " label=" Allie " />
+      <node id=" Jesus " label=" Jesus " />
+      <node id=" Kennerly " label=" Kennerly " />
+      <node id=" Roland " label=" Roland " />
+      <node id=" Robeson " label=" Robeson " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Walter " target=" Marten " weight="1" />
+      <edge id="1" source=" Greta Shaw Mrs. " target=" Chambers Jake " weight="1" />
+      <edge id="2" source=" Cuthbert " target=" Susan " weight="1" />
+      <edge id="3" source=" Cuthbert " target=" Thomas " weight="1" />
+      <edge id="4" source=" Cuthbert " target=" Aileen " weight="1" />
+      <edge id="5" source=" Cuthbert " target=" Marten " weight="3" />
+      <edge id="6" source=" Cuthbert " target=" Chambers Jake " weight="1" />
+      <edge id="7" source=" Cuthbert " target=" Jamie " weight="4" />
+      <edge id="8" source=" Cuthbert " target=" Allen " weight="1" />
+      <edge id="9" source=" Cuthbert " target=" David " weight="2" />
+      <edge id="10" source=" Cuthbert " target=" Cort " weight="12" />
+      <edge id="11" source=" Cuthbert " target=" Hax " weight="1" />
+      <edge id="12" source=" Cuthbert " target=" Roland " weight="19" />
+      <edge id="13" source=" Cort " target=" Susan " weight="2" />
+      <edge id="14" source=" Cort " target=" Aileen " weight="1" />
+      <edge id="15" source=" Cort " target=" Marten " weight="2" />
+      <edge id="16" source=" Cort " target=" Jamie " weight="1" />
+      <edge id="17" source=" Cort " target=" Cook " weight="1" />
+      <edge id="18" source=" Cort " target=" David " weight="4" />
+      <edge id="19" source=" Cort " target=" Roland " weight="11" />
+      <edge id="20" source=" Moses " target=" Jesus " weight="1" />
+      <edge id="21" source=" Brown " target=" Zoltan " weight="5" />
+      <edge id="22" source=" Brown " target=" Kennerly " weight="1" />
+      <edge id="23" source=" Brown " target=" Tull " weight="2" />
+      <edge id="24" source=" Tull " target=" Susan " weight="1" />
+      <edge id="25" source=" Tull " target=" Aileen " weight="1" />
+      <edge id="26" source=" Tull " target=" Sheb " weight="1" />
+      <edge id="27" source=" Tull " target=" Chambers Jake " weight="1" />
+      <edge id="28" source=" Tull " target=" Sylvia Pittston " weight="2" />
+      <edge id="29" source=" Tull " target=" Allie " weight="2" />
+      <edge id="30" source=" Tull " target=" Jesus " weight="1" />
+      <edge id="31" source=" Tull " target=" Alice " weight="2" />
+      <edge id="32" source=" Sylvia Pittston " target=" Susan " weight="1" />
+      <edge id="33" source=" Sylvia Pittston " target=" Alice " weight="1" />
+      <edge id="34" source=" Sylvia Pittston " target=" Aileen " weight="1" />
+      <edge id="35" source=" Sylvia Pittston " target=" Jonson " weight="1" />
+      <edge id="36" source=" Allen " target=" Thomas " weight="2" />
+      <edge id="37" source=" Allen " target=" Jamie " weight="2" />
+      <edge id="38" source=" Hax " target=" Cook " weight="1" />
+      <edge id="39" source=" Hax " target=" Roland " weight="3" />
+      <edge id="40" source=" Hax " target=" Robeson " weight="1" />
+      <edge id="41" source=" Susan " target=" Aileen " weight="2" />
+      <edge id="42" source=" Susan " target=" Marten " weight="1" />
+      <edge id="43" source=" Susan " target=" Jamie " weight="1" />
+      <edge id="44" source=" Susan " target=" Roland " weight="1" />
+      <edge id="45" source=" Susan " target=" Alice " weight="1" />
+      <edge id="46" source=" Merlin " target=" Chambers Jake " weight="1" />
+      <edge id="47" source=" Merlin " target=" Marten " weight="1" />
+      <edge id="48" source=" Amy Feldon " target=" Kennerly " weight="1" />
+      <edge id="49" source=" Jamie " target=" Thomas " weight="2" />
+      <edge id="50" source=" Jamie " target=" Marten " weight="1" />
+      <edge id="51" source=" Jamie " target=" Chambers Jake " weight="1" />
+      <edge id="52" source=" Jamie " target=" Roland " weight="2" />
+      <edge id="53" source=" David " target=" Roland " weight="2" />
+      <edge id="54" source=" David " target=" Marten " weight="1" />
+      <edge id="55" source=" Nort " target=" Sheb " weight="2" />
+      <edge id="56" source=" Nort " target=" Alice " weight="2" />
+      <edge id="57" source=" Jonson " target=" Jesus " weight="1" />
+      <edge id="58" source=" Jonson " target=" Allie " weight="7" />
+      <edge id="59" source=" Alice " target=" Aileen " weight="1" />
+      <edge id="60" source=" Alice " target=" Chambers Jake " weight="1" />
+      <edge id="61" source=" Sheb " target=" Kennerly " weight="3" />
+      <edge id="62" source=" Sheb " target=" Allie " weight="1" />
+      <edge id="63" source=" Aileen " target=" Marten " weight="2" />
+      <edge id="64" source=" Chambers Jake " target=" Roland " weight="2" />
+      <edge id="65" source=" Soobie " target=" Kennerly " weight="1" />
+      <edge id="66" source=" Cook " target=" Roland " weight="2" />
+      <edge id="67" source=" Allie " target=" Jesus " weight="1" />
+      <edge id="68" source=" Allie " target=" Kennerly " weight="1" />
+    </edges>
+  </graph>
+</gexf>

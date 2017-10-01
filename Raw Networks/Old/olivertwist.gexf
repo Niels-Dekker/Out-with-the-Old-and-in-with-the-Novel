@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Mr. Monks " label=" Mr. Monks " />
+      <node id=" Dick " label=" Dick " />
+      <node id=" Mr. Brittles " label=" Mr. Brittles " />
+      <node id=" Heaven " label=" Heaven " />
+      <node id=" Lauk " label=" Lauk " />
+      <node id=" Rose Miss " label=" Rose Miss " />
+      <node id=" Beadle " label=" Beadle " />
+      <node id=" NOAH Mr. Claypole Noah CLAYPOLE " label=" NOAH Mr. Claypole Noah CLAYPOLE " />
+      <node id=" Mr. Fang " label=" Mr. Fang " />
+      <node id=" Blathers Mr. " label=" Blathers Mr. " />
+      <node id=" Bolter Mrs. " label=" Bolter Mrs. " />
+      <node id=" Mr. Sowerberry " label=" Mr. Sowerberry " />
+      <node id=" Sally " label=" Sally " />
+      <node id=" Jew " label=" Jew " />
+      <node id=" Charles Bates " label=" Charles Bates " />
+      <node id=" Fleming Agnes " label=" Fleming Agnes " />
+      <node id=" Sowerberry Mrs. " label=" Sowerberry Mrs. " />
+      <node id=" Betsy Miss " label=" Betsy Miss " />
+      <node id=" Mr. Losberne " label=" Mr. Losberne " />
+      <node id=" Mr. John Dawkins " label=" Mr. John Dawkins " />
+      <node id=" BROWNLOW Brownlow MR. Mr. " label=" BROWNLOW Brownlow MR. Mr. " />
+      <node id=" Chitling Tom " label=" Chitling Tom " />
+      <node id=" Charley Bates " label=" Charley Bates " />
+      <node id=" Barney " label=" Barney " />
+      <node id=" Maylie Mrs. " label=" Maylie Mrs. " />
+      <node id=" Bedwin Mrs. " label=" Bedwin Mrs. " />
+      <node id=" Maylie Mr. " label=" Maylie Mr. " />
+      <node id=" Twist OLIVER Oliver " label=" Twist OLIVER Oliver " />
+      <node id=" Maylie Harry " label=" Maylie Harry " />
+      <node id=" Chickweed Conkey " label=" Chickweed Conkey " />
+      <node id=" Mr. Chitling " label=" Mr. Chitling " />
+      <node id=" Corney Mrs. " label=" Corney Mrs. " />
+      <node id=" Mann Mrs. " label=" Mann Mrs. " />
+      <node id=" Bates Master " label=" Bates Master " />
+      <node id=" Blathers Messrs. " label=" Blathers Messrs. " />
+      <node id=" Mr. Limbkins " label=" Mr. Limbkins " />
+      <node id=" Duff " label=" Duff " />
+      <node id=" FAGIN Fagin MR. Mr. " label=" FAGIN Fagin MR. Mr. " />
+      <node id=" Mr. Corney " label=" Mr. Corney " />
+      <node id=" Bumble Mr. " label=" Bumble Mr. " />
+      <node id=" WILLIAM Sikes MR. William Mr. SIKES " label=" WILLIAM Sikes MR. William Mr. SIKES " />
+      <node id=" Jack Dawkins " label=" Jack Dawkins " />
+      <node id=" Mr. Toby Crackit " label=" Mr. Toby Crackit " />
+      <node id=" Spyers Jem " label=" Spyers Jem " />
+      <node id=" Bumble Mrs. " label=" Bumble Mrs. " />
+      <node id=" Mr. Gamfield " label=" Mr. Gamfield " />
+      <node id=" Miss Nancy " label=" Miss Nancy " />
+      <node id=" Maylie Miss " label=" Maylie Miss " />
+      <node id=" Bull " label=" Bull " />
+      <node id=" Susan " label=" Susan " />
+      <node id=" Giles Mr. " label=" Giles Mr. " />
+      <node id=" MR. Grimwig Mr. GRIMWIG " label=" MR. Grimwig Mr. GRIMWIG " />
+      <node id=" Nance " label=" Nance " />
+      <node id=" Rose Maylie " label=" Rose Maylie " />
+      <node id=" Sikes Bill " label=" Sikes Bill " />
+      <node id=" Mr. Chickweed " label=" Mr. Chickweed " />
+      <node id=" Mr. Morris Bolter " label=" Mr. Morris Bolter " />
+      <node id=" White Tom " label=" White Tom " />
+      <node id=" Mr. Browlow " label=" Mr. Browlow " />
+      <node id=" Kags " label=" Kags " />
+      <node id=" Ned " label=" Ned " />
+      <node id=" Leeford Edward " label=" Leeford Edward " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Mr. Monks " target=" Bumble Mr. " weight="1" />
+      <edge id="1" source=" Dick " target=" Rose Miss " weight="1" />
+      <edge id="2" source=" Dick " target=" Twist OLIVER Oliver " weight="2" />
+      <edge id="3" source=" Dick " target=" Bumble Mr. " weight="1" />
+      <edge id="4" source=" Dick " target=" Mann Mrs. " weight="1" />
+      <edge id="5" source=" Mr. Brittles " target=" Twist OLIVER Oliver " weight="1" />
+      <edge id="6" source=" Mr. Brittles " target=" Giles Mr. " weight="4" />
+      <edge id="7" source=" Heaven " target=" BROWNLOW Brownlow MR. Mr. " weight="1" />
+      <edge id="8" source=" Heaven " target=" Leeford Edward " weight="1" />
+      <edge id="9" source=" Lauk " target=" Bumble Mr. " weight="2" />
+      <edge id="10" source=" Rose Miss " target=" BROWNLOW Brownlow MR. Mr. " weight="4" />
+      <edge id="11" source=" Rose Miss " target=" Giles Mr. " weight="1" />
+      <edge id="12" source=" Rose Miss " target=" Mr. Losberne " weight="1" />
+      <edge id="13" source=" Rose Miss " target=" MR. Grimwig Mr. GRIMWIG " weight="4" />
+      <edge id="14" source=" Rose Miss " target=" Maylie Mrs. " weight="5" />
+      <edge id="15" source=" Rose Miss " target=" Bedwin Mrs. " weight="1" />
+      <edge id="16" source=" Rose Miss " target=" Twist OLIVER Oliver " weight="15" />
+      <edge id="17" source=" Rose Miss " target=" Maylie Harry " weight="8" />
+      <edge id="18" source=" Rose Miss " target=" Miss Nancy " weight="2" />
+      <edge id="19" source=" Rose Miss " target=" Maylie Miss " weight="1" />
+      <edge id="20" source=" Beadle " target=" Bumble Mr. " weight="1" />
+      <edge id="21" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Mr. John Dawkins " weight="2" />
+      <edge id="22" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Bolter Mrs. " weight="1" />
+      <edge id="23" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Barney " weight="2" />
+      <edge id="24" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Charley Bates " weight="1" />
+      <edge id="25" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" FAGIN Fagin MR. Mr. " weight="16" />
+      <edge id="26" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" WILLIAM Sikes MR. William Mr. SIKES " weight="3" />
+      <edge id="27" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Sikes Bill " weight="1" />
+      <edge id="28" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Twist OLIVER Oliver " weight="20" />
+      <edge id="29" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Mr. Sowerberry " weight="1" />
+      <edge id="30" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Jew " weight="1" />
+      <edge id="31" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Mr. Morris Bolter " weight="3" />
+      <edge id="32" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Bates Master " weight="2" />
+      <edge id="33" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Sowerberry Mrs. " weight="4" />
+      <edge id="34" source=" NOAH Mr. Claypole Noah CLAYPOLE " target=" Bumble Mr. " weight="2" />
+      <edge id="35" source=" Mr. Fang " target=" BROWNLOW Brownlow MR. Mr. " weight="1" />
+      <edge id="36" source=" Mr. Fang " target=" Twist OLIVER Oliver " weight="4" />
+      <edge id="37" source=" Mr. Fang " target=" Miss Nancy " weight="1" />
+      <edge id="38" source=" Blathers Mr. " target=" Duff " weight="2" />
+      <edge id="39" source=" Blathers Mr. " target=" Chickweed Conkey " weight="3" />
+      <edge id="40" source=" Bolter Mrs. " target=" Mr. Morris Bolter " weight="1" />
+      <edge id="41" source=" Bolter Mrs. " target=" FAGIN Fagin MR. Mr. " weight="1" />
+      <edge id="42" source=" Mr. Sowerberry " target=" Bumble Mr. " weight="6" />
+      <edge id="43" source=" Mr. Sowerberry " target=" Sowerberry Mrs. " weight="1" />
+      <edge id="44" source=" Mr. Sowerberry " target=" Twist OLIVER Oliver " weight="9" />
+      <edge id="45" source=" Sally " target=" Bumble Mr. " weight="1" />
+      <edge id="46" source=" Sally " target=" Twist OLIVER Oliver " weight="1" />
+      <edge id="47" source=" Sally " target=" Corney Mrs. " weight="1" />
+      <edge id="48" source=" Jew " target=" FAGIN Fagin MR. Mr. " weight="1" />
+      <edge id="49" source=" Jew " target=" Mr. Toby Crackit " weight="1" />
+      <edge id="50" source=" Jew " target=" WILLIAM Sikes MR. William Mr. SIKES " weight="1" />
+      <edge id="51" source=" Charles Bates " target=" Mr. John Dawkins " weight="1" />
+      <edge id="52" source=" Charles Bates " target=" FAGIN Fagin MR. Mr. " weight="2" />
+      <edge id="53" source=" Charles Bates " target=" Mr. Chitling " weight="1" />
+      <edge id="54" source=" Charles Bates " target=" WILLIAM Sikes MR. William Mr. SIKES " weight="1" />
+      <edge id="55" source=" Charles Bates " target=" Twist OLIVER Oliver " weight="1" />
+      <edge id="56" source=" Charles Bates " target=" Bates Master " weight="1" />
+      <edge id="57" source=" Fleming Agnes " target=" BROWNLOW Brownlow MR. Mr. " weight="2" />
+      <edge id="58" source=" Fleming Agnes " target=" Twist OLIVER Oliver " weight="1" />
+      <edge id="59" source=" Sowerberry Mrs. " target=" Bumble Mr. " weight="6" />
+      <edge id="60" source=" Sowerberry Mrs. " target=" Twist OLIVER Oliver " weight="7" />
+      <edge id="61" source=" Betsy Miss " target=" Bates Master " weight="1" />
+      <edge id="62" source=" Betsy Miss " target=" Chitling Tom " weight="1" />
+      <edge id="63" source=" Betsy Miss " target=" Mr. Chitling " weight="1" />
+      <edge id="64" source=" Betsy Miss " target=" Charley Bates " weight="1" />
+      <edge id="65" source=" Betsy Miss " target=" Twist OLIVER Oliver " weight="2" />
+      <edge id="66" source=" Betsy Miss " target=" White Tom " weight="2" />
+      <edge id="67" source=" Mr. Losberne " target=" FAGIN Fagin MR. Mr. " weight="1" />
+      <edge id="68" source=" Mr. Losberne " target=" BROWNLOW Brownlow MR. Mr. " weight="3" />
+      <edge id="69" source=" Mr. Losberne " target=" Giles Mr. " weight="4" />
+      <edge id="70" source=" Mr. Losberne " target=" Duff " weight="1" />
+      <edge id="71" source=" Mr. Losberne " target=" MR. Grimwig Mr. GRIMWIG " weight="2" />
+      <edge id="72" source=" Mr. Losberne " target=" Maylie Mrs. " weight="7" />
+      <edge id="73" source=" Mr. Losberne " target=" Twist OLIVER Oliver " weight="9" />
+      <edge id="74" source=" Mr. Losberne " target=" Maylie Harry " weight="1" />
+      <edge id="75" source=" Mr. John Dawkins " target=" FAGIN Fagin MR. Mr. " weight="3" />
+      <edge id="76" source=" Mr. John Dawkins " target=" Bates Master " weight="1" />
+      <edge id="77" source=" Mr. John Dawkins " target=" Charley Bates " weight="1" />
+      <edge id="78" source=" Mr. John Dawkins " target=" Sikes Bill " weight="1" />
+      <edge id="79" source=" Mr. John Dawkins " target=" Twist OLIVER Oliver " weight="3" />
+      <edge id="80" source=" BROWNLOW Brownlow MR. Mr. " target=" FAGIN Fagin MR. Mr. " weight="2" />
+      <edge id="81" source=" BROWNLOW Brownlow MR. Mr. " target=" Twist OLIVER Oliver " weight="46" />
+      <edge id="82" source=" BROWNLOW Brownlow MR. Mr. " target=" Duff " weight="1" />
+      <edge id="83" source=" BROWNLOW Brownlow MR. Mr. " target=" MR. Grimwig Mr. GRIMWIG " weight="11" />
+      <edge id="84" source=" BROWNLOW Brownlow MR. Mr. " target=" Bumble Mr. " weight="2" />
+      <edge id="85" source=" BROWNLOW Brownlow MR. Mr. " target=" Maylie Mrs. " weight="3" />
+      <edge id="86" source=" BROWNLOW Brownlow MR. Mr. " target=" Rose Maylie " weight="1" />
+      <edge id="87" source=" BROWNLOW Brownlow MR. Mr. " target=" Bedwin Mrs. " weight="11" />
+      <edge id="88" source=" BROWNLOW Brownlow MR. Mr. " target=" Maylie Harry " weight="1" />
+      <edge id="89" source=" BROWNLOW Brownlow MR. Mr. " target=" Bumble Mrs. " weight="1" />
+      <edge id="90" source=" BROWNLOW Brownlow MR. Mr. " target=" Maylie Miss " weight="2" />
+      <edge id="91" source=" BROWNLOW Brownlow MR. Mr. " target=" Bates Master " weight="1" />
+      <edge id="92" source=" BROWNLOW Brownlow MR. Mr. " target=" Charley Bates " weight="1" />
+      <edge id="93" source=" BROWNLOW Brownlow MR. Mr. " target=" Miss Nancy " weight="2" />
+      <edge id="94" source=" BROWNLOW Brownlow MR. Mr. " target=" Leeford Edward " weight="2" />
+      <edge id="95" source=" Chitling Tom " target=" Twist OLIVER Oliver " weight="1" />
+      <edge id="96" source=" Charley Bates " target=" Mr. Toby Crackit " weight="1" />
+      <edge id="97" source=" Charley Bates " target=" Jack Dawkins " weight="1" />
+      <edge id="98" source=" Charley Bates " target=" Mr. Chitling " weight="3" />
+      <edge id="99" source=" Charley Bates " target=" WILLIAM Sikes MR. William Mr. SIKES " weight="3" />
+      <edge id="100" source=" Charley Bates " target=" FAGIN Fagin MR. Mr. " weight="11" />
+      <edge id="101" source=" Charley Bates " target=" Miss Nancy " weight="1" />
+      <edge id="102" source=" Charley Bates " target=" Kags " weight="1" />
+      <edge id="103" source=" Charley Bates " target=" Sikes Bill " weight="1" />
+      <edge id="104" source=" Charley Bates " target=" White Tom " weight="1" />
+      <edge id="105" source=" Charley Bates " target=" Mr. Morris Bolter " weight="4" />
+      <edge id="106" source=" Charley Bates " target=" Twist OLIVER Oliver " weight="14" />
+      <edge id="107" source=" Barney " target=" Mr. Toby Crackit " weight="1" />
+      <edge id="108" source=" Barney " target=" FAGIN Fagin MR. Mr. " weight="5" />
+      <edge id="109" source=" Barney " target=" WILLIAM Sikes MR. William Mr. SIKES " weight="1" />
+      <edge id="110" source=" Barney " target=" Twist OLIVER Oliver " weight="2" />
+      <edge id="111" source=" Barney " target=" Miss Nancy " weight="1" />
+      <edge id="112" source=" Maylie Mrs. " target=" Duff " weight="1" />
+      <edge id="113" source=" Maylie Mrs. " target=" Rose Maylie " weight="1" />
+      <edge id="114" source=" Maylie Mrs. " target=" Bedwin Mrs. " weight="1" />
+      <edge id="115" source=" Maylie Mrs. " target=" Twist OLIVER Oliver " weight="4" />
+      <edge id="116" source=" Maylie Mrs. " target=" Maylie Harry " weight="1" />
+      <edge id="117" source=" Bedwin Mrs. " target=" MR. Grimwig Mr. GRIMWIG " weight="1" />
+      <edge id="118" source=" Bedwin Mrs. " target=" Bumble Mr. " weight="1" />
+      <edge id="119" source=" Bedwin Mrs. " target=" Twist OLIVER Oliver " weight="6" />
+      <edge id="120" source=" Maylie Mr. " target=" Twist OLIVER Oliver " weight="4" />
+      <edge id="121" source=" Maylie Mr. " target=" Giles Mr. " weight="1" />
+      <edge id="122" source=" Twist OLIVER Oliver " target=" Bates Master " weight="6" />
+      <edge id="123" source=" Twist OLIVER Oliver " target=" Mr. Chitling " weight="1" />
+      <edge id="124" source=" Twist OLIVER Oliver " target=" Duff " weight="1" />
+      <edge id="125" source=" Twist OLIVER Oliver " target=" Sikes Bill " weight="1" />
+      <edge id="126" source=" Twist OLIVER Oliver " target=" Maylie Harry " weight="1" />
+      <edge id="127" source=" Twist OLIVER Oliver " target=" Corney Mrs. " weight="1" />
+      <edge id="128" source=" Twist OLIVER Oliver " target=" Mann Mrs. " weight="1" />
+      <edge id="129" source=" Twist OLIVER Oliver " target=" Susan " weight="1" />
+      <edge id="130" source=" Twist OLIVER Oliver " target=" Mr. Limbkins " weight="1" />
+      <edge id="131" source=" Twist OLIVER Oliver " target=" Bumble Mr. " weight="37" />
+      <edge id="132" source=" Twist OLIVER Oliver " target=" WILLIAM Sikes MR. William Mr. SIKES " weight="43" />
+      <edge id="133" source=" Twist OLIVER Oliver " target=" Jack Dawkins " weight="1" />
+      <edge id="134" source=" Twist OLIVER Oliver " target=" Mr. Toby Crackit " weight="10" />
+      <edge id="135" source=" Twist OLIVER Oliver " target=" Mr. Gamfield " weight="3" />
+      <edge id="136" source=" Twist OLIVER Oliver " target=" Miss Nancy " weight="7" />
+      <edge id="137" source=" Twist OLIVER Oliver " target=" Bull " weight="1" />
+      <edge id="138" source=" Twist OLIVER Oliver " target=" FAGIN Fagin MR. Mr. " weight="23" />
+      <edge id="139" source=" Twist OLIVER Oliver " target=" Giles Mr. " weight="3" />
+      <edge id="140" source=" Twist OLIVER Oliver " target=" MR. Grimwig Mr. GRIMWIG " weight="15" />
+      <edge id="141" source=" Twist OLIVER Oliver " target=" Rose Maylie " weight="2" />
+      <edge id="142" source=" Twist OLIVER Oliver " target=" White Tom " weight="2" />
+      <edge id="143" source=" Maylie Harry " target=" Giles Mr. " weight="1" />
+      <edge id="144" source=" Maylie Harry " target=" MR. Grimwig Mr. GRIMWIG " weight="2" />
+      <edge id="145" source=" Chickweed Conkey " target=" Duff " weight="1" />
+      <edge id="146" source=" Mr. Chitling " target=" FAGIN Fagin MR. Mr. " weight="2" />
+      <edge id="147" source=" Mr. Chitling " target=" Bates Master " weight="1" />
+      <edge id="148" source=" Mr. Chitling " target=" Miss Nancy " weight="1" />
+      <edge id="149" source=" Mr. Chitling " target=" Mr. Toby Crackit " weight="1" />
+      <edge id="150" source=" Corney Mrs. " target=" Mr. Corney " weight="1" />
+      <edge id="151" source=" Corney Mrs. " target=" Bumble Mr. " weight="19" />
+      <edge id="152" source=" Mann Mrs. " target=" Bumble Mr. " weight="17" />
+      <edge id="153" source=" Bates Master " target=" FAGIN Fagin MR. Mr. " weight="1" />
+      <edge id="154" source=" Bates Master " target=" WILLIAM Sikes MR. William Mr. SIKES " weight="2" />
+      <edge id="155" source=" Blathers Messrs. " target=" Giles Mr. " weight="2" />
+      <edge id="156" source=" Blathers Messrs. " target=" Duff " weight="4" />
+      <edge id="157" source=" Mr. Limbkins " target=" Bumble Mr. " weight="1" />
+      <edge id="158" source=" Mr. Limbkins " target=" Mr. Gamfield " weight="2" />
+      <edge id="159" source=" Duff " target=" Giles Mr. " weight="1" />
+      <edge id="160" source=" Duff " target=" Miss Nancy " weight="1" />
+      <edge id="161" source=" FAGIN Fagin MR. Mr. " target=" Mr. Morris Bolter " weight="6" />
+      <edge id="162" source=" FAGIN Fagin MR. Mr. " target=" WILLIAM Sikes MR. William Mr. SIKES " weight="29" />
+      <edge id="163" source=" FAGIN Fagin MR. Mr. " target=" Jack Dawkins " weight="1" />
+      <edge id="164" source=" FAGIN Fagin MR. Mr. " target=" Mr. Toby Crackit " weight="3" />
+      <edge id="165" source=" FAGIN Fagin MR. Mr. " target=" Miss Nancy " weight="19" />
+      <edge id="166" source=" FAGIN Fagin MR. Mr. " target=" Giles Mr. " weight="1" />
+      <edge id="167" source=" FAGIN Fagin MR. Mr. " target=" MR. Grimwig Mr. GRIMWIG " weight="1" />
+      <edge id="168" source=" FAGIN Fagin MR. Mr. " target=" Nance " weight="1" />
+      <edge id="169" source=" FAGIN Fagin MR. Mr. " target=" Sikes Bill " weight="8" />
+      <edge id="170" source=" FAGIN Fagin MR. Mr. " target=" White Tom " weight="1" />
+      <edge id="171" source=" Bumble Mr. " target=" Susan " weight="1" />
+      <edge id="172" source=" Bumble Mr. " target=" Bumble Mrs. " weight="3" />
+      <edge id="173" source=" Bumble Mr. " target=" Mr. Gamfield " weight="1" />
+      <edge id="174" source=" Bumble Mr. " target=" MR. Grimwig Mr. GRIMWIG " weight="3" />
+      <edge id="175" source=" WILLIAM Sikes MR. William Mr. SIKES " target=" Rose Maylie " weight="1" />
+      <edge id="176" source=" WILLIAM Sikes MR. William Mr. SIKES " target=" Sikes Bill " weight="1" />
+      <edge id="177" source=" WILLIAM Sikes MR. William Mr. SIKES " target=" White Tom " weight="1" />
+      <edge id="178" source=" WILLIAM Sikes MR. William Mr. SIKES " target=" Mr. Toby Crackit " weight="14" />
+      <edge id="179" source=" WILLIAM Sikes MR. William Mr. SIKES " target=" Miss Nancy " weight="7" />
+      <edge id="180" source=" WILLIAM Sikes MR. William Mr. SIKES " target=" Ned " weight="1" />
+      <edge id="181" source=" Mr. Toby Crackit " target=" Sikes Bill " weight="4" />
+      <edge id="182" source=" Mr. Toby Crackit " target=" Kags " weight="1" />
+      <edge id="183" source=" Mr. Toby Crackit " target=" Miss Nancy " weight="1" />
+      <edge id="184" source=" Spyers Jem " target=" Mr. Chickweed " weight="1" />
+      <edge id="185" source=" Bumble Mrs. " target=" MR. Grimwig Mr. GRIMWIG " weight="1" />
+      <edge id="186" source=" Miss Nancy " target=" Sikes Bill " weight="5" />
+      <edge id="187" source=" Miss Nancy " target=" Rose Maylie " weight="1" />
+      <edge id="188" source=" MR. Grimwig Mr. GRIMWIG " target=" Rose Maylie " weight="1" />
+      <edge id="189" source=" MR. Grimwig Mr. GRIMWIG " target=" Mr. Browlow " weight="1" />
+      <edge id="190" source=" Nance " target=" Sikes Bill " weight="1" />
+    </edges>
+  </graph>
+</gexf>

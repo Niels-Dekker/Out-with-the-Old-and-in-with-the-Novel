@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Dianne " label=" Dianne " />
+      <node id=" Aaron " label=" Aaron " />
+      <node id=" Anthony " label=" Anthony " />
+      <node id=" Skarpi " label=" Skarpi " />
+      <node id=" Selitos " label=" Selitos " />
+      <node id=" Fenton " label=" Fenton " />
+      <node id=" Devan Lochees " label=" Devan Lochees " />
+      <node id=" Timothy " label=" Timothy " />
+      <node id=" Whin Alder " label=" Whin Alder " />
+      <node id=" Reshi " label=" Reshi " />
+      <node id=" Sovoy " label=" Sovoy " />
+      <node id=" SIMMON Simmon " label=" SIMMON Simmon " />
+      <node id=" Illien " label=" Illien " />
+      <node id=" Derrick " label=" Derrick " />
+      <node id=" Pike " label=" Pike " />
+      <node id=" Seth " label=" Seth " />
+      <node id=" Mains " label=" Mains " />
+      <node id=" Chronicler " label=" Chronicler " />
+      <node id=" Cinder " label=" Cinder " />
+      <node id=" Menda " label=" Menda " />
+      <node id=" Threpe " label=" Threpe " />
+      <node id=" Wereth " label=" Wereth " />
+      <node id=" Fela " label=" Fela " />
+      <node id=" Josn " label=" Josn " />
+      <node id=" Vint " label=" Vint " />
+      <node id=" Nalt " label=" Nalt " />
+      <node id=" Laclith " label=" Laclith " />
+      <node id=" ANKER Anker " label=" ANKER Anker " />
+      <node id=" Shandi " label=" Shandi " />
+      <node id=" Manet " label=" Manet " />
+      <node id=" Aleph " label=" Aleph " />
+      <node id=" Perial Lady " label=" Perial Lady " />
+      <node id=" Baedn " label=" Baedn " />
+      <node id=" Kote " label=" Kote " />
+      <node id=" Rengen " label=" Rengen " />
+      <node id=" Tariniel Myr " label=" Tariniel Myr " />
+      <node id=" Shep " label=" Shep " />
+      <node id=" Roent " label=" Roent " />
+      <node id=" Siaru " label=" Siaru " />
+      <node id=" Wilem " label=" Wilem " />
+      <node id=" Jake " label=" Jake " />
+      <node id=" Hemme Master " label=" Hemme Master " />
+      <node id=" Jamison " label=" Jamison " />
+      <node id=" Imre " label=" Imre " />
+      <node id=" Tema " label=" Tema " />
+      <node id=" Lord Haliax " label=" Lord Haliax " />
+      <node id=" Arwyl " label=" Arwyl " />
+      <node id=" Teccam " label=" Teccam " />
+      <node id=" Larkin " label=" Larkin " />
+      <node id=" Lanre " label=" Lanre " />
+      <node id=" Ambrose " label=" Ambrose " />
+      <node id=" Lentaren " label=" Lentaren " />
+      <node id=" Abenthy " label=" Abenthy " />
+      <node id=" Teren " label=" Teren " />
+      <node id=" Sim " label=" Sim " />
+      <node id=" Reta " label=" Reta " />
+      <node id=" Schiem " label=" Schiem " />
+      <node id=" Carter " label=" Carter " />
+      <node id=" Abbott " label=" Abbott " />
+      <node id=" Elodin " label=" Elodin " />
+      <node id=" Graham " label=" Graham " />
+      <node id=" Master Kilvin " label=" Master Kilvin " />
+      <node id=" Tanee " label=" Tanee " />
+      <node id=" Denna " label=" Denna " />
+      <node id=" Bast " label=" Bast " />
+      <node id=" Kvothe Kingkiller " label=" Kvothe Kingkiller " />
+      <node id=" Encanis " label=" Encanis " />
+      <node id=" Marion " label=" Marion " />
+      <node id=" Lord Tehlu " label=" Lord Tehlu " />
+      <node id=" Taborlin " label=" Taborlin " />
+      <node id=" Tolem " label=" Tolem " />
+      <node id=" Mandrag " label=" Mandrag " />
+      <node id=" Deborah " label=" Deborah " />
+      <node id=" Loni " label=" Loni " />
+      <node id=" Tarbean " label=" Tarbean " />
+      <node id=" Deoch " label=" Deoch " />
+      <node id=" Jaspin " label=" Jaspin " />
+      <node id=" Dal Elxa " label=" Dal Elxa " />
+      <node id=" Devi " label=" Devi " />
+      <node id=" Jacob " label=" Jacob " />
+      <node id=" Brandeur " label=" Brandeur " />
+      <node id=" Annabelle " label=" Annabelle " />
+      <node id=" Modeg " label=" Modeg " />
+      <node id=" Fain " label=" Fain " />
+      <node id=" Ruh Edema " label=" Ruh Edema " />
+      <node id=" Anilin " label=" Anilin " />
+      <node id=" Cealdish " label=" Cealdish " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Aloine " label=" Aloine " />
+      <node id=" Auri " label=" Auri " />
+      <node id=" Mauthen " label=" Mauthen " />
+      <node id=" Greyfallow Baron " label=" Greyfallow Baron " />
+      <node id=" BEN Ben " label=" BEN Ben " />
+      <node id=" Savien " label=" Savien " />
+      <node id=" Daeonica " label=" Daeonica " />
+      <node id=" Lorren " label=" Lorren " />
+      <node id=" Mola " label=" Mola " />
+      <node id=" Jimmy " label=" Jimmy " />
+      <node id=" Losel " label=" Losel " />
+      <node id=" Wil " label=" Wil " />
+      <node id=" Trapis " label=" Trapis " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Dianne " target=" Denna " weight="1" />
+      <edge id="1" source=" Aaron " target=" Kvothe Kingkiller " weight="2" />
+      <edge id="2" source=" Anthony " target=" Ruh Edema " weight="1" />
+      <edge id="3" source=" Skarpi " target=" Lanre " weight="1" />
+      <edge id="4" source=" Skarpi " target=" Lord Haliax " weight="1" />
+      <edge id="5" source=" Skarpi " target=" Selitos " weight="1" />
+      <edge id="6" source=" Skarpi " target=" Lord Tehlu " weight="1" />
+      <edge id="7" source=" Selitos " target=" Tariniel Myr " weight="1" />
+      <edge id="8" source=" Selitos " target=" Lord Tehlu " weight="2" />
+      <edge id="9" source=" Selitos " target=" Lanre " weight="19" />
+      <edge id="10" source=" Selitos " target=" Aleph " weight="1" />
+      <edge id="11" source=" Fenton " target=" Dal Elxa " weight="1" />
+      <edge id="12" source=" Devan Lochees " target=" Bast " weight="2" />
+      <edge id="13" source=" Timothy " target=" Elodin " weight="3" />
+      <edge id="14" source=" Whin Alder " target=" Imre " weight="1" />
+      <edge id="15" source=" Whin Alder " target=" Elodin " weight="3" />
+      <edge id="16" source=" Reshi " target=" Bast " weight="17" />
+      <edge id="17" source=" Sovoy " target=" SIMMON Simmon " weight="2" />
+      <edge id="18" source=" Sovoy " target=" Sim " weight="2" />
+      <edge id="19" source=" Sovoy " target=" Denna " weight="3" />
+      <edge id="20" source=" Sovoy " target=" Manet " weight="5" />
+      <edge id="21" source=" Sovoy " target=" Wilem " weight="1" />
+      <edge id="22" source=" SIMMON Simmon " target=" ANKER Anker " weight="1" />
+      <edge id="23" source=" SIMMON Simmon " target=" Ambrose " weight="2" />
+      <edge id="24" source=" SIMMON Simmon " target=" Wilem " weight="10" />
+      <edge id="25" source=" SIMMON Simmon " target=" Sim " weight="4" />
+      <edge id="26" source=" SIMMON Simmon " target=" Denna " weight="2" />
+      <edge id="27" source=" SIMMON Simmon " target=" Manet " weight="12" />
+      <edge id="28" source=" SIMMON Simmon " target=" Jamison " weight="1" />
+      <edge id="29" source=" SIMMON Simmon " target=" Kvothe Kingkiller " weight="1" />
+      <edge id="30" source=" SIMMON Simmon " target=" Wil " weight="3" />
+      <edge id="31" source=" Illien " target=" BEN Ben " weight="2" />
+      <edge id="32" source=" Illien " target=" Savien " weight="1" />
+      <edge id="33" source=" Derrick " target=" Josn " weight="1" />
+      <edge id="34" source=" Pike " target=" Nalt " weight="1" />
+      <edge id="35" source=" Seth " target=" Jake " weight="2" />
+      <edge id="36" source=" Mains " target=" ANKER Anker " weight="1" />
+      <edge id="37" source=" Chronicler " target=" Bast " weight="1" />
+      <edge id="38" source=" Cinder " target=" Lord Haliax " weight="1" />
+      <edge id="39" source=" Menda " target=" Perial Lady " weight="1" />
+      <edge id="40" source=" Threpe " target=" Deoch " weight="1" />
+      <edge id="41" source=" Threpe " target=" Imre " weight="1" />
+      <edge id="42" source=" Threpe " target=" Tarbean " weight="1" />
+      <edge id="43" source=" Wereth " target=" Lord Tehlu " weight="1" />
+      <edge id="44" source=" Fela " target=" Elodin " weight="1" />
+      <edge id="45" source=" Fela " target=" Ambrose " weight="4" />
+      <edge id="46" source=" Fela " target=" Denna " weight="1" />
+      <edge id="47" source=" Fela " target=" Manet " weight="2" />
+      <edge id="48" source=" Fela " target=" Deoch " weight="1" />
+      <edge id="49" source=" Fela " target=" ANKER Anker " weight="1" />
+      <edge id="50" source=" Josn " target=" Denna " weight="2" />
+      <edge id="51" source=" Josn " target=" Anilin " weight="1" />
+      <edge id="52" source=" Vint " target=" Modeg " weight="1" />
+      <edge id="53" source=" Laclith " target=" Abenthy " weight="1" />
+      <edge id="54" source=" ANKER Anker " target=" Ambrose " weight="1" />
+      <edge id="55" source=" ANKER Anker " target=" Wilem " weight="2" />
+      <edge id="56" source=" ANKER Anker " target=" Denna " weight="2" />
+      <edge id="57" source=" ANKER Anker " target=" Wil " weight="1" />
+      <edge id="58" source=" Shandi " target=" BEN Ben " weight="1" />
+      <edge id="59" source=" Shandi " target=" Teren " weight="1" />
+      <edge id="60" source=" Shandi " target=" Marion " weight="1" />
+      <edge id="61" source=" Manet " target=" Abenthy " weight="1" />
+      <edge id="62" source=" Manet " target=" Sim " weight="2" />
+      <edge id="63" source=" Manet " target=" Wilem " weight="1" />
+      <edge id="64" source=" Manet " target=" Wil " weight="1" />
+      <edge id="65" source=" Manet " target=" Dal Elxa " weight="3" />
+      <edge id="66" source=" Aleph " target=" Lord Tehlu " weight="2" />
+      <edge id="67" source=" Perial Lady " target=" Losel " weight="1" />
+      <edge id="68" source=" Perial Lady " target=" Deborah " weight="1" />
+      <edge id="69" source=" Perial Lady " target=" Fain " weight="1" />
+      <edge id="70" source=" Perial Lady " target=" Lord Tehlu " weight="1" />
+      <edge id="71" source=" Baedn " target=" Bast " weight="1" />
+      <edge id="72" source=" Kote " target=" Carter " weight="1" />
+      <edge id="73" source=" Kote " target=" Bast " weight="36" />
+      <edge id="74" source=" Kote " target=" Graham " weight="2" />
+      <edge id="75" source=" Rengen " target=" Lord Tehlu " weight="2" />
+      <edge id="76" source=" Tariniel Myr " target=" Lanre " weight="1" />
+      <edge id="77" source=" Shep " target=" Carter " weight="1" />
+      <edge id="78" source=" Shep " target=" Jake " weight="3" />
+      <edge id="79" source=" Shep " target=" Bast " weight="2" />
+      <edge id="80" source=" Shep " target=" Graham " weight="3" />
+      <edge id="81" source=" Roent " target=" Imre " weight="1" />
+      <edge id="82" source=" Roent " target=" Reta " weight="2" />
+      <edge id="83" source=" Roent " target=" Denna " weight="1" />
+      <edge id="84" source=" Siaru " target=" Master Kilvin " weight="1" />
+      <edge id="85" source=" Wilem " target=" Elodin " weight="1" />
+      <edge id="86" source=" Wilem " target=" Master Kilvin " weight="1" />
+      <edge id="87" source=" Wilem " target=" Denna " weight="2" />
+      <edge id="88" source=" Wilem " target=" Sim " weight="6" />
+      <edge id="89" source=" Wilem " target=" Wil " weight="1" />
+      <edge id="90" source=" Jake " target=" Jacob " weight="1" />
+      <edge id="91" source=" Jake " target=" Graham " weight="1" />
+      <edge id="92" source=" Jake " target=" Carter " weight="2" />
+      <edge id="93" source=" Hemme Master " target=" Elodin " weight="1" />
+      <edge id="94" source=" Hemme Master " target=" Ambrose " weight="1" />
+      <edge id="95" source=" Hemme Master " target=" Lorren " weight="1" />
+      <edge id="96" source=" Hemme Master " target=" Brandeur " weight="3" />
+      <edge id="97" source=" Hemme Master " target=" Kvothe Kingkiller " weight="1" />
+      <edge id="98" source=" Hemme Master " target=" Arwyl " weight="1" />
+      <edge id="99" source=" Imre " target=" Ambrose " weight="1" />
+      <edge id="100" source=" Imre " target=" Denna " weight="1" />
+      <edge id="101" source=" Imre " target=" Devi " weight="2" />
+      <edge id="102" source=" Imre " target=" Auri " weight="1" />
+      <edge id="103" source=" Imre " target=" Mola " weight="1" />
+      <edge id="104" source=" Imre " target=" Deoch " weight="2" />
+      <edge id="105" source=" Tema " target=" Kvothe Kingkiller " weight="1" />
+      <edge id="106" source=" Lord Haliax " target=" Lanre " weight="1" />
+      <edge id="107" source=" Arwyl " target=" Elodin " weight="1" />
+      <edge id="108" source=" Arwyl " target=" Master Kilvin " weight="3" />
+      <edge id="109" source=" Arwyl " target=" Lorren " weight="1" />
+      <edge id="110" source=" Arwyl " target=" Brandeur " weight="1" />
+      <edge id="111" source=" Arwyl " target=" Dal Elxa " weight="1" />
+      <edge id="112" source=" Teccam " target=" Ambrose " weight="1" />
+      <edge id="113" source=" Larkin " target=" Tolem " weight="1" />
+      <edge id="114" source=" Lanre " target=" Lord Tehlu " weight="1" />
+      <edge id="115" source=" Ambrose " target=" BEN Ben " weight="1" />
+      <edge id="116" source=" Ambrose " target=" Elodin " weight="1" />
+      <edge id="117" source=" Ambrose " target=" Auri " weight="1" />
+      <edge id="118" source=" Ambrose " target=" Lorren " weight="2" />
+      <edge id="119" source=" Ambrose " target=" Mola " weight="1" />
+      <edge id="120" source=" Ambrose " target=" Kvothe Kingkiller " weight="3" />
+      <edge id="121" source=" Ambrose " target=" Wil " weight="1" />
+      <edge id="122" source=" Ambrose " target=" Ruh Edema " weight="1" />
+      <edge id="123" source=" Lentaren " target=" Denna " weight="3" />
+      <edge id="124" source=" Abenthy " target=" BEN Ben " weight="2" />
+      <edge id="125" source=" Abenthy " target=" Fain " weight="1" />
+      <edge id="126" source=" Teren " target=" Fain " weight="1" />
+      <edge id="127" source=" Sim " target=" Denna " weight="6" />
+      <edge id="128" source=" Sim " target=" Deoch " weight="3" />
+      <edge id="129" source=" Sim " target=" Wil " weight="14" />
+      <edge id="130" source=" Sim " target=" Dal Elxa " weight="1" />
+      <edge id="131" source=" Reta " target=" Denna " weight="1" />
+      <edge id="132" source=" Schiem " target=" Denna " weight="4" />
+      <edge id="133" source=" Carter " target=" Bast " weight="3" />
+      <edge id="134" source=" Carter " target=" Graham " weight="2" />
+      <edge id="135" source=" Abbott " target=" Bast " weight="1" />
+      <edge id="136" source=" Elodin " target=" Lorren " weight="1" />
+      <edge id="137" source=" Elodin " target=" Master Kilvin " weight="1" />
+      <edge id="138" source=" Elodin " target=" Bast " weight="1" />
+      <edge id="139" source=" Master Kilvin " target=" Cealdish " weight="1" />
+      <edge id="140" source=" Master Kilvin " target=" Lorren " weight="2" />
+      <edge id="141" source=" Master Kilvin " target=" Dal Elxa " weight="3" />
+      <edge id="142" source=" Tanee " target=" Trapis " weight="1" />
+      <edge id="143" source=" Denna " target=" Daeonica " weight="1" />
+      <edge id="144" source=" Denna " target=" Annabelle " weight="1" />
+      <edge id="145" source=" Denna " target=" Devi " weight="1" />
+      <edge id="146" source=" Denna " target=" Mola " weight="1" />
+      <edge id="147" source=" Denna " target=" Bast " weight="1" />
+      <edge id="148" source=" Denna " target=" Deoch " weight="2" />
+      <edge id="149" source=" Denna " target=" Wil " weight="2" />
+      <edge id="150" source=" Denna " target=" Anilin " weight="4" />
+      <edge id="151" source=" Bast " target=" Taborlin " weight="1" />
+      <edge id="152" source=" Bast " target=" Kvothe Kingkiller " weight="58" />
+      <edge id="153" source=" Kvothe Kingkiller " target=" Mola " weight="1" />
+      <edge id="154" source=" Kvothe Kingkiller " target=" Ruh Edema " weight="1" />
+      <edge id="155" source=" Encanis " target=" Lord Tehlu " weight="21" />
+      <edge id="156" source=" Lord Tehlu " target=" Deborah " weight="1" />
+      <edge id="157" source=" Lord Tehlu " target=" Losel " weight="1" />
+      <edge id="158" source=" Lord Tehlu " target=" Jaspin " weight="1" />
+      <edge id="159" source=" Lord Tehlu " target=" Trapis " weight="1" />
+      <edge id="160" source=" Mandrag " target=" Lorren " weight="1" />
+      <edge id="161" source=" Deborah " target=" Losel " weight="1" />
+      <edge id="162" source=" Loni " target=" Trapis " weight="1" />
+      <edge id="163" source=" Jaspin " target=" Trapis " weight="1" />
+      <edge id="164" source=" Ruh Edema " target=" Greyfallow Baron " weight="1" />
+      <edge id="165" source="#N/A" target=" BEN Ben " weight="1" />
+      <edge id="166" source=" Aloine " target=" Savien " weight="3" />
+      <edge id="167" source=" Auri " target=" Mola " weight="2" />
+      <edge id="168" source=" Mauthen " target=" Jimmy " weight="1" />
+      <edge id="169" source=" BEN Ben " target=" Savien " weight="1" />
+      <edge id="170" source=" BEN Ben " target=" Lorren " weight="4" />
+      <edge id="171" source=" Lorren " target=" Wil " weight="2" />
+    </edges>
+  </graph>
+</gexf>
