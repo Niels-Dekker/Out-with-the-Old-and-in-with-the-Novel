@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Chalais " label=" Chalais " />
+      <node id=" M. Bonacieux " label=" M. Bonacieux " />
+      <node id=" de M. Busigny " label=" de M. Busigny " />
+      <node id=" Houdiniere La " label=" Houdiniere La " />
+      <node id=" John Felton " label=" John Felton " />
+      <node id=" Bois-Tracy de Madame " label=" Bois-Tracy de Madame " />
+      <node id=" de M. Schomberg " label=" de M. Schomberg " />
+      <node id=" Lubin " label=" Lubin " />
+      <node id=" Porthos Monsieur " label=" Porthos Monsieur " />
+      <node id=" la Harpe de Rue " label=" la Harpe de Rue " />
+      <node id=" Rochellais " label=" Rochellais " />
+      <node id=" Richelieu de " label=" Richelieu de " />
+      <node id=" de Busigny Monsieur " label=" de Busigny Monsieur " />
+      <node id=" Milady Clarik " label=" Milady Clarik " />
+      <node id=" Rochefort " label=" Rochefort " />
+      <node id=" Grimaud Monsieur " label=" Grimaud Monsieur " />
+      <node id=" M. Coquenard " label=" M. Coquenard " />
+      <node id=" de Treville Monsieur " label=" de Treville Monsieur " />
+      <node id=" Mr. Felton " label=" Mr. Felton " />
+      <node id=" Montague " label=" Montague " />
+      <node id=" dâArtagnan Monsieur DâArtagnan " label=" dâArtagnan Monsieur DâArtagnan " />
+      <node id=" Buckingham de Monsieur BUCKINGHAM " label=" Buckingham de Monsieur BUCKINGHAM " />
+      <node id=" de Monsieur Voiture " label=" de Monsieur Voiture " />
+      <node id=" Monsieur Bernajoux " label=" Monsieur Bernajoux " />
+      <node id=" III Henry " label=" III Henry " />
+      <node id=" Monsieur Dessessart " label=" Monsieur Dessessart " />
+      <node id=" de Chevreuse Madame " label=" de Chevreuse Madame " />
+      <node id=" Donna Estafania " label=" Donna Estafania " />
+      <node id=" Lord Duke " label=" Lord Duke " />
+      <node id=" Quixote Don " label=" Quixote Don " />
+      <node id=" Lorme de Marion " label=" Lorme de Marion " />
+      <node id=" de Cahusac Monsieur " label=" de Cahusac Monsieur " />
+      <node id=" Bazin " label=" Bazin " />
+      <node id=" Chevalier Monsieur " label=" Chevalier Monsieur " />
+      <node id=" Musketeer " label=" Musketeer " />
+      <node id=" Constance Bonacieux " label=" Constance Bonacieux " />
+      <node id=" M. Dessessart " label=" M. Dessessart " />
+      <node id=" Germain " label=" Germain " />
+      <node id=" de M. Cavois " label=" de M. Cavois " />
+      <node id=" Judith " label=" Judith " />
+      <node id=" Gascon " label=" Gascon " />
+      <node id=" Mousqueton " label=" Mousqueton " />
+      <node id=" Monsieur Athos " label=" Monsieur Athos " />
+      <node id=" Duke Monsieur " label=" Duke Monsieur " />
+      <node id=" Charlotte Backson " label=" Charlotte Backson " />
+      <node id=" Bethune " label=" Bethune " />
+      <node id=" Planchet Monsieur " label=" Planchet Monsieur " />
+      <node id=" Louis XIII " label=" Louis XIII " />
+      <node id=" Bonacieux Madame " label=" Bonacieux Madame " />
+      <node id=" de Benserade Monsieur " label=" de Benserade Monsieur " />
+      <node id=" Gervais " label=" Gervais " />
+      <node id=" Meung " label=" Meung " />
+      <node id=" Chesnaye La " label=" Chesnaye La " />
+      <node id=" Bonacieux Monsieur " label=" Bonacieux Monsieur " />
+      <node id=" Chrysostom " label=" Chrysostom " />
+      <node id=" Wardes de De M. " label=" Wardes de De M. " />
+      <node id=" Coquenard Monsieur " label=" Coquenard Monsieur " />
+      <node id=" Patrick " label=" Patrick " />
+      <node id=" Berry " label=" Berry " />
+      <node id=" Mande " label=" Mande " />
+      <node id=" Laporte M. " label=" Laporte M. " />
+      <node id=" de M. Laffemas " label=" de M. Laffemas " />
+      <node id=" Laporte Monsieur " label=" Laporte Monsieur " />
+      <node id=" Louis XIV " label=" Louis XIV " />
+      <node id=" Anne " label=" Anne " />
+      <node id=" de M. Tremouille la " label=" de M. Tremouille la " />
+      <node id=" Norman " label=" Norman " />
+      <node id=" de M. Bassompierre " label=" de M. Bassompierre " />
+      <node id=" IV Henry " label=" IV Henry " />
+      <node id=" Villiers George " label=" Villiers George " />
+      <node id=" Bearnais " label=" Bearnais " />
+      <node id=" I Charles " label=" I Charles " />
+      <node id=" Pierre " label=" Pierre " />
+      <node id=" monsieur Aramis Monsieur ARAMIS " label=" monsieur Aramis Monsieur ARAMIS " />
+      <node id=" Jussac " label=" Jussac " />
+      <node id=" Denis " label=" Denis " />
+      <node id=" Gascons " label=" Gascons " />
+      <node id=" Coquenard Madame " label=" Coquenard Madame " />
+      <node id=" Crevecoeur " label=" Crevecoeur " />
+      <node id=" Picard " label=" Picard " />
+      <node id=" pope Pope " label=" pope Pope " />
+      <node id=" de M. Treville " label=" de M. Treville " />
+      <node id=" de Marie Medicis " label=" de Marie Medicis " />
+      <node id=" Lorraine " label=" Lorraine " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Cardinal Monsieur " label=" Cardinal Monsieur " />
+      <node id=" Fourreau " label=" Fourreau " />
+      <node id=" Bicarat " label=" Bicarat " />
+      <node id=" Marie Michon MARIE MICHON " label=" Marie Michon MARIE MICHON " />
+      <node id=" Lord de Winter " label=" Lord de Winter " />
+      <node id=" Milady de De Winter " label=" Milady de De Winter " />
+      <node id=" M. dâArtagnan " label=" M. dâArtagnan " />
+      <node id=" Duke " label=" Duke " />
+      <node id=" Messieurs Porthos " label=" Messieurs Porthos " />
+      <node id=" Kitty " label=" Kitty " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Chalais " target=" Rochefort " weight="1" />
+      <edge id="1" source=" Chalais " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="2" source=" Chalais " target=" Messieurs Porthos " weight="1" />
+      <edge id="3" source=" Chalais " target=" de Treville Monsieur " weight="1" />
+      <edge id="4" source=" M. Bonacieux " target=" Rochefort " weight="1" />
+      <edge id="5" source=" M. Bonacieux " target=" Monsieur Athos " weight="1" />
+      <edge id="6" source=" M. Bonacieux " target=" Meung " weight="1" />
+      <edge id="7" source=" M. Bonacieux " target=" de M. Treville " weight="1" />
+      <edge id="8" source=" M. Bonacieux " target=" Bonacieux Monsieur " weight="2" />
+      <edge id="9" source=" M. Bonacieux " target=" de M. Laffemas " weight="1" />
+      <edge id="10" source=" de M. Busigny " target=" Bazin " weight="1" />
+      <edge id="11" source=" de M. Busigny " target=" Monsieur Athos " weight="5" />
+      <edge id="12" source=" de M. Busigny " target=" Grimaud Monsieur " weight="2" />
+      <edge id="13" source=" de M. Busigny " target=" Planchet Monsieur " weight="2" />
+      <edge id="14" source=" de M. Busigny " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="15" source=" de M. Busigny " target=" Messieurs Porthos " weight="1" />
+      <edge id="16" source=" de M. Busigny " target=" Houdiniere La " weight="1" />
+      <edge id="17" source=" Houdiniere La " target=" de Cahusac Monsieur " weight="1" />
+      <edge id="18" source=" John Felton " target=" Patrick " weight="3" />
+      <edge id="19" source=" John Felton " target=" Judith " weight="1" />
+      <edge id="20" source=" John Felton " target=" Milady de De Winter " weight="4" />
+      <edge id="21" source=" John Felton " target="#N/A" weight="3" />
+      <edge id="22" source=" John Felton " target=" I Charles " weight="2" />
+      <edge id="23" source=" John Felton " target=" Laporte Monsieur " weight="1" />
+      <edge id="24" source=" John Felton " target=" Buckingham de Monsieur BUCKINGHAM " weight="1" />
+      <edge id="25" source=" John Felton " target=" Charlotte Backson " weight="2" />
+      <edge id="26" source=" John Felton " target=" Mr. Felton " weight="1" />
+      <edge id="27" source=" John Felton " target=" Lord de Winter " weight="7" />
+      <edge id="28" source=" Bois-Tracy de Madame " target=" Monsieur Athos " weight="1" />
+      <edge id="29" source=" Bois-Tracy de Madame " target=" monsieur Aramis Monsieur ARAMIS " weight="2" />
+      <edge id="30" source=" de M. Schomberg " target=" Rochellais " weight="1" />
+      <edge id="31" source=" de M. Schomberg " target=" de M. Bassompierre " weight="3" />
+      <edge id="32" source=" de M. Schomberg " target=" monsieur Aramis Monsieur ARAMIS " weight="2" />
+      <edge id="33" source=" Lubin " target=" Milady de De Winter " weight="1" />
+      <edge id="34" source=" Lubin " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="35" source=" Lubin " target=" Planchet Monsieur " weight="4" />
+      <edge id="36" source=" Porthos Monsieur " target=" Monsieur Athos " weight="1" />
+      <edge id="37" source=" Porthos Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="38" source=" Porthos Monsieur " target=" M. Coquenard " weight="1" />
+      <edge id="39" source=" la Harpe de Rue " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="40" source=" Rochellais " target=" de M. Bassompierre " weight="1" />
+      <edge id="41" source=" Richelieu de " target=" Monsieur Athos " weight="11" />
+      <edge id="42" source=" Richelieu de " target=" Planchet Monsieur " weight="2" />
+      <edge id="43" source=" Richelieu de " target=" dâArtagnan Monsieur DâArtagnan " weight="2" />
+      <edge id="44" source=" Richelieu de " target=" I Charles " weight="1" />
+      <edge id="45" source=" Richelieu de " target=" Milady de De Winter " weight="1" />
+      <edge id="46" source=" Richelieu de " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="47" source=" Richelieu de " target=" Mousqueton " weight="1" />
+      <edge id="48" source=" Richelieu de " target=" Louis XIII " weight="1" />
+      <edge id="49" source=" Richelieu de " target=" Buckingham de Monsieur BUCKINGHAM " weight="1" />
+      <edge id="50" source=" Richelieu de " target=" Pierre " weight="1" />
+      <edge id="51" source=" Richelieu de " target=" Messieurs Porthos " weight="3" />
+      <edge id="52" source=" de Busigny Monsieur " target=" Messieurs Porthos " weight="1" />
+      <edge id="53" source=" de Busigny Monsieur " target=" Monsieur Athos " weight="2" />
+      <edge id="54" source=" de Busigny Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="55" source=" de Busigny Monsieur " target=" Gervais " weight="1" />
+      <edge id="56" source=" Milady Clarik " target=" Monsieur Athos " weight="1" />
+      <edge id="57" source=" Milady Clarik " target=" Gascon " weight="1" />
+      <edge id="58" source=" Milady Clarik " target=" Lord de Winter " weight="1" />
+      <edge id="59" source=" Rochefort " target=" Bazin " weight="1" />
+      <edge id="60" source=" Rochefort " target=" Chevalier Monsieur " weight="1" />
+      <edge id="61" source=" Rochefort " target=" Planchet Monsieur " weight="1" />
+      <edge id="62" source=" Rochefort " target=" Pierre " weight="1" />
+      <edge id="63" source=" Rochefort " target=" Bonacieux Monsieur " weight="5" />
+      <edge id="64" source=" Rochefort " target=" Milady de De Winter " weight="2" />
+      <edge id="65" source=" Rochefort " target=" Wardes de De M. " weight="1" />
+      <edge id="66" source=" Rochefort " target=" Messieurs Porthos " weight="1" />
+      <edge id="67" source=" Grimaud Monsieur " target=" Bazin " weight="7" />
+      <edge id="68" source=" Grimaud Monsieur " target=" Monsieur Athos " weight="7" />
+      <edge id="69" source=" Grimaud Monsieur " target=" Picard " weight="5" />
+      <edge id="70" source=" Grimaud Monsieur " target=" Planchet Monsieur " weight="4" />
+      <edge id="71" source=" Grimaud Monsieur " target=" Milady de De Winter " weight="1" />
+      <edge id="72" source=" Grimaud Monsieur " target=" Cardinal Monsieur " weight="1" />
+      <edge id="73" source=" Grimaud Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="74" source=" Grimaud Monsieur " target=" de M. Treville " weight="1" />
+      <edge id="75" source=" Grimaud Monsieur " target=" Mousqueton " weight="3" />
+      <edge id="76" source=" Grimaud Monsieur " target=" Messieurs Porthos " weight="1" />
+      <edge id="77" source=" Grimaud Monsieur " target=" Gervais " weight="1" />
+      <edge id="78" source=" M. Coquenard " target=" Messieurs Porthos " weight="1" />
+      <edge id="79" source=" M. Coquenard " target=" Milady de De Winter " weight="1" />
+      <edge id="80" source=" de Treville Monsieur " target=" III Henry " weight="1" />
+      <edge id="81" source=" de Treville Monsieur " target=" Monsieur Athos " weight="3" />
+      <edge id="82" source=" de Treville Monsieur " target=" dâArtagnan Monsieur DâArtagnan " weight="1" />
+      <edge id="83" source=" de Treville Monsieur " target=" Gascon " weight="2" />
+      <edge id="84" source=" de Treville Monsieur " target=" Louis XIII " weight="3" />
+      <edge id="85" source=" de Treville Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="2" />
+      <edge id="86" source=" de Treville Monsieur " target=" de M. Treville " weight="4" />
+      <edge id="87" source=" de Treville Monsieur " target=" Jussac " weight="1" />
+      <edge id="88" source=" de Treville Monsieur " target=" Monsieur Dessessart " weight="4" />
+      <edge id="89" source=" de Treville Monsieur " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="90" source=" Montague " target=" Lorraine " weight="1" />
+      <edge id="91" source=" Montague " target=" de Chevreuse Madame " weight="1" />
+      <edge id="92" source=" dâArtagnan Monsieur DâArtagnan " target=" Monsieur Athos " weight="3" />
+      <edge id="93" source=" dâArtagnan Monsieur DâArtagnan " target=" Monsieur Dessessart " weight="2" />
+      <edge id="94" source=" dâArtagnan Monsieur DâArtagnan " target=" Bethune " weight="2" />
+      <edge id="95" source=" dâArtagnan Monsieur DâArtagnan " target=" Milady de De Winter " weight="2" />
+      <edge id="96" source=" dâArtagnan Monsieur DâArtagnan " target=" de M. Treville " weight="2" />
+      <edge id="97" source=" dâArtagnan Monsieur DâArtagnan " target=" Wardes de De M. " weight="1" />
+      <edge id="98" source=" dâArtagnan Monsieur DâArtagnan " target=" Kitty " weight="2" />
+      <edge id="99" source=" dâArtagnan Monsieur DâArtagnan " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="100" source=" Buckingham de Monsieur BUCKINGHAM " target=" Patrick " weight="1" />
+      <edge id="101" source=" Buckingham de Monsieur BUCKINGHAM " target=" Musketeer " weight="1" />
+      <edge id="102" source=" Buckingham de Monsieur BUCKINGHAM " target=" Duke " weight="1" />
+      <edge id="103" source=" Buckingham de Monsieur BUCKINGHAM " target=" Donna Estafania " weight="1" />
+      <edge id="104" source=" Buckingham de Monsieur BUCKINGHAM " target=" I Charles " weight="1" />
+      <edge id="105" source=" Buckingham de Monsieur BUCKINGHAM " target=" Laporte Monsieur " weight="1" />
+      <edge id="106" source=" Buckingham de Monsieur BUCKINGHAM " target=" monsieur Aramis Monsieur ARAMIS " weight="2" />
+      <edge id="107" source=" Buckingham de Monsieur BUCKINGHAM " target=" Villiers George " weight="1" />
+      <edge id="108" source=" Buckingham de Monsieur BUCKINGHAM " target=" Messieurs Porthos " weight="2" />
+      <edge id="109" source=" Buckingham de Monsieur BUCKINGHAM " target=" Anne " weight="2" />
+      <edge id="110" source=" Buckingham de Monsieur BUCKINGHAM " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="111" source=" de Monsieur Voiture " target=" Bazin " weight="2" />
+      <edge id="112" source=" de Monsieur Voiture " target=" Marie Michon MARIE MICHON " weight="1" />
+      <edge id="113" source=" de Monsieur Voiture " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="114" source=" de Monsieur Voiture " target=" de Benserade Monsieur " weight="1" />
+      <edge id="115" source=" Monsieur Bernajoux " target=" de M. Treville " weight="1" />
+      <edge id="116" source=" Monsieur Bernajoux " target=" Jussac " weight="1" />
+      <edge id="117" source=" Monsieur Bernajoux " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="118" source=" Monsieur Bernajoux " target=" de M. Tremouille la " weight="2" />
+      <edge id="119" source=" Monsieur Bernajoux " target=" Cardinal Monsieur " weight="1" />
+      <edge id="120" source=" III Henry " target=" Louis XIII " weight="1" />
+      <edge id="121" source=" Monsieur Dessessart " target=" Constance Bonacieux " weight="1" />
+      <edge id="122" source=" Monsieur Dessessart " target=" Gascon " weight="1" />
+      <edge id="123" source=" Monsieur Dessessart " target=" de M. Treville " weight="1" />
+      <edge id="124" source=" Monsieur Dessessart " target=" Bearnais " weight="1" />
+      <edge id="125" source=" de Chevreuse Madame " target=" Lord Duke " weight="1" />
+      <edge id="126" source=" de Chevreuse Madame " target=" Lorraine " weight="1" />
+      <edge id="127" source=" de Chevreuse Madame " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="128" source=" de Chevreuse Madame " target=" Louis XIII " weight="1" />
+      <edge id="129" source=" Donna Estafania " target=" Anne " weight="1" />
+      <edge id="130" source=" Lord Duke " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="131" source=" Quixote Don " target=" Gascon " weight="1" />
+      <edge id="132" source=" Lorme de Marion " target=" Monsieur Athos " weight="1" />
+      <edge id="133" source=" de Cahusac Monsieur " target=" de M. Treville " weight="1" />
+      <edge id="134" source=" de Cahusac Monsieur " target=" Monsieur Athos " weight="3" />
+      <edge id="135" source=" de Cahusac Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="136" source=" Bazin " target=" Marie Michon MARIE MICHON " weight="1" />
+      <edge id="137" source=" Bazin " target=" Planchet Monsieur " weight="10" />
+      <edge id="138" source=" Bazin " target=" pope Pope " weight="2" />
+      <edge id="139" source=" Bazin " target=" Lord de Winter " weight="1" />
+      <edge id="140" source=" Bazin " target=" Milady de De Winter " weight="2" />
+      <edge id="141" source=" Bazin " target=" monsieur Aramis Monsieur ARAMIS " weight="40" />
+      <edge id="142" source=" Bazin " target=" Monsieur Athos " weight="11" />
+      <edge id="143" source=" Bazin " target=" M. dâArtagnan " weight="1" />
+      <edge id="144" source=" Bazin " target=" Mousqueton " weight="5" />
+      <edge id="145" source=" Bazin " target=" Messieurs Porthos " weight="5" />
+      <edge id="146" source=" Bazin " target=" Chrysostom " weight="1" />
+      <edge id="147" source=" Bazin " target=" Coquenard Madame " weight="1" />
+      <edge id="148" source=" Bazin " target=" Picard " weight="1" />
+      <edge id="149" source=" Chevalier Monsieur " target=" Kitty " weight="4" />
+      <edge id="150" source=" Chevalier Monsieur " target=" Messieurs Porthos " weight="1" />
+      <edge id="151" source=" Chevalier Monsieur " target=" Milady de De Winter " weight="1" />
+      <edge id="152" source=" Chevalier Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="153" source=" Musketeer " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="154" source=" Constance Bonacieux " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="155" source=" Constance Bonacieux " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="156" source=" M. Dessessart " target=" de M. Treville " weight="2" />
+      <edge id="157" source=" M. Dessessart " target=" monsieur Aramis Monsieur ARAMIS " weight="2" />
+      <edge id="158" source=" Germain " target=" Bonacieux Monsieur " weight="1" />
+      <edge id="159" source=" de M. Cavois " target=" de M. Treville " weight="1" />
+      <edge id="160" source=" Gascon " target=" Monsieur Athos " weight="3" />
+      <edge id="161" source=" Gascon " target=" Wardes de De M. " weight="1" />
+      <edge id="162" source=" Gascon " target=" Milady de De Winter " weight="3" />
+      <edge id="163" source=" Gascon " target=" monsieur Aramis Monsieur ARAMIS " weight="2" />
+      <edge id="164" source=" Gascon " target=" de M. Treville " weight="1" />
+      <edge id="165" source=" Gascon " target=" Messieurs Porthos " weight="1" />
+      <edge id="166" source=" Gascon " target=" IV Henry " weight="1" />
+      <edge id="167" source=" Gascon " target=" Kitty " weight="14" />
+      <edge id="168" source=" Gascon " target=" Bicarat " weight="1" />
+      <edge id="169" source=" Mousqueton " target=" Norman " weight="2" />
+      <edge id="170" source=" Mousqueton " target=" Monsieur Athos " weight="1" />
+      <edge id="171" source=" Mousqueton " target=" Planchet Monsieur " weight="2" />
+      <edge id="172" source=" Mousqueton " target=" Crevecoeur " weight="1" />
+      <edge id="173" source=" Mousqueton " target=" Milady de De Winter " weight="1" />
+      <edge id="174" source=" Mousqueton " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="175" source=" Mousqueton " target=" Messieurs Porthos " weight="5" />
+      <edge id="176" source=" Mousqueton " target=" Picard " weight="1" />
+      <edge id="177" source=" Monsieur Athos " target=" Pierre " weight="1" />
+      <edge id="178" source=" Monsieur Athos " target=" Jussac " weight="1" />
+      <edge id="179" source=" Monsieur Athos " target=" Bonacieux Monsieur " weight="6" />
+      <edge id="180" source=" Monsieur Athos " target=" Wardes de De M. " weight="1" />
+      <edge id="181" source=" Monsieur Athos " target=" Picard " weight="5" />
+      <edge id="182" source=" Monsieur Athos " target=" de M. Treville " weight="5" />
+      <edge id="183" source=" Monsieur Athos " target=" Berry " weight="1" />
+      <edge id="184" source=" Monsieur Athos " target="#N/A" weight="1" />
+      <edge id="185" source=" Monsieur Athos " target=" Cardinal Monsieur " weight="1" />
+      <edge id="186" source=" Monsieur Athos " target=" Charlotte Backson " weight="1" />
+      <edge id="187" source=" Monsieur Athos " target=" Bethune " weight="3" />
+      <edge id="188" source=" Monsieur Athos " target=" Bicarat " weight="1" />
+      <edge id="189" source=" Monsieur Athos " target=" Planchet Monsieur " weight="5" />
+      <edge id="190" source=" Monsieur Athos " target=" Milady de De Winter " weight="2" />
+      <edge id="191" source=" Monsieur Athos " target=" monsieur Aramis Monsieur ARAMIS " weight="46" />
+      <edge id="192" source=" Monsieur Athos " target=" Bonacieux Madame " weight="1" />
+      <edge id="193" source=" Monsieur Athos " target=" Messieurs Porthos " weight="20" />
+      <edge id="194" source=" Monsieur Athos " target=" Kitty " weight="1" />
+      <edge id="195" source=" Monsieur Athos " target=" Gervais " weight="1" />
+      <edge id="196" source=" Duke Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="197" source=" Bethune " target=" Milady de De Winter " weight="2" />
+      <edge id="198" source=" Bethune " target=" de M. Treville " weight="1" />
+      <edge id="199" source=" Bethune " target=" Marie Michon MARIE MICHON " weight="1" />
+      <edge id="200" source=" Bethune " target=" Bonacieux Monsieur " weight="2" />
+      <edge id="201" source=" Planchet Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="3" />
+      <edge id="202" source=" Planchet Monsieur " target=" Louis XIV " weight="1" />
+      <edge id="203" source=" Planchet Monsieur " target=" de M. Treville " weight="1" />
+      <edge id="204" source=" Planchet Monsieur " target=" Fourreau " weight="3" />
+      <edge id="205" source=" Planchet Monsieur " target=" Messieurs Porthos " weight="1" />
+      <edge id="206" source=" Planchet Monsieur " target=" Bonacieux Monsieur " weight="2" />
+      <edge id="207" source=" Louis XIII " target=" de M. Bassompierre " weight="1" />
+      <edge id="208" source=" Louis XIII " target=" de M. Treville " weight="1" />
+      <edge id="209" source=" Louis XIII " target=" Anne " weight="4" />
+      <edge id="210" source=" Bonacieux Madame " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="211" source=" de Benserade Monsieur " target=" de M. Treville " weight="1" />
+      <edge id="212" source=" Gervais " target=" Messieurs Porthos " weight="1" />
+      <edge id="213" source=" Gervais " target=" monsieur Aramis Monsieur ARAMIS " weight="1" />
+      <edge id="214" source=" Meung " target=" de M. Treville " weight="1" />
+      <edge id="215" source=" Meung " target=" de M. Laffemas " weight="1" />
+      <edge id="216" source=" Chesnaye La " target=" de M. Treville " weight="1" />
+      <edge id="217" source=" Bonacieux Monsieur " target=" Denis " weight="1" />
+      <edge id="218" source=" Bonacieux Monsieur " target=" de M. Treville " weight="4" />
+      <edge id="219" source=" Bonacieux Monsieur " target=" Mande " weight="1" />
+      <edge id="220" source=" Bonacieux Monsieur " target=" Laporte M. " weight="1" />
+      <edge id="221" source=" Bonacieux Monsieur " target=" Lorraine " weight="1" />
+      <edge id="222" source=" Bonacieux Monsieur " target="#N/A" weight="1" />
+      <edge id="223" source=" Bonacieux Monsieur " target=" Laporte Monsieur " weight="1" />
+      <edge id="224" source=" Bonacieux Monsieur " target=" Wardes de De M. " weight="1" />
+      <edge id="225" source=" Bonacieux Monsieur " target=" Marie Michon MARIE MICHON " weight="2" />
+      <edge id="226" source=" Bonacieux Monsieur " target=" Milady de De Winter " weight="8" />
+      <edge id="227" source=" Bonacieux Monsieur " target=" monsieur Aramis Monsieur ARAMIS " weight="11" />
+      <edge id="228" source=" Bonacieux Monsieur " target=" M. dâArtagnan " weight="1" />
+      <edge id="229" source=" Bonacieux Monsieur " target=" Messieurs Porthos " weight="1" />
+      <edge id="230" source=" Bonacieux Monsieur " target=" Kitty " weight="1" />
+      <edge id="231" source=" Wardes de De M. " target=" Milady de De Winter " weight="1" />
+      <edge id="232" source=" Wardes de De M. " target=" Jussac " weight="1" />
+      <edge id="233" source=" Wardes de De M. " target=" Kitty " weight="1" />
+      <edge id="234" source=" Coquenard Monsieur " target=" Messieurs Porthos " weight="1" />
+      <edge id="235" source=" Patrick " target=" Laporte Monsieur " weight="2" />
+      <edge id="236" source=" de M. Laffemas " target=" Anne " weight="1" />
+      <edge id="237" source=" Laporte Monsieur " target=" I Charles " weight="1" />
+      <edge id="238" source=" Laporte Monsieur " target=" de M. Treville " weight="1" />
+      <edge id="239" source=" Anne " target=" de M. Bassompierre " weight="1" />
+      <edge id="240" source=" Anne " target=" de Marie Medicis " weight="1" />
+      <edge id="241" source=" de M. Tremouille la " target=" de M. Treville " weight="3" />
+      <edge id="242" source=" Norman " target=" Messieurs Porthos " weight="1" />
+      <edge id="243" source=" de M. Bassompierre " target=" monsieur Aramis Monsieur ARAMIS " weight="2" />
+      <edge id="244" source=" Villiers George " target=" Duke " weight="1" />
+      <edge id="245" source=" Villiers George " target=" Milady de De Winter " weight="1" />
+      <edge id="246" source=" Bearnais " target=" de M. Treville " weight="1" />
+      <edge id="247" source=" I Charles " target=" Milady de De Winter " weight="1" />
+      <edge id="248" source=" monsieur Aramis Monsieur ARAMIS " target=" Jussac " weight="3" />
+      <edge id="249" source=" monsieur Aramis Monsieur ARAMIS " target=" Denis " weight="1" />
+      <edge id="250" source=" monsieur Aramis Monsieur ARAMIS " target=" Coquenard Madame " weight="1" />
+      <edge id="251" source=" monsieur Aramis Monsieur ARAMIS " target=" Picard " weight="1" />
+      <edge id="252" source=" monsieur Aramis Monsieur ARAMIS " target=" de M. Treville " weight="16" />
+      <edge id="253" source=" monsieur Aramis Monsieur ARAMIS " target=" Lorraine " weight="2" />
+      <edge id="254" source=" monsieur Aramis Monsieur ARAMIS " target=" Crevecoeur " weight="1" />
+      <edge id="255" source=" monsieur Aramis Monsieur ARAMIS " target=" Bicarat " weight="3" />
+      <edge id="256" source=" monsieur Aramis Monsieur ARAMIS " target=" Marie Michon MARIE MICHON " weight="3" />
+      <edge id="257" source=" monsieur Aramis Monsieur ARAMIS " target=" pope Pope " weight="1" />
+      <edge id="258" source=" monsieur Aramis Monsieur ARAMIS " target=" Lord de Winter " weight="1" />
+      <edge id="259" source=" monsieur Aramis Monsieur ARAMIS " target=" Messieurs Porthos " weight="54" />
+      <edge id="260" source=" Jussac " target=" Cardinal Monsieur " weight="1" />
+      <edge id="261" source=" Jussac " target=" Bicarat " weight="1" />
+      <edge id="262" source=" Gascons " target=" de M. Treville " weight="1" />
+      <edge id="263" source=" Coquenard Madame " target=" Messieurs Porthos " weight="2" />
+      <edge id="264" source=" Crevecoeur " target=" Messieurs Porthos " weight="1" />
+      <edge id="265" source=" Picard " target=" Messieurs Porthos " weight="2" />
+      <edge id="266" source=" de M. Treville " target="#N/A" weight="2" />
+      <edge id="267" source=" de M. Treville " target=" Milady de De Winter " weight="1" />
+      <edge id="268" source=" de M. Treville " target=" M. dâArtagnan " weight="1" />
+      <edge id="269" source=" de M. Treville " target=" Messieurs Porthos " weight="4" />
+      <edge id="270" source=" Lorraine " target=" Marie Michon MARIE MICHON " weight="1" />
+      <edge id="271" source="#N/A" target=" Lord de Winter " weight="2" />
+      <edge id="272" source="#N/A" target=" Milady de De Winter " weight="3" />
+      <edge id="273" source="#N/A" target=" M. dâArtagnan " weight="1" />
+      <edge id="274" source=" Bicarat " target=" Messieurs Porthos " weight="1" />
+      <edge id="275" source=" Lord de Winter " target=" Messieurs Porthos " weight="1" />
+      <edge id="276" source=" Milady de De Winter " target=" M. dâArtagnan " weight="1" />
+      <edge id="277" source=" Milady de De Winter " target=" Messieurs Porthos " weight="1" />
+      <edge id="278" source=" Milady de De Winter " target=" Kitty " weight="13" />
+    </edges>
+  </graph>
+</gexf>

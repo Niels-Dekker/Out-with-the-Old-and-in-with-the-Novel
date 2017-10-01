@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Caladan Brood " label=" Caladan Brood " />
+      <node id=" Derudan " label=" Derudan " />
+      <node id=" Fiddler " label=" Fiddler " />
+      <node id=" Meese " label=" Meese " />
+      <node id=" Crokus " label=" Crokus " />
+      <node id=" Baran " label=" Baran " />
+      <node id=" Nedurian " label=" Nedurian " />
+      <node id=" Rallick " label=" Rallick " />
+      <node id=" Hairlock " label=" Hairlock " />
+      <node id=" High Tayschrenn Mage " label=" High Tayschrenn Mage " />
+      <node id=" Hood " label=" Hood " />
+      <node id=" Onearm Dujek " label=" Onearm Dujek " />
+      <node id=" Kellanved " label=" Kellanved " />
+      <node id=" Phellack Omtose Warren " label=" Phellack Omtose Warren " />
+      <node id=" Starvald Demelain " label=" Starvald Demelain " />
+      <node id=" Kruppe " label=" Kruppe " />
+      <node id=" Aren " label=" Aren " />
+      <node id=" Estraysian D'Arle " label=" Estraysian D'Arle " />
+      <node id=" D'Arle Challice " label=" D'Arle Challice " />
+      <node id=" Oponn " label=" Oponn " />
+      <node id=" Chole Pran " label=" Chole Pran " />
+      <node id=" Tattersail " label=" Tattersail " />
+      <node id=" Catlin " label=" Catlin " />
+      <node id=" Moranth Black " label=" Moranth Black " />
+      <node id=" Orr Turban " label=" Orr Turban " />
+      <node id=" Denul " label=" Denul " />
+      <node id=" Lim " label=" Lim " />
+      <node id=" Bellurdan " label=" Bellurdan " />
+      <node id=" Paran " label=" Paran " />
+      <node id=" Calot " label=" Calot " />
+      <node id=" Jammit " label=" Jammit " />
+      <node id=" Master Baruk " label=" Master Baruk " />
+      <node id=" Moon " label=" Moon " />
+      <node id=" Rhivi " label=" Rhivi " />
+      <node id=" Crone " label=" Crone " />
+      <node id=" Prince K'azz " label=" Prince K'azz " />
+      <node id=" Sulty " label=" Sulty " />
+      <node id=" Korlat " label=" Korlat " />
+      <node id=" Whiskeyjack " label=" Whiskeyjack " />
+      <node id=" Lord Rake Anomander " label=" Lord Rake Anomander " />
+      <node id=" Horult " label=" Horult " />
+      <node id=" Worrytown " label=" Worrytown " />
+      <node id=" Tennes " label=" Tennes " />
+      <node id=" Jorrick " label=" Jorrick " />
+      <node id=" Serrat " label=" Serrat " />
+      <node id=" Imass " label=" Imass " />
+      <node id=" Dassem Ultor " label=" Dassem Ultor " />
+      <node id=" Barghast " label=" Barghast " />
+      <node id=" Sarge " label=" Sarge " />
+      <node id=" Simtal Lady " label=" Simtal Lady " />
+      <node id=" Trell " label=" Trell " />
+      <node id=" Darujhistan " label=" Darujhistan " />
+      <node id=" Tellann Warren " label=" Tellann Warren " />
+      <node id=" Aye " label=" Aye " />
+      <node id=" Kurald Galain " label=" Kurald Galain " />
+      <node id=" Dragnipur " label=" Dragnipur " />
+      <node id=" Shadowthrone " label=" Shadowthrone " />
+      <node id=" Vorcan " label=" Vorcan " />
+      <node id=" Murillio " label=" Murillio " />
+      <node id=" Toc " label=" Toc " />
+      <node id=" Rood " label=" Rood " />
+      <node id=" Raest " label=" Raest " />
+      <node id=" Doan " label=" Doan " />
+      <node id=" Apsalar " label=" Apsalar " />
+      <node id=" Rigga " label=" Rigga " />
+      <node id=" Jaghut " label=" Jaghut " />
+      <node id=" Nightchill " label=" Nightchill " />
+      <node id=" Roald " label=" Roald " />
+      <node id=" Mammot " label=" Mammot " />
+      <node id=" Hill Majesty " label=" Hill Majesty " />
+      <node id=" Scurve " label=" Scurve " />
+      <node id=" Lorn " label=" Lorn " />
+      <node id=" Rallick Nom " label=" Rallick Nom " />
+      <node id=" Genabaris " label=" Genabaris " />
+      <node id=" Moranth Gold " label=" Moranth Gold " />
+      <node id=" Riggalai " label=" Riggalai " />
+      <node id=" Adaephon Ben Delat " label=" Adaephon Ben Delat " />
+      <node id=" Coll " label=" Coll " />
+      <node id=" Irilta " label=" Irilta " />
+      <node id=" Blind " label=" Blind " />
+      <node id=" Tiste Andii " label=" Tiste Andii " />
+      <node id=" Silanah " label=" Silanah " />
+      <node id=" Corporal Kalam " label=" Corporal Kalam " />
+      <node id=" Mallet " label=" Mallet " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Laseen " label=" Laseen " />
+      <node id=" Genabackis " label=" Genabackis " />
+      <node id=" Topper " label=" Topper " />
+      <node id=" Ocelot " label=" Ocelot " />
+      <node id=" Ammanas " label=" Ammanas " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Caladan Brood " target=" Master Baruk " weight="1" />
+      <edge id="1" source=" Caladan Brood " target=" Moon " weight="1" />
+      <edge id="2" source=" Caladan Brood " target=" Tiste Andii " weight="1" />
+      <edge id="3" source=" Caladan Brood " target="#N/A" weight="1" />
+      <edge id="4" source=" Caladan Brood " target=" Onearm Dujek " weight="2" />
+      <edge id="5" source=" Caladan Brood " target=" Oponn " weight="1" />
+      <edge id="6" source=" Caladan Brood " target=" Lord Rake Anomander " weight="1" />
+      <edge id="7" source=" Derudan " target=" Crokus " weight="1" />
+      <edge id="8" source=" Derudan " target=" Lord Rake Anomander " weight="1" />
+      <edge id="9" source=" Derudan " target=" Vorcan " weight="1" />
+      <edge id="10" source=" Derudan " target=" Master Baruk " weight="2" />
+      <edge id="11" source=" Fiddler " target=" Calot " weight="1" />
+      <edge id="12" source=" Fiddler " target=" Whiskeyjack " weight="3" />
+      <edge id="13" source=" Fiddler " target=" Corporal Kalam " weight="1" />
+      <edge id="14" source=" Fiddler " target=" Onearm Dujek " weight="4" />
+      <edge id="15" source=" Meese " target=" Scurve " weight="2" />
+      <edge id="16" source=" Meese " target=" Kruppe " weight="1" />
+      <edge id="17" source=" Meese " target=" Coll " weight="2" />
+      <edge id="18" source=" Meese " target=" Irilta " weight="2" />
+      <edge id="19" source=" Meese " target=" Crokus " weight="2" />
+      <edge id="20" source=" Meese " target=" Murillio " weight="1" />
+      <edge id="21" source=" Crokus " target=" Orr Turban " weight="1" />
+      <edge id="22" source=" Crokus " target=" Coll " weight="4" />
+      <edge id="23" source=" Crokus " target=" Apsalar " weight="1" />
+      <edge id="24" source=" Crokus " target=" Moon " weight="1" />
+      <edge id="25" source=" Crokus " target=" Tiste Andii " weight="1" />
+      <edge id="26" source=" Crokus " target=" Worrytown " weight="1" />
+      <edge id="27" source=" Crokus " target=" Kruppe " weight="7" />
+      <edge id="28" source=" Crokus " target=" Rallick Nom " weight="1" />
+      <edge id="29" source=" Crokus " target=" Prince K'azz " weight="1" />
+      <edge id="30" source=" Crokus " target=" Murillio " weight="2" />
+      <edge id="31" source=" Crokus " target=" Master Baruk " weight="7" />
+      <edge id="32" source=" Crokus " target=" Rallick " weight="1" />
+      <edge id="33" source=" Crokus " target=" Darujhistan " weight="1" />
+      <edge id="34" source=" Crokus " target=" Mammot " weight="1" />
+      <edge id="35" source=" Crokus " target=" Lord Rake Anomander " weight="2" />
+      <edge id="36" source=" Crokus " target=" Corporal Kalam " weight="1" />
+      <edge id="37" source=" Crokus " target=" Catlin " weight="1" />
+      <edge id="38" source=" Baran " target=" Blind " weight="1" />
+      <edge id="39" source=" Baran " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="40" source=" Nedurian " target=" Tattersail " weight="1" />
+      <edge id="41" source=" Nedurian " target=" Onearm Dujek " weight="1" />
+      <edge id="42" source=" Rallick " target=" Coll " weight="3" />
+      <edge id="43" source=" Rallick " target=" Simtal Lady " weight="2" />
+      <edge id="44" source=" Rallick " target=" Orr Turban " weight="5" />
+      <edge id="45" source=" Rallick " target=" Master Baruk " weight="8" />
+      <edge id="46" source=" Rallick " target=" Moon " weight="1" />
+      <edge id="47" source=" Rallick " target=" Hood " weight="3" />
+      <edge id="48" source=" Rallick " target=" Mallet " weight="1" />
+      <edge id="49" source=" Rallick " target=" Kruppe " weight="3" />
+      <edge id="50" source=" Rallick " target=" Sulty " weight="1" />
+      <edge id="51" source=" Rallick " target=" Hill Majesty " weight="1" />
+      <edge id="52" source=" Rallick " target=" Ocelot " weight="1" />
+      <edge id="53" source=" Rallick " target=" Vorcan " weight="2" />
+      <edge id="54" source=" Rallick " target=" Lord Rake Anomander " weight="1" />
+      <edge id="55" source=" Rallick " target=" Lim " weight="1" />
+      <edge id="56" source=" Rallick " target=" Murillio " weight="9" />
+      <edge id="57" source=" Rallick " target=" Corporal Kalam " weight="1" />
+      <edge id="58" source=" Hairlock " target=" Calot " weight="3" />
+      <edge id="59" source=" Hairlock " target=" Tellann Warren " weight="3" />
+      <edge id="60" source=" Hairlock " target=" Moon " weight="3" />
+      <edge id="61" source=" Hairlock " target=" High Tayschrenn Mage " weight="10" />
+      <edge id="62" source=" Hairlock " target=" Onearm Dujek " weight="4" />
+      <edge id="63" source=" Hairlock " target=" Whiskeyjack " weight="1" />
+      <edge id="64" source=" Hairlock " target=" Lord Rake Anomander " weight="1" />
+      <edge id="65" source=" Hairlock " target=" Adaephon Ben Delat " weight="4" />
+      <edge id="66" source=" Hairlock " target=" Tattersail " weight="7" />
+      <edge id="67" source=" Hairlock " target=" Corporal Kalam " weight="2" />
+      <edge id="68" source=" Hairlock " target=" Paran " weight="1" />
+      <edge id="69" source=" High Tayschrenn Mage " target=" Calot " weight="1" />
+      <edge id="70" source=" High Tayschrenn Mage " target=" Tellann Warren " weight="1" />
+      <edge id="71" source=" High Tayschrenn Mage " target=" Lorn " weight="6" />
+      <edge id="72" source=" High Tayschrenn Mage " target=" Master Baruk " weight="1" />
+      <edge id="73" source=" High Tayschrenn Mage " target=" Moon " weight="4" />
+      <edge id="74" source=" High Tayschrenn Mage " target=" Tattersail " weight="9" />
+      <edge id="75" source=" High Tayschrenn Mage " target=" Onearm Dujek " weight="7" />
+      <edge id="76" source=" High Tayschrenn Mage " target=" Nightchill " weight="1" />
+      <edge id="77" source=" High Tayschrenn Mage " target=" Genabaris " weight="2" />
+      <edge id="78" source=" High Tayschrenn Mage " target=" Sarge " weight="1" />
+      <edge id="79" source=" High Tayschrenn Mage " target=" Bellurdan " weight="2" />
+      <edge id="80" source=" High Tayschrenn Mage " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="81" source=" Hood " target=" Oponn " weight="1" />
+      <edge id="82" source=" Hood " target=" Apsalar " weight="4" />
+      <edge id="83" source=" Hood " target=" Dassem Ultor " weight="2" />
+      <edge id="84" source=" Hood " target=" Mallet " weight="1" />
+      <edge id="85" source=" Hood " target=" Tattersail " weight="1" />
+      <edge id="86" source=" Hood " target=" Paran " weight="1" />
+      <edge id="87" source=" Onearm Dujek " target=" Calot " weight="2" />
+      <edge id="88" source=" Onearm Dujek " target=" Moranth Black " weight="3" />
+      <edge id="89" source=" Onearm Dujek " target=" Lorn " weight="5" />
+      <edge id="90" source=" Onearm Dujek " target=" Moon " weight="6" />
+      <edge id="91" source=" Onearm Dujek " target=" Mallet " weight="1" />
+      <edge id="92" source=" Onearm Dujek " target=" Toc " weight="1" />
+      <edge id="93" source=" Onearm Dujek " target=" Whiskeyjack " weight="3" />
+      <edge id="94" source=" Onearm Dujek " target=" Paran " weight="1" />
+      <edge id="95" source=" Onearm Dujek " target=" Tattersail " weight="2" />
+      <edge id="96" source=" Onearm Dujek " target=" Corporal Kalam " weight="2" />
+      <edge id="97" source=" Kellanved " target=" Shadowthrone " weight="1" />
+      <edge id="98" source=" Kellanved " target=" Tellann Warren " weight="1" />
+      <edge id="99" source=" Phellack Omtose Warren " target=" Kurald Galain " weight="1" />
+      <edge id="100" source=" Phellack Omtose Warren " target=" Starvald Demelain " weight="1" />
+      <edge id="101" source=" Starvald Demelain " target=" Kurald Galain " weight="1" />
+      <edge id="102" source=" Kruppe " target=" Scurve " weight="1" />
+      <edge id="103" source=" Kruppe " target=" Simtal Lady " weight="1" />
+      <edge id="104" source=" Kruppe " target=" Lorn " weight="2" />
+      <edge id="105" source=" Kruppe " target=" Orr Turban " weight="5" />
+      <edge id="106" source=" Kruppe " target=" Rallick Nom " weight="1" />
+      <edge id="107" source=" Kruppe " target=" Corporal Kalam " weight="1" />
+      <edge id="108" source=" Kruppe " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="109" source=" Kruppe " target=" Tellann Warren " weight="3" />
+      <edge id="110" source=" Kruppe " target=" Coll " weight="2" />
+      <edge id="111" source=" Kruppe " target=" Master Baruk " weight="23" />
+      <edge id="112" source=" Kruppe " target=" Moon " weight="1" />
+      <edge id="113" source=" Kruppe " target=" Rhivi " weight="1" />
+      <edge id="114" source=" Kruppe " target=" Dragnipur " weight="1" />
+      <edge id="115" source=" Kruppe " target=" Sulty " weight="1" />
+      <edge id="116" source=" Kruppe " target=" Silanah " weight="1" />
+      <edge id="117" source=" Kruppe " target=" Lord Rake Anomander " weight="2" />
+      <edge id="118" source=" Kruppe " target=" Murillio " weight="28" />
+      <edge id="119" source=" Kruppe " target=" Laseen " weight="2" />
+      <edge id="120" source=" Kruppe " target=" Aye " weight="2" />
+      <edge id="121" source=" Kruppe " target=" Raest " weight="1" />
+      <edge id="122" source=" Kruppe " target=" Apsalar " weight="1" />
+      <edge id="123" source=" Kruppe " target=" Mammot " weight="2" />
+      <edge id="124" source=" Kruppe " target=" Chole Pran " weight="7" />
+      <edge id="125" source=" Kruppe " target=" Tattersail " weight="1" />
+      <edge id="126" source=" Kruppe " target=" Catlin " weight="1" />
+      <edge id="127" source=" Aren " target="#N/A" weight="1" />
+      <edge id="128" source=" Estraysian D'Arle " target=" Orr Turban " weight="2" />
+      <edge id="129" source=" Estraysian D'Arle " target=" Master Baruk " weight="2" />
+      <edge id="130" source=" D'Arle Challice " target=" Orr Turban " weight="1" />
+      <edge id="131" source=" Oponn " target=" Scurve " weight="1" />
+      <edge id="132" source=" Oponn " target=" Lorn " weight="1" />
+      <edge id="133" source=" Oponn " target=" Lord Rake Anomander " weight="1" />
+      <edge id="134" source=" Oponn " target=" Paran " weight="2" />
+      <edge id="135" source=" Oponn " target=" Darujhistan " weight="2" />
+      <edge id="136" source=" Oponn " target=" Adaephon Ben Delat " weight="2" />
+      <edge id="137" source=" Chole Pran " target=" Master Baruk " weight="1" />
+      <edge id="138" source=" Chole Pran " target=" Tattersail " weight="1" />
+      <edge id="139" source=" Tattersail " target=" Calot " weight="5" />
+      <edge id="140" source=" Tattersail " target=" Tellann Warren " weight="6" />
+      <edge id="141" source=" Tattersail " target=" Lorn " weight="6" />
+      <edge id="142" source=" Tattersail " target=" Moon " weight="2" />
+      <edge id="143" source=" Tattersail " target=" Denul " weight="1" />
+      <edge id="144" source=" Tattersail " target=" Mallet " weight="1" />
+      <edge id="145" source=" Tattersail " target="#N/A" weight="1" />
+      <edge id="146" source=" Tattersail " target=" Adaephon Ben Delat " weight="2" />
+      <edge id="147" source=" Tattersail " target=" Whiskeyjack " weight="1" />
+      <edge id="148" source=" Tattersail " target=" Bellurdan " weight="5" />
+      <edge id="149" source=" Tattersail " target=" Toc " weight="1" />
+      <edge id="150" source=" Tattersail " target=" Paran " weight="4" />
+      <edge id="151" source=" Tattersail " target=" Corporal Kalam " weight="2" />
+      <edge id="152" source=" Catlin " target=" Mammot " weight="1" />
+      <edge id="153" source=" Catlin " target=" Rhivi " weight="1" />
+      <edge id="154" source=" Catlin " target=" Master Baruk " weight="1" />
+      <edge id="155" source=" Moranth Black " target=" Whiskeyjack " weight="4" />
+      <edge id="156" source=" Moranth Black " target=" Corporal Kalam " weight="1" />
+      <edge id="157" source=" Orr Turban " target=" Simtal Lady " weight="11" />
+      <edge id="158" source=" Orr Turban " target=" Coll " weight="2" />
+      <edge id="159" source=" Orr Turban " target=" Master Baruk " weight="3" />
+      <edge id="160" source=" Orr Turban " target=" Murillio " weight="3" />
+      <edge id="161" source=" Orr Turban " target=" Crone " weight="1" />
+      <edge id="162" source=" Orr Turban " target=" Roald " weight="1" />
+      <edge id="163" source=" Orr Turban " target=" Lord Rake Anomander " weight="1" />
+      <edge id="164" source=" Orr Turban " target=" Darujhistan " weight="1" />
+      <edge id="165" source=" Denul " target=" Tellann Warren " weight="1" />
+      <edge id="166" source=" Denul " target=" Tennes " weight="1" />
+      <edge id="167" source=" Denul " target=" Lorn " weight="1" />
+      <edge id="168" source=" Denul " target=" Corporal Kalam " weight="1" />
+      <edge id="169" source=" Lim " target=" Simtal Lady " weight="1" />
+      <edge id="170" source=" Lim " target="#N/A" weight="1" />
+      <edge id="171" source=" Lim " target=" Murillio " weight="2" />
+      <edge id="172" source=" Bellurdan " target=" Tellann Warren " weight="2" />
+      <edge id="173" source=" Bellurdan " target=" Moon " weight="1" />
+      <edge id="174" source=" Bellurdan " target=" Nightchill " weight="2" />
+      <edge id="175" source=" Bellurdan " target=" Corporal Kalam " weight="1" />
+      <edge id="176" source=" Paran " target=" Tellann Warren " weight="3" />
+      <edge id="177" source=" Paran " target=" Mallet " weight="5" />
+      <edge id="178" source=" Paran " target=" Coll " weight="4" />
+      <edge id="179" source=" Paran " target=" Moon " weight="1" />
+      <edge id="180" source=" Paran " target=" Tiste Andii " weight="1" />
+      <edge id="181" source=" Paran " target=" Trell " weight="1" />
+      <edge id="182" source=" Paran " target=" Toc " weight="3" />
+      <edge id="183" source=" Paran " target=" Laseen " weight="1" />
+      <edge id="184" source=" Paran " target=" Topper " weight="5" />
+      <edge id="185" source=" Paran " target=" Corporal Kalam " weight="7" />
+      <edge id="186" source=" Paran " target=" Lord Rake Anomander " weight="6" />
+      <edge id="187" source=" Paran " target=" Rood " weight="3" />
+      <edge id="188" source=" Paran " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="189" source=" Calot " target=" Moon " weight="4" />
+      <edge id="190" source=" Calot " target="#N/A" weight="1" />
+      <edge id="191" source=" Jammit " target=" Coll " weight="1" />
+      <edge id="192" source=" Master Baruk " target=" Tellann Warren " weight="2" />
+      <edge id="193" source=" Master Baruk " target=" Simtal Lady " weight="1" />
+      <edge id="194" source=" Master Baruk " target=" Tiste Andii " weight="2" />
+      <edge id="195" source=" Master Baruk " target=" Crone " weight="5" />
+      <edge id="196" source=" Master Baruk " target=" Roald " weight="6" />
+      <edge id="197" source=" Master Baruk " target=" Mammot " weight="4" />
+      <edge id="198" source=" Master Baruk " target=" Lord Rake Anomander " weight="7" />
+      <edge id="199" source=" Master Baruk " target=" Vorcan " weight="5" />
+      <edge id="200" source=" Master Baruk " target=" Darujhistan " weight="1" />
+      <edge id="201" source=" Master Baruk " target=" Murillio " weight="1" />
+      <edge id="202" source=" Moon " target=" Simtal Lady " weight="2" />
+      <edge id="203" source=" Moon " target=" Rallick Nom " weight="1" />
+      <edge id="204" source=" Moon " target=" Darujhistan " weight="2" />
+      <edge id="205" source=" Moon " target=" Tiste Andii " weight="1" />
+      <edge id="206" source=" Moon " target=" Crone " weight="2" />
+      <edge id="207" source=" Moon " target=" Silanah " weight="1" />
+      <edge id="208" source=" Moon " target=" Whiskeyjack " weight="1" />
+      <edge id="209" source=" Moon " target=" Lord Rake Anomander " weight="5" />
+      <edge id="210" source=" Moon " target=" Murillio " weight="1" />
+      <edge id="211" source=" Moon " target=" Laseen " weight="3" />
+      <edge id="212" source=" Moon " target=" Genabackis " weight="1" />
+      <edge id="213" source=" Moon " target=" Apsalar " weight="1" />
+      <edge id="214" source=" Moon " target=" Lorn " weight="1" />
+      <edge id="215" source=" Rhivi " target="#N/A" weight="1" />
+      <edge id="216" source=" Rhivi " target=" Jorrick " weight="1" />
+      <edge id="217" source=" Rhivi " target=" Prince K'azz " weight="1" />
+      <edge id="218" source=" Rhivi " target=" Moranth Gold " weight="1" />
+      <edge id="219" source=" Rhivi " target=" Barghast " weight="1" />
+      <edge id="220" source=" Crone " target=" Tellann Warren " weight="1" />
+      <edge id="221" source=" Crone " target=" Lorn " weight="1" />
+      <edge id="222" source=" Crone " target=" Jorrick " weight="2" />
+      <edge id="223" source=" Crone " target=" Imass " weight="1" />
+      <edge id="224" source=" Crone " target=" Moranth Gold " weight="1" />
+      <edge id="225" source=" Crone " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="226" source=" Korlat " target=" Horult " weight="1" />
+      <edge id="227" source=" Korlat " target=" Serrat " weight="1" />
+      <edge id="228" source=" Whiskeyjack " target=" Simtal Lady " weight="1" />
+      <edge id="229" source=" Whiskeyjack " target=" Lorn " weight="1" />
+      <edge id="230" source=" Whiskeyjack " target=" Mallet " weight="6" />
+      <edge id="231" source=" Whiskeyjack " target="#N/A" weight="1" />
+      <edge id="232" source=" Whiskeyjack " target=" Hill Majesty " weight="1" />
+      <edge id="233" source=" Whiskeyjack " target=" Lord Rake Anomander " weight="1" />
+      <edge id="234" source=" Whiskeyjack " target=" Corporal Kalam " weight="5" />
+      <edge id="235" source=" Whiskeyjack " target=" Adaephon Ben Delat " weight="6" />
+      <edge id="236" source=" Lord Rake Anomander " target=" Scurve " weight="1" />
+      <edge id="237" source=" Lord Rake Anomander " target=" Simtal Lady " weight="1" />
+      <edge id="238" source=" Lord Rake Anomander " target=" Lorn " weight="1" />
+      <edge id="239" source=" Lord Rake Anomander " target=" Darujhistan " weight="1" />
+      <edge id="240" source=" Lord Rake Anomander " target=" Tellann Warren " weight="1" />
+      <edge id="241" source=" Lord Rake Anomander " target=" Tiste Andii " weight="2" />
+      <edge id="242" source=" Lord Rake Anomander " target=" Silanah " weight="1" />
+      <edge id="243" source=" Lord Rake Anomander " target="#N/A" weight="1" />
+      <edge id="244" source=" Lord Rake Anomander " target=" Laseen " weight="1" />
+      <edge id="245" source=" Lord Rake Anomander " target=" Serrat " weight="1" />
+      <edge id="246" source=" Worrytown " target=" Darujhistan " weight="1" />
+      <edge id="247" source=" Tennes " target=" Tellann Warren " weight="2" />
+      <edge id="248" source=" Jorrick " target=" Barghast " weight="1" />
+      <edge id="249" source=" Jorrick " target=" Moranth Gold " weight="1" />
+      <edge id="250" source=" Jorrick " target="#N/A" weight="1" />
+      <edge id="251" source=" Serrat " target=" Simtal Lady " weight="1" />
+      <edge id="252" source=" Barghast " target="#N/A" weight="1" />
+      <edge id="253" source=" Barghast " target=" Moranth Gold " weight="1" />
+      <edge id="254" source=" Simtal Lady " target=" Coll " weight="1" />
+      <edge id="255" source=" Simtal Lady " target=" Apsalar " weight="2" />
+      <edge id="256" source=" Simtal Lady " target=" Lorn " weight="1" />
+      <edge id="257" source=" Simtal Lady " target=" Murillio " weight="1" />
+      <edge id="258" source=" Simtal Lady " target="#N/A" weight="1" />
+      <edge id="259" source=" Simtal Lady " target=" Adaephon Ben Delat " weight="2" />
+      <edge id="260" source=" Trell " target=" Mammot " weight="1" />
+      <edge id="261" source=" Darujhistan " target=" Coll " weight="1" />
+      <edge id="262" source=" Darujhistan " target=" Laseen " weight="1" />
+      <edge id="263" source=" Tellann Warren " target=" Raest " weight="1" />
+      <edge id="264" source=" Tellann Warren " target="#N/A" weight="2" />
+      <edge id="265" source=" Tellann Warren " target=" Silanah " weight="1" />
+      <edge id="266" source=" Tellann Warren " target=" Murillio " weight="1" />
+      <edge id="267" source=" Tellann Warren " target=" Topper " weight="2" />
+      <edge id="268" source=" Tellann Warren " target=" Mammot " weight="1" />
+      <edge id="269" source=" Tellann Warren " target=" Shadowthrone " weight="2" />
+      <edge id="270" source=" Tellann Warren " target=" Adaephon Ben Delat " weight="2" />
+      <edge id="271" source=" Tellann Warren " target=" Corporal Kalam " weight="1" />
+      <edge id="272" source=" Aye " target=" Murillio " weight="1" />
+      <edge id="273" source=" Kurald Galain " target=" Tiste Andii " weight="1" />
+      <edge id="274" source=" Shadowthrone " target=" Ammanas " weight="1" />
+      <edge id="275" source=" Shadowthrone " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="276" source=" Vorcan " target=" Laseen " weight="1" />
+      <edge id="277" source=" Murillio " target=" Mammot " weight="1" />
+      <edge id="278" source=" Murillio " target="#N/A" weight="1" />
+      <edge id="279" source=" Murillio " target=" Scurve " weight="1" />
+      <edge id="280" source=" Murillio " target=" Coll " weight="12" />
+      <edge id="281" source=" Toc " target=" Lorn " weight="3" />
+      <edge id="282" source=" Rood " target=" Tiste Andii " weight="1" />
+      <edge id="283" source=" Rood " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="284" source=" Rood " target=" Doan " weight="1" />
+      <edge id="285" source=" Raest " target=" Jaghut " weight="1" />
+      <edge id="286" source=" Raest " target=" Silanah " weight="3" />
+      <edge id="287" source=" Doan " target=" Blind " weight="1" />
+      <edge id="288" source=" Doan " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="289" source=" Rigga " target=" Ammanas " weight="1" />
+      <edge id="290" source=" Rigga " target=" Riggalai " weight="1" />
+      <edge id="291" source=" Jaghut " target=" Adaephon Ben Delat " weight="1" />
+      <edge id="292" source=" Mammot " target=" Coll " weight="1" />
+      <edge id="293" source=" Mammot " target=" Tiste Andii " weight="1" />
+      <edge id="294" source=" Mammot " target=" Adaephon Ben Delat " weight="2" />
+      <edge id="295" source=" Scurve " target=" Corporal Kalam " weight="1" />
+      <edge id="296" source=" Lorn " target=" Mallet " weight="1" />
+      <edge id="297" source=" Lorn " target=" Laseen " weight="1" />
+      <edge id="298" source=" Lorn " target=" Genabackis " weight="1" />
+      <edge id="299" source=" Genabaris " target=" Corporal Kalam " weight="1" />
+      <edge id="300" source=" Moranth Gold " target="#N/A" weight="1" />
+      <edge id="301" source=" Adaephon Ben Delat " target=" Blind " weight="1" />
+      <edge id="302" source=" Adaephon Ben Delat " target="#N/A" weight="1" />
+      <edge id="303" source=" Adaephon Ben Delat " target=" Mallet " weight="2" />
+      <edge id="304" source=" Adaephon Ben Delat " target=" Corporal Kalam " weight="7" />
+      <edge id="305" source=" Tiste Andii " target=" Corporal Kalam " weight="1" />
+      <edge id="306" source=" Corporal Kalam " target=" Mallet " weight="8" />
+      <edge id="307" source=" Corporal Kalam " target="#N/A" weight="1" />
+      <edge id="308" source=" Corporal Kalam " target=" Laseen " weight="1" />
+      <edge id="309" source=" Laseen " target=" Topper " weight="1" />
+    </edges>
+  </graph>
+</gexf>

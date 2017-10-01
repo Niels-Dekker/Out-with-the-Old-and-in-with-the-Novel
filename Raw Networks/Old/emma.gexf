@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Robert Mrs. Martin " label=" Robert Mrs. Martin " />
+      <node id=" Mrs. Ford " label=" Mrs. Ford " />
+      <node id=" Hartfield " label=" Hartfield " />
+      <node id=" Elizabeth Martin " label=" Elizabeth Martin " />
+      <node id=" Weston Mr. " label=" Weston Mr. " />
+      <node id=" Grove Maple " label=" Grove Maple " />
+      <node id=" Box Hill " label=" Box Hill " />
+      <node id=" Hannah " label=" Hannah " />
+      <node id=" Hawkins Miss " label=" Hawkins Miss " />
+      <node id=" Mr. Dixon " label=" Mr. Dixon " />
+      <node id=" Smith Miss " label=" Smith Miss " />
+      <node id=" Churchill Miss " label=" Churchill Miss " />
+      <node id=" Bragge Mrs. " label=" Bragge Mrs. " />
+      <node id=" Wright " label=" Wright " />
+      <node id=" William Cox Mr. " label=" William Cox Mr. " />
+      <node id=" Goddard Mrs. " label=" Goddard Mrs. " />
+      <node id=" Bates Miss " label=" Bates Miss " />
+      <node id=" Hodges Mrs. " label=" Hodges Mrs. " />
+      <node id=" Jane Miss Fairfax " label=" Jane Miss Fairfax " />
+      <node id=" Bella " label=" Bella " />
+      <node id=" Mr. Suckling " label=" Mr. Suckling " />
+      <node id=" James " label=" James " />
+      <node id=" Aye " label=" Aye " />
+      <node id=" Perry Mrs. " label=" Perry Mrs. " />
+      <node id=" Highbury " label=" Highbury " />
+      <node id=" Henry " label=" Henry " />
+      <node id=" Eltons " label=" Eltons " />
+      <node id=" Taylor Miss " label=" Taylor Miss " />
+      <node id=" Mr. Cole " label=" Mr. Cole " />
+      <node id=" Woodhouse Emma " label=" Woodhouse Emma " />
+      <node id=" Bates Mrs. " label=" Bates Mrs. " />
+      <node id=" Stokes Mrs. " label=" Stokes Mrs. " />
+      <node id=" Nash Miss " label=" Nash Miss " />
+      <node id=" Martins " label=" Martins " />
+      <node id=" Patty " label=" Patty " />
+      <node id=" Cole Mrs. " label=" Cole Mrs. " />
+      <node id=" Miss Bickerton " label=" Miss Bickerton " />
+      <node id=" Partridge Mrs. " label=" Partridge Mrs. " />
+      <node id=" Gilbert Mrs. " label=" Gilbert Mrs. " />
+      <node id=" Donwell " label=" Donwell " />
+      <node id=" Humph " label=" Humph " />
+      <node id=" Dixon Mrs. " label=" Dixon Mrs. " />
+      <node id=" Suckling Mrs. " label=" Suckling Mrs. " />
+      <node id=" Mr. John Knightley " label=" Mr. John Knightley " />
+      <node id=" Mr. E. " label=" Mr. E. " />
+      <node id=" Knightleys Mr. " label=" Knightleys Mr. " />
+      <node id=" Astley " label=" Astley " />
+      <node id=" Woodhouse Mr. " label=" Woodhouse Mr. " />
+      <node id=" Harriet Smith " label=" Harriet Smith " />
+      <node id=" Churchill Mrs. " label=" Churchill Mrs. " />
+      <node id=" Smallridge Mrs. " label=" Smallridge Mrs. " />
+      <node id=" George " label=" George " />
+      <node id=" Knightley John Mrs. " label=" Knightley John Mrs. " />
+      <node id=" Mr. Robert Martin " label=" Mr. Robert Martin " />
+      <node id=" Frank Mr. Churchill " label=" Frank Mr. Churchill " />
+      <node id=" Weston Mrs. " label=" Weston Mrs. " />
+      <node id=" Wallis Mrs. " label=" Wallis Mrs. " />
+      <node id=" Coles " label=" Coles " />
+      <node id=" Campbell Mrs. " label=" Campbell Mrs. " />
+      <node id=" Isabella " label=" Isabella " />
+      <node id=" Elton Mrs. " label=" Elton Mrs. " />
+      <node id=" Mr. Wingfield " label=" Mr. Wingfield " />
+      <node id=" Welch " label=" Welch " />
+      <node id=" Enscombe " label=" Enscombe " />
+      <node id=" Cox Anne " label=" Cox Anne " />
+      <node id=" Mr. Elton " label=" Mr. Elton " />
+      <node id=" Campbell Miss " label=" Campbell Miss " />
+      <node id=" William Larkins " label=" William Larkins " />
+      <node id=" Serle " label=" Serle " />
+      <node id=" Selina " label=" Selina " />
+      <node id=" Woodhouse Miss " label=" Woodhouse Miss " />
+      <node id=" Mr. Perry " label=" Mr. Perry " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Robert Mrs. Martin " target=" Mr. John Knightley " weight="2" />
+      <edge id="1" source=" Robert Mrs. Martin " target=" Smith Miss " weight="1" />
+      <edge id="2" source=" Robert Mrs. Martin " target=" Mr. Robert Martin " weight="1" />
+      <edge id="3" source=" Robert Mrs. Martin " target=" Welch " weight="1" />
+      <edge id="4" source=" Robert Mrs. Martin " target=" Woodhouse Emma " weight="3" />
+      <edge id="5" source=" Robert Mrs. Martin " target=" Mr. Elton " weight="1" />
+      <edge id="6" source=" Robert Mrs. Martin " target=" Goddard Mrs. " weight="2" />
+      <edge id="7" source=" Robert Mrs. Martin " target=" Harriet Smith " weight="1" />
+      <edge id="8" source=" Robert Mrs. Martin " target=" Woodhouse Miss " weight="1" />
+      <edge id="9" source=" Mrs. Ford " target=" Woodhouse Emma " weight="1" />
+      <edge id="10" source=" Mrs. Ford " target=" Bates Miss " weight="1" />
+      <edge id="11" source=" Mrs. Ford " target=" Bates Mrs. " weight="1" />
+      <edge id="12" source=" Mrs. Ford " target=" Hartfield " weight="1" />
+      <edge id="13" source=" Mrs. Ford " target=" Harriet Smith " weight="1" />
+      <edge id="14" source=" Hartfield " target=" Donwell " weight="3" />
+      <edge id="15" source=" Hartfield " target=" Isabella " weight="3" />
+      <edge id="16" source=" Hartfield " target=" Mr. John Knightley " weight="7" />
+      <edge id="17" source=" Hartfield " target=" Weston Mr. " weight="3" />
+      <edge id="18" source=" Hartfield " target=" Woodhouse Mr. " weight="5" />
+      <edge id="19" source=" Hartfield " target=" Taylor Miss " weight="1" />
+      <edge id="20" source=" Hartfield " target=" Weston Mrs. " weight="4" />
+      <edge id="21" source=" Hartfield " target=" Woodhouse Emma " weight="7" />
+      <edge id="22" source=" Hartfield " target=" James " weight="1" />
+      <edge id="23" source=" Hartfield " target=" Mr. Elton " weight="1" />
+      <edge id="24" source=" Hartfield " target=" Goddard Mrs. " weight="2" />
+      <edge id="25" source=" Hartfield " target=" Knightley John Mrs. " weight="2" />
+      <edge id="26" source=" Hartfield " target=" Knightleys Mr. " weight="1" />
+      <edge id="27" source=" Hartfield " target=" Harriet Smith " weight="3" />
+      <edge id="28" source=" Hartfield " target=" Woodhouse Miss " weight="1" />
+      <edge id="29" source=" Hartfield " target=" Jane Miss Fairfax " weight="1" />
+      <edge id="30" source=" Elizabeth Martin " target=" Martins " weight="1" />
+      <edge id="31" source=" Elizabeth Martin " target=" Harriet Smith " weight="1" />
+      <edge id="32" source=" Elizabeth Martin " target=" Woodhouse Emma " weight="1" />
+      <edge id="33" source=" Elizabeth Martin " target=" Mr. Cole " weight="1" />
+      <edge id="34" source=" Elizabeth Martin " target=" Mr. Elton " weight="1" />
+      <edge id="35" source=" Elizabeth Martin " target=" Goddard Mrs. " weight="1" />
+      <edge id="36" source=" Elizabeth Martin " target=" Mr. Robert Martin " weight="1" />
+      <edge id="37" source=" Weston Mr. " target=" Perry Mrs. " weight="1" />
+      <edge id="38" source=" Weston Mr. " target=" Grove Maple " weight="1" />
+      <edge id="39" source=" Weston Mr. " target=" Mr. Robert Martin " weight="1" />
+      <edge id="40" source=" Weston Mr. " target=" Smith Miss " weight="1" />
+      <edge id="41" source=" Weston Mr. " target=" Churchill Miss " weight="1" />
+      <edge id="42" source=" Weston Mr. " target=" Bates Miss " weight="1" />
+      <edge id="43" source=" Weston Mr. " target=" Goddard Mrs. " weight="1" />
+      <edge id="44" source=" Weston Mr. " target=" Jane Miss Fairfax " weight="5" />
+      <edge id="45" source=" Weston Mr. " target=" Henry " weight="1" />
+      <edge id="46" source=" Weston Mr. " target=" Taylor Miss " weight="3" />
+      <edge id="47" source=" Weston Mr. " target=" Woodhouse Emma " weight="21" />
+      <edge id="48" source=" Weston Mr. " target=" Bates Mrs. " weight="2" />
+      <edge id="49" source=" Weston Mr. " target=" Cole Mrs. " weight="1" />
+      <edge id="50" source=" Weston Mr. " target=" Mr. John Knightley " weight="6" />
+      <edge id="51" source=" Weston Mr. " target=" Woodhouse Mr. " weight="6" />
+      <edge id="52" source=" Weston Mr. " target=" Harriet Smith " weight="2" />
+      <edge id="53" source=" Weston Mr. " target=" Churchill Mrs. " weight="4" />
+      <edge id="54" source=" Weston Mr. " target=" Weston Mrs. " weight="21" />
+      <edge id="55" source=" Weston Mr. " target=" Isabella " weight="2" />
+      <edge id="56" source=" Weston Mr. " target=" Elton Mrs. " weight="8" />
+      <edge id="57" source=" Weston Mr. " target=" Mr. Cole " weight="1" />
+      <edge id="58" source=" Weston Mr. " target=" Mr. Elton " weight="1" />
+      <edge id="59" source=" Weston Mr. " target=" Frank Mr. Churchill " weight="8" />
+      <edge id="60" source=" Weston Mr. " target=" Woodhouse Miss " weight="3" />
+      <edge id="61" source=" Weston Mr. " target=" Mr. Perry " weight="1" />
+      <edge id="62" source=" Grove Maple " target=" Mr. Suckling " weight="1" />
+      <edge id="63" source=" Grove Maple " target=" Elton Mrs. " weight="1" />
+      <edge id="64" source=" Box Hill " target=" Donwell " weight="1" />
+      <edge id="65" source=" Box Hill " target=" Woodhouse Emma " weight="1" />
+      <edge id="66" source=" Box Hill " target=" Jane Miss Fairfax " weight="1" />
+      <edge id="67" source=" Hannah " target=" James " weight="2" />
+      <edge id="68" source=" Hannah " target=" Taylor Miss " weight="1" />
+      <edge id="69" source=" Hawkins Miss " target=" Mr. John Knightley " weight="1" />
+      <edge id="70" source=" Hawkins Miss " target=" Martins " weight="1" />
+      <edge id="71" source=" Hawkins Miss " target=" Elton Mrs. " weight="1" />
+      <edge id="72" source=" Hawkins Miss " target=" Harriet Smith " weight="1" />
+      <edge id="73" source=" Hawkins Miss " target=" Woodhouse Emma " weight="1" />
+      <edge id="74" source=" Hawkins Miss " target=" Mr. Cole " weight="1" />
+      <edge id="75" source=" Hawkins Miss " target=" Mr. Elton " weight="4" />
+      <edge id="76" source=" Hawkins Miss " target=" Campbell Miss " weight="1" />
+      <edge id="77" source=" Hawkins Miss " target=" Perry Mrs. " weight="1" />
+      <edge id="78" source=" Mr. Dixon " target=" Campbell Mrs. " weight="2" />
+      <edge id="79" source=" Mr. Dixon " target=" Dixon Mrs. " weight="8" />
+      <edge id="80" source=" Mr. Dixon " target=" Mr. John Knightley " weight="2" />
+      <edge id="81" source=" Mr. Dixon " target=" Harriet Smith " weight="1" />
+      <edge id="82" source=" Mr. Dixon " target=" Woodhouse Emma " weight="3" />
+      <edge id="83" source=" Mr. Dixon " target=" Frank Mr. Churchill " weight="1" />
+      <edge id="84" source=" Mr. Dixon " target=" Campbell Miss " weight="3" />
+      <edge id="85" source=" Mr. Dixon " target=" Jane Miss Fairfax " weight="5" />
+      <edge id="86" source=" Smith Miss " target=" Miss Bickerton " weight="1" />
+      <edge id="87" source=" Smith Miss " target=" Henry " weight="2" />
+      <edge id="88" source=" Smith Miss " target=" Astley " weight="1" />
+      <edge id="89" source=" Smith Miss " target=" Woodhouse Mr. " weight="2" />
+      <edge id="90" source=" Smith Miss " target=" Harriet Smith " weight="2" />
+      <edge id="91" source=" Smith Miss " target=" Woodhouse Emma " weight="3" />
+      <edge id="92" source=" Smith Miss " target=" Weston Mrs. " weight="1" />
+      <edge id="93" source=" Smith Miss " target=" Frank Mr. Churchill " weight="2" />
+      <edge id="94" source=" Smith Miss " target=" Gilbert Mrs. " weight="1" />
+      <edge id="95" source=" Smith Miss " target=" Mr. Elton " weight="3" />
+      <edge id="96" source=" Smith Miss " target=" Bates Miss " weight="2" />
+      <edge id="97" source=" Smith Miss " target=" Goddard Mrs. " weight="4" />
+      <edge id="98" source=" Smith Miss " target=" Knightley John Mrs. " weight="1" />
+      <edge id="99" source=" Smith Miss " target=" Cole Mrs. " weight="1" />
+      <edge id="100" source=" Smith Miss " target=" Mr. Robert Martin " weight="1" />
+      <edge id="101" source=" Smith Miss " target=" Woodhouse Miss " weight="8" />
+      <edge id="102" source=" Smith Miss " target=" Mr. Perry " weight="2" />
+      <edge id="103" source=" Smith Miss " target=" Mr. John Knightley " weight="4" />
+      <edge id="104" source=" Churchill Miss " target=" Churchill Mrs. " weight="1" />
+      <edge id="105" source=" Churchill Miss " target=" Weston Mrs. " weight="1" />
+      <edge id="106" source=" Bragge Mrs. " target=" Mr. Suckling " weight="1" />
+      <edge id="107" source=" Bragge Mrs. " target=" Suckling Mrs. " weight="2" />
+      <edge id="108" source=" Bragge Mrs. " target=" Smallridge Mrs. " weight="1" />
+      <edge id="109" source=" Wright " target=" Hodges Mrs. " weight="2" />
+      <edge id="110" source=" Wright " target=" Jane Miss Fairfax " weight="1" />
+      <edge id="111" source=" William Cox Mr. " target=" Mr. John Knightley " weight="1" />
+      <edge id="112" source=" William Cox Mr. " target=" Coles " weight="1" />
+      <edge id="113" source=" William Cox Mr. " target=" Woodhouse Emma " weight="2" />
+      <edge id="114" source=" William Cox Mr. " target=" Mr. Cole " weight="2" />
+      <edge id="115" source=" William Cox Mr. " target=" Jane Miss Fairfax " weight="1" />
+      <edge id="116" source=" William Cox Mr. " target=" Mr. Elton " weight="1" />
+      <edge id="117" source=" William Cox Mr. " target=" Mr. Perry " weight="1" />
+      <edge id="118" source=" Goddard Mrs. " target=" Mr. Robert Martin " weight="4" />
+      <edge id="119" source=" Goddard Mrs. " target=" Bates Miss " weight="1" />
+      <edge id="120" source=" Goddard Mrs. " target=" Mr. John Knightley " weight="6" />
+      <edge id="121" source=" Goddard Mrs. " target=" James " weight="1" />
+      <edge id="122" source=" Goddard Mrs. " target=" Taylor Miss " weight="3" />
+      <edge id="123" source=" Goddard Mrs. " target=" Woodhouse Emma " weight="16" />
+      <edge id="124" source=" Goddard Mrs. " target=" Bates Mrs. " weight="3" />
+      <edge id="125" source=" Goddard Mrs. " target=" Nash Miss " weight="3" />
+      <edge id="126" source=" Goddard Mrs. " target=" Miss Bickerton " weight="1" />
+      <edge id="127" source=" Goddard Mrs. " target=" Martins " weight="2" />
+      <edge id="128" source=" Goddard Mrs. " target=" Woodhouse Mr. " weight="5" />
+      <edge id="129" source=" Goddard Mrs. " target=" Harriet Smith " weight="19" />
+      <edge id="130" source=" Goddard Mrs. " target=" Weston Mrs. " weight="2" />
+      <edge id="131" source=" Goddard Mrs. " target=" Perry Mrs. " weight="1" />
+      <edge id="132" source=" Goddard Mrs. " target=" Welch " weight="1" />
+      <edge id="133" source=" Goddard Mrs. " target=" Mr. Cole " weight="1" />
+      <edge id="134" source=" Goddard Mrs. " target=" Mr. Elton " weight="5" />
+      <edge id="135" source=" Goddard Mrs. " target=" Woodhouse Miss " weight="4" />
+      <edge id="136" source=" Goddard Mrs. " target=" Mr. Perry " weight="2" />
+      <edge id="137" source=" Bates Miss " target=" Jane Miss Fairfax " weight="25" />
+      <edge id="138" source=" Bates Miss " target=" Bella " weight="1" />
+      <edge id="139" source=" Bates Miss " target=" James " weight="1" />
+      <edge id="140" source=" Bates Miss " target=" Coles " weight="1" />
+      <edge id="141" source=" Bates Miss " target=" Woodhouse Emma " weight="20" />
+      <edge id="142" source=" Bates Miss " target=" Bates Mrs. " weight="4" />
+      <edge id="143" source=" Bates Miss " target=" Patty " weight="2" />
+      <edge id="144" source=" Bates Miss " target=" Cole Mrs. " weight="4" />
+      <edge id="145" source=" Bates Miss " target=" Donwell " weight="1" />
+      <edge id="146" source=" Bates Miss " target=" Dixon Mrs. " weight="1" />
+      <edge id="147" source=" Bates Miss " target=" Mr. John Knightley " weight="22" />
+      <edge id="148" source=" Bates Miss " target=" Woodhouse Mr. " weight="3" />
+      <edge id="149" source=" Bates Miss " target=" Harriet Smith " weight="8" />
+      <edge id="150" source=" Bates Miss " target=" Churchill Mrs. " weight="1" />
+      <edge id="151" source=" Bates Miss " target=" Frank Mr. Churchill " weight="9" />
+      <edge id="152" source=" Bates Miss " target=" Weston Mrs. " weight="8" />
+      <edge id="153" source=" Bates Miss " target=" Campbell Mrs. " weight="1" />
+      <edge id="154" source=" Bates Miss " target=" Perry Mrs. " weight="3" />
+      <edge id="155" source=" Bates Miss " target=" Mr. Elton " weight="5" />
+      <edge id="156" source=" Bates Miss " target=" Elton Mrs. " weight="7" />
+      <edge id="157" source=" Bates Miss " target=" Woodhouse Miss " weight="8" />
+      <edge id="158" source=" Bates Miss " target=" Mr. Perry " weight="1" />
+      <edge id="159" source=" Hodges Mrs. " target=" Patty " weight="1" />
+      <edge id="160" source=" Hodges Mrs. " target=" William Larkins " weight="1" />
+      <edge id="161" source=" Jane Miss Fairfax " target=" Perry Mrs. " weight="1" />
+      <edge id="162" source=" Jane Miss Fairfax " target=" Highbury " weight="1" />
+      <edge id="163" source=" Jane Miss Fairfax " target=" Woodhouse Emma " weight="40" />
+      <edge id="164" source=" Jane Miss Fairfax " target=" Dixon Mrs. " weight="3" />
+      <edge id="165" source=" Jane Miss Fairfax " target=" Henry " weight="1" />
+      <edge id="166" source=" Jane Miss Fairfax " target=" Bates Mrs. " weight="7" />
+      <edge id="167" source=" Jane Miss Fairfax " target=" Patty " weight="2" />
+      <edge id="168" source=" Jane Miss Fairfax " target=" Cole Mrs. " weight="8" />
+      <edge id="169" source=" Jane Miss Fairfax " target=" Mr. John Knightley " weight="28" />
+      <edge id="170" source=" Jane Miss Fairfax " target=" Woodhouse Mr. " weight="2" />
+      <edge id="171" source=" Jane Miss Fairfax " target=" Harriet Smith " weight="8" />
+      <edge id="172" source=" Jane Miss Fairfax " target=" Churchill Mrs. " weight="2" />
+      <edge id="173" source=" Jane Miss Fairfax " target=" Smallridge Mrs. " weight="2" />
+      <edge id="174" source=" Jane Miss Fairfax " target=" Frank Mr. Churchill " weight="37" />
+      <edge id="175" source=" Jane Miss Fairfax " target=" Weston Mrs. " weight="8" />
+      <edge id="176" source=" Jane Miss Fairfax " target=" Campbell Mrs. " weight="14" />
+      <edge id="177" source=" Jane Miss Fairfax " target=" Isabella " weight="3" />
+      <edge id="178" source=" Jane Miss Fairfax " target=" Elton Mrs. " weight="29" />
+      <edge id="179" source=" Jane Miss Fairfax " target=" Mr. Cole " weight="1" />
+      <edge id="180" source=" Jane Miss Fairfax " target=" Mr. Elton " weight="7" />
+      <edge id="181" source=" Jane Miss Fairfax " target=" Campbell Miss " weight="2" />
+      <edge id="182" source=" Jane Miss Fairfax " target=" William Larkins " weight="2" />
+      <edge id="183" source=" Jane Miss Fairfax " target=" Woodhouse Miss " weight="6" />
+      <edge id="184" source=" Jane Miss Fairfax " target=" Mr. Perry " weight="6" />
+      <edge id="185" source=" Bella " target=" Mr. John Knightley " weight="1" />
+      <edge id="186" source=" Bella " target=" Henry " weight="1" />
+      <edge id="187" source=" Bella " target=" Mr. Wingfield " weight="2" />
+      <edge id="188" source=" Bella " target=" Woodhouse Emma " weight="1" />
+      <edge id="189" source=" Bella " target=" Mr. Perry " weight="2" />
+      <edge id="190" source=" Mr. Suckling " target=" Woodhouse Miss " weight="1" />
+      <edge id="191" source=" James " target=" Isabella " weight="1" />
+      <edge id="192" source=" James " target=" Mr. John Knightley " weight="2" />
+      <edge id="193" source=" James " target=" Henry " weight="1" />
+      <edge id="194" source=" James " target=" Woodhouse Mr. " weight="1" />
+      <edge id="195" source=" James " target=" Taylor Miss " weight="2" />
+      <edge id="196" source=" James " target=" Harriet Smith " weight="1" />
+      <edge id="197" source=" James " target=" Woodhouse Emma " weight="2" />
+      <edge id="198" source=" James " target=" Bates Mrs. " weight="1" />
+      <edge id="199" source=" James " target=" Weston Mrs. " weight="1" />
+      <edge id="200" source=" Aye " target=" Frank Mr. Churchill " weight="1" />
+      <edge id="201" source=" Aye " target=" Woodhouse Miss " weight="1" />
+      <edge id="202" source=" Perry Mrs. " target=" Elton Mrs. " weight="2" />
+      <edge id="203" source=" Perry Mrs. " target=" Coles " weight="1" />
+      <edge id="204" source=" Perry Mrs. " target=" Bates Mrs. " weight="1" />
+      <edge id="205" source=" Perry Mrs. " target=" Frank Mr. Churchill " weight="1" />
+      <edge id="206" source=" Perry Mrs. " target=" Mr. Elton " weight="1" />
+      <edge id="207" source=" Perry Mrs. " target=" Cole Mrs. " weight="2" />
+      <edge id="208" source=" Perry Mrs. " target=" Mr. Perry " weight="1" />
+      <edge id="209" source=" Highbury " target=" Campbell Mrs. " weight="1" />
+      <edge id="210" source=" Highbury " target=" Frank Mr. Churchill " weight="3" />
+      <edge id="211" source=" Henry " target=" Donwell " weight="2" />
+      <edge id="212" source=" Henry " target=" Mr. John Knightley " weight="11" />
+      <edge id="213" source=" Henry " target=" Astley " weight="1" />
+      <edge id="214" source=" Henry " target=" Isabella " weight="1" />
+      <edge id="215" source=" Henry " target=" Harriet Smith " weight="2" />
+      <edge id="216" source=" Henry " target=" Woodhouse Emma " weight="2" />
+      <edge id="217" source=" Henry " target=" Bates Mrs. " weight="1" />
+      <edge id="218" source=" Henry " target=" Knightley John Mrs. " weight="1" />
+      <edge id="219" source=" Henry " target=" Mr. Robert Martin " weight="1" />
+      <edge id="220" source=" Eltons " target=" Elton Mrs. " weight="1" />
+      <edge id="221" source=" Eltons " target=" Woodhouse Miss " weight="1" />
+      <edge id="222" source=" Eltons " target=" Harriet Smith " weight="1" />
+      <edge id="223" source=" Taylor Miss " target=" Woodhouse Miss " weight="2" />
+      <edge id="224" source=" Taylor Miss " target=" Isabella " weight="5" />
+      <edge id="225" source=" Taylor Miss " target=" Mr. John Knightley " weight="1" />
+      <edge id="226" source=" Taylor Miss " target=" Woodhouse Mr. " weight="3" />
+      <edge id="227" source=" Taylor Miss " target=" Harriet Smith " weight="2" />
+      <edge id="228" source=" Taylor Miss " target=" Woodhouse Emma " weight="3" />
+      <edge id="229" source=" Taylor Miss " target=" Frank Mr. Churchill " weight="1" />
+      <edge id="230" source=" Taylor Miss " target=" Weston Mrs. " weight="6" />
+      <edge id="231" source=" Mr. Cole " target=" Woodhouse Miss " weight="3" />
+      <edge id="232" source=" Mr. Cole " target=" Woodhouse Mr. " weight="1" />
+      <edge id="233" source=" Mr. Cole " target=" Mr. John Knightley " weight="4" />
+      <edge id="234" source=" Mr. Cole " target=" Isabella " weight="1" />
+      <edge id="235" source=" Mr. Cole " target=" Elton Mrs. " weight="1" />
+      <edge id="236" source=" Mr. Cole " target=" Harriet Smith " weight="1" />
+      <edge id="237" source=" Mr. Cole " target=" Woodhouse Emma " weight="3" />
+      <edge id="238" source=" Mr. Cole " target=" Enscombe " weight="1" />
+      <edge id="239" source=" Mr. Cole " target=" Churchill Mrs. " weight="1" />
+      <edge id="240" source=" Mr. Cole " target=" Mr. Elton " weight="4" />
+      <edge id="241" source=" Mr. Cole " target=" Frank Mr. Churchill " weight="1" />
+      <edge id="242" source=" Mr. Cole " target=" Weston Mrs. " weight="3" />
+      <edge id="243" source=" Mr. Cole " target=" Mr. Perry " weight="2" />
+      <edge id="244" source=" Mr. Cole " target=" Cole Mrs. " weight="1" />
+      <edge id="245" source=" Woodhouse Emma " target=" Mr. Robert Martin " weight="4" />
+      <edge id="246" source=" Woodhouse Emma " target=" Mr. John Knightley " weight="77" />
+      <edge id="247" source=" Woodhouse Emma " target=" Enscombe " weight="1" />
+      <edge id="248" source=" Woodhouse Emma " target=" Bates Mrs. " weight="7" />
+      <edge id="249" source=" Woodhouse Emma " target=" Nash Miss " weight="1" />
+      <edge id="250" source=" Woodhouse Emma " target=" Knightleys Mr. " weight="1" />
+      <edge id="251" source=" Woodhouse Emma " target=" Cole Mrs. " weight="2" />
+      <edge id="252" source=" Woodhouse Emma " target=" Miss Bickerton " weight="1" />
+      <edge id="253" source=" Woodhouse Emma " target=" Donwell " weight="3" />
+      <edge id="254" source=" Woodhouse Emma " target=" Martins " weight="3" />
+      <edge id="255" source=" Woodhouse Emma " target=" Woodhouse Mr. " weight="43" />
+      <edge id="256" source=" Woodhouse Emma " target=" Harriet Smith " weight="93" />
+      <edge id="257" source=" Woodhouse Emma " target=" William Larkins " weight="1" />
+      <edge id="258" source=" Woodhouse Emma " target=" Smallridge Mrs. " weight="1" />
+      <edge id="259" source=" Woodhouse Emma " target=" Frank Mr. Churchill " weight="39" />
+      <edge id="260" source=" Woodhouse Emma " target=" Weston Mrs. " weight="34" />
+      <edge id="261" source=" Woodhouse Emma " target=" Campbell Mrs. " weight="3" />
+      <edge id="262" source=" Woodhouse Emma " target=" Isabella " weight="13" />
+      <edge id="263" source=" Woodhouse Emma " target=" Elton Mrs. " weight="19" />
+      <edge id="264" source=" Woodhouse Emma " target=" Welch " weight="1" />
+      <edge id="265" source=" Woodhouse Emma " target=" Mr. Elton " weight="35" />
+      <edge id="266" source=" Woodhouse Emma " target=" Campbell Miss " weight="1" />
+      <edge id="267" source=" Woodhouse Emma " target=" Churchill Mrs. " weight="2" />
+      <edge id="268" source=" Woodhouse Emma " target=" Woodhouse Miss " weight="15" />
+      <edge id="269" source=" Woodhouse Emma " target=" Mr. Perry " weight="5" />
+      <edge id="270" source=" Bates Mrs. " target=" Campbell Mrs. " weight="1" />
+      <edge id="271" source=" Bates Mrs. " target=" Mr. John Knightley " weight="2" />
+      <edge id="272" source=" Bates Mrs. " target=" Woodhouse Mr. " weight="1" />
+      <edge id="273" source=" Bates Mrs. " target=" Elton Mrs. " weight="1" />
+      <edge id="274" source=" Bates Mrs. " target=" Harriet Smith " weight="1" />
+      <edge id="275" source=" Bates Mrs. " target=" Frank Mr. Churchill " weight="5" />
+      <edge id="276" source=" Bates Mrs. " target=" Mr. Perry " weight="1" />
+      <edge id="277" source=" Bates Mrs. " target=" Weston Mrs. " weight="1" />
+      <edge id="278" source=" Stokes Mrs. " target=" Weston Mrs. " weight="1" />
+      <edge id="279" source=" Nash Miss " target=" Mr. John Knightley " weight="2" />
+      <edge id="280" source=" Nash Miss " target=" Harriet Smith " weight="2" />
+      <edge id="281" source=" Nash Miss " target=" Mr. Elton " weight="2" />
+      <edge id="282" source=" Nash Miss " target=" Mr. Robert Martin " weight="1" />
+      <edge id="283" source=" Nash Miss " target=" Woodhouse Miss " weight="1" />
+      <edge id="284" source=" Nash Miss " target=" Mr. Perry " weight="1" />
+      <edge id="285" source=" Martins " target=" Harriet Smith " weight="4" />
+      <edge id="286" source=" Martins " target=" Mr. Elton " weight="4" />
+      <edge id="287" source=" Patty " target=" Cole Mrs. " weight="1" />
+      <edge id="288" source=" Patty " target=" William Larkins " weight="1" />
+      <edge id="289" source=" Cole Mrs. " target=" Campbell Mrs. " weight="3" />
+      <edge id="290" source=" Cole Mrs. " target=" Woodhouse Mr. " weight="1" />
+      <edge id="291" source=" Cole Mrs. " target=" Elton Mrs. " weight="2" />
+      <edge id="292" source=" Cole Mrs. " target=" Frank Mr. Churchill " weight="1" />
+      <edge id="293" source=" Cole Mrs. " target=" Mr. Elton " weight="2" />
+      <edge id="294" source=" Cole Mrs. " target=" Woodhouse Miss " weight="3" />
+      <edge id="295" source=" Cole Mrs. " target=" Mr. John Knightley " weight="2" />
+      <edge id="296" source=" Miss Bickerton " target=" Mr. Elton " weight="1" />
+      <edge id="297" source=" Miss Bickerton " target=" Harriet Smith " weight="1" />
+      <edge id="298" source=" Partridge Mrs. " target=" Elton Mrs. " weight="1" />
+      <edge id="299" source=" Partridge Mrs. " target=" Woodhouse Miss " weight="1" />
+      <edge id="300" source=" Gilbert Mrs. " target=" Mr. Elton " weight="1" />
+      <edge id="301" source=" Donwell " target=" Mr. John Knightley " weight="4" />
+      <edge id="302" source=" Donwell " target=" Elton Mrs. " weight="2" />
+      <edge id="303" source=" Donwell " target=" Harriet Smith " weight="1" />
+      <edge id="304" source=" Donwell " target=" Mr. Elton " weight="1" />
+      <edge id="305" source=" Donwell " target=" Weston Mrs. " weight="2" />
+      <edge id="306" source=" Humph " target=" Weston Mrs. " weight="1" />
+      <edge id="307" source=" Humph " target=" Harriet Smith " weight="1" />
+      <edge id="308" source=" Dixon Mrs. " target=" Woodhouse Miss " weight="2" />
+      <edge id="309" source=" Dixon Mrs. " target=" Campbell Mrs. " weight="3" />
+      <edge id="310" source=" Suckling Mrs. " target=" Smallridge Mrs. " weight="1" />
+      <edge id="311" source=" Mr. John Knightley " target=" Mr. E. " weight="2" />
+      <edge id="312" source=" Mr. John Knightley " target=" Astley " weight="2" />
+      <edge id="313" source=" Mr. John Knightley " target=" Woodhouse Mr. " weight="8" />
+      <edge id="314" source=" Mr. John Knightley " target=" Harriet Smith " weight="45" />
+      <edge id="315" source=" Mr. John Knightley " target=" William Larkins " weight="2" />
+      <edge id="316" source=" Mr. John Knightley " target=" George " weight="1" />
+      <edge id="317" source=" Mr. John Knightley " target=" Knightley John Mrs. " weight="3" />
+      <edge id="318" source=" Mr. John Knightley " target=" Mr. Robert Martin " weight="12" />
+      <edge id="319" source=" Mr. John Knightley " target=" Frank Mr. Churchill " weight="23" />
+      <edge id="320" source=" Mr. John Knightley " target=" Weston Mrs. " weight="7" />
+      <edge id="321" source=" Mr. John Knightley " target=" Isabella " weight="19" />
+      <edge id="322" source=" Mr. John Knightley " target=" Elton Mrs. " weight="16" />
+      <edge id="323" source=" Mr. John Knightley " target=" Mr. Elton " weight="9" />
+      <edge id="324" source=" Mr. John Knightley " target=" Woodhouse Miss " weight="7" />
+      <edge id="325" source=" Knightleys Mr. " target=" Woodhouse Mr. " weight="2" />
+      <edge id="326" source=" Knightleys Mr. " target=" Isabella " weight="1" />
+      <edge id="327" source=" Astley " target=" Harriet Smith " weight="1" />
+      <edge id="328" source=" Astley " target=" Knightley John Mrs. " weight="1" />
+      <edge id="329" source=" Astley " target=" Mr. Robert Martin " weight="1" />
+      <edge id="330" source=" Woodhouse Mr. " target=" Harriet Smith " weight="3" />
+      <edge id="331" source=" Woodhouse Mr. " target=" Frank Mr. Churchill " weight="3" />
+      <edge id="332" source=" Woodhouse Mr. " target=" Knightley John Mrs. " weight="2" />
+      <edge id="333" source=" Woodhouse Mr. " target=" Weston Mrs. " weight="7" />
+      <edge id="334" source=" Woodhouse Mr. " target=" Wallis Mrs. " weight="1" />
+      <edge id="335" source=" Woodhouse Mr. " target=" Isabella " weight="9" />
+      <edge id="336" source=" Woodhouse Mr. " target=" Elton Mrs. " weight="1" />
+      <edge id="337" source=" Woodhouse Mr. " target=" Mr. Elton " weight="2" />
+      <edge id="338" source=" Woodhouse Mr. " target=" Serle " weight="1" />
+      <edge id="339" source=" Woodhouse Mr. " target=" Woodhouse Miss " weight="1" />
+      <edge id="340" source=" Woodhouse Mr. " target=" Mr. Perry " weight="6" />
+      <edge id="341" source=" Harriet Smith " target=" Mr. Robert Martin " weight="35" />
+      <edge id="342" source=" Harriet Smith " target=" Coles " weight="1" />
+      <edge id="343" source=" Harriet Smith " target=" Knightley John Mrs. " weight="1" />
+      <edge id="344" source=" Harriet Smith " target=" Weston Mrs. " weight="6" />
+      <edge id="345" source=" Harriet Smith " target=" Isabella " weight="1" />
+      <edge id="346" source=" Harriet Smith " target=" Elton Mrs. " weight="3" />
+      <edge id="347" source=" Harriet Smith " target=" Mr. Wingfield " weight="1" />
+      <edge id="348" source=" Harriet Smith " target=" Mr. Elton " weight="43" />
+      <edge id="349" source=" Harriet Smith " target=" Frank Mr. Churchill " weight="35" />
+      <edge id="350" source=" Harriet Smith " target=" Woodhouse Miss " weight="9" />
+      <edge id="351" source=" Harriet Smith " target=" Mr. Perry " weight="3" />
+      <edge id="352" source=" Churchill Mrs. " target=" Isabella " weight="1" />
+      <edge id="353" source=" Churchill Mrs. " target=" Elton Mrs. " weight="1" />
+      <edge id="354" source=" Churchill Mrs. " target=" Enscombe " weight="2" />
+      <edge id="355" source=" Churchill Mrs. " target=" Frank Mr. Churchill " weight="6" />
+      <edge id="356" source=" Churchill Mrs. " target=" Mr. Elton " weight="1" />
+      <edge id="357" source=" Churchill Mrs. " target=" Selina " weight="3" />
+      <edge id="358" source=" Churchill Mrs. " target=" Weston Mrs. " weight="3" />
+      <edge id="359" source=" Smallridge Mrs. " target=" Elton Mrs. " weight="2" />
+      <edge id="360" source=" Smallridge Mrs. " target=" Mr. Perry " weight="1" />
+      <edge id="361" source=" Knightley John Mrs. " target=" Isabella " weight="2" />
+      <edge id="362" source=" Knightley John Mrs. " target=" Mr. Wingfield " weight="2" />
+      <edge id="363" source=" Knightley John Mrs. " target=" Frank Mr. Churchill " weight="1" />
+      <edge id="364" source=" Knightley John Mrs. " target=" Mr. Robert Martin " weight="1" />
+      <edge id="365" source=" Knightley John Mrs. " target=" Weston Mrs. " weight="1" />
+      <edge id="366" source=" Knightley John Mrs. " target=" Mr. Perry " weight="1" />
+      <edge id="367" source=" Mr. Robert Martin " target=" William Larkins " weight="1" />
+      <edge id="368" source=" Mr. Robert Martin " target=" Mr. Elton " weight="7" />
+      <edge id="369" source=" Mr. Robert Martin " target=" Woodhouse Miss " weight="1" />
+      <edge id="370" source=" Mr. Robert Martin " target=" Cox Anne " weight="3" />
+      <edge id="371" source=" Frank Mr. Churchill " target=" Elton Mrs. " weight="8" />
+      <edge id="372" source=" Frank Mr. Churchill " target=" Coles " weight="1" />
+      <edge id="373" source=" Frank Mr. Churchill " target=" Weston Mrs. " weight="38" />
+      <edge id="374" source=" Frank Mr. Churchill " target=" Campbell Mrs. " weight="2" />
+      <edge id="375" source=" Frank Mr. Churchill " target=" Isabella " weight="2" />
+      <edge id="376" source=" Frank Mr. Churchill " target=" Mr. Elton " weight="6" />
+      <edge id="377" source=" Frank Mr. Churchill " target=" Campbell Miss " weight="1" />
+      <edge id="378" source=" Frank Mr. Churchill " target=" Woodhouse Miss " weight="16" />
+      <edge id="379" source=" Frank Mr. Churchill " target=" Mr. Perry " weight="2" />
+      <edge id="380" source=" Weston Mrs. " target=" Isabella " weight="10" />
+      <edge id="381" source=" Weston Mrs. " target=" Elton Mrs. " weight="12" />
+      <edge id="382" source=" Weston Mrs. " target=" Mr. Elton " weight="2" />
+      <edge id="383" source=" Weston Mrs. " target=" Serle " weight="1" />
+      <edge id="384" source=" Weston Mrs. " target=" Woodhouse Miss " weight="6" />
+      <edge id="385" source=" Weston Mrs. " target=" Mr. Perry " weight="2" />
+      <edge id="386" source=" Wallis Mrs. " target=" Woodhouse Miss " weight="1" />
+      <edge id="387" source=" Coles " target=" Mr. Elton " weight="1" />
+      <edge id="388" source=" Campbell Mrs. " target=" Elton Mrs. " weight="1" />
+      <edge id="389" source=" Campbell Mrs. " target=" Mr. Elton " weight="1" />
+      <edge id="390" source=" Campbell Mrs. " target=" Campbell Miss " weight="1" />
+      <edge id="391" source=" Campbell Mrs. " target=" Woodhouse Miss " weight="1" />
+      <edge id="392" source=" Isabella " target=" Mr. Elton " weight="1" />
+      <edge id="393" source=" Isabella " target=" Elton Mrs. " weight="1" />
+      <edge id="394" source=" Isabella " target=" Mr. Perry " weight="2" />
+      <edge id="395" source=" Elton Mrs. " target=" Mr. Elton " weight="4" />
+      <edge id="396" source=" Elton Mrs. " target=" Woodhouse Miss " weight="7" />
+      <edge id="397" source=" Mr. Wingfield " target=" Mr. Perry " weight="1" />
+      <edge id="398" source=" Mr. Elton " target=" Campbell Miss " weight="1" />
+      <edge id="399" source=" Mr. Elton " target=" William Larkins " weight="1" />
+      <edge id="400" source=" Mr. Elton " target=" Woodhouse Miss " weight="2" />
+      <edge id="401" source=" Mr. Elton " target=" Mr. Perry " weight="3" />
+      <edge id="402" source=" Woodhouse Miss " target=" Mr. Perry " weight="2" />
+    </edges>
+  </graph>
+</gexf>

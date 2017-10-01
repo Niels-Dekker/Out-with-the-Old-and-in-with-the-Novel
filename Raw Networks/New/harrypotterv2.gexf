@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Fang " label=" Fang " />
+      <node id=" Hermione Granger " label=" Hermione Granger " />
+      <node id=" Madam Malkin " label=" Madam Malkin " />
+      <node id=" Crabbe " label=" Crabbe " />
+      <node id=" Neville " label=" Neville " />
+      <node id=" Mr. MR. Dursley DURSLEY " label=" Mr. MR. Dursley DURSLEY " />
+      <node id=" Crockford Doris " label=" Crockford Doris " />
+      <node id=" Charlie Weasley " label=" Charlie Weasley " />
+      <node id=" Johnson " label=" Johnson " />
+      <node id=" Lord Voldemort " label=" Lord Voldemort " />
+      <node id=" Ginny " label=" Ginny " />
+      <node id=" Hannah " label=" Hannah " />
+      <node id=" Don " label=" Don " />
+      <node id=" Terry " label=" Terry " />
+      <node id=" Dursley Mrs. " label=" Dursley Mrs. " />
+      <node id=" Griphook " label=" Griphook " />
+      <node id=" Susan " label=" Susan " />
+      <node id=" Marge " label=" Marge " />
+      <node id=" McGonagall " label=" McGonagall " />
+      <node id=" Nicolas Flamel " label=" Nicolas Flamel " />
+      <node id=" Potter Mr. H. " label=" Potter Mr. H. " />
+      <node id=" Mrs. Norris " label=" Mrs. Norris " />
+      <node id=" Miss Granger " label=" Miss Granger " />
+      <node id=" Norbert NORBERT " label=" Norbert NORBERT " />
+      <node id=" Figg Mrs. " label=" Figg Mrs. " />
+      <node id=" Dudley " label=" Dudley " />
+      <node id=" Ron " label=" Ron " />
+      <node id=" Brown " label=" Brown " />
+      <node id=" Gryffindors " label=" Gryffindors " />
+      <node id=" Ravenclaws " label=" Ravenclaws " />
+      <node id=" Wood Oliver " label=" Wood Oliver " />
+      <node id=" Slytherin " label=" Slytherin " />
+      <node id=" Severus " label=" Severus " />
+      <node id=" Parvati Patil " label=" Parvati Patil " />
+      <node id=" Agrippa " label=" Agrippa " />
+      <node id=" Madam Hooch " label=" Madam Hooch " />
+      <node id=" Morgana " label=" Morgana " />
+      <node id=" George Weasley " label=" George Weasley " />
+      <node id=" rob Gringotts " label=" rob Gringotts " />
+      <node id=" Hufflepuff " label=" Hufflepuff " />
+      <node id=" Marcus Flint " label=" Marcus Flint " />
+      <node id=" Vernon Uncle " label=" Vernon Uncle " />
+      <node id=" Hedwig " label=" Hedwig " />
+      <node id=" Bettie Bott " label=" Bettie Bott " />
+      <node id=" Pucey Adrian " label=" Pucey Adrian " />
+      <node id=" Thomas Dean " label=" Thomas Dean " />
+      <node id=" Diggle Dedalus " label=" Diggle Dedalus " />
+      <node id=" Ronald Mr. Weasley " label=" Ronald Mr. Weasley " />
+      <node id=" Fluffy " label=" Fluffy " />
+      <node id=" Weasley Fred " label=" Weasley Fred " />
+      <node id=" Lily " label=" Lily " />
+      <node id=" Trevor " label=" Trevor " />
+      <node id=" Mr. Ollivander " label=" Mr. Ollivander " />
+      <node id=" Knuts " label=" Knuts " />
+      <node id=" Draco Malfoy " label=" Draco Malfoy " />
+      <node id=" Snape " label=" Snape " />
+      <node id=" Slytherins " label=" Slytherins " />
+      <node id=" Filch Mr. " label=" Filch Mr. " />
+      <node id=" Percy Weasley " label=" Percy Weasley " />
+      <node id=" Goyle " label=" Goyle " />
+      <node id=" Quirrell " label=" Quirrell " />
+      <node id=" Sickles " label=" Sickles " />
+      <node id=" Dumbledore ALBUS Albus DUMBLEDORE " label=" Dumbledore ALBUS Albus DUMBLEDORE " />
+      <node id=" Hagrid Rubeus " label=" Hagrid Rubeus " />
+      <node id=" James Potter " label=" James Potter " />
+      <node id=" Finnigan Seamus " label=" Finnigan Seamus " />
+      <node id=" Petunia Aunt " label=" Petunia Aunt " />
+      <node id=" Bill " label=" Bill " />
+      <node id=" Know-Who " label=" Know-Who " />
+      <node id=" Muggles " label=" Muggles " />
+      <node id=" Longbottom " label=" Longbottom " />
+      <node id=" Madam Pomfrey " label=" Madam Pomfrey " />
+      <node id=" Firenze " label=" Firenze " />
+      <node id=" Flitwick " label=" Flitwick " />
+      <node id=" Jordan Lee " label=" Jordan Lee " />
+      <node id=" Binns " label=" Binns " />
+      <node id=" Ronan " label=" Ronan " />
+      <node id=" POTTER Mr. Potter Harry " label=" POTTER Mr. Potter Harry " />
+      <node id=" Weasley Mrs. " label=" Weasley Mrs. " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Dursleys " label=" Dursleys " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Fang " target=" Hermione Granger " weight="2" />
+      <edge id="1" source=" Fang " target=" Hagrid Rubeus " weight="8" />
+      <edge id="2" source=" Fang " target=" Mrs. Norris " weight="1" />
+      <edge id="3" source=" Fang " target=" Neville " weight="3" />
+      <edge id="4" source=" Fang " target=" Ron " weight="1" />
+      <edge id="5" source=" Fang " target=" Draco Malfoy " weight="4" />
+      <edge id="6" source=" Fang " target=" POTTER Mr. Potter Harry " weight="5" />
+      <edge id="7" source=" Hermione Granger " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="3" />
+      <edge id="8" source=" Hermione Granger " target=" Hagrid Rubeus " weight="4" />
+      <edge id="9" source=" Hermione Granger " target=" Flitwick " weight="1" />
+      <edge id="10" source=" Hermione Granger " target=" Neville " weight="19" />
+      <edge id="11" source=" Hermione Granger " target=" Madam Pomfrey " weight="1" />
+      <edge id="12" source=" Hermione Granger " target=" Finnigan Seamus " weight="1" />
+      <edge id="13" source=" Hermione Granger " target=" Ron " weight="90" />
+      <edge id="14" source=" Hermione Granger " target=" Ronan " weight="1" />
+      <edge id="15" source=" Hermione Granger " target=" Fluffy " weight="1" />
+      <edge id="16" source=" Hermione Granger " target=" McGonagall " weight="2" />
+      <edge id="17" source=" Hermione Granger " target=" Norbert NORBERT " weight="2" />
+      <edge id="18" source=" Hermione Granger " target=" Draco Malfoy " weight="3" />
+      <edge id="19" source=" Hermione Granger " target=" Snape " weight="15" />
+      <edge id="20" source=" Hermione Granger " target=" Quirrell " weight="3" />
+      <edge id="21" source=" Hermione Granger " target=" Parvati Patil " weight="2" />
+      <edge id="22" source=" Hermione Granger " target=" Nicolas Flamel " weight="2" />
+      <edge id="23" source=" Hermione Granger " target=" POTTER Mr. Potter Harry " weight="107" />
+      <edge id="24" source=" Hermione Granger " target=" Crabbe " weight="1" />
+      <edge id="25" source=" Hermione Granger " target=" Percy Weasley " weight="2" />
+      <edge id="26" source=" Hermione Granger " target=" Vernon Uncle " weight="1" />
+      <edge id="27" source=" Madam Malkin " target=" POTTER Mr. Potter Harry " weight="3" />
+      <edge id="28" source=" Madam Malkin " target=" Hagrid Rubeus " weight="2" />
+      <edge id="29" source=" Crabbe " target=" Neville " weight="2" />
+      <edge id="30" source=" Crabbe " target=" Ron " weight="2" />
+      <edge id="31" source=" Crabbe " target=" Weasley Fred " weight="1" />
+      <edge id="32" source=" Crabbe " target=" McGonagall " weight="1" />
+      <edge id="33" source=" Crabbe " target=" Draco Malfoy " weight="6" />
+      <edge id="34" source=" Crabbe " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="35" source=" Crabbe " target=" Goyle " weight="6" />
+      <edge id="36" source=" Crabbe " target=" George Weasley " weight="1" />
+      <edge id="37" source=" Neville " target=" Hagrid Rubeus " weight="4" />
+      <edge id="38" source=" Neville " target=" Flitwick " weight="1" />
+      <edge id="39" source=" Neville " target=" POTTER Mr. Potter Harry " weight="14" />
+      <edge id="40" source=" Neville " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="2" />
+      <edge id="41" source=" Neville " target=" Finnigan Seamus " weight="5" />
+      <edge id="42" source=" Neville " target=" Ron " weight="6" />
+      <edge id="43" source=" Neville " target=" Bettie Bott " weight="1" />
+      <edge id="44" source=" Neville " target=" Weasley Fred " weight="1" />
+      <edge id="45" source=" Neville " target=" McGonagall " weight="1" />
+      <edge id="46" source=" Neville " target=" Trevor " weight="2" />
+      <edge id="47" source=" Neville " target=" Draco Malfoy " weight="12" />
+      <edge id="48" source=" Neville " target=" Snape " weight="3" />
+      <edge id="49" source=" Neville " target=" Thomas Dean " weight="1" />
+      <edge id="50" source=" Neville " target=" Madam Hooch " weight="3" />
+      <edge id="51" source=" Neville " target=" Percy Weasley " weight="1" />
+      <edge id="52" source=" Neville " target=" Goyle " weight="2" />
+      <edge id="53" source=" Mr. MR. Dursley DURSLEY " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="54" source=" Mr. MR. Dursley DURSLEY " target=" Vernon Uncle " weight="2" />
+      <edge id="55" source=" Mr. MR. Dursley DURSLEY " target=" Dudley " weight="4" />
+      <edge id="56" source=" Mr. MR. Dursley DURSLEY " target=" Petunia Aunt " weight="1" />
+      <edge id="57" source=" Mr. MR. Dursley DURSLEY " target=" Dursley Mrs. " weight="5" />
+      <edge id="58" source=" Mr. MR. Dursley DURSLEY " target=" POTTER Mr. Potter Harry " weight="3" />
+      <edge id="59" source=" Crockford Doris " target=" Hagrid Rubeus " weight="1" />
+      <edge id="60" source=" Crockford Doris " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="61" source=" Charlie Weasley " target=" Hagrid Rubeus " weight="2" />
+      <edge id="62" source=" Charlie Weasley " target=" Weasley Mrs. " weight="1" />
+      <edge id="63" source=" Charlie Weasley " target=" Bill " weight="1" />
+      <edge id="64" source=" Charlie Weasley " target=" Norbert NORBERT " weight="1" />
+      <edge id="65" source=" Charlie Weasley " target=" Draco Malfoy " weight="1" />
+      <edge id="66" source=" Charlie Weasley " target=" POTTER Mr. Potter Harry " weight="3" />
+      <edge id="67" source=" Charlie Weasley " target=" Percy Weasley " weight="1" />
+      <edge id="68" source=" Charlie Weasley " target=" Ron " weight="3" />
+      <edge id="69" source=" Johnson " target=" Marcus Flint " weight="1" />
+      <edge id="70" source=" Johnson " target=" Weasley Fred " weight="1" />
+      <edge id="71" source=" Johnson " target=" Pucey Adrian " weight="1" />
+      <edge id="72" source=" Johnson " target=" Slytherins " weight="1" />
+      <edge id="73" source=" Johnson " target=" Wood Oliver " weight="1" />
+      <edge id="74" source=" Johnson " target=" George Weasley " weight="1" />
+      <edge id="75" source=" Lord Voldemort " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="76" source=" Lord Voldemort " target=" Hagrid Rubeus " weight="2" />
+      <edge id="77" source=" Lord Voldemort " target=" Ron " weight="2" />
+      <edge id="78" source=" Lord Voldemort " target=" Know-Who " weight="1" />
+      <edge id="79" source=" Lord Voldemort " target=" McGonagall " weight="1" />
+      <edge id="80" source=" Lord Voldemort " target=" Snape " weight="6" />
+      <edge id="81" source=" Lord Voldemort " target=" POTTER Mr. Potter Harry " weight="7" />
+      <edge id="82" source=" Lord Voldemort " target=" Quirrell " weight="7" />
+      <edge id="83" source=" Ginny " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="84" source=" Hannah " target=" Susan " weight="1" />
+      <edge id="85" source=" Hannah " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="86" source=" Hannah " target=" Hufflepuff " weight="1" />
+      <edge id="87" source=" Don " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="88" source=" Terry " target=" Ravenclaws " weight="1" />
+      <edge id="89" source=" Dursley Mrs. " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="90" source=" Dursley Mrs. " target=" Dudley " weight="4" />
+      <edge id="91" source=" Griphook " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="92" source=" Griphook " target=" Hagrid Rubeus " weight="1" />
+      <edge id="93" source=" Griphook " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="94" source=" Marge " target=" Vernon Uncle " weight="1" />
+      <edge id="95" source=" Marge " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="96" source=" Marge " target=" Dudley " weight="1" />
+      <edge id="97" source=" McGonagall " target=" Miss Granger " weight="2" />
+      <edge id="98" source=" McGonagall " target=" Ron " weight="3" />
+      <edge id="99" source=" McGonagall " target=" Wood Oliver " weight="2" />
+      <edge id="100" source=" McGonagall " target=" Slytherin " weight="1" />
+      <edge id="101" source=" McGonagall " target=" Ronald Mr. Weasley " weight="1" />
+      <edge id="102" source=" McGonagall " target=" Draco Malfoy " weight="1" />
+      <edge id="103" source=" McGonagall " target=" Snape " weight="2" />
+      <edge id="104" source=" McGonagall " target=" Percy Weasley " weight="1" />
+      <edge id="105" source=" McGonagall " target=" Goyle " weight="1" />
+      <edge id="106" source=" McGonagall " target=" Quirrell " weight="3" />
+      <edge id="107" source=" McGonagall " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="13" />
+      <edge id="108" source=" McGonagall " target=" Hagrid Rubeus " weight="5" />
+      <edge id="109" source=" McGonagall " target=" James Potter " weight="1" />
+      <edge id="110" source=" McGonagall " target=" Muggles " weight="1" />
+      <edge id="111" source=" McGonagall " target=" Madam Pomfrey " weight="1" />
+      <edge id="112" source=" McGonagall " target=" Flitwick " weight="4" />
+      <edge id="113" source=" McGonagall " target=" Jordan Lee " weight="1" />
+      <edge id="114" source=" McGonagall " target=" POTTER Mr. Potter Harry " weight="9" />
+      <edge id="115" source=" Nicolas Flamel " target=" Agrippa " weight="1" />
+      <edge id="116" source=" Nicolas Flamel " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="4" />
+      <edge id="117" source=" Nicolas Flamel " target=" Ron " weight="1" />
+      <edge id="118" source=" Nicolas Flamel " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="119" source=" Potter Mr. H. " target=" Vernon Uncle " weight="1" />
+      <edge id="120" source=" Potter Mr. H. " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="121" source=" Potter Mr. H. " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="122" source=" Mrs. Norris " target=" Ron " weight="1" />
+      <edge id="123" source=" Mrs. Norris " target=" Snape " weight="1" />
+      <edge id="124" source=" Mrs. Norris " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="125" source=" Mrs. Norris " target=" Percy Weasley " weight="1" />
+      <edge id="126" source=" Miss Granger " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="127" source=" Miss Granger " target=" Ronald Mr. Weasley " weight="1" />
+      <edge id="128" source=" Miss Granger " target=" Snape " weight="1" />
+      <edge id="129" source=" Miss Granger " target=" Ron " weight="1" />
+      <edge id="130" source=" Norbert NORBERT " target=" Hagrid Rubeus " weight="3" />
+      <edge id="131" source=" Norbert NORBERT " target=" Ron " weight="1" />
+      <edge id="132" source=" Norbert NORBERT " target=" Draco Malfoy " weight="1" />
+      <edge id="133" source=" Norbert NORBERT " target=" POTTER Mr. Potter Harry " weight="7" />
+      <edge id="134" source=" Norbert NORBERT " target=" Quirrell " weight="1" />
+      <edge id="135" source=" Figg Mrs. " target=" Dudley " weight="2" />
+      <edge id="136" source=" Figg Mrs. " target=" POTTER Mr. Potter Harry " weight="5" />
+      <edge id="137" source=" Figg Mrs. " target=" Petunia Aunt " weight="1" />
+      <edge id="138" source=" Dudley " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="139" source=" Dudley " target=" Hagrid Rubeus " weight="1" />
+      <edge id="140" source=" Dudley " target=" Vernon Uncle " weight="4" />
+      <edge id="141" source=" Dudley " target=" Ron " weight="1" />
+      <edge id="142" source=" Dudley " target=" Draco Malfoy " weight="1" />
+      <edge id="143" source=" Dudley " target=" POTTER Mr. Potter Harry " weight="55" />
+      <edge id="144" source=" Dudley " target=" Petunia Aunt " weight="17" />
+      <edge id="145" source=" Ron " target=" Percy Weasley " weight="1" />
+      <edge id="146" source=" Ron " target=" Weasley Mrs. " weight="1" />
+      <edge id="147" source=" Ron " target=" Brown " weight="1" />
+      <edge id="148" source=" Ron " target=" Parvati Patil " weight="1" />
+      <edge id="149" source=" Ron " target=" Ronald Mr. Weasley " weight="1" />
+      <edge id="150" source=" Ron " target=" Madam Hooch " weight="1" />
+      <edge id="151" source=" Ron " target=" rob Gringotts " weight="1" />
+      <edge id="152" source=" Ron " target=" Hufflepuff " weight="1" />
+      <edge id="153" source=" Ron " target=" Hedwig " weight="1" />
+      <edge id="154" source=" Ron " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="8" />
+      <edge id="155" source=" Ron " target=" Fluffy " weight="1" />
+      <edge id="156" source=" Ron " target=" Weasley Fred " weight="2" />
+      <edge id="157" source=" Ron " target=" Draco Malfoy " weight="5" />
+      <edge id="158" source=" Ron " target=" Snape " weight="16" />
+      <edge id="159" source=" Ron " target=" Goyle " weight="3" />
+      <edge id="160" source=" Ron " target=" Quirrell " weight="3" />
+      <edge id="161" source=" Ron " target=" George Weasley " weight="3" />
+      <edge id="162" source=" Ron " target=" Thomas Dean " weight="2" />
+      <edge id="163" source=" Ron " target=" Hagrid Rubeus " weight="20" />
+      <edge id="164" source=" Ron " target=" Finnigan Seamus " weight="1" />
+      <edge id="165" source=" Ron " target=" Bill " weight="1" />
+      <edge id="166" source=" Ron " target=" Muggles " weight="1" />
+      <edge id="167" source=" Ron " target=" Madam Pomfrey " weight="2" />
+      <edge id="168" source=" Ron " target=" Flitwick " weight="1" />
+      <edge id="169" source=" Ron " target=" Jordan Lee " weight="1" />
+      <edge id="170" source=" Ron " target=" POTTER Mr. Potter Harry " weight="33" />
+      <edge id="171" source=" Brown " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="172" source=" Brown " target=" Sickles " weight="1" />
+      <edge id="173" source=" Gryffindors " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="174" source=" Gryffindors " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="175" source=" Gryffindors " target=" Snape " weight="1" />
+      <edge id="176" source=" Ravenclaws " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="177" source=" Ravenclaws " target=" Slytherin " weight="1" />
+      <edge id="178" source=" Wood Oliver " target=" Marcus Flint " weight="1" />
+      <edge id="179" source=" Wood Oliver " target=" Weasley Fred " weight="2" />
+      <edge id="180" source=" Wood Oliver " target=" Pucey Adrian " weight="1" />
+      <edge id="181" source=" Wood Oliver " target=" Slytherins " weight="1" />
+      <edge id="182" source=" Wood Oliver " target=" POTTER Mr. Potter Harry " weight="22" />
+      <edge id="183" source=" Wood Oliver " target=" George Weasley " weight="1" />
+      <edge id="184" source=" Slytherin " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="185" source=" Slytherin " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="186" source=" Slytherin " target=" Hufflepuff " weight="4" />
+      <edge id="187" source=" Slytherin " target=" George Weasley " weight="1" />
+      <edge id="188" source=" Severus " target=" Snape " weight="2" />
+      <edge id="189" source=" Severus " target=" Quirrell " weight="1" />
+      <edge id="190" source=" Parvati Patil " target=" Draco Malfoy " weight="1" />
+      <edge id="191" source=" Parvati Patil " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="192" source=" Agrippa " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="193" source=" Agrippa " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="194" source=" Madam Hooch " target=" Marcus Flint " weight="1" />
+      <edge id="195" source=" Madam Hooch " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="196" source=" Morgana " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="197" source=" Morgana " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="198" source=" George Weasley " target=" Marcus Flint " weight="1" />
+      <edge id="199" source=" George Weasley " target=" Pucey Adrian " weight="1" />
+      <edge id="200" source=" George Weasley " target=" Weasley Fred " weight="10" />
+      <edge id="201" source=" George Weasley " target=" Draco Malfoy " weight="1" />
+      <edge id="202" source=" George Weasley " target=" Snape " weight="2" />
+      <edge id="203" source=" George Weasley " target=" Slytherins " weight="1" />
+      <edge id="204" source=" George Weasley " target=" Percy Weasley " weight="1" />
+      <edge id="205" source=" George Weasley " target=" POTTER Mr. Potter Harry " weight="5" />
+      <edge id="206" source=" George Weasley " target=" Hufflepuff " weight="1" />
+      <edge id="207" source=" rob Gringotts " target=" Hagrid Rubeus " weight="1" />
+      <edge id="208" source=" Hufflepuff " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="209" source=" Hufflepuff " target=" Hagrid Rubeus " weight="1" />
+      <edge id="210" source=" Hufflepuff " target=" Draco Malfoy " weight="1" />
+      <edge id="211" source=" Hufflepuff " target=" Snape " weight="1" />
+      <edge id="212" source=" Hufflepuff " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="213" source=" Marcus Flint " target=" Weasley Fred " weight="1" />
+      <edge id="214" source=" Marcus Flint " target=" Pucey Adrian " weight="1" />
+      <edge id="215" source=" Marcus Flint " target=" Slytherins " weight="1" />
+      <edge id="216" source=" Marcus Flint " target=" POTTER Mr. Potter Harry " weight="3" />
+      <edge id="217" source=" Vernon Uncle " target=" Petunia Aunt " weight="5" />
+      <edge id="218" source=" Vernon Uncle " target=" Hagrid Rubeus " weight="2" />
+      <edge id="219" source=" Vernon Uncle " target=" POTTER Mr. Potter Harry " weight="12" />
+      <edge id="220" source=" Hedwig " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="2" />
+      <edge id="221" source=" Hedwig " target=" POTTER Mr. Potter Harry " weight="4" />
+      <edge id="222" source=" Hedwig " target=" Petunia Aunt " weight="1" />
+      <edge id="223" source=" Hedwig " target=" Hagrid Rubeus " weight="1" />
+      <edge id="224" source=" Bettie Bott " target=" Hagrid Rubeus " weight="1" />
+      <edge id="225" source=" Bettie Bott " target=" Weasley Fred " weight="1" />
+      <edge id="226" source=" Pucey Adrian " target=" Weasley Fred " weight="1" />
+      <edge id="227" source=" Pucey Adrian " target=" Slytherins " weight="1" />
+      <edge id="228" source=" Thomas Dean " target=" Hagrid Rubeus " weight="1" />
+      <edge id="229" source=" Thomas Dean " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="230" source=" Thomas Dean " target=" Finnigan Seamus " weight="1" />
+      <edge id="231" source=" Diggle Dedalus " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="232" source=" Ronald Mr. Weasley " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="233" source=" Fluffy " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="234" source=" Weasley Fred " target=" Hagrid Rubeus " weight="1" />
+      <edge id="235" source=" Weasley Fred " target=" Draco Malfoy " weight="1" />
+      <edge id="236" source=" Weasley Fred " target=" Slytherins " weight="1" />
+      <edge id="237" source=" Weasley Fred " target=" Snape " weight="1" />
+      <edge id="238" source=" Weasley Fred " target=" Percy Weasley " weight="3" />
+      <edge id="239" source=" Weasley Fred " target=" POTTER Mr. Potter Harry " weight="9" />
+      <edge id="240" source=" Lily " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="241" source=" Lily " target=" James Potter " weight="2" />
+      <edge id="242" source=" Mr. Ollivander " target=" Hagrid Rubeus " weight="3" />
+      <edge id="243" source=" Mr. Ollivander " target=" POTTER Mr. Potter Harry " weight="11" />
+      <edge id="244" source=" Mr. Ollivander " target=" Quirrell " weight="1" />
+      <edge id="245" source=" Knuts " target=" Hagrid Rubeus " weight="2" />
+      <edge id="246" source=" Knuts " target=" POTTER Mr. Potter Harry " weight="3" />
+      <edge id="247" source=" Knuts " target=" Sickles " weight="2" />
+      <edge id="248" source=" Draco Malfoy " target=" Snape " weight="5" />
+      <edge id="249" source=" Draco Malfoy " target=" Slytherins " weight="1" />
+      <edge id="250" source=" Draco Malfoy " target=" Goyle " weight="6" />
+      <edge id="251" source=" Draco Malfoy " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="252" source=" Draco Malfoy " target=" Hagrid Rubeus " weight="2" />
+      <edge id="253" source=" Draco Malfoy " target=" Finnigan Seamus " weight="1" />
+      <edge id="254" source=" Draco Malfoy " target=" Madam Pomfrey " weight="2" />
+      <edge id="255" source=" Draco Malfoy " target=" Flitwick " weight="1" />
+      <edge id="256" source=" Draco Malfoy " target=" POTTER Mr. Potter Harry " weight="13" />
+      <edge id="257" source=" Snape " target=" Hagrid Rubeus " weight="9" />
+      <edge id="258" source=" Snape " target=" Flitwick " weight="4" />
+      <edge id="259" source=" Snape " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="4" />
+      <edge id="260" source=" Snape " target=" Finnigan Seamus " weight="1" />
+      <edge id="261" source=" Snape " target=" POTTER Mr. Potter Harry " weight="46" />
+      <edge id="262" source=" Snape " target=" Percy Weasley " weight="1" />
+      <edge id="263" source=" Snape " target=" Quirrell " weight="9" />
+      <edge id="264" source=" Slytherins " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="265" source=" Filch Mr. " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="266" source=" Percy Weasley " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="1" />
+      <edge id="267" source=" Percy Weasley " target=" Finnigan Seamus " weight="1" />
+      <edge id="268" source=" Percy Weasley " target=" Longbottom " weight="1" />
+      <edge id="269" source=" Percy Weasley " target=" Bill " weight="1" />
+      <edge id="270" source=" Percy Weasley " target=" Jordan Lee " weight="1" />
+      <edge id="271" source=" Percy Weasley " target=" POTTER Mr. Potter Harry " weight="8" />
+      <edge id="272" source=" Percy Weasley " target=" Quirrell " weight="2" />
+      <edge id="273" source=" Goyle " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="274" source=" Quirrell " target=" Dumbledore ALBUS Albus DUMBLEDORE " weight="2" />
+      <edge id="275" source=" Quirrell " target=" Finnigan Seamus " weight="1" />
+      <edge id="276" source=" Quirrell " target=" Flitwick " weight="2" />
+      <edge id="277" source=" Quirrell " target=" POTTER Mr. Potter Harry " weight="48" />
+      <edge id="278" source=" Sickles " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="279" source=" Dumbledore ALBUS Albus DUMBLEDORE " target="#N/A" weight="1" />
+      <edge id="280" source=" Dumbledore ALBUS Albus DUMBLEDORE " target=" Hagrid Rubeus " weight="16" />
+      <edge id="281" source=" Dumbledore ALBUS Albus DUMBLEDORE " target=" James Potter " weight="2" />
+      <edge id="282" source=" Dumbledore ALBUS Albus DUMBLEDORE " target=" Muggles " weight="1" />
+      <edge id="283" source=" Dumbledore ALBUS Albus DUMBLEDORE " target=" Madam Pomfrey " weight="2" />
+      <edge id="284" source=" Dumbledore ALBUS Albus DUMBLEDORE " target=" Flitwick " weight="2" />
+      <edge id="285" source=" Dumbledore ALBUS Albus DUMBLEDORE " target=" POTTER Mr. Potter Harry " weight="43" />
+      <edge id="286" source=" Hagrid Rubeus " target="#N/A" weight="2" />
+      <edge id="287" source=" Hagrid Rubeus " target=" Ronan " weight="6" />
+      <edge id="288" source=" Hagrid Rubeus " target=" James Potter " weight="1" />
+      <edge id="289" source=" Hagrid Rubeus " target=" Finnigan Seamus " weight="1" />
+      <edge id="290" source=" Hagrid Rubeus " target=" Muggles " weight="1" />
+      <edge id="291" source=" Hagrid Rubeus " target=" Flitwick " weight="2" />
+      <edge id="292" source=" Hagrid Rubeus " target=" POTTER Mr. Potter Harry " weight="36" />
+      <edge id="293" source=" James Potter " target=" Muggles " weight="1" />
+      <edge id="294" source=" James Potter " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="295" source=" Finnigan Seamus " target=" POTTER Mr. Potter Harry " weight="9" />
+      <edge id="296" source=" Petunia Aunt " target=" POTTER Mr. Potter Harry " weight="3" />
+      <edge id="297" source=" Know-Who " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="298" source=" Muggles " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="299" source=" Longbottom " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="300" source=" Madam Pomfrey " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="301" source=" Firenze " target=" POTTER Mr. Potter Harry " weight="2" />
+      <edge id="302" source=" Flitwick " target=" POTTER Mr. Potter Harry " weight="3" />
+      <edge id="303" source=" Jordan Lee " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="304" source=" Binns " target=" POTTER Mr. Potter Harry " weight="1" />
+      <edge id="305" source=" Ronan " target=" POTTER Mr. Potter Harry " weight="4" />
+      <edge id="306" source=" POTTER Mr. Potter Harry " target=" Dursleys " weight="1" />
+      <edge id="307" source=" POTTER Mr. Potter Harry " target="#N/A" weight="2" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Durbin " label=" Durbin " />
+      <node id=" Shinzawai " label=" Shinzawai " />
+      <node id=" Galain " label=" Galain " />
+      <node id=" Hull Trevor " label=" Hull Trevor " />
+      <node id=" Kulgan " label=" Kulgan " />
+      <node id=" Rodric " label=" Rodric " />
+      <node id=" Yabon " label=" Yabon " />
+      <node id=" Guy Black " label=" Guy Black " />
+      <node id=" Tully " label=" Tully " />
+      <node id=" lord Duke " label=" lord Duke " />
+      <node id=" William " label=" William " />
+      <node id=" Aglaranna " label=" Aglaranna " />
+      <node id=" Shimone " label=" Shimone " />
+      <node id=" Ruthia " label=" Ruthia " />
+      <node id=" Gathis " label=" Gathis " />
+      <node id=" Lord Lyam " label=" Lord Lyam " />
+      <node id=" Hocho " label=" Hocho " />
+      <node id=" Vandros Lord lord " label=" Vandros Lord lord " />
+      <node id=" Richard " label=" Richard " />
+      <node id=" Squire Roland " label=" Squire Roland " />
+      <node id=" Anita " label=" Anita " />
+      <node id=" Earl Kasumi " label=" Earl Kasumi " />
+      <node id=" Duke Brucal " label=" Duke Brucal " />
+      <node id=" Jessup Lord " label=" Jessup Lord " />
+      <node id=" Highness " label=" Highness " />
+      <node id=" Alicia " label=" Alicia " />
+      <node id=" Tathar " label=" Tathar " />
+      <node id=" Cook Aaron " label=" Cook Aaron " />
+      <node id=" Radbum Jocko " label=" Radbum Jocko " />
+      <node id=" Avery John " label=" Avery John " />
+      <node id=" Krondor " label=" Krondor " />
+      <node id=" Tyra " label=" Tyra " />
+      <node id=" Dannis " label=" Dannis " />
+      <node id=" Carse " label=" Carse " />
+      <node id=" Eriand " label=" Eriand " />
+      <node id=" Amos Trask " label=" Amos Trask " />
+      <node id=" Garret " label=" Garret " />
+      <node id=" Kesh " label=" Kesh " />
+      <node id=" Dawn " label=" Dawn " />
+      <node id=" Laurie " label=" Laurie " />
+      <node id=" Radburn Jocko " label=" Radburn Jocko " />
+      <node id=" Lucas " label=" Lucas " />
+      <node id=" Almorella " label=" Almorella " />
+      <node id=" Kamatsu " label=" Kamatsu " />
+      <node id=" Hochopepa " label=" Hochopepa " />
+      <node id=" Delong " label=" Delong " />
+      <node id=" Charles " label=" Charles " />
+      <node id=" Huntmaster " label=" Huntmaster " />
+      <node id=" Lyam Prince " label=" Lyam Prince " />
+      <node id=" Lord Barry " label=" Lord Barry " />
+      <node id=" Lord Dulanic " label=" Lord Dulanic " />
+      <node id=" Tsurani " label=" Tsurani " />
+      <node id=" Hokanu " label=" Hokanu " />
+      <node id=" Ichindar " label=" Ichindar " />
+      <node id=" Crydee " label=" Crydee " />
+      <node id=" Lord Borric lord " label=" Lord Borric lord " />
+      <node id=" Squire Pug " label=" Squire Pug " />
+      <node id=" Katala " label=" Katala " />
+      <node id=" Earl Vandros " label=" Earl Vandros " />
+      <node id=" Chogana " label=" Chogana " />
+      <node id=" Aye " label=" Aye " />
+      <node id=" Tomas " label=" Tomas " />
+      <node id=" Jon " label=" Jon " />
+      <node id=" Arthur " label=" Arthur " />
+      <node id=" Calin " label=" Calin " />
+      <node id=" Vasco " label=" Vasco " />
+      <node id=" Gardan " label=" Gardan " />
+      <node id=" Milamber " label=" Milamber " />
+      <node id=" Netoha " label=" Netoha " />
+      <node id=" Fumita " label=" Fumita " />
+      <node id=" Meecham " label=" Meecham " />
+      <node id=" Dolgan " label=" Dolgan " />
+      <node id=" Longbow Martin " label=" Longbow Martin " />
+      <node id=" Jamar " label=" Jamar " />
+      <node id=" Elvandar " label=" Elvandar " />
+      <node id=" Guy du Bas-Tyra " label=" Guy du Bas-Tyra " />
+      <node id=" Macros " label=" Macros " />
+      <node id=" Valheru " label=" Valheru " />
+      <node id=" Caldric Duke " label=" Caldric Duke " />
+      <node id=" Arutha Prince " label=" Arutha Prince " />
+      <node id=" Keshian " label=" Keshian " />
+      <node id=" Carline " label=" Carline " />
+      <node id=" Dala " label=" Dala " />
+      <node id=" Draken-Korin " label=" Draken-Korin " />
+      <node id=" Kenneth " label=" Kenneth " />
+      <node id=" Shamata " label=" Shamata " />
+      <node id=" Kerus " label=" Kerus " />
+      <node id=" Duke Borric " label=" Duke Borric " />
+      <node id=" Ashen-Shugar " label=" Ashen-Shugar " />
+      <node id=" Rachmad " label=" Rachmad " />
+      <node id=" Fannon " label=" Fannon " />
+      <node id=" Lord Brucal lord " label=" Lord Brucal lord " />
+      <node id=" Rillanon " label=" Rillanon " />
+      <node id=" Shugar " label=" Shugar " />
+      <node id=" Zun " label=" Zun " />
+      <node id=" Tulan " label=" Tulan " />
+      <node id=" Shuruga " label=" Shuruga " />
+      <node id=" Jimmy " label=" Jimmy " />
+      <node id=" Mother " label=" Mother " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Durbin " target=" Avery John " weight="1" />
+      <edge id="1" source=" Shinzawai " target=" Laurie " weight="1" />
+      <edge id="2" source=" Galain " target=" Garret " weight="1" />
+      <edge id="3" source=" Galain " target=" Tomas " weight="9" />
+      <edge id="4" source=" Galain " target=" Longbow Martin " weight="3" />
+      <edge id="5" source=" Hull Trevor " target=" Longbow Martin " weight="2" />
+      <edge id="6" source=" Hull Trevor " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="7" source=" Hull Trevor " target=" Amos Trask " weight="4" />
+      <edge id="8" source=" Hull Trevor " target=" Jimmy " weight="1" />
+      <edge id="9" source=" Hull Trevor " target=" Anita " weight="1" />
+      <edge id="10" source=" Hull Trevor " target=" Arutha Prince " weight="5" />
+      <edge id="11" source=" Hull Trevor " target=" Cook Aaron " weight="1" />
+      <edge id="12" source=" Kulgan " target=" Tully " weight="2" />
+      <edge id="13" source=" Kulgan " target=" Meecham " weight="1" />
+      <edge id="14" source=" Kulgan " target=" Dala " weight="1" />
+      <edge id="15" source=" Kulgan " target=" Lord Brucal lord " weight="1" />
+      <edge id="16" source=" Kulgan " target=" Longbow Martin " weight="1" />
+      <edge id="17" source=" Kulgan " target=" Tomas " weight="1" />
+      <edge id="18" source=" Kulgan " target=" William " weight="1" />
+      <edge id="19" source=" Kulgan " target=" Squire Roland " weight="1" />
+      <edge id="20" source=" Kulgan " target=" Duke Borric " weight="4" />
+      <edge id="21" source=" Kulgan " target=" Calin " weight="1" />
+      <edge id="22" source=" Kulgan " target=" Rodric " weight="1" />
+      <edge id="23" source=" Kulgan " target=" Squire Pug " weight="3" />
+      <edge id="24" source=" Kulgan " target=" Katala " weight="1" />
+      <edge id="25" source=" Kulgan " target=" Arutha Prince " weight="8" />
+      <edge id="26" source=" Kulgan " target=" Yabon " weight="1" />
+      <edge id="27" source=" Kulgan " target=" Lyam Prince " weight="3" />
+      <edge id="28" source=" Kulgan " target=" Laurie " weight="9" />
+      <edge id="29" source=" Kulgan " target=" Earl Vandros " weight="1" />
+      <edge id="30" source=" Rodric " target=" Lord Brucal lord " weight="2" />
+      <edge id="31" source=" Rodric " target=" Eriand " weight="2" />
+      <edge id="32" source=" Rodric " target=" Richard " weight="1" />
+      <edge id="33" source=" Rodric " target=" Guy du Bas-Tyra " weight="4" />
+      <edge id="34" source=" Rodric " target=" Rillanon " weight="1" />
+      <edge id="35" source=" Rodric " target=" Krondor " weight="1" />
+      <edge id="36" source=" Rodric " target=" Arutha Prince " weight="2" />
+      <edge id="37" source=" Rodric " target=" Yabon " weight="2" />
+      <edge id="38" source=" Rodric " target=" Lyam Prince " weight="8" />
+      <edge id="39" source=" Yabon " target=" Lyam Prince " weight="3" />
+      <edge id="40" source=" Guy Black " target=" Tomas " weight="1" />
+      <edge id="41" source=" Guy Black " target=" Krondor " weight="1" />
+      <edge id="42" source=" Guy Black " target=" Meecham " weight="1" />
+      <edge id="43" source=" Tully " target=" Fannon " weight="1" />
+      <edge id="44" source=" Tully " target=" Longbow Martin " weight="4" />
+      <edge id="45" source=" Tully " target=" Charles " weight="1" />
+      <edge id="46" source=" Tully " target=" Amos Trask " weight="1" />
+      <edge id="47" source=" Tully " target=" Squire Roland " weight="1" />
+      <edge id="48" source=" Tully " target=" Arutha Prince " weight="3" />
+      <edge id="49" source=" Tully " target=" Lyam Prince " weight="2" />
+      <edge id="50" source=" Tully " target=" Carline " weight="2" />
+      <edge id="51" source=" Tully " target=" Laurie " weight="1" />
+      <edge id="52" source=" lord Duke " target=" Lord Brucal lord " weight="1" />
+      <edge id="53" source=" William " target=" Hokanu " weight="1" />
+      <edge id="54" source=" William " target=" Lord Brucal lord " weight="1" />
+      <edge id="55" source=" William " target=" Meecham " weight="1" />
+      <edge id="56" source=" William " target=" Milamber " weight="3" />
+      <edge id="57" source=" William " target=" Almorella " weight="1" />
+      <edge id="58" source=" William " target=" Netoha " weight="1" />
+      <edge id="59" source=" William " target=" Squire Pug " weight="1" />
+      <edge id="60" source=" William " target=" Katala " weight="15" />
+      <edge id="61" source=" William " target=" Arutha Prince " weight="1" />
+      <edge id="62" source=" William " target=" Lyam Prince " weight="2" />
+      <edge id="63" source=" William " target=" Laurie " weight="4" />
+      <edge id="64" source=" Aglaranna " target=" Longbow Martin " weight="3" />
+      <edge id="65" source=" Aglaranna " target=" Tomas " weight="17" />
+      <edge id="66" source=" Aglaranna " target=" Tathar " weight="3" />
+      <edge id="67" source=" Aglaranna " target=" Macros " weight="1" />
+      <edge id="68" source=" Aglaranna " target=" Elvandar " weight="1" />
+      <edge id="69" source=" Shimone " target=" Hokanu " weight="1" />
+      <edge id="70" source=" Shimone " target=" Kamatsu " weight="1" />
+      <edge id="71" source=" Shimone " target=" Hochopepa " weight="1" />
+      <edge id="72" source=" Shimone " target=" Milamber " weight="6" />
+      <edge id="73" source=" Ruthia " target=" Squire Pug " weight="1" />
+      <edge id="74" source=" Gathis " target=" Arutha Prince " weight="1" />
+      <edge id="75" source=" Gathis " target=" Meecham " weight="1" />
+      <edge id="76" source=" Lord Lyam " target=" Meecham " weight="1" />
+      <edge id="77" source=" Hocho " target=" Katala " weight="1" />
+      <edge id="78" source=" Vandros Lord lord " target=" Lyam Prince " weight="1" />
+      <edge id="79" source=" Vandros Lord lord " target=" Earl Kasumi " weight="1" />
+      <edge id="80" source=" Richard " target=" Duke Borric " weight="1" />
+      <edge id="81" source=" Squire Roland " target=" Tulan " weight="2" />
+      <edge id="82" source=" Squire Roland " target=" Fannon " weight="1" />
+      <edge id="83" source=" Squire Roland " target=" Milamber " weight="1" />
+      <edge id="84" source=" Squire Roland " target=" Longbow Martin " weight="3" />
+      <edge id="85" source=" Squire Roland " target=" Tomas " weight="1" />
+      <edge id="86" source=" Squire Roland " target=" Charles " weight="1" />
+      <edge id="87" source=" Squire Roland " target=" Amos Trask " weight="1" />
+      <edge id="88" source=" Squire Roland " target=" Garret " weight="1" />
+      <edge id="89" source=" Squire Roland " target=" Calin " weight="1" />
+      <edge id="90" source=" Squire Roland " target=" Squire Pug " weight="1" />
+      <edge id="91" source=" Squire Roland " target=" Arutha Prince " weight="6" />
+      <edge id="92" source=" Squire Roland " target=" Lyam Prince " weight="1" />
+      <edge id="93" source=" Squire Roland " target=" Carse " weight="1" />
+      <edge id="94" source=" Squire Roland " target=" Carline " weight="1" />
+      <edge id="95" source=" Anita " target=" Eriand " weight="1" />
+      <edge id="96" source=" Anita " target=" Fannon " weight="1" />
+      <edge id="97" source=" Anita " target=" Lucas " weight="1" />
+      <edge id="98" source=" Anita " target=" Longbow Martin " weight="3" />
+      <edge id="99" source=" Anita " target=" Alicia " weight="1" />
+      <edge id="100" source=" Anita " target=" Krondor " weight="1" />
+      <edge id="101" source=" Anita " target=" Jimmy " weight="1" />
+      <edge id="102" source=" Anita " target=" Carline " weight="3" />
+      <edge id="103" source=" Anita " target=" Arutha Prince " weight="44" />
+      <edge id="104" source=" Anita " target=" Lyam Prince " weight="2" />
+      <edge id="105" source=" Anita " target=" Amos Trask " weight="3" />
+      <edge id="106" source=" Earl Kasumi " target=" Katala " weight="1" />
+      <edge id="107" source=" Earl Kasumi " target=" Lyam Prince " weight="1" />
+      <edge id="108" source=" Earl Kasumi " target=" Laurie " weight="2" />
+      <edge id="109" source=" Earl Kasumi " target=" Squire Pug " weight="2" />
+      <edge id="110" source=" Duke Brucal " target=" Katala " weight="1" />
+      <edge id="111" source=" Duke Brucal " target=" Earl Vandros " weight="1" />
+      <edge id="112" source=" Duke Brucal " target=" Laurie " weight="1" />
+      <edge id="113" source=" Duke Brucal " target=" Lyam Prince " weight="1" />
+      <edge id="114" source=" Duke Brucal " target=" Squire Pug " weight="1" />
+      <edge id="115" source=" Jessup Lord " target=" Lord Dulanic " weight="1" />
+      <edge id="116" source=" Jessup Lord " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="117" source=" Jessup Lord " target=" Amos Trask " weight="1" />
+      <edge id="118" source=" Jessup Lord " target=" Arutha Prince " weight="1" />
+      <edge id="119" source=" Jessup Lord " target=" Keshian " weight="1" />
+      <edge id="120" source=" Jessup Lord " target=" Lord Barry " weight="1" />
+      <edge id="121" source=" Highness " target=" Tsurani " weight="1" />
+      <edge id="122" source=" Alicia " target=" Krondor " weight="1" />
+      <edge id="123" source=" Alicia " target=" Carline " weight="1" />
+      <edge id="124" source=" Tathar " target=" Longbow Martin " weight="1" />
+      <edge id="125" source=" Tathar " target=" Tomas " weight="5" />
+      <edge id="126" source=" Tathar " target=" Elvandar " weight="1" />
+      <edge id="127" source=" Cook Aaron " target=" Longbow Martin " weight="2" />
+      <edge id="128" source=" Cook Aaron " target=" Amos Trask " weight="4" />
+      <edge id="129" source=" Cook Aaron " target=" Arthur " weight="2" />
+      <edge id="130" source=" Cook Aaron " target=" Jimmy " weight="1" />
+      <edge id="131" source=" Cook Aaron " target=" Arutha Prince " weight="7" />
+      <edge id="132" source=" Radbum Jocko " target=" Arutha Prince " weight="3" />
+      <edge id="133" source=" Radbum Jocko " target=" Amos Trask " weight="1" />
+      <edge id="134" source=" Krondor " target=" Radburn Jocko " weight="1" />
+      <edge id="135" source=" Krondor " target=" Lord Dulanic " weight="1" />
+      <edge id="136" source=" Krondor " target=" Tyra " weight="1" />
+      <edge id="137" source=" Krondor " target=" Lyam Prince " weight="1" />
+      <edge id="138" source=" Krondor " target=" Lucas " weight="2" />
+      <edge id="139" source=" Krondor " target=" Longbow Martin " weight="2" />
+      <edge id="140" source=" Krondor " target=" Guy du Bas-Tyra " weight="2" />
+      <edge id="141" source=" Krondor " target=" Rillanon " weight="1" />
+      <edge id="142" source=" Krondor " target=" Amos Trask " weight="1" />
+      <edge id="143" source=" Krondor " target=" Mother " weight="1" />
+      <edge id="144" source=" Krondor " target=" Eriand " weight="1" />
+      <edge id="145" source=" Krondor " target=" Jimmy " weight="1" />
+      <edge id="146" source=" Krondor " target=" Tsurani " weight="1" />
+      <edge id="147" source=" Krondor " target=" Zun " weight="1" />
+      <edge id="148" source=" Krondor " target=" Arutha Prince " weight="8" />
+      <edge id="149" source=" Krondor " target=" Carline " weight="2" />
+      <edge id="150" source=" Tyra " target=" Lucas " weight="1" />
+      <edge id="151" source=" Dannis " target=" Lyam Prince " weight="2" />
+      <edge id="152" source=" Dannis " target=" Delong " weight="1" />
+      <edge id="153" source=" Carse " target=" Tsurani " weight="1" />
+      <edge id="154" source=" Carse " target=" Crydee " weight="1" />
+      <edge id="155" source=" Carse " target=" Arutha Prince " weight="1" />
+      <edge id="156" source=" Carse " target=" Tulan " weight="2" />
+      <edge id="157" source=" Eriand " target=" Lucas " weight="1" />
+      <edge id="158" source=" Eriand " target=" Longbow Martin " weight="1" />
+      <edge id="159" source=" Eriand " target=" Crydee " weight="1" />
+      <edge id="160" source=" Eriand " target=" Guy du Bas-Tyra " weight="2" />
+      <edge id="161" source=" Eriand " target=" Amos Trask " weight="1" />
+      <edge id="162" source=" Eriand " target=" Caldric Duke " weight="1" />
+      <edge id="163" source=" Eriand " target=" Arutha Prince " weight="3" />
+      <edge id="164" source=" Eriand " target=" Lyam Prince " weight="1" />
+      <edge id="165" source=" Eriand " target=" Laurie " weight="1" />
+      <edge id="166" source=" Amos Trask " target=" Lord Borric lord " weight="1" />
+      <edge id="167" source=" Amos Trask " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="168" source=" Amos Trask " target=" Arutha Prince " weight="24" />
+      <edge id="169" source=" Amos Trask " target=" Keshian " weight="1" />
+      <edge id="170" source=" Amos Trask " target=" Aye " weight="1" />
+      <edge id="171" source=" Amos Trask " target=" Shamata " weight="1" />
+      <edge id="172" source=" Amos Trask " target=" Garret " weight="1" />
+      <edge id="173" source=" Amos Trask " target=" Arthur " weight="1" />
+      <edge id="174" source=" Amos Trask " target=" Dawn " weight="1" />
+      <edge id="175" source=" Amos Trask " target=" Radburn Jocko " weight="3" />
+      <edge id="176" source=" Amos Trask " target=" Fannon " weight="2" />
+      <edge id="177" source=" Amos Trask " target=" Gardan " weight="1" />
+      <edge id="178" source=" Amos Trask " target=" Charles " weight="1" />
+      <edge id="179" source=" Amos Trask " target=" Longbow Martin " weight="21" />
+      <edge id="180" source=" Amos Trask " target=" Vasco " weight="2" />
+      <edge id="181" source=" Garret " target=" Elvandar " weight="2" />
+      <edge id="182" source=" Garret " target=" Longbow Martin " weight="5" />
+      <edge id="183" source=" Garret " target=" Charles " weight="3" />
+      <edge id="184" source=" Garret " target=" Arutha Prince " weight="1" />
+      <edge id="185" source=" Kesh " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="186" source=" Kesh " target=" Keshian " weight="1" />
+      <edge id="187" source=" Kesh " target=" Kerus " weight="1" />
+      <edge id="188" source=" Kesh " target=" Laurie " weight="1" />
+      <edge id="189" source=" Dawn " target=" Arutha Prince " weight="2" />
+      <edge id="190" source=" Dawn " target=" Longbow Martin " weight="1" />
+      <edge id="191" source=" Dawn " target=" Keshian " weight="1" />
+      <edge id="192" source=" Laurie " target=" Hokanu " weight="1" />
+      <edge id="193" source=" Laurie " target=" Jamar " weight="2" />
+      <edge id="194" source=" Laurie " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="195" source=" Laurie " target=" Squire Pug " weight="9" />
+      <edge id="196" source=" Laurie " target=" Katala " weight="12" />
+      <edge id="197" source=" Laurie " target=" Arutha Prince " weight="1" />
+      <edge id="198" source=" Laurie " target=" Keshian " weight="1" />
+      <edge id="199" source=" Laurie " target=" Carline " weight="8" />
+      <edge id="200" source=" Laurie " target=" Earl Vandros " weight="2" />
+      <edge id="201" source=" Laurie " target=" Chogana " weight="1" />
+      <edge id="202" source=" Laurie " target=" Kenneth " weight="2" />
+      <edge id="203" source=" Laurie " target=" Tomas " weight="1" />
+      <edge id="204" source=" Laurie " target=" Duke Borric " weight="1" />
+      <edge id="205" source=" Laurie " target=" Calin " weight="1" />
+      <edge id="206" source=" Laurie " target=" Lord Brucal lord " weight="1" />
+      <edge id="207" source=" Laurie " target=" Rachmad " weight="1" />
+      <edge id="208" source=" Laurie " target=" Fannon " weight="1" />
+      <edge id="209" source=" Laurie " target=" Milamber " weight="1" />
+      <edge id="210" source=" Laurie " target=" Almorella " weight="2" />
+      <edge id="211" source=" Laurie " target=" Rillanon " weight="1" />
+      <edge id="212" source=" Laurie " target=" Lucas " weight="11" />
+      <edge id="213" source=" Laurie " target=" Lyam Prince " weight="4" />
+      <edge id="214" source=" Laurie " target=" Meecham " weight="9" />
+      <edge id="215" source=" Laurie " target=" Tsurani " weight="6" />
+      <edge id="216" source=" Laurie " target=" Jimmy " weight="2" />
+      <edge id="217" source=" Radburn Jocko " target=" Arutha Prince " weight="2" />
+      <edge id="218" source=" Lucas " target=" Kenneth " weight="1" />
+      <edge id="219" source=" Lucas " target=" Arutha Prince " weight="1" />
+      <edge id="220" source=" Lucas " target=" Keshian " weight="1" />
+      <edge id="221" source=" Lucas " target=" Crydee " weight="1" />
+      <edge id="222" source=" Almorella " target=" Katala " weight="3" />
+      <edge id="223" source=" Almorella " target=" Netoha " weight="4" />
+      <edge id="224" source=" Kamatsu " target=" Hokanu " weight="1" />
+      <edge id="225" source=" Kamatsu " target=" Tsurani " weight="1" />
+      <edge id="226" source=" Kamatsu " target=" Hochopepa " weight="1" />
+      <edge id="227" source=" Hochopepa " target=" Hokanu " weight="1" />
+      <edge id="228" source=" Hochopepa " target=" Milamber " weight="5" />
+      <edge id="229" source=" Charles " target=" Fannon " weight="1" />
+      <edge id="230" source=" Charles " target=" Longbow Martin " weight="3" />
+      <edge id="231" source=" Charles " target=" Arutha Prince " weight="1" />
+      <edge id="232" source=" Huntmaster " target=" Arutha Prince " weight="1" />
+      <edge id="233" source=" Huntmaster " target=" Longbow Martin " weight="1" />
+      <edge id="234" source=" Huntmaster " target=" Vasco " weight="1" />
+      <edge id="235" source=" Lyam Prince " target=" Ichindar " weight="1" />
+      <edge id="236" source=" Lyam Prince " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="237" source=" Lyam Prince " target=" Squire Pug " weight="3" />
+      <edge id="238" source=" Lyam Prince " target=" Katala " weight="2" />
+      <edge id="239" source=" Lyam Prince " target=" Arutha Prince " weight="15" />
+      <edge id="240" source=" Lyam Prince " target=" Carline " weight="2" />
+      <edge id="241" source=" Lyam Prince " target=" Tomas " weight="6" />
+      <edge id="242" source=" Lyam Prince " target=" Duke Borric " weight="3" />
+      <edge id="243" source=" Lyam Prince " target=" Fannon " weight="1" />
+      <edge id="244" source=" Lyam Prince " target=" Lord Brucal lord " weight="17" />
+      <edge id="245" source=" Lyam Prince " target=" Meecham " weight="1" />
+      <edge id="246" source=" Lyam Prince " target=" Dolgan " weight="1" />
+      <edge id="247" source=" Lyam Prince " target=" Tsurani " weight="1" />
+      <edge id="248" source=" Lyam Prince " target=" Longbow Martin " weight="13" />
+      <edge id="249" source=" Lord Barry " target=" Lord Dulanic " weight="1" />
+      <edge id="250" source=" Lord Barry " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="251" source=" Lord Dulanic " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="252" source=" Tsurani " target=" Meecham " weight="1" />
+      <edge id="253" source=" Tsurani " target=" Elvandar " weight="1" />
+      <edge id="254" source=" Tsurani " target=" Longbow Martin " weight="1" />
+      <edge id="255" source=" Tsurani " target=" Tomas " weight="6" />
+      <edge id="256" source=" Tsurani " target=" Ichindar " weight="1" />
+      <edge id="257" source=" Tsurani " target=" Duke Borric " weight="1" />
+      <edge id="258" source=" Tsurani " target=" Arutha Prince " weight="1" />
+      <edge id="259" source=" Hokanu " target=" Squire Pug " weight="1" />
+      <edge id="260" source=" Hokanu " target=" Katala " weight="1" />
+      <edge id="261" source=" Ichindar " target=" Squire Pug " weight="1" />
+      <edge id="262" source=" Crydee " target=" Lord Brucal lord " weight="1" />
+      <edge id="263" source=" Crydee " target=" Longbow Martin " weight="1" />
+      <edge id="264" source=" Crydee " target=" Elvandar " weight="1" />
+      <edge id="265" source=" Crydee " target=" Tulan " weight="1" />
+      <edge id="266" source=" Crydee " target=" Duke Borric " weight="1" />
+      <edge id="267" source=" Crydee " target=" Arutha Prince " weight="2" />
+      <edge id="268" source=" Lord Borric lord " target=" Longbow Martin " weight="1" />
+      <edge id="269" source=" Lord Borric lord " target=" Tomas " weight="1" />
+      <edge id="270" source=" Lord Borric lord " target=" Duke Borric " weight="1" />
+      <edge id="271" source=" Squire Pug " target=" Chogana " weight="1" />
+      <edge id="272" source=" Squire Pug " target=" Meecham " weight="5" />
+      <edge id="273" source=" Squire Pug " target=" Tomas " weight="1" />
+      <edge id="274" source=" Squire Pug " target=" Calin " weight="1" />
+      <edge id="275" source=" Squire Pug " target=" Arutha Prince " weight="1" />
+      <edge id="276" source=" Squire Pug " target=" Katala " weight="2" />
+      <edge id="277" source=" Squire Pug " target=" Carline " weight="1" />
+      <edge id="278" source=" Katala " target=" Tomas " weight="1" />
+      <edge id="279" source=" Katala " target=" Meecham " weight="1" />
+      <edge id="280" source=" Katala " target=" Milamber " weight="3" />
+      <edge id="281" source=" Katala " target=" Caldric Duke " weight="1" />
+      <edge id="282" source=" Katala " target=" Netoha " weight="1" />
+      <edge id="283" source=" Katala " target=" Arutha Prince " weight="1" />
+      <edge id="284" source=" Katala " target=" Lord Brucal lord " weight="1" />
+      <edge id="285" source=" Katala " target=" Carline " weight="2" />
+      <edge id="286" source=" Katala " target=" Earl Vandros " weight="1" />
+      <edge id="287" source=" Earl Vandros " target=" Lord Brucal lord " weight="3" />
+      <edge id="288" source=" Earl Vandros " target=" Fannon " weight="1" />
+      <edge id="289" source=" Earl Vandros " target=" Gardan " weight="1" />
+      <edge id="290" source=" Earl Vandros " target=" Meecham " weight="1" />
+      <edge id="291" source=" Aye " target=" Arutha Prince " weight="1" />
+      <edge id="292" source=" Aye " target=" Dolgan " weight="1" />
+      <edge id="293" source=" Aye " target=" Calin " weight="1" />
+      <edge id="294" source=" Tomas " target=" Elvandar " weight="4" />
+      <edge id="295" source=" Tomas " target=" Macros " weight="1" />
+      <edge id="296" source=" Tomas " target=" Valheru " weight="1" />
+      <edge id="297" source=" Tomas " target=" Arutha Prince " weight="2" />
+      <edge id="298" source=" Tomas " target=" Draken-Korin " weight="1" />
+      <edge id="299" source=" Tomas " target=" Calin " weight="4" />
+      <edge id="300" source=" Tomas " target=" Ashen-Shugar " weight="6" />
+      <edge id="301" source=" Tomas " target=" Shugar " weight="3" />
+      <edge id="302" source=" Tomas " target=" Meecham " weight="1" />
+      <edge id="303" source=" Tomas " target=" Dolgan " weight="2" />
+      <edge id="304" source=" Tomas " target=" Shuruga " weight="3" />
+      <edge id="305" source=" Tomas " target=" Longbow Martin " weight="27" />
+      <edge id="306" source=" Jon " target=" Longbow Martin " weight="1" />
+      <edge id="307" source=" Jon " target=" Duke Borric " weight="1" />
+      <edge id="308" source=" Jon " target=" Guy du Bas-Tyra " weight="1" />
+      <edge id="309" source=" Jon " target=" Arutha Prince " weight="1" />
+      <edge id="310" source=" Calin " target=" Meecham " weight="1" />
+      <edge id="311" source=" Calin " target=" Dolgan " weight="6" />
+      <edge id="312" source=" Calin " target=" Longbow Martin " weight="3" />
+      <edge id="313" source=" Calin " target=" Elvandar " weight="1" />
+      <edge id="314" source=" Calin " target=" Arutha Prince " weight="1" />
+      <edge id="315" source=" Vasco " target=" Longbow Martin " weight="1" />
+      <edge id="316" source=" Vasco " target=" Arutha Prince " weight="5" />
+      <edge id="317" source=" Gardan " target=" Arutha Prince " weight="3" />
+      <edge id="318" source=" Gardan " target=" Longbow Martin " weight="1" />
+      <edge id="319" source=" Gardan " target=" Fannon " weight="4" />
+      <edge id="320" source=" Milamber " target=" Fumita " weight="1" />
+      <edge id="321" source=" Meecham " target=" Lord Brucal lord " weight="1" />
+      <edge id="322" source=" Meecham " target=" Fannon " weight="1" />
+      <edge id="323" source=" Meecham " target=" Duke Borric " weight="1" />
+      <edge id="324" source=" Meecham " target=" Arutha Prince " weight="4" />
+      <edge id="325" source=" Dolgan " target=" Longbow Martin " weight="1" />
+      <edge id="326" source=" Longbow Martin " target=" Elvandar " weight="1" />
+      <edge id="327" source=" Longbow Martin " target=" Macros " weight="1" />
+      <edge id="328" source=" Longbow Martin " target=" Arutha Prince " weight="10" />
+      <edge id="329" source=" Longbow Martin " target=" Carline " weight="1" />
+      <edge id="330" source=" Longbow Martin " target=" Duke Borric " weight="1" />
+      <edge id="331" source=" Longbow Martin " target=" Fannon " weight="4" />
+      <edge id="332" source=" Longbow Martin " target=" Lord Brucal lord " weight="2" />
+      <edge id="333" source=" Longbow Martin " target=" Guy du Bas-Tyra " weight="4" />
+      <edge id="334" source=" Longbow Martin " target=" Rillanon " weight="2" />
+      <edge id="335" source=" Elvandar " target=" Duke Borric " weight="1" />
+      <edge id="336" source=" Elvandar " target=" Arutha Prince " weight="1" />
+      <edge id="337" source=" Guy du Bas-Tyra " target=" Lord Brucal lord " weight="1" />
+      <edge id="338" source=" Guy du Bas-Tyra " target=" Duke Borric " weight="1" />
+      <edge id="339" source=" Guy du Bas-Tyra " target=" Shamata " weight="1" />
+      <edge id="340" source=" Guy du Bas-Tyra " target=" Arutha Prince " weight="3" />
+      <edge id="341" source=" Guy du Bas-Tyra " target=" Rillanon " weight="1" />
+      <edge id="342" source=" Macros " target=" Arutha Prince " weight="1" />
+      <edge id="343" source=" Valheru " target=" Draken-Korin " weight="1" />
+      <edge id="344" source=" Arutha Prince " target=" Keshian " weight="2" />
+      <edge id="345" source=" Arutha Prince " target=" Carline " weight="8" />
+      <edge id="346" source=" Arutha Prince " target=" Duke Borric " weight="2" />
+      <edge id="347" source=" Arutha Prince " target=" Lord Brucal lord " weight="1" />
+      <edge id="348" source=" Arutha Prince " target=" Fannon " weight="8" />
+      <edge id="349" source=" Arutha Prince " target=" Rillanon " weight="2" />
+      <edge id="350" source=" Arutha Prince " target=" Jimmy " weight="8" />
+      <edge id="351" source=" Carline " target=" Fannon " weight="1" />
+      <edge id="352" source=" Duke Borric " target=" Lord Brucal lord " weight="1" />
+      <edge id="353" source=" Ashen-Shugar " target=" Shuruga " weight="5" />
+    </edges>
+  </graph>
+</gexf>

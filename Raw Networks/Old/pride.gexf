@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Annesley Mrs. " label=" Annesley Mrs. " />
+      <node id=" Bingley Miss " label=" Bingley Miss " />
+      <node id=" Hill Mrs. " label=" Hill Mrs. " />
+      <node id=" Darcy Miss " label=" Darcy Miss " />
+      <node id=" Lewis de Bourgh " label=" Lewis de Bourgh " />
+      <node id=" Mrs. Wickham " label=" Mrs. Wickham " />
+      <node id=" Fitzwilliam " label=" Fitzwilliam " />
+      <node id=" William Lucas " label=" William Lucas " />
+      <node id=" Miss Elizabeth Bennet " label=" Miss Elizabeth Bennet " />
+      <node id=" Collins Mrs. " label=" Collins Mrs. " />
+      <node id=" Charlotte Lucas " label=" Charlotte Lucas " />
+      <node id=" Lodge Lucas " label=" Lodge Lucas " />
+      <node id=" John " label=" John " />
+      <node id=" Reynolds Mrs. " label=" Reynolds Mrs. " />
+      <node id=" Mr. Gardiner " label=" Mr. Gardiner " />
+      <node id=" Carter " label=" Carter " />
+      <node id=" Pratt " label=" Pratt " />
+      <node id=" James " label=" James " />
+      <node id=" Aye " label=" Aye " />
+      <node id=" Mr. Bennet " label=" Mr. Bennet " />
+      <node id=" Long Mrs. " label=" Long Mrs. " />
+      <node id=" Collins Mr. " label=" Collins Mr. " />
+      <node id=" Lady Lucas " label=" Lady Lucas " />
+      <node id=" Clapham " label=" Clapham " />
+      <node id=" de Miss Bourgh " label=" de Miss Bourgh " />
+      <node id=" Eliza Miss Bennet " label=" Eliza Miss Bennet " />
+      <node id=" Meryton " label=" Meryton " />
+      <node id=" Darcy Mr. " label=" Darcy Mr. " />
+      <node id=" Lucases " label=" Lucases " />
+      <node id=" George Wickham " label=" George Wickham " />
+      <node id=" Louisa " label=" Louisa " />
+      <node id=" Miss Lydia LYDIA Bennet BENNET " label=" Miss Lydia LYDIA Bennet BENNET " />
+      <node id=" Mr. Hurst " label=" Mr. Hurst " />
+      <node id=" Mr. Bingley " label=" Mr. Bingley " />
+      <node id=" Bennet Mrs. " label=" Bennet Mrs. " />
+      <node id=" Lady de Catherine Bourgh " label=" Lady de Catherine Bourgh " />
+      <node id=" Gardiner GARDINER Mrs. " label=" Gardiner GARDINER Mrs. " />
+      <node id=" Charles " label=" Charles " />
+      <node id=" BINGLEY CAROLINE Caroline Bingley " label=" BINGLEY CAROLINE Caroline Bingley " />
+      <node id=" Jane " label=" Jane " />
+      <node id=" King Mary " label=" King Mary " />
+      <node id=" Younge Mrs. " label=" Younge Mrs. " />
+      <node id=" Longbourn " label=" Longbourn " />
+      <node id=" Phillips Mr. " label=" Phillips Mr. " />
+      <node id=" Pemberley " label=" Pemberley " />
+      <node id=" Rosings " label=" Rosings " />
+      <node id=" Anne " label=" Anne " />
+      <node id=" Georgiana " label=" Georgiana " />
+      <node id=" Hurst Mrs. " label=" Hurst Mrs. " />
+      <node id=" Jones Mr. " label=" Jones Mr. " />
+      <node id=" Harriet HARRIET " label=" Harriet HARRIET " />
+      <node id=" Lucas Maria " label=" Lucas Maria " />
+      <node id=" Mr. Wickham " label=" Mr. Wickham " />
+      <node id=" Kent " label=" Kent " />
+      <node id=" Miss Lucas " label=" Miss Lucas " />
+      <node id=" Forster Mrs. " label=" Forster Mrs. " />
+      <node id=" Phillips Mrs. " label=" Phillips Mrs. " />
+      <node id=" Lizzy Miss LIZZY " label=" Lizzy Miss LIZZY " />
+      <node id=" Mr. Robinson " label=" Mr. Robinson " />
+      <node id=" Kitty " label=" Kitty " />
+      <node id=" Mr. Denny " label=" Mr. Denny " />
+      <node id=" Jenkinson Mrs. " label=" Jenkinson Mrs. " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Annesley Mrs. " target=" Miss Elizabeth Bennet " weight="1" />
+      <edge id="1" source=" Annesley Mrs. " target=" Darcy Miss " weight="1" />
+      <edge id="2" source=" Annesley Mrs. " target=" Gardiner GARDINER Mrs. " weight="1" />
+      <edge id="3" source=" Bingley Miss " target=" Hurst Mrs. " weight="10" />
+      <edge id="4" source=" Bingley Miss " target=" Darcy Mr. " weight="35" />
+      <edge id="5" source=" Bingley Miss " target=" Darcy Miss " weight="6" />
+      <edge id="6" source=" Bingley Miss " target=" Louisa " weight="1" />
+      <edge id="7" source=" Bingley Miss " target=" Miss Lydia LYDIA Bennet BENNET " weight="2" />
+      <edge id="8" source=" Bingley Miss " target=" Mr. Wickham " weight="1" />
+      <edge id="9" source=" Bingley Miss " target=" Eliza Miss Bennet " weight="4" />
+      <edge id="10" source=" Bingley Miss " target=" Bennet Mrs. " weight="1" />
+      <edge id="11" source=" Bingley Miss " target=" Mr. Hurst " weight="2" />
+      <edge id="12" source=" Bingley Miss " target=" Charles " weight="2" />
+      <edge id="13" source=" Bingley Miss " target=" Gardiner GARDINER Mrs. " weight="1" />
+      <edge id="14" source=" Bingley Miss " target=" Lady de Catherine Bourgh " weight="2" />
+      <edge id="15" source=" Bingley Miss " target=" Collins Mr. " weight="1" />
+      <edge id="16" source=" Bingley Miss " target=" BINGLEY CAROLINE Caroline Bingley " weight="1" />
+      <edge id="17" source=" Bingley Miss " target=" Jane " weight="2" />
+      <edge id="18" source=" Bingley Miss " target=" Miss Elizabeth Bennet " weight="31" />
+      <edge id="19" source=" Bingley Miss " target=" Mr. Bennet " weight="1" />
+      <edge id="20" source=" Bingley Miss " target=" King Mary " weight="1" />
+      <edge id="21" source=" Bingley Miss " target=" Mr. Bingley " weight="1" />
+      <edge id="22" source=" Bingley Miss " target=" Georgiana " weight="3" />
+      <edge id="23" source=" Bingley Miss " target=" George Wickham " weight="1" />
+      <edge id="24" source=" Hill Mrs. " target=" Phillips Mrs. " weight="1" />
+      <edge id="25" source=" Hill Mrs. " target=" Miss Lydia LYDIA Bennet BENNET " weight="1" />
+      <edge id="26" source=" Hill Mrs. " target=" Kitty " weight="1" />
+      <edge id="27" source=" Hill Mrs. " target=" Mrs. Wickham " weight="1" />
+      <edge id="28" source=" Hill Mrs. " target=" Mr. Gardiner " weight="1" />
+      <edge id="29" source=" Darcy Miss " target=" Phillips Mr. " weight="1" />
+      <edge id="30" source=" Darcy Miss " target=" Darcy Mr. " weight="5" />
+      <edge id="31" source=" Darcy Miss " target=" Fitzwilliam " weight="1" />
+      <edge id="32" source=" Darcy Miss " target=" Mr. Wickham " weight="1" />
+      <edge id="33" source=" Darcy Miss " target=" Reynolds Mrs. " weight="2" />
+      <edge id="34" source=" Darcy Miss " target=" BINGLEY CAROLINE Caroline Bingley " weight="1" />
+      <edge id="35" source=" Darcy Miss " target=" Jane " weight="1" />
+      <edge id="36" source=" Darcy Miss " target=" Miss Elizabeth Bennet " weight="8" />
+      <edge id="37" source=" Darcy Miss " target=" Younge Mrs. " weight="1" />
+      <edge id="38" source=" Darcy Miss " target=" Hurst Mrs. " weight="2" />
+      <edge id="39" source=" Darcy Miss " target=" Mr. Bingley " weight="1" />
+      <edge id="40" source=" Darcy Miss " target=" Georgiana " weight="1" />
+      <edge id="41" source=" Lewis de Bourgh " target=" Collins Mr. " weight="1" />
+      <edge id="42" source=" Lewis de Bourgh " target=" Miss Elizabeth Bennet " weight="1" />
+      <edge id="43" source=" Lewis de Bourgh " target=" Lady de Catherine Bourgh " weight="1" />
+      <edge id="44" source=" Mrs. Wickham " target=" Phillips Mrs. " weight="1" />
+      <edge id="45" source=" Mrs. Wickham " target=" Miss Lydia LYDIA Bennet BENNET " weight="2" />
+      <edge id="46" source=" Fitzwilliam " target=" Kent " weight="1" />
+      <edge id="47" source=" Fitzwilliam " target=" Eliza Miss Bennet " weight="1" />
+      <edge id="48" source=" Fitzwilliam " target=" Darcy Mr. " weight="9" />
+      <edge id="49" source=" Fitzwilliam " target=" Lady de Catherine Bourgh " weight="1" />
+      <edge id="50" source=" Fitzwilliam " target=" Collins Mr. " weight="1" />
+      <edge id="51" source=" Fitzwilliam " target=" Jane " weight="2" />
+      <edge id="52" source=" Fitzwilliam " target=" Miss Elizabeth Bennet " weight="4" />
+      <edge id="53" source=" Fitzwilliam " target=" Collins Mrs. " weight="1" />
+      <edge id="54" source=" Fitzwilliam " target=" Rosings " weight="1" />
+      <edge id="55" source=" Fitzwilliam " target=" George Wickham " weight="1" />
+      <edge id="56" source=" William Lucas " target=" Jane " weight="2" />
+      <edge id="57" source=" William Lucas " target=" Collins Mr. " weight="7" />
+      <edge id="58" source=" William Lucas " target=" Lucas Maria " weight="3" />
+      <edge id="59" source=" William Lucas " target=" Miss Elizabeth Bennet " weight="7" />
+      <edge id="60" source=" William Lucas " target=" Miss Lydia LYDIA Bennet BENNET " weight="1" />
+      <edge id="61" source=" William Lucas " target=" Mr. Bingley " weight="2" />
+      <edge id="62" source=" William Lucas " target=" Bennet Mrs. " weight="1" />
+      <edge id="63" source=" William Lucas " target=" Mr. Bennet " weight="1" />
+      <edge id="64" source=" William Lucas " target=" Lady de Catherine Bourgh " weight="2" />
+      <edge id="65" source=" William Lucas " target=" Gardiner GARDINER Mrs. " weight="1" />
+      <edge id="66" source=" William Lucas " target=" Rosings " weight="1" />
+      <edge id="67" source=" William Lucas " target=" de Miss Bourgh " weight="1" />
+      <edge id="68" source=" William Lucas " target=" Darcy Mr. " weight="4" />
+      <edge id="69" source=" William Lucas " target=" James " weight="1" />
+      <edge id="70" source=" William Lucas " target=" Miss Lucas " weight="1" />
+      <edge id="71" source=" William Lucas " target=" Forster Mrs. " weight="1" />
+      <edge id="72" source=" William Lucas " target=" Collins Mrs. " weight="1" />
+      <edge id="73" source=" William Lucas " target=" Phillips Mrs. " weight="1" />
+      <edge id="74" source=" William Lucas " target=" Charlotte Lucas " weight="1" />
+      <edge id="75" source=" William Lucas " target=" Lady Lucas " weight="2" />
+      <edge id="76" source=" William Lucas " target=" Jenkinson Mrs. " weight="1" />
+      <edge id="77" source=" Miss Elizabeth Bennet " target=" Mr. Hurst " weight="3" />
+      <edge id="78" source=" Miss Elizabeth Bennet " target=" Lucas Maria " weight="4" />
+      <edge id="79" source=" Miss Elizabeth Bennet " target=" Collins Mrs. " weight="4" />
+      <edge id="80" source=" Miss Elizabeth Bennet " target=" Charlotte Lucas " weight="4" />
+      <edge id="81" source=" Miss Elizabeth Bennet " target=" Reynolds Mrs. " weight="2" />
+      <edge id="82" source=" Miss Elizabeth Bennet " target=" Pemberley " weight="1" />
+      <edge id="83" source=" Miss Elizabeth Bennet " target=" Mr. Bennet " weight="15" />
+      <edge id="84" source=" Miss Elizabeth Bennet " target=" Long Mrs. " weight="1" />
+      <edge id="85" source=" Miss Elizabeth Bennet " target=" Rosings " weight="1" />
+      <edge id="86" source=" Miss Elizabeth Bennet " target=" Lady Lucas " weight="2" />
+      <edge id="87" source=" Miss Elizabeth Bennet " target=" de Miss Bourgh " weight="3" />
+      <edge id="88" source=" Miss Elizabeth Bennet " target=" Eliza Miss Bennet " weight="2" />
+      <edge id="89" source=" Miss Elizabeth Bennet " target=" Forster Mrs. " weight="2" />
+      <edge id="90" source=" Miss Elizabeth Bennet " target=" Bennet Mrs. " weight="9" />
+      <edge id="91" source=" Miss Elizabeth Bennet " target=" George Wickham " weight="2" />
+      <edge id="92" source=" Miss Elizabeth Bennet " target=" Louisa " weight="1" />
+      <edge id="93" source=" Miss Elizabeth Bennet " target=" Miss Lydia LYDIA Bennet BENNET " weight="9" />
+      <edge id="94" source=" Miss Elizabeth Bennet " target=" Mr. Bingley " weight="32" />
+      <edge id="95" source=" Miss Elizabeth Bennet " target=" Darcy Mr. " weight="66" />
+      <edge id="96" source=" Miss Elizabeth Bennet " target=" Charles " weight="1" />
+      <edge id="97" source=" Miss Elizabeth Bennet " target=" Gardiner GARDINER Mrs. " weight="11" />
+      <edge id="98" source=" Miss Elizabeth Bennet " target=" Lady de Catherine Bourgh " weight="15" />
+      <edge id="99" source=" Miss Elizabeth Bennet " target=" Phillips Mrs. " weight="1" />
+      <edge id="100" source=" Miss Elizabeth Bennet " target=" Jane " weight="102" />
+      <edge id="101" source=" Miss Elizabeth Bennet " target=" King Mary " weight="6" />
+      <edge id="102" source=" Miss Elizabeth Bennet " target=" Longbourn " weight="1" />
+      <edge id="103" source=" Miss Elizabeth Bennet " target=" Anne " weight="1" />
+      <edge id="104" source=" Miss Elizabeth Bennet " target=" Georgiana " weight="3" />
+      <edge id="105" source=" Miss Elizabeth Bennet " target=" Hurst Mrs. " weight="9" />
+      <edge id="106" source=" Miss Elizabeth Bennet " target=" Jones Mr. " weight="2" />
+      <edge id="107" source=" Miss Elizabeth Bennet " target=" BINGLEY CAROLINE Caroline Bingley " weight="1" />
+      <edge id="108" source=" Miss Elizabeth Bennet " target=" Mr. Wickham " weight="69" />
+      <edge id="109" source=" Miss Elizabeth Bennet " target=" Kent " weight="1" />
+      <edge id="110" source=" Miss Elizabeth Bennet " target=" Miss Lucas " weight="6" />
+      <edge id="111" source=" Miss Elizabeth Bennet " target=" Meryton " weight="1" />
+      <edge id="112" source=" Miss Elizabeth Bennet " target=" Collins Mr. " weight="54" />
+      <edge id="113" source=" Miss Elizabeth Bennet " target=" Lizzy Miss LIZZY " weight="14" />
+      <edge id="114" source=" Miss Elizabeth Bennet " target=" Jenkinson Mrs. " weight="1" />
+      <edge id="115" source=" Miss Elizabeth Bennet " target=" Kitty " weight="8" />
+      <edge id="116" source=" Miss Elizabeth Bennet " target=" Mr. Gardiner " weight="9" />
+      <edge id="117" source=" Collins Mrs. " target=" Rosings " weight="2" />
+      <edge id="118" source=" Collins Mrs. " target=" Darcy Mr. " weight="2" />
+      <edge id="119" source=" Collins Mrs. " target=" Lucas Maria " weight="2" />
+      <edge id="120" source=" Collins Mrs. " target=" Eliza Miss Bennet " weight="1" />
+      <edge id="121" source=" Collins Mrs. " target=" Bennet Mrs. " weight="1" />
+      <edge id="122" source=" Collins Mrs. " target=" Kent " weight="1" />
+      <edge id="123" source=" Collins Mrs. " target=" Lady de Catherine Bourgh " weight="4" />
+      <edge id="124" source=" Collins Mrs. " target=" Collins Mr. " weight="2" />
+      <edge id="125" source=" Collins Mrs. " target=" Jane " weight="1" />
+      <edge id="126" source=" Collins Mrs. " target=" John " weight="1" />
+      <edge id="127" source=" Collins Mrs. " target=" Jenkinson Mrs. " weight="2" />
+      <edge id="128" source=" Charlotte Lucas " target=" Miss Lydia LYDIA Bennet BENNET " weight="1" />
+      <edge id="129" source=" Charlotte Lucas " target=" Eliza Miss Bennet " weight="1" />
+      <edge id="130" source=" Charlotte Lucas " target=" Darcy Mr. " weight="1" />
+      <edge id="131" source=" Charlotte Lucas " target=" Collins Mr. " weight="1" />
+      <edge id="132" source=" Charlotte Lucas " target=" Mr. Bennet " weight="2" />
+      <edge id="133" source=" Lodge Lucas " target=" Collins Mr. " weight="2" />
+      <edge id="134" source=" Lodge Lucas " target=" Miss Lucas " weight="2" />
+      <edge id="135" source=" John " target=" Darcy Mr. " weight="1" />
+      <edge id="136" source=" Reynolds Mrs. " target=" Darcy Mr. " weight="2" />
+      <edge id="137" source=" Reynolds Mrs. " target=" Gardiner GARDINER Mrs. " weight="1" />
+      <edge id="138" source=" Reynolds Mrs. " target=" Mr. Gardiner " weight="2" />
+      <edge id="139" source=" Mr. Gardiner " target=" Bennet Mrs. " weight="3" />
+      <edge id="140" source=" Mr. Gardiner " target=" Clapham " weight="1" />
+      <edge id="141" source=" Mr. Gardiner " target=" Miss Lydia LYDIA Bennet BENNET " weight="6" />
+      <edge id="142" source=" Mr. Gardiner " target=" Mr. Wickham " weight="4" />
+      <edge id="143" source=" Mr. Gardiner " target=" Darcy Mr. " weight="4" />
+      <edge id="144" source=" Mr. Gardiner " target=" Gardiner GARDINER Mrs. " weight="1" />
+      <edge id="145" source=" Mr. Gardiner " target=" Collins Mr. " weight="1" />
+      <edge id="146" source=" Mr. Gardiner " target=" Jane " weight="4" />
+      <edge id="147" source=" Mr. Gardiner " target=" Forster Mrs. " weight="1" />
+      <edge id="148" source=" Mr. Gardiner " target=" Georgiana " weight="1" />
+      <edge id="149" source=" Mr. Gardiner " target=" Mr. Bennet " weight="2" />
+      <edge id="150" source=" Carter " target=" Miss Lydia LYDIA Bennet BENNET " weight="2" />
+      <edge id="151" source=" Carter " target=" Jane " weight="1" />
+      <edge id="152" source=" Carter " target=" Forster Mrs. " weight="1" />
+      <edge id="153" source=" Carter " target=" Lady de Catherine Bourgh " weight="1" />
+      <edge id="154" source=" Pratt " target=" Mr. Denny " weight="1" />
+      <edge id="155" source=" Pratt " target=" Mr. Wickham " weight="1" />
+      <edge id="156" source=" James " target=" Collins Mr. " weight="1" />
+      <edge id="157" source=" James " target=" Lady Lucas " weight="1" />
+      <edge id="158" source=" James " target=" Mr. Bennet " weight="1" />
+      <edge id="159" source=" Aye " target=" Miss Lydia LYDIA Bennet BENNET " weight="1" />
+      <edge id="160" source=" Aye " target=" Bennet Mrs. " weight="2" />
+      <edge id="161" source=" Aye " target=" Miss Lucas " weight="1" />
+      <edge id="162" source=" Aye " target=" Long Mrs. " weight="1" />
+      <edge id="163" source=" Mr. Bennet " target=" King Mary " weight="1" />
+      <edge id="164" source=" Mr. Bennet " target=" Clapham " weight="1" />
+      <edge id="165" source=" Mr. Bennet " target=" Miss Lydia LYDIA Bennet BENNET " weight="6" />
+      <edge id="166" source=" Mr. Bennet " target=" Darcy Mr. " weight="3" />
+      <edge id="167" source=" Mr. Bennet " target=" Mr. Bingley " weight="3" />
+      <edge id="168" source=" Mr. Bennet " target=" Bennet Mrs. " weight="6" />
+      <edge id="169" source=" Mr. Bennet " target=" Gardiner GARDINER Mrs. " weight="1" />
+      <edge id="170" source=" Mr. Bennet " target=" Lady de Catherine Bourgh " weight="1" />
+      <edge id="171" source=" Mr. Bennet " target=" Mr. Wickham " weight="4" />
+      <edge id="172" source=" Mr. Bennet " target=" Collins Mr. " weight="9" />
+      <edge id="173" source=" Mr. Bennet " target=" Jane " weight="5" />
+      <edge id="174" source=" Mr. Bennet " target=" Lady Lucas " weight="2" />
+      <edge id="175" source=" Mr. Bennet " target=" Meryton " weight="1" />
+      <edge id="176" source=" Mr. Bennet " target=" Lizzy Miss LIZZY " weight="4" />
+      <edge id="177" source=" Mr. Bennet " target=" Kitty " weight="2" />
+      <edge id="178" source=" Long Mrs. " target=" Bennet Mrs. " weight="1" />
+      <edge id="179" source=" Long Mrs. " target=" Mr. Bingley " weight="1" />
+      <edge id="180" source=" Long Mrs. " target=" Darcy Mr. " weight="5" />
+      <edge id="181" source=" Long Mrs. " target=" Miss Lucas " weight="1" />
+      <edge id="182" source=" Long Mrs. " target=" Lady Lucas " weight="1" />
+      <edge id="183" source=" Long Mrs. " target=" Eliza Miss Bennet " weight="1" />
+      <edge id="184" source=" Collins Mr. " target=" Lucases " weight="1" />
+      <edge id="185" source=" Collins Mr. " target=" Rosings " weight="5" />
+      <edge id="186" source=" Collins Mr. " target=" Darcy Mr. " weight="8" />
+      <edge id="187" source=" Collins Mr. " target=" Lady Lucas " weight="2" />
+      <edge id="188" source=" Collins Mr. " target=" de Miss Bourgh " weight="2" />
+      <edge id="189" source=" Collins Mr. " target=" Phillips Mr. " weight="1" />
+      <edge id="190" source=" Collins Mr. " target=" Meryton " weight="2" />
+      <edge id="191" source=" Collins Mr. " target=" Lucas Maria " weight="1" />
+      <edge id="192" source=" Collins Mr. " target=" Miss Lydia LYDIA Bennet BENNET " weight="10" />
+      <edge id="193" source=" Collins Mr. " target=" Mr. Bingley " weight="3" />
+      <edge id="194" source=" Collins Mr. " target=" Bennet Mrs. " weight="12" />
+      <edge id="195" source=" Collins Mr. " target=" Lady de Catherine Bourgh " weight="25" />
+      <edge id="196" source=" Collins Mr. " target=" Gardiner GARDINER Mrs. " weight="2" />
+      <edge id="197" source=" Collins Mr. " target=" Jane " weight="10" />
+      <edge id="198" source=" Collins Mr. " target=" King Mary " weight="4" />
+      <edge id="199" source=" Collins Mr. " target=" Longbourn " weight="2" />
+      <edge id="200" source=" Collins Mr. " target=" Jones Mr. " weight="1" />
+      <edge id="201" source=" Collins Mr. " target=" Mr. Wickham " weight="7" />
+      <edge id="202" source=" Collins Mr. " target=" Miss Lucas " weight="9" />
+      <edge id="203" source=" Collins Mr. " target=" Forster Mrs. " weight="1" />
+      <edge id="204" source=" Collins Mr. " target=" Phillips Mrs. " weight="8" />
+      <edge id="205" source=" Collins Mr. " target=" Lizzy Miss LIZZY " weight="9" />
+      <edge id="206" source=" Collins Mr. " target=" Jenkinson Mrs. " weight="2" />
+      <edge id="207" source=" Collins Mr. " target=" Kitty " weight="4" />
+      <edge id="208" source=" Lady Lucas " target=" Lucas Maria " weight="1" />
+      <edge id="209" source=" Lady Lucas " target=" Miss Lydia LYDIA Bennet BENNET " weight="1" />
+      <edge id="210" source=" Lady Lucas " target=" Mr. Bingley " weight="1" />
+      <edge id="211" source=" Lady Lucas " target=" Bennet Mrs. " weight="5" />
+      <edge id="212" source=" Lady Lucas " target=" Jane " weight="3" />
+      <edge id="213" source=" de Miss Bourgh " target=" Darcy Mr. " weight="2" />
+      <edge id="214" source=" de Miss Bourgh " target=" Lady de Catherine Bourgh " weight="1" />
+      <edge id="215" source=" de Miss Bourgh " target=" Jenkinson Mrs. " weight="2" />
+      <edge id="216" source=" Eliza Miss Bennet " target=" Lucas Maria " weight="1" />
+      <edge id="217" source=" Eliza Miss Bennet " target=" George Wickham " weight="2" />
+      <edge id="218" source=" Eliza Miss Bennet " target=" Mr. Bingley " weight="1" />
+      <edge id="219" source=" Eliza Miss Bennet " target=" Darcy Mr. " weight="3" />
+      <edge id="220" source=" Eliza Miss Bennet " target=" Kent " weight="1" />
+      <edge id="221" source=" Eliza Miss Bennet " target=" Jane " weight="1" />
+      <edge id="222" source=" Eliza Miss Bennet " target=" Miss Lucas " weight="2" />
+      <edge id="223" source=" Meryton " target=" Hurst Mrs. " weight="1" />
+      <edge id="224" source=" Meryton " target=" Louisa " weight="1" />
+      <edge id="225" source=" Meryton " target=" Miss Lydia LYDIA Bennet BENNET " weight="3" />
+      <edge id="226" source=" Meryton " target=" Mr. Denny " weight="1" />
+      <edge id="227" source=" Meryton " target=" Bennet Mrs. " weight="1" />
+      <edge id="228" source=" Meryton " target=" Lady de Catherine Bourgh " weight="2" />
+      <edge id="229" source=" Meryton " target=" Mr. Wickham " weight="1" />
+      <edge id="230" source=" Meryton " target=" Jane " weight="1" />
+      <edge id="231" source=" Meryton " target=" Kitty " weight="1" />
+      <edge id="232" source=" Meryton " target=" Mr. Bingley " weight="1" />
+      <edge id="233" source=" Meryton " target=" King Mary " weight="1" />
+      <edge id="234" source=" Darcy Mr. " target=" Mr. Hurst " weight="5" />
+      <edge id="235" source=" Darcy Mr. " target=" Pemberley " weight="4" />
+      <edge id="236" source=" Darcy Mr. " target=" Rosings " weight="2" />
+      <edge id="237" source=" Darcy Mr. " target=" Lucas Maria " weight="1" />
+      <edge id="238" source=" Darcy Mr. " target=" George Wickham " weight="4" />
+      <edge id="239" source=" Darcy Mr. " target=" Louisa " weight="2" />
+      <edge id="240" source=" Darcy Mr. " target=" Miss Lydia LYDIA Bennet BENNET " weight="9" />
+      <edge id="241" source=" Darcy Mr. " target=" Phillips Mr. " weight="1" />
+      <edge id="242" source=" Darcy Mr. " target=" Bennet Mrs. " weight="3" />
+      <edge id="243" source=" Darcy Mr. " target=" Lady de Catherine Bourgh " weight="16" />
+      <edge id="244" source=" Darcy Mr. " target=" Gardiner GARDINER Mrs. " weight="16" />
+      <edge id="245" source=" Darcy Mr. " target=" BINGLEY CAROLINE Caroline Bingley " weight="2" />
+      <edge id="246" source=" Darcy Mr. " target=" Jane " weight="20" />
+      <edge id="247" source=" Darcy Mr. " target=" King Mary " weight="2" />
+      <edge id="248" source=" Darcy Mr. " target=" Georgiana " weight="6" />
+      <edge id="249" source=" Darcy Mr. " target=" Hurst Mrs. " weight="4" />
+      <edge id="250" source=" Darcy Mr. " target=" Mr. Bingley " weight="18" />
+      <edge id="251" source=" Darcy Mr. " target=" Mr. Denny " weight="1" />
+      <edge id="252" source=" Darcy Mr. " target=" Mr. Wickham " weight="37" />
+      <edge id="253" source=" Darcy Mr. " target=" Kent " weight="2" />
+      <edge id="254" source=" Darcy Mr. " target=" Miss Lucas " weight="6" />
+      <edge id="255" source=" Darcy Mr. " target=" Forster Mrs. " weight="4" />
+      <edge id="256" source=" Darcy Mr. " target=" Lizzy Miss LIZZY " weight="4" />
+      <edge id="257" source=" Darcy Mr. " target=" Kitty " weight="6" />
+      <edge id="258" source=" Lucases " target=" Jane " weight="1" />
+      <edge id="259" source=" Lucases " target=" Bennet Mrs. " weight="1" />
+      <edge id="260" source=" George Wickham " target=" Miss Lydia LYDIA Bennet BENNET " weight="1" />
+      <edge id="261" source=" George Wickham " target=" Mr. Wickham " weight="2" />
+      <edge id="262" source=" George Wickham " target=" Kitty " weight="1" />
+      <edge id="263" source=" Louisa " target=" Mr. Bingley " weight="1" />
+      <edge id="264" source=" Louisa " target=" Mr. Hurst " weight="1" />
+      <edge id="265" source=" Miss Lydia LYDIA Bennet BENNET " target=" Mr. Bingley " weight="3" />
+      <edge id="266" source=" Miss Lydia LYDIA Bennet BENNET " target=" Bennet Mrs. " weight="5" />
+      <edge id="267" source=" Miss Lydia LYDIA Bennet BENNET " target=" Phillips Mr. " weight="1" />
+      <edge id="268" source=" Miss Lydia LYDIA Bennet BENNET " target=" Lady de Catherine Bourgh " weight="3" />
+      <edge id="269" source=" Miss Lydia LYDIA Bennet BENNET " target=" Gardiner GARDINER Mrs. " weight="1" />
+      <edge id="270" source=" Miss Lydia LYDIA Bennet BENNET " target=" Jane " weight="5" />
+      <edge id="271" source=" Miss Lydia LYDIA Bennet BENNET " target=" King Mary " weight="3" />
+      <edge id="272" source=" Miss Lydia LYDIA Bennet BENNET " target=" Lucas Maria " weight="1" />
+      <edge id="273" source=" Miss Lydia LYDIA Bennet BENNET " target=" Hurst Mrs. " weight="1" />
+      <edge id="274" source=" Miss Lydia LYDIA Bennet BENNET " target=" Mr. Denny " weight="5" />
+      <edge id="275" source=" Miss Lydia LYDIA Bennet BENNET " target=" Mr. Wickham " weight="43" />
+      <edge id="276" source=" Miss Lydia LYDIA Bennet BENNET " target=" Miss Lucas " weight="1" />
+      <edge id="277" source=" Miss Lydia LYDIA Bennet BENNET " target=" Forster Mrs. " weight="6" />
+      <edge id="278" source=" Miss Lydia LYDIA Bennet BENNET " target=" Phillips Mrs. " weight="4" />
+      <edge id="279" source=" Miss Lydia LYDIA Bennet BENNET " target=" Lizzy Miss LIZZY " weight="2" />
+      <edge id="280" source=" Miss Lydia LYDIA Bennet BENNET " target=" Kitty " weight="11" />
+      <edge id="281" source=" Mr. Hurst " target=" Mr. Bingley " weight="3" />
+      <edge id="282" source=" Mr. Hurst " target=" Hurst Mrs. " weight="2" />
+      <edge id="283" source=" Mr. Hurst " target=" Jane " weight="1" />
+      <edge id="284" source=" Mr. Bingley " target=" Bennet Mrs. " weight="9" />
+      <edge id="285" source=" Mr. Bingley " target=" Lady de Catherine Bourgh " weight="2" />
+      <edge id="286" source=" Mr. Bingley " target=" Gardiner GARDINER Mrs. " weight="1" />
+      <edge id="287" source=" Mr. Bingley " target=" Jane " weight="15" />
+      <edge id="288" source=" Mr. Bingley " target=" King Mary " weight="1" />
+      <edge id="289" source=" Mr. Bingley " target=" Georgiana " weight="3" />
+      <edge id="290" source=" Mr. Bingley " target=" Hurst Mrs. " weight="2" />
+      <edge id="291" source=" Mr. Bingley " target=" Jones Mr. " weight="1" />
+      <edge id="292" source=" Mr. Bingley " target=" Lucas Maria " weight="1" />
+      <edge id="293" source=" Mr. Bingley " target=" Mr. Wickham " weight="7" />
+      <edge id="294" source=" Mr. Bingley " target=" Miss Lucas " weight="2" />
+      <edge id="295" source=" Mr. Bingley " target=" Phillips Mrs. " weight="1" />
+      <edge id="296" source=" Mr. Bingley " target=" Lizzy Miss LIZZY " weight="2" />
+      <edge id="297" source=" Mr. Bingley " target=" Mr. Robinson " weight="1" />
+      <edge id="298" source=" Mr. Bingley " target=" Kitty " weight="1" />
+      <edge id="299" source=" Bennet Mrs. " target=" Lucas Maria " weight="1" />
+      <edge id="300" source=" Bennet Mrs. " target=" Lady de Catherine Bourgh " weight="5" />
+      <edge id="301" source=" Bennet Mrs. " target=" Gardiner GARDINER Mrs. " weight="2" />
+      <edge id="302" source=" Bennet Mrs. " target=" Jane " weight="7" />
+      <edge id="303" source=" Bennet Mrs. " target=" King Mary " weight="4" />
+      <edge id="304" source=" Bennet Mrs. " target=" Mr. Wickham " weight="3" />
+      <edge id="305" source=" Bennet Mrs. " target=" Miss Lucas " weight="3" />
+      <edge id="306" source=" Bennet Mrs. " target=" Forster Mrs. " weight="1" />
+      <edge id="307" source=" Bennet Mrs. " target=" Phillips Mrs. " weight="1" />
+      <edge id="308" source=" Bennet Mrs. " target=" Lizzy Miss LIZZY " weight="1" />
+      <edge id="309" source=" Bennet Mrs. " target=" Kitty " weight="7" />
+      <edge id="310" source=" Lady de Catherine Bourgh " target=" Lucas Maria " weight="3" />
+      <edge id="311" source=" Lady de Catherine Bourgh " target=" Jane " weight="2" />
+      <edge id="312" source=" Lady de Catherine Bourgh " target=" King Mary " weight="1" />
+      <edge id="313" source=" Lady de Catherine Bourgh " target=" Rosings " weight="1" />
+      <edge id="314" source=" Lady de Catherine Bourgh " target=" Georgiana " weight="1" />
+      <edge id="315" source=" Lady de Catherine Bourgh " target=" Mr. Wickham " weight="5" />
+      <edge id="316" source=" Lady de Catherine Bourgh " target=" Miss Lucas " weight="2" />
+      <edge id="317" source=" Lady de Catherine Bourgh " target=" Phillips Mrs. " weight="1" />
+      <edge id="318" source=" Lady de Catherine Bourgh " target=" Lizzy Miss LIZZY " weight="1" />
+      <edge id="319" source=" Lady de Catherine Bourgh " target=" Jenkinson Mrs. " weight="2" />
+      <edge id="320" source=" Gardiner GARDINER Mrs. " target=" Lucas Maria " weight="1" />
+      <edge id="321" source=" Gardiner GARDINER Mrs. " target=" Jane " weight="5" />
+      <edge id="322" source=" Gardiner GARDINER Mrs. " target=" Mr. Wickham " weight="5" />
+      <edge id="323" source=" Gardiner GARDINER Mrs. " target=" Pemberley " weight="1" />
+      <edge id="324" source=" Gardiner GARDINER Mrs. " target=" Phillips Mrs. " weight="1" />
+      <edge id="325" source=" Gardiner GARDINER Mrs. " target=" Lizzy Miss LIZZY " weight="1" />
+      <edge id="326" source=" BINGLEY CAROLINE Caroline Bingley " target=" Hurst Mrs. " weight="1" />
+      <edge id="327" source=" BINGLEY CAROLINE Caroline Bingley " target=" Jane " weight="5" />
+      <edge id="328" source=" Jane " target=" King Mary " weight="2" />
+      <edge id="329" source=" Jane " target=" Rosings " weight="2" />
+      <edge id="330" source=" Jane " target=" Lucas Maria " weight="4" />
+      <edge id="331" source=" Jane " target=" Georgiana " weight="1" />
+      <edge id="332" source=" Jane " target=" Hurst Mrs. " weight="1" />
+      <edge id="333" source=" Jane " target=" Jones Mr. " weight="1" />
+      <edge id="334" source=" Jane " target=" Mr. Wickham " weight="20" />
+      <edge id="335" source=" Jane " target=" Kent " weight="1" />
+      <edge id="336" source=" Jane " target=" Miss Lucas " weight="2" />
+      <edge id="337" source=" Jane " target=" Phillips Mrs. " weight="1" />
+      <edge id="338" source=" Jane " target=" Lizzy Miss LIZZY " weight="1" />
+      <edge id="339" source=" Jane " target=" Mr. Robinson " weight="1" />
+      <edge id="340" source=" Jane " target=" Kitty " weight="3" />
+      <edge id="341" source=" King Mary " target=" Mr. Wickham " weight="1" />
+      <edge id="342" source=" King Mary " target=" Miss Lucas " weight="1" />
+      <edge id="343" source=" King Mary " target=" Kitty " weight="1" />
+      <edge id="344" source=" Younge Mrs. " target=" Georgiana " weight="1" />
+      <edge id="345" source=" Younge Mrs. " target=" Mr. Wickham " weight="2" />
+      <edge id="346" source=" Phillips Mr. " target=" Mr. Wickham " weight="1" />
+      <edge id="347" source=" Phillips Mr. " target=" Forster Mrs. " weight="1" />
+      <edge id="348" source=" Pemberley " target=" Mr. Wickham " weight="1" />
+      <edge id="349" source=" Pemberley " target=" Georgiana " weight="1" />
+      <edge id="350" source=" Rosings " target=" Kent " weight="1" />
+      <edge id="351" source=" Rosings " target=" Phillips Mrs. " weight="1" />
+      <edge id="352" source=" Rosings " target=" Jenkinson Mrs. " weight="1" />
+      <edge id="353" source=" Georgiana " target=" Mr. Wickham " weight="1" />
+      <edge id="354" source=" Jones Mr. " target=" Phillips Mrs. " weight="1" />
+      <edge id="355" source=" Harriet HARRIET " target=" Forster Mrs. " weight="1" />
+      <edge id="356" source=" Lucas Maria " target=" Lizzy Miss LIZZY " weight="1" />
+      <edge id="357" source=" Lucas Maria " target=" Kitty " weight="1" />
+      <edge id="358" source=" Mr. Wickham " target=" Mr. Denny " weight="6" />
+      <edge id="359" source=" Mr. Wickham " target=" Forster Mrs. " weight="4" />
+      <edge id="360" source=" Mr. Wickham " target=" Phillips Mrs. " weight="3" />
+      <edge id="361" source=" Mr. Wickham " target=" Lizzy Miss LIZZY " weight="2" />
+      <edge id="362" source=" Mr. Wickham " target=" Kitty " weight="2" />
+      <edge id="363" source=" Miss Lucas " target=" Lizzy Miss LIZZY " weight="2" />
+      <edge id="364" source=" Miss Lucas " target=" Kitty " weight="2" />
+      <edge id="365" source=" Miss Lucas " target=" Forster Mrs. " weight="1" />
+      <edge id="366" source=" Forster Mrs. " target=" Mr. Denny " weight="1" />
+      <edge id="367" source=" Forster Mrs. " target=" Kitty " weight="2" />
+      <edge id="368" source=" Phillips Mrs. " target=" Mr. Denny " weight="1" />
+      <edge id="369" source=" Phillips Mrs. " target=" Lizzy Miss LIZZY " weight="1" />
+      <edge id="370" source=" Phillips Mrs. " target=" Kitty " weight="1" />
+      <edge id="371" source=" Lizzy Miss LIZZY " target=" Kitty " weight="2" />
+      <edge id="372" source=" Kitty " target=" Mr. Denny " weight="2" />
+    </edges>
+  </graph>
+</gexf>

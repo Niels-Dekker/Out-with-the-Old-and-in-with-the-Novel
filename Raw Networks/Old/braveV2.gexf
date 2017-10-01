@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" holtz " label=" holtz " />
+      <node id=" FOSTER Mr. Foster MR. " label=" FOSTER Mr. Foster MR. " />
+      <node id=" Shakespeare " label=" Shakespeare " />
+      <node id=" Joanna " label=" Joanna " />
+      <node id=" Benito Hoover " label=" Benito Hoover " />
+      <node id=" Shaw Dr. " label=" Shaw Dr. " />
+      <node id=" Kothlu " label=" Kothlu " />
+      <node id=" Bernard Marx BERNARD " label=" Bernard Marx BERNARD " />
+      <node id=" John " label=" John " />
+      <node id=" Engels Sarojini " label=" Engels Sarojini " />
+      <node id=" Gaffney Dr. " label=" Gaffney Dr. " />
+      <node id=" Keate Miss " label=" Keate Miss " />
+      <node id=" Darwin Bonaparte " label=" Darwin Bonaparte " />
+      <node id=" Romeo " label=" Romeo " />
+      <node id=" Clara Deterding " label=" Clara Deterding " />
+      <node id=" Mr. Watson " label=" Mr. Watson " />
+      <node id=" Soma " label=" Soma " />
+      <node id=" Kawaguchi " label=" Kawaguchi " />
+      <node id=" Pfitzner " label=" Pfitzner " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Fanny " label=" Fanny " />
+      <node id=" FOSTER Foster HENRY Henry " label=" FOSTER Foster HENRY Henry " />
+      <node id=" Linda " label=" Linda " />
+      <node id=" Mustapha Mond " label=" Mustapha Mond " />
+      <node id=" Jesus " label=" Jesus " />
+      <node id=" Mitsima " label=" Mitsima " />
+      <node id=" Helmholtz Watson " label=" Helmholtz Watson " />
+      <node id=" Assis " label=" Assis " />
+      <node id=" Big Henry " label=" Big Henry " />
+      <node id=" Pope " label=" Pope " />
+      <node id=" Jim Bokanovsky " label=" Jim Bokanovsky " />
+      <node id=" Juliet " label=" Juliet " />
+      <node id=" Savage Mr. " label=" Savage Mr. " />
+      <node id=" Crowne Lenina LENINA " label=" Crowne Lenina LENINA " />
+      <node id=" Mr. Marx " label=" Mr. Marx " />
+      <node id=" Awonawilona " label=" Awonawilona " />
+      <node id=" Rothschild Morgana " label=" Rothschild Morgana " />
+      <node id=" Wells Dr. " label=" Wells Dr. " />
+      <node id=" Kiakime " label=" Kiakime " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" holtz " target=" Bernard Marx BERNARD " weight="1" />
+      <edge id="1" source=" FOSTER Mr. Foster MR. " target=" Crowne Lenina LENINA " weight="2" />
+      <edge id="2" source=" Shakespeare " target=" Linda " weight="1" />
+      <edge id="3" source=" Joanna " target=" Rothschild Morgana " weight="1" />
+      <edge id="4" source=" Joanna " target=" Bernard Marx BERNARD " weight="1" />
+      <edge id="5" source=" Benito Hoover " target=" FOSTER Foster HENRY Henry " weight="2" />
+      <edge id="6" source=" Benito Hoover " target=" Bernard Marx BERNARD " weight="3" />
+      <edge id="7" source=" Shaw Dr. " target=" Bernard Marx BERNARD " weight="1" />
+      <edge id="8" source=" Shaw Dr. " target=" Soma " weight="1" />
+      <edge id="9" source=" Kothlu " target=" Mitsima " weight="2" />
+      <edge id="10" source=" Bernard Marx BERNARD " target=" John " weight="6" />
+      <edge id="11" source=" Bernard Marx BERNARD " target=" Gaffney Dr. " weight="2" />
+      <edge id="12" source=" Bernard Marx BERNARD " target=" Keate Miss " weight="1" />
+      <edge id="13" source=" Bernard Marx BERNARD " target=" Romeo " weight="1" />
+      <edge id="14" source=" Bernard Marx BERNARD " target=" Clara Deterding " weight="1" />
+      <edge id="15" source=" Bernard Marx BERNARD " target=" Soma " weight="1" />
+      <edge id="16" source=" Bernard Marx BERNARD " target="#N/A" weight="1" />
+      <edge id="17" source=" Bernard Marx BERNARD " target=" Fanny " weight="2" />
+      <edge id="18" source=" Bernard Marx BERNARD " target=" FOSTER Foster HENRY Henry " weight="3" />
+      <edge id="19" source=" Bernard Marx BERNARD " target=" Linda " weight="4" />
+      <edge id="20" source=" Bernard Marx BERNARD " target=" Mustapha Mond " weight="4" />
+      <edge id="21" source=" Bernard Marx BERNARD " target=" Rothschild Morgana " weight="2" />
+      <edge id="22" source=" Bernard Marx BERNARD " target=" Helmholtz Watson " weight="19" />
+      <edge id="23" source=" Bernard Marx BERNARD " target=" Assis " weight="1" />
+      <edge id="24" source=" Bernard Marx BERNARD " target=" Juliet " weight="3" />
+      <edge id="25" source=" Bernard Marx BERNARD " target=" Savage Mr. " weight="2" />
+      <edge id="26" source=" Bernard Marx BERNARD " target=" Crowne Lenina LENINA " weight="21" />
+      <edge id="27" source=" Bernard Marx BERNARD " target=" Mr. Marx " weight="2" />
+      <edge id="28" source=" Bernard Marx BERNARD " target=" Jesus " weight="1" />
+      <edge id="29" source=" John " target=" Pope " weight="1" />
+      <edge id="30" source=" John " target=" Crowne Lenina LENINA " weight="2" />
+      <edge id="31" source=" John " target=" Fanny " weight="3" />
+      <edge id="32" source=" John " target=" Linda " weight="1" />
+      <edge id="33" source=" John " target=" Jesus " weight="1" />
+      <edge id="34" source=" John " target=" Helmholtz Watson " weight="1" />
+      <edge id="35" source=" Engels Sarojini " target=" Rothschild Morgana " weight="1" />
+      <edge id="36" source=" Engels Sarojini " target=" Jim Bokanovsky " weight="1" />
+      <edge id="37" source=" Gaffney Dr. " target=" Keate Miss " weight="1" />
+      <edge id="38" source=" Darwin Bonaparte " target=" Savage Mr. " weight="1" />
+      <edge id="39" source=" Romeo " target=" Juliet " weight="2" />
+      <edge id="40" source=" Romeo " target=" Crowne Lenina LENINA " weight="1" />
+      <edge id="41" source=" Clara Deterding " target=" Rothschild Morgana " weight="1" />
+      <edge id="42" source=" Mr. Watson " target=" Helmholtz Watson " weight="1" />
+      <edge id="43" source=" Kawaguchi " target=" Pfitzner " weight="2" />
+      <edge id="44" source="#N/A" target=" Crowne Lenina LENINA " weight="2" />
+      <edge id="45" source=" Fanny " target=" Crowne Lenina LENINA " weight="13" />
+      <edge id="46" source=" FOSTER Foster HENRY Henry " target=" Savage Mr. " weight="1" />
+      <edge id="47" source=" FOSTER Foster HENRY Henry " target=" Crowne Lenina LENINA " weight="1" />
+      <edge id="48" source=" FOSTER Foster HENRY Henry " target=" Big Henry " weight="1" />
+      <edge id="49" source=" Linda " target=" Pope " weight="2" />
+      <edge id="50" source=" Linda " target=" Savage Mr. " weight="1" />
+      <edge id="51" source=" Linda " target=" Crowne Lenina LENINA " weight="2" />
+      <edge id="52" source=" Linda " target=" Awonawilona " weight="1" />
+      <edge id="53" source=" Linda " target=" Jesus " weight="8" />
+      <edge id="54" source=" Linda " target=" Mitsima " weight="1" />
+      <edge id="55" source=" Mustapha Mond " target=" Savage Mr. " weight="1" />
+      <edge id="56" source=" Jesus " target=" Awonawilona " weight="2" />
+      <edge id="57" source=" Mitsima " target=" Pope " weight="1" />
+      <edge id="58" source=" Mitsima " target=" Kiakime " weight="1" />
+      <edge id="59" source=" Helmholtz Watson " target=" Juliet " weight="3" />
+      <edge id="60" source=" Helmholtz Watson " target=" Savage Mr. " weight="1" />
+      <edge id="61" source=" Helmholtz Watson " target=" Crowne Lenina LENINA " weight="1" />
+      <edge id="62" source=" Juliet " target=" Crowne Lenina LENINA " weight="1" />
+      <edge id="63" source=" Savage Mr. " target=" Crowne Lenina LENINA " weight="1" />
+      <edge id="64" source=" Crowne Lenina LENINA " target=" Wells Dr. " weight="1" />
+    </edges>
+  </graph>
+</gexf>

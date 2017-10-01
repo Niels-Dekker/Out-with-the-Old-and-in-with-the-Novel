@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Mont Blanc " label=" Mont Blanc " />
+      <node id=" Safie " label=" Safie " />
+      <node id=" Krempe M. " label=" Krempe M. " />
+      <node id=" Clerval Henry " label=" Clerval Henry " />
+      <node id=" Albertus Magnus " label=" Albertus Magnus " />
+      <node id=" Mont Saleve " label=" Mont Saleve " />
+      <node id=" De Lacey " label=" De Lacey " />
+      <node id=" William " label=" William " />
+      <node id=" Felix " label=" Felix " />
+      <node id=" Walton " label=" Walton " />
+      <node id=" Ernest " label=" Ernest " />
+      <node id=" Victor " label=" Victor " />
+      <node id=" M. Clerval " label=" M. Clerval " />
+      <node id=" Agatha " label=" Agatha " />
+      <node id=" Matlock " label=" Matlock " />
+      <node id=" Arthur " label=" Arthur " />
+      <node id=" Justine Moritz " label=" Justine Moritz " />
+      <node id=" Cornelius Agrippa " label=" Cornelius Agrippa " />
+      <node id=" Lavenza Elizabeth " label=" Lavenza Elizabeth " />
+      <node id=" M. Waldman " label=" M. Waldman " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Mont Blanc " target=" Mont Saleve " weight="1" />
+      <edge id="1" source=" Safie " target=" De Lacey " weight="1" />
+      <edge id="2" source=" Safie " target=" Felix " weight="7" />
+      <edge id="3" source=" Safie " target=" Agatha " weight="3" />
+      <edge id="4" source=" Safie " target=" Walton " weight="1" />
+      <edge id="5" source=" Krempe M. " target=" Cornelius Agrippa " weight="2" />
+      <edge id="6" source=" Krempe M. " target=" Clerval Henry " weight="1" />
+      <edge id="7" source=" Krempe M. " target=" M. Waldman " weight="3" />
+      <edge id="8" source=" Clerval Henry " target=" Victor " weight="1" />
+      <edge id="9" source=" Clerval Henry " target=" William " weight="2" />
+      <edge id="10" source=" Clerval Henry " target=" Walton " weight="1" />
+      <edge id="11" source=" Clerval Henry " target=" Arthur " weight="1" />
+      <edge id="12" source=" Clerval Henry " target=" Matlock " weight="1" />
+      <edge id="13" source=" Clerval Henry " target=" M. Waldman " weight="1" />
+      <edge id="14" source=" Clerval Henry " target=" Lavenza Elizabeth " weight="2" />
+      <edge id="15" source=" Clerval Henry " target=" Justine Moritz " weight="2" />
+      <edge id="16" source=" Albertus Magnus " target=" Cornelius Agrippa " weight="1" />
+      <edge id="17" source=" Albertus Magnus " target=" M. Waldman " weight="1" />
+      <edge id="18" source=" De Lacey " target=" Felix " weight="3" />
+      <edge id="19" source=" De Lacey " target=" Agatha " weight="2" />
+      <edge id="20" source=" William " target=" Victor " weight="2" />
+      <edge id="21" source=" William " target=" Walton " weight="1" />
+      <edge id="22" source=" William " target=" Ernest " weight="2" />
+      <edge id="23" source=" William " target=" Lavenza Elizabeth " weight="3" />
+      <edge id="24" source=" William " target=" Justine Moritz " weight="5" />
+      <edge id="25" source=" Felix " target=" Agatha " weight="4" />
+      <edge id="26" source=" Felix " target=" Walton " weight="1" />
+      <edge id="27" source=" Walton " target=" Victor " weight="1" />
+      <edge id="28" source=" Walton " target=" Lavenza Elizabeth " weight="1" />
+      <edge id="29" source=" Walton " target=" Justine Moritz " weight="1" />
+      <edge id="30" source=" Ernest " target=" Victor " weight="1" />
+      <edge id="31" source=" Ernest " target=" Lavenza Elizabeth " weight="3" />
+      <edge id="32" source=" Ernest " target=" Justine Moritz " weight="2" />
+      <edge id="33" source=" Victor " target=" Lavenza Elizabeth " weight="1" />
+      <edge id="34" source=" Victor " target=" Justine Moritz " weight="1" />
+      <edge id="35" source=" M. Clerval " target=" M. Waldman " weight="1" />
+      <edge id="36" source=" Justine Moritz " target=" Lavenza Elizabeth " weight="1" />
+      <edge id="37" source=" Cornelius Agrippa " target=" M. Waldman " weight="2" />
+    </edges>
+  </graph>
+</gexf>

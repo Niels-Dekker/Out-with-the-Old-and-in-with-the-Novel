@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Patrick HENNESSEY Hennessey PATRICK " label=" Patrick HENNESSEY Hennessey PATRICK " />
+      <node id=" Mr. Swales " label=" Mr. Swales " />
+      <node id=" Mr. Bilder " label=" Mr. Bilder " />
+      <node id=" Holmwood Arthur HOLMWOOD " label=" Holmwood Arthur HOLMWOOD " />
+      <node id=" Donelson " label=" Donelson " />
+      <node id=" Immanuel Hildesheim " label=" Immanuel Hildesheim " />
+      <node id=" Seward Jack " label=" Seward Jack " />
+      <node id=" Mary " label=" Mary " />
+      <node id=" John SEWARD Dr. DR. JOHN Seward " label=" John SEWARD Dr. DR. JOHN Seward " />
+      <node id=" Geordie " label=" Geordie " />
+      <node id=" ABRAHAM VAN Helsing HELSING Van Abraham " label=" ABRAHAM VAN Helsing HELSING Van Abraham " />
+      <node id=" God " label=" God " />
+      <node id=" Doolittle " label=" Doolittle " />
+      <node id=" Carter Paterson " label=" Carter Paterson " />
+      <node id=" Count Dracula " label=" Count Dracula " />
+      <node id=" Agatha AGATHA " label=" Agatha AGATHA " />
+      <node id=" bush " label=" bush " />
+      <node id=" Galatz " label=" Galatz " />
+      <node id=" Buda-Pesth " label=" Buda-Pesth " />
+      <node id=" Smollet " label=" Smollet " />
+      <node id=" Mr. Harker " label=" Mr. Harker " />
+      <node id=" Morris Quincey P. QUINCEY MORRIS " label=" Morris Quincey P. QUINCEY MORRIS " />
+      <node id=" Woods Mulgrave " label=" Woods Mulgrave " />
+      <node id=" Hamlet " label=" Hamlet " />
+      <node id=" Mitchell " label=" Mitchell " />
+      <node id=" Joseph " label=" Joseph " />
+      <node id=" Robin Hood " label=" Robin Hood " />
+      <node id=" Mr. Renfield " label=" Mr. Renfield " />
+      <node id=" Mr. Peter Hawkins " label=" Mr. Peter Hawkins " />
+      <node id=" Mr. Jonathan " label=" Mr. Jonathan " />
+      <node id=" SAMUEL Billington Samuel BILLINGTON F. " label=" SAMUEL Billington Samuel BILLINGTON F. " />
+      <node id=" Holmwood Mr. " label=" Holmwood Mr. " />
+      <node id=" Shakespeare " label=" Shakespeare " />
+      <node id=" Mr. Quincey Morris " label=" Mr. Quincey Morris " />
+      <node id=" Lord Godalming " label=" Lord Godalming " />
+      <node id=" Bistritz " label=" Bistritz " />
+      <node id=" Snelling Thomas " label=" Snelling Thomas " />
+      <node id=" Harker Mrs. " label=" Harker Mrs. " />
+      <node id=" Lloyd " label=" Lloyd " />
+      <node id=" Mrs. Westenra " label=" Mrs. Westenra " />
+      <node id=" HARKER JONATHAN Jonathan Harker " label=" HARKER JONATHAN Jonathan Harker " />
+      <node id=" Whitby " label=" Whitby " />
+      <node id=" Wilhelmina " label=" Wilhelmina " />
+      <node id=" D. M. " label=" D. M. " />
+      <node id=" Catherine " label=" Catherine " />
+      <node id=" VAN Helsing Dr. Van HELSING " label=" VAN Helsing Dr. Van HELSING " />
+      <node id=" Miss Lucy Westenra " label=" Miss Lucy Westenra " />
+      <node id=" Mina Madam " label=" Mina Madam " />
+      <node id=" Gott " label=" Gott " />
+      <node id=" Mina Miss MURRAY Murray MINA " label=" Mina Miss MURRAY Murray MINA " />
+      <node id=" Thor " label=" Thor " />
+      <node id=" Mina HARKER Harker MINA " label=" Mina HARKER Harker MINA " />
+      <node id=" Skinsky Petrof " label=" Skinsky Petrof " />
+      <node id=" Mother " label=" Mother " />
+      <node id=" Paxton John " label=" Paxton John " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Patrick HENNESSEY Hennessey PATRICK " target=" John SEWARD Dr. DR. JOHN Seward " weight="1" />
+      <edge id="1" source=" Patrick HENNESSEY Hennessey PATRICK " target=" D. M. " weight="1" />
+      <edge id="2" source=" Mr. Swales " target=" Geordie " weight="1" />
+      <edge id="3" source=" Mr. Bilder " target=" Snelling Thomas " weight="1" />
+      <edge id="4" source=" Holmwood Arthur HOLMWOOD " target=" VAN Helsing Dr. Van HELSING " weight="12" />
+      <edge id="5" source=" Holmwood Arthur HOLMWOOD " target=" Miss Lucy Westenra " weight="12" />
+      <edge id="6" source=" Holmwood Arthur HOLMWOOD " target=" Harker Mrs. " weight="1" />
+      <edge id="7" source=" Holmwood Arthur HOLMWOOD " target=" Mina Madam " weight="5" />
+      <edge id="8" source=" Holmwood Arthur HOLMWOOD " target=" Gott " weight="1" />
+      <edge id="9" source=" Holmwood Arthur HOLMWOOD " target=" Seward Jack " weight="3" />
+      <edge id="10" source=" Holmwood Arthur HOLMWOOD " target=" Mr. Harker " weight="1" />
+      <edge id="11" source=" Holmwood Arthur HOLMWOOD " target=" Thor " weight="1" />
+      <edge id="12" source=" Holmwood Arthur HOLMWOOD " target=" Morris Quincey P. QUINCEY MORRIS " weight="2" />
+      <edge id="13" source=" Holmwood Arthur HOLMWOOD " target=" John SEWARD Dr. DR. JOHN Seward " weight="1" />
+      <edge id="14" source=" Holmwood Arthur HOLMWOOD " target=" Mr. Quincey Morris " weight="5" />
+      <edge id="15" source=" Holmwood Arthur HOLMWOOD " target=" Mitchell " weight="1" />
+      <edge id="16" source=" Holmwood Arthur HOLMWOOD " target=" Mrs. Westenra " weight="2" />
+      <edge id="17" source=" Holmwood Arthur HOLMWOOD " target=" HARKER JONATHAN Jonathan Harker " weight="1" />
+      <edge id="18" source=" Holmwood Arthur HOLMWOOD " target=" Holmwood Mr. " weight="1" />
+      <edge id="19" source=" Donelson " target=" Catherine " weight="1" />
+      <edge id="20" source=" Immanuel Hildesheim " target=" VAN Helsing Dr. Van HELSING " weight="1" />
+      <edge id="21" source=" Immanuel Hildesheim " target=" Skinsky Petrof " weight="1" />
+      <edge id="22" source=" Seward Jack " target=" VAN Helsing Dr. Van HELSING " weight="2" />
+      <edge id="23" source=" Seward Jack " target=" John SEWARD Dr. DR. JOHN Seward " weight="1" />
+      <edge id="24" source=" Seward Jack " target=" Mr. Quincey Morris " weight="1" />
+      <edge id="25" source=" Mary " target=" VAN Helsing Dr. Van HELSING " weight="1" />
+      <edge id="26" source=" Mary " target=" Buda-Pesth " weight="1" />
+      <edge id="27" source=" Mary " target=" Joseph " weight="2" />
+      <edge id="28" source=" John SEWARD Dr. DR. JOHN Seward " target=" VAN Helsing Dr. Van HELSING " weight="10" />
+      <edge id="29" source=" John SEWARD Dr. DR. JOHN Seward " target=" Count Dracula " weight="1" />
+      <edge id="30" source=" John SEWARD Dr. DR. JOHN Seward " target=" bush " weight="1" />
+      <edge id="31" source=" John SEWARD Dr. DR. JOHN Seward " target=" Harker Mrs. " weight="2" />
+      <edge id="32" source=" John SEWARD Dr. DR. JOHN Seward " target=" Lord Godalming " weight="2" />
+      <edge id="33" source=" John SEWARD Dr. DR. JOHN Seward " target=" Mr. Harker " weight="1" />
+      <edge id="34" source=" John SEWARD Dr. DR. JOHN Seward " target=" Mina Madam " weight="13" />
+      <edge id="35" source=" John SEWARD Dr. DR. JOHN Seward " target=" Mr. Quincey Morris " weight="12" />
+      <edge id="36" source=" John SEWARD Dr. DR. JOHN Seward " target=" Mina HARKER Harker MINA " weight="1" />
+      <edge id="37" source=" John SEWARD Dr. DR. JOHN Seward " target=" ABRAHAM VAN Helsing HELSING Van Abraham " weight="1" />
+      <edge id="38" source=" John SEWARD Dr. DR. JOHN Seward " target=" Miss Lucy Westenra " weight="13" />
+      <edge id="39" source=" John SEWARD Dr. DR. JOHN Seward " target=" HARKER JONATHAN Jonathan Harker " weight="11" />
+      <edge id="40" source=" John SEWARD Dr. DR. JOHN Seward " target=" God " weight="1" />
+      <edge id="41" source=" John SEWARD Dr. DR. JOHN Seward " target=" Mr. Renfield " weight="2" />
+      <edge id="42" source=" John SEWARD Dr. DR. JOHN Seward " target=" D. M. " weight="3" />
+      <edge id="43" source=" John SEWARD Dr. DR. JOHN Seward " target=" Galatz " weight="1" />
+      <edge id="44" source=" ABRAHAM VAN Helsing HELSING Van Abraham " target=" Mr. Jonathan " weight="1" />
+      <edge id="45" source=" ABRAHAM VAN Helsing HELSING Van Abraham " target=" D. M. " weight="1" />
+      <edge id="46" source=" Doolittle " target=" Catherine " weight="1" />
+      <edge id="47" source=" Doolittle " target=" Mina Madam " weight="1" />
+      <edge id="48" source=" Carter Paterson " target=" SAMUEL Billington Samuel BILLINGTON F. " weight="1" />
+      <edge id="49" source=" Count Dracula " target=" VAN Helsing Dr. Van HELSING " weight="1" />
+      <edge id="50" source=" Count Dracula " target=" Miss Lucy Westenra " weight="1" />
+      <edge id="51" source=" Count Dracula " target=" Mina Madam " weight="1" />
+      <edge id="52" source=" Count Dracula " target=" Mr. Harker " weight="1" />
+      <edge id="53" source=" Count Dracula " target=" Harker Mrs. " weight="1" />
+      <edge id="54" source=" Count Dracula " target=" Bistritz " weight="1" />
+      <edge id="55" source=" Count Dracula " target=" Mr. Peter Hawkins " weight="1" />
+      <edge id="56" source=" Agatha AGATHA " target=" HARKER JONATHAN Jonathan Harker " weight="2" />
+      <edge id="57" source=" Galatz " target=" Catherine " weight="1" />
+      <edge id="58" source=" Buda-Pesth " target=" SAMUEL Billington Samuel BILLINGTON F. " weight="1" />
+      <edge id="59" source=" Buda-Pesth " target=" Whitby " weight="1" />
+      <edge id="60" source=" Smollet " target=" Snelling Thomas " weight="1" />
+      <edge id="61" source=" Woods Mulgrave " target=" Mrs. Westenra " weight="1" />
+      <edge id="62" source=" Woods Mulgrave " target=" Robin Hood " weight="1" />
+      <edge id="63" source=" Woods Mulgrave " target=" Miss Lucy Westenra " weight="1" />
+      <edge id="64" source=" Hamlet " target=" Shakespeare " weight="1" />
+      <edge id="65" source=" Mitchell " target=" Mrs. Westenra " weight="1" />
+      <edge id="66" source=" Mitchell " target=" Lord Godalming " weight="1" />
+      <edge id="67" source=" Mitchell " target=" Miss Lucy Westenra " weight="1" />
+      <edge id="68" source=" Joseph " target=" Mr. Peter Hawkins " weight="1" />
+      <edge id="69" source=" Robin Hood " target=" Miss Lucy Westenra " weight="1" />
+      <edge id="70" source=" Mr. Renfield " target=" VAN Helsing Dr. Van HELSING " weight="3" />
+      <edge id="71" source=" Mr. Renfield " target=" HARKER JONATHAN Jonathan Harker " weight="2" />
+      <edge id="72" source=" Mr. Renfield " target=" Mr. Quincey Morris " weight="1" />
+      <edge id="73" source=" Mr. Renfield " target=" Harker Mrs. " weight="6" />
+      <edge id="74" source=" Mr. Peter Hawkins " target=" HARKER JONATHAN Jonathan Harker " weight="6" />
+      <edge id="75" source=" Mr. Peter Hawkins " target=" Mina Madam " weight="2" />
+      <edge id="76" source=" Mr. Jonathan " target=" Miss Lucy Westenra " weight="2" />
+      <edge id="77" source=" Mr. Jonathan " target=" Mina Madam " weight="1" />
+      <edge id="78" source=" SAMUEL Billington Samuel BILLINGTON F. " target=" Whitby " weight="1" />
+      <edge id="79" source=" Holmwood Mr. " target=" Miss Lucy Westenra " weight="6" />
+      <edge id="80" source=" Mr. Quincey Morris " target=" VAN Helsing Dr. Van HELSING " weight="11" />
+      <edge id="81" source=" Mr. Quincey Morris " target=" Miss Lucy Westenra " weight="8" />
+      <edge id="82" source=" Mr. Quincey Morris " target=" Harker Mrs. " weight="1" />
+      <edge id="83" source=" Mr. Quincey Morris " target=" Mina Madam " weight="4" />
+      <edge id="84" source=" Mr. Quincey Morris " target=" Lord Godalming " weight="5" />
+      <edge id="85" source=" Mr. Quincey Morris " target=" Mina HARKER Harker MINA " weight="1" />
+      <edge id="86" source=" Mr. Quincey Morris " target=" Mrs. Westenra " weight="1" />
+      <edge id="87" source=" Mr. Quincey Morris " target=" HARKER JONATHAN Jonathan Harker " weight="16" />
+      <edge id="88" source=" Lord Godalming " target=" VAN Helsing Dr. Van HELSING " weight="1" />
+      <edge id="89" source=" Lord Godalming " target=" Miss Lucy Westenra " weight="2" />
+      <edge id="90" source=" Lord Godalming " target=" Harker Mrs. " weight="2" />
+      <edge id="91" source=" Lord Godalming " target=" Mina Madam " weight="1" />
+      <edge id="92" source=" Lord Godalming " target=" Lloyd " weight="1" />
+      <edge id="93" source=" Lord Godalming " target=" HARKER JONATHAN Jonathan Harker " weight="1" />
+      <edge id="94" source=" Lord Godalming " target=" Catherine " weight="1" />
+      <edge id="95" source=" Bistritz " target=" HARKER JONATHAN Jonathan Harker " weight="1" />
+      <edge id="96" source=" Bistritz " target=" VAN Helsing Dr. Van HELSING " weight="1" />
+      <edge id="97" source=" Harker Mrs. " target=" VAN Helsing Dr. Van HELSING " weight="3" />
+      <edge id="98" source=" Harker Mrs. " target=" Catherine " weight="1" />
+      <edge id="99" source=" Harker Mrs. " target=" Mina Madam " weight="3" />
+      <edge id="100" source=" Harker Mrs. " target=" HARKER JONATHAN Jonathan Harker " weight="6" />
+      <edge id="101" source=" Harker Mrs. " target=" Miss Lucy Westenra " weight="2" />
+      <edge id="102" source=" Lloyd " target=" Catherine " weight="2" />
+      <edge id="103" source=" Mrs. Westenra " target=" VAN Helsing Dr. Van HELSING " weight="4" />
+      <edge id="104" source=" Mrs. Westenra " target=" Miss Lucy Westenra " weight="5" />
+      <edge id="105" source=" Mrs. Westenra " target=" HARKER JONATHAN Jonathan Harker " weight="1" />
+      <edge id="106" source=" HARKER JONATHAN Jonathan Harker " target=" VAN Helsing Dr. Van HELSING " weight="5" />
+      <edge id="107" source=" HARKER JONATHAN Jonathan Harker " target=" Catherine " weight="1" />
+      <edge id="108" source=" HARKER JONATHAN Jonathan Harker " target=" Mina Madam " weight="16" />
+      <edge id="109" source=" HARKER JONATHAN Jonathan Harker " target=" Paxton John " weight="1" />
+      <edge id="110" source=" HARKER JONATHAN Jonathan Harker " target=" Mina HARKER Harker MINA " weight="1" />
+      <edge id="111" source=" HARKER JONATHAN Jonathan Harker " target=" Miss Lucy Westenra " weight="17" />
+      <edge id="112" source=" HARKER JONATHAN Jonathan Harker " target=" Wilhelmina " weight="1" />
+      <edge id="113" source=" HARKER JONATHAN Jonathan Harker " target=" Whitby " weight="1" />
+      <edge id="114" source=" D. M. " target=" VAN Helsing Dr. Van HELSING " weight="1" />
+      <edge id="115" source=" Catherine " target=" VAN Helsing Dr. Van HELSING " weight="1" />
+      <edge id="116" source=" Catherine " target=" Mina Madam " weight="1" />
+      <edge id="117" source=" VAN Helsing Dr. Van HELSING " target=" Mina Madam " weight="27" />
+      <edge id="118" source=" VAN Helsing Dr. Van HELSING " target=" Mina HARKER Harker MINA " weight="1" />
+      <edge id="119" source=" VAN Helsing Dr. Van HELSING " target=" Miss Lucy Westenra " weight="14" />
+      <edge id="120" source=" VAN Helsing Dr. Van HELSING " target=" Mother " weight="1" />
+      <edge id="121" source=" Miss Lucy Westenra " target=" Mina Madam " weight="1" />
+      <edge id="122" source=" Miss Lucy Westenra " target=" Mina Miss MURRAY Murray MINA " weight="5" />
+      <edge id="123" source=" Miss Lucy Westenra " target=" Mina HARKER Harker MINA " weight="4" />
+    </edges>
+  </graph>
+</gexf>

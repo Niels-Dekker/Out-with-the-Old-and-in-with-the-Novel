@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Arnault " label=" Arnault " />
+      <node id=" Khalul " label=" Khalul " />
+      <node id=" Ladisla " label=" Ladisla " />
+      <node id=" Dagoska " label=" Dagoska " />
+      <node id=" West Collem " label=" West Collem " />
+      <node id=" Isher Lord " label=" Isher Lord " />
+      <node id=" Bloody-Nine " label=" Bloody-Nine " />
+      <node id=" Lord Varuz Marshal " label=" Lord Varuz Marshal " />
+      <node id=" Bethod " label=" Bethod " />
+      <node id=" Thuel " label=" Thuel " />
+      <node id=" Halleck " label=" Halleck " />
+      <node id=" Yulwei " label=" Yulwei " />
+      <node id=" Dogman " label=" Dogman " />
+      <node id=" Lord Marshal Burr " label=" Lord Marshal Burr " />
+      <node id=" North " label=" North " />
+      <node id=" Bad-Enough " label=" Bad-Enough " />
+      <node id=" Kanedias " label=" Kanedias " />
+      <node id=" Caurib " label=" Caurib " />
+      <node id=" Terez " label=" Terez " />
+      <node id=" Fenris " label=" Fenris " />
+      <node id=" Glokta Inquisitor " label=" Glokta Inquisitor " />
+      <node id=" Kaspa " label=" Kaspa " />
+      <node id=" Jalenhorm " label=" Jalenhorm " />
+      <node id=" dan Glokta Sand " label=" dan Glokta Sand " />
+      <node id=" Duru Tul " label=" Duru Tul " />
+      <node id=" Barnam " label=" Barnam " />
+      <node id=" Vitari " label=" Vitari " />
+      <node id=" Carls " label=" Carls " />
+      <node id=" Quai Malacus " label=" Quai Malacus " />
+      <node id=" Brock Lord " label=" Brock Lord " />
+      <node id=" Ardee West " label=" Ardee West " />
+      <node id=" Northmen " label=" Northmen " />
+      <node id=" Superior Goyle " label=" Superior Goyle " />
+      <node id=" Wells " label=" Wells " />
+      <node id=" Ariss Lady " label=" Ariss Lady " />
+      <node id=" Threetrees Rudd " label=" Threetrees Rudd " />
+      <node id=" Ninefingers Logen " label=" Ninefingers Logen " />
+      <node id=" Bayaz Master " label=" Bayaz Master " />
+      <node id=" Tolomei " label=" Tolomei " />
+      <node id=" West Major " label=" West Major " />
+      <node id=" Kalyne " label=" Kalyne " />
+      <node id=" Broya " label=" Broya " />
+      <node id=" Goodman Heath " label=" Goodman Heath " />
+      <node id=" Maljinn Ferro " label=" Maljinn Ferro " />
+      <node id=" dan Robb Villem " label=" dan Robb Villem " />
+      <node id=" Longfoot Brother " label=" Longfoot Brother " />
+      <node id=" Calder Prince " label=" Calder Prince " />
+      <node id=" Aye " label=" Aye " />
+      <node id=" Northman " label=" Northman " />
+      <node id=" Grim " label=" Grim " />
+      <node id=" Brint " label=" Brint " />
+      <node id=" Filio " label=" Filio " />
+      <node id=" Harod " label=" Harod " />
+      <node id=" Shanka " label=" Shanka " />
+      <node id=" Marovia " label=" Marovia " />
+      <node id=" Lestek " label=" Lestek " />
+      <node id=" Salem Rews " label=" Salem Rews " />
+      <node id=" Hornlach " label=" Hornlach " />
+      <node id=" Lord Chamberlain " label=" Lord Chamberlain " />
+      <node id=" Kurster " label=" Kurster " />
+      <node id=" Blacktoe " label=" Blacktoe " />
+      <node id=" Severard " label=" Severard " />
+      <node id=" Shama Heartless " label=" Shama Heartless " />
+      <node id=" Harlen Morrow " label=" Harlen Morrow " />
+      <node id=" Sepp Teufel dan " label=" Sepp Teufel dan " />
+      <node id=" Kault dan Coster Magister " label=" Kault dan Coster Magister " />
+      <node id=" Barezin " label=" Barezin " />
+      <node id=" Frost " label=" Frost " />
+      <node id=" Stone-Splitter " label=" Stone-Splitter " />
+      <node id=" Gurkhul " label=" Gurkhul " />
+      <node id=" Angland " label=" Angland " />
+      <node id=" Forley " label=" Forley " />
+      <node id=" Juvens " label=" Juvens " />
+      <node id=" Mercer " label=" Mercer " />
+      <node id=" Kadir " label=" Kadir " />
+      <node id=" Black Dow " label=" Black Dow " />
+      <node id=" Bremer dan Gorst " label=" Bremer dan Gorst " />
+      <node id=" Vallimir Major " label=" Vallimir Major " />
+      <node id=" Lord Hoff " label=" Lord Hoff " />
+      <node id=" Kantic " label=" Kantic " />
+      <node id=" Meed dan Fedor " label=" Meed dan Fedor " />
+      <node id=" Sult Arch Lector " label=" Sult Arch Lector " />
+      <node id=" Jezal dan Luthar " label=" Jezal dan Luthar " />
+      <node id=" Hoffs " label=" Hoffs " />
+      <node id=" Lord Heugen " label=" Lord Heugen " />
+      <node id=" Uthman " label=" Uthman " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Arnault " target=" Lord Chamberlain " weight="1" />
+      <edge id="1" source=" Khalul " target=" Bayaz Master " weight="1" />
+      <edge id="2" source=" Khalul " target=" Maljinn Ferro " weight="1" />
+      <edge id="3" source=" Ladisla " target=" Terez " weight="1" />
+      <edge id="4" source=" Ladisla " target=" Jezal dan Luthar " weight="1" />
+      <edge id="5" source=" Dagoska " target=" Uthman " weight="1" />
+      <edge id="6" source=" West Collem " target=" Jezal dan Luthar " weight="4" />
+      <edge id="7" source=" Isher Lord " target=" Lord Varuz Marshal " weight="1" />
+      <edge id="8" source=" Isher Lord " target=" Lord Heugen " weight="1" />
+      <edge id="9" source=" Isher Lord " target=" Brock Lord " weight="1" />
+      <edge id="10" source=" Bloody-Nine " target=" Black Dow " weight="2" />
+      <edge id="11" source=" Lord Varuz Marshal " target=" Lord Marshal Burr " weight="1" />
+      <edge id="12" source=" Lord Varuz Marshal " target=" Glokta Inquisitor " weight="3" />
+      <edge id="13" source=" Lord Varuz Marshal " target=" Lord Chamberlain " weight="1" />
+      <edge id="14" source=" Lord Varuz Marshal " target=" Grim " weight="2" />
+      <edge id="15" source=" Lord Varuz Marshal " target=" Calder Prince " weight="1" />
+      <edge id="16" source=" Lord Varuz Marshal " target=" Marovia " weight="1" />
+      <edge id="17" source=" Lord Varuz Marshal " target=" Gurkhul " weight="1" />
+      <edge id="18" source=" Lord Varuz Marshal " target=" Jezal dan Luthar " weight="30" />
+      <edge id="19" source=" Lord Varuz Marshal " target=" West Major " weight="1" />
+      <edge id="20" source=" Lord Varuz Marshal " target=" Lord Hoff " weight="1" />
+      <edge id="21" source=" Bethod " target=" Ninefingers Logen " weight="5" />
+      <edge id="22" source=" Bethod " target=" Bayaz Master " weight="4" />
+      <edge id="23" source=" Bethod " target=" Carls " weight="1" />
+      <edge id="24" source=" Bethod " target=" Meed dan Fedor " weight="1" />
+      <edge id="25" source=" Bethod " target=" Dogman " weight="1" />
+      <edge id="26" source=" Bethod " target=" Calder Prince " weight="1" />
+      <edge id="27" source=" Thuel " target=" Meed dan Fedor " weight="1" />
+      <edge id="28" source=" Thuel " target=" Lord Chamberlain " weight="1" />
+      <edge id="29" source=" Halleck " target=" Lord Marshal Burr " weight="1" />
+      <edge id="30" source=" Halleck " target=" Sepp Teufel dan " weight="2" />
+      <edge id="31" source=" Halleck " target=" Lord Hoff " weight="1" />
+      <edge id="32" source=" Yulwei " target=" Kadir " weight="1" />
+      <edge id="33" source=" Yulwei " target=" Maljinn Ferro " weight="7" />
+      <edge id="34" source=" Yulwei " target=" Juvens " weight="1" />
+      <edge id="35" source=" Yulwei " target=" Bayaz Master " weight="2" />
+      <edge id="36" source=" Yulwei " target=" Longfoot Brother " weight="2" />
+      <edge id="37" source=" Dogman " target=" Ninefingers Logen " weight="1" />
+      <edge id="38" source=" Dogman " target=" Bad-Enough " weight="1" />
+      <edge id="39" source=" Dogman " target=" Grim " weight="1" />
+      <edge id="40" source=" Dogman " target=" Black Dow " weight="3" />
+      <edge id="41" source=" Dogman " target=" Threetrees Rudd " weight="10" />
+      <edge id="42" source=" Dogman " target=" Forley " weight="4" />
+      <edge id="43" source=" Lord Marshal Burr " target=" Glokta Inquisitor " weight="1" />
+      <edge id="44" source=" Lord Marshal Burr " target=" Jezal dan Luthar " weight="1" />
+      <edge id="45" source=" Lord Marshal Burr " target=" Ardee West " weight="8" />
+      <edge id="46" source=" Lord Marshal Burr " target=" Sult Arch Lector " weight="1" />
+      <edge id="47" source=" Lord Marshal Burr " target=" Vitari " weight="1" />
+      <edge id="48" source=" Lord Marshal Burr " target=" Angland " weight="1" />
+      <edge id="49" source=" Lord Marshal Burr " target=" Lord Hoff " weight="1" />
+      <edge id="50" source=" North " target=" Carls " weight="1" />
+      <edge id="51" source=" Bad-Enough " target=" Threetrees Rudd " weight="4" />
+      <edge id="52" source=" Bad-Enough " target=" Grim " weight="2" />
+      <edge id="53" source=" Bad-Enough " target=" Black Dow " weight="1" />
+      <edge id="54" source=" Kanedias " target=" Shanka " weight="1" />
+      <edge id="55" source=" Kanedias " target=" Juvens " weight="3" />
+      <edge id="56" source=" Kanedias " target=" Tolomei " weight="1" />
+      <edge id="57" source=" Kanedias " target=" Bayaz Master " weight="1" />
+      <edge id="58" source=" Caurib " target=" Calder Prince " weight="1" />
+      <edge id="59" source=" Terez " target=" Ariss Lady " weight="1" />
+      <edge id="60" source=" Terez " target=" Jezal dan Luthar " weight="3" />
+      <edge id="61" source=" Terez " target=" Lord Hoff " weight="1" />
+      <edge id="62" source=" Fenris " target=" Jezal dan Luthar " weight="2" />
+      <edge id="63" source=" Glokta Inquisitor " target=" Kalyne " weight="1" />
+      <edge id="64" source=" Glokta Inquisitor " target=" Lord Chamberlain " weight="2" />
+      <edge id="65" source=" Glokta Inquisitor " target=" Kault dan Coster Magister " weight="1" />
+      <edge id="66" source=" Glokta Inquisitor " target=" Frost " weight="12" />
+      <edge id="67" source=" Glokta Inquisitor " target=" dan Robb Villem " weight="1" />
+      <edge id="68" source=" Glokta Inquisitor " target=" Barnam " weight="1" />
+      <edge id="69" source=" Glokta Inquisitor " target=" Bremer dan Gorst " weight="2" />
+      <edge id="70" source=" Glokta Inquisitor " target=" Mercer " weight="2" />
+      <edge id="71" source=" Glokta Inquisitor " target=" Northman " weight="3" />
+      <edge id="72" source=" Glokta Inquisitor " target=" Grim " weight="2" />
+      <edge id="73" source=" Glokta Inquisitor " target=" Lord Hoff " weight="1" />
+      <edge id="74" source=" Glokta Inquisitor " target=" Superior Goyle " weight="1" />
+      <edge id="75" source=" Glokta Inquisitor " target=" Ardee West " weight="3" />
+      <edge id="76" source=" Glokta Inquisitor " target=" Sult Arch Lector " weight="2" />
+      <edge id="77" source=" Glokta Inquisitor " target=" Marovia " weight="1" />
+      <edge id="78" source=" Glokta Inquisitor " target=" Lestek " weight="1" />
+      <edge id="79" source=" Glokta Inquisitor " target=" Salem Rews " weight="6" />
+      <edge id="80" source=" Glokta Inquisitor " target=" Hornlach " weight="1" />
+      <edge id="81" source=" Glokta Inquisitor " target=" Jezal dan Luthar " weight="35" />
+      <edge id="82" source=" Glokta Inquisitor " target=" Ninefingers Logen " weight="1" />
+      <edge id="83" source=" Glokta Inquisitor " target=" Bayaz Master " weight="13" />
+      <edge id="84" source=" Glokta Inquisitor " target=" Kurster " weight="1" />
+      <edge id="85" source=" Glokta Inquisitor " target=" Severard " weight="4" />
+      <edge id="86" source=" Glokta Inquisitor " target=" Harlen Morrow " weight="1" />
+      <edge id="87" source=" Glokta Inquisitor " target=" Sepp Teufel dan " weight="5" />
+      <edge id="88" source=" Kaspa " target=" Ardee West " weight="1" />
+      <edge id="89" source=" Kaspa " target=" Ariss Lady " weight="2" />
+      <edge id="90" source=" Kaspa " target=" Brint " weight="1" />
+      <edge id="91" source=" Kaspa " target=" Jalenhorm " weight="1" />
+      <edge id="92" source=" Kaspa " target=" Jezal dan Luthar " weight="1" />
+      <edge id="93" source=" Kaspa " target=" Lord Chamberlain " weight="1" />
+      <edge id="94" source=" Jalenhorm " target=" Ardee West " weight="1" />
+      <edge id="95" source=" Jalenhorm " target=" Frost " weight="1" />
+      <edge id="96" source=" Jalenhorm " target=" Ariss Lady " weight="1" />
+      <edge id="97" source=" Jalenhorm " target=" Brint " weight="4" />
+      <edge id="98" source=" Jalenhorm " target=" Lord Heugen " weight="1" />
+      <edge id="99" source=" Jalenhorm " target=" Lord Hoff " weight="2" />
+      <edge id="100" source=" Jalenhorm " target=" Lord Chamberlain " weight="1" />
+      <edge id="101" source=" Jalenhorm " target=" Brock Lord " weight="1" />
+      <edge id="102" source=" Jalenhorm " target=" Jezal dan Luthar " weight="3" />
+      <edge id="103" source=" dan Glokta Sand " target=" Jezal dan Luthar " weight="1" />
+      <edge id="104" source=" Duru Tul " target=" Ninefingers Logen " weight="1" />
+      <edge id="105" source=" Duru Tul " target=" Threetrees Rudd " weight="1" />
+      <edge id="106" source=" Duru Tul " target=" Wells " weight="1" />
+      <edge id="107" source=" Duru Tul " target=" Forley " weight="1" />
+      <edge id="108" source=" Barnam " target=" Frost " weight="1" />
+      <edge id="109" source=" Vitari " target=" Superior Goyle " weight="1" />
+      <edge id="110" source=" Carls " target=" Blacktoe " weight="1" />
+      <edge id="111" source=" Quai Malacus " target=" Ninefingers Logen " weight="4" />
+      <edge id="112" source=" Quai Malacus " target=" Bayaz Master " weight="11" />
+      <edge id="113" source=" Quai Malacus " target=" Wells " weight="2" />
+      <edge id="114" source=" Quai Malacus " target=" Blacktoe " weight="1" />
+      <edge id="115" source=" Quai Malacus " target=" Maljinn Ferro " weight="1" />
+      <edge id="116" source=" Quai Malacus " target=" Salem Rews " weight="1" />
+      <edge id="117" source=" Quai Malacus " target=" Longfoot Brother " weight="1" />
+      <edge id="118" source=" Quai Malacus " target=" Jezal dan Luthar " weight="1" />
+      <edge id="119" source=" Brock Lord " target=" Jezal dan Luthar " weight="2" />
+      <edge id="120" source=" Brock Lord " target=" Lord Heugen " weight="3" />
+      <edge id="121" source=" Ardee West " target=" Bayaz Master " weight="1" />
+      <edge id="122" source=" Ardee West " target=" Goodman Heath " weight="1" />
+      <edge id="123" source=" Ardee West " target=" Ariss Lady " weight="1" />
+      <edge id="124" source=" Ardee West " target=" Brint " weight="1" />
+      <edge id="125" source=" Ardee West " target=" Black Dow " weight="4" />
+      <edge id="126" source=" Ardee West " target=" Lord Chamberlain " weight="1" />
+      <edge id="127" source=" Ardee West " target=" Jezal dan Luthar " weight="37" />
+      <edge id="128" source=" Northmen " target=" Jezal dan Luthar " weight="1" />
+      <edge id="129" source=" Wells " target=" Ninefingers Logen " weight="6" />
+      <edge id="130" source=" Wells " target=" Bayaz Master " weight="1" />
+      <edge id="131" source=" Ariss Lady " target=" Jezal dan Luthar " weight="5" />
+      <edge id="132" source=" Threetrees Rudd " target=" Ninefingers Logen " weight="4" />
+      <edge id="133" source=" Threetrees Rudd " target=" Grim " weight="1" />
+      <edge id="134" source=" Threetrees Rudd " target=" Shama Heartless " weight="1" />
+      <edge id="135" source=" Threetrees Rudd " target=" Black Dow " weight="3" />
+      <edge id="136" source=" Threetrees Rudd " target=" Forley " weight="6" />
+      <edge id="137" source=" Ninefingers Logen " target=" Bayaz Master " weight="68" />
+      <edge id="138" source=" Ninefingers Logen " target=" Jezal dan Luthar " weight="2" />
+      <edge id="139" source=" Ninefingers Logen " target=" Blacktoe " weight="3" />
+      <edge id="140" source=" Ninefingers Logen " target=" Grim " weight="1" />
+      <edge id="141" source=" Ninefingers Logen " target=" Maljinn Ferro " weight="3" />
+      <edge id="142" source=" Ninefingers Logen " target=" Shanka " weight="1" />
+      <edge id="143" source=" Ninefingers Logen " target=" Black Dow " weight="1" />
+      <edge id="144" source=" Ninefingers Logen " target=" Salem Rews " weight="5" />
+      <edge id="145" source=" Ninefingers Logen " target=" Calder Prince " weight="3" />
+      <edge id="146" source=" Ninefingers Logen " target=" Longfoot Brother " weight="1" />
+      <edge id="147" source=" Ninefingers Logen " target=" Bremer dan Gorst " weight="1" />
+      <edge id="148" source=" Bayaz Master " target=" Juvens " weight="4" />
+      <edge id="149" source=" Bayaz Master " target=" Northman " weight="7" />
+      <edge id="150" source=" Bayaz Master " target=" Jezal dan Luthar " weight="12" />
+      <edge id="151" source=" Bayaz Master " target=" Blacktoe " weight="6" />
+      <edge id="152" source=" Bayaz Master " target=" Maljinn Ferro " weight="9" />
+      <edge id="153" source=" Bayaz Master " target=" Sult Arch Lector " weight="2" />
+      <edge id="154" source=" Bayaz Master " target=" Calder Prince " weight="1" />
+      <edge id="155" source=" Bayaz Master " target=" Tolomei " weight="1" />
+      <edge id="156" source=" Bayaz Master " target=" Lestek " weight="1" />
+      <edge id="157" source=" Bayaz Master " target=" Bremer dan Gorst " weight="1" />
+      <edge id="158" source=" Bayaz Master " target=" Longfoot Brother " weight="1" />
+      <edge id="159" source=" Bayaz Master " target=" Harod " weight="5" />
+      <edge id="160" source=" West Major " target=" Jezal dan Luthar " weight="1" />
+      <edge id="161" source=" Kalyne " target=" Salem Rews " weight="1" />
+      <edge id="162" source=" Kalyne " target=" Angland " weight="1" />
+      <edge id="163" source=" Kalyne " target=" Frost " weight="1" />
+      <edge id="164" source=" Broya " target=" Jezal dan Luthar " weight="9" />
+      <edge id="165" source=" Goodman Heath " target=" Harlen Morrow " weight="1" />
+      <edge id="166" source=" Goodman Heath " target=" Lord Hoff " weight="3" />
+      <edge id="167" source=" Goodman Heath " target=" Lord Chamberlain " weight="1" />
+      <edge id="168" source=" Maljinn Ferro " target=" Kantic " weight="1" />
+      <edge id="169" source=" Maljinn Ferro " target=" Longfoot Brother " weight="1" />
+      <edge id="170" source=" Maljinn Ferro " target=" Jezal dan Luthar " weight="1" />
+      <edge id="171" source=" dan Robb Villem " target=" Salem Rews " weight="1" />
+      <edge id="172" source=" dan Robb Villem " target=" Severard " weight="2" />
+      <edge id="173" source=" Longfoot Brother " target=" Gurkhul " weight="1" />
+      <edge id="174" source=" Longfoot Brother " target=" Jezal dan Luthar " weight="1" />
+      <edge id="175" source=" Calder Prince " target=" Jezal dan Luthar " weight="3" />
+      <edge id="176" source=" Aye " target=" Black Dow " weight="1" />
+      <edge id="177" source=" Northman " target=" Kantic " weight="1" />
+      <edge id="178" source=" Northman " target=" Jezal dan Luthar " weight="6" />
+      <edge id="179" source=" Northman " target=" Sult Arch Lector " weight="1" />
+      <edge id="180" source=" Northman " target=" Harlen Morrow " weight="1" />
+      <edge id="181" source=" Northman " target=" Lord Chamberlain " weight="1" />
+      <edge id="182" source=" Grim " target=" Shanka " weight="1" />
+      <edge id="183" source=" Grim " target=" Black Dow " weight="1" />
+      <edge id="184" source=" Grim " target=" Forley " weight="2" />
+      <edge id="185" source=" Brint " target=" Jezal dan Luthar " weight="19" />
+      <edge id="186" source=" Filio " target=" Jezal dan Luthar " weight="3" />
+      <edge id="187" source=" Harod " target=" Jezal dan Luthar " weight="1" />
+      <edge id="188" source=" Shanka " target=" Black Dow " weight="1" />
+      <edge id="189" source=" Marovia " target=" Jezal dan Luthar " weight="4" />
+      <edge id="190" source=" Marovia " target=" Sepp Teufel dan " weight="2" />
+      <edge id="191" source=" Marovia " target=" Lord Hoff " weight="1" />
+      <edge id="192" source=" Marovia " target=" Lord Chamberlain " weight="1" />
+      <edge id="193" source=" Salem Rews " target=" Jezal dan Luthar " weight="1" />
+      <edge id="194" source=" Hornlach " target=" Frost " weight="1" />
+      <edge id="195" source=" Hornlach " target=" Mercer " weight="1" />
+      <edge id="196" source=" Lord Chamberlain " target=" Harlen Morrow " weight="7" />
+      <edge id="197" source=" Lord Chamberlain " target=" Meed dan Fedor " weight="3" />
+      <edge id="198" source=" Lord Chamberlain " target=" Kault dan Coster Magister " weight="1" />
+      <edge id="199" source=" Lord Chamberlain " target=" Lord Hoff " weight="6" />
+      <edge id="200" source=" Lord Chamberlain " target=" Sult Arch Lector " weight="1" />
+      <edge id="201" source=" Lord Chamberlain " target=" Jezal dan Luthar " weight="5" />
+      <edge id="202" source=" Severard " target=" Sepp Teufel dan " weight="1" />
+      <edge id="203" source=" Severard " target=" Frost " weight="4" />
+      <edge id="204" source=" Severard " target=" Jezal dan Luthar " weight="1" />
+      <edge id="205" source=" Harlen Morrow " target=" Jezal dan Luthar " weight="3" />
+      <edge id="206" source=" Harlen Morrow " target=" Kault dan Coster Magister " weight="1" />
+      <edge id="207" source=" Harlen Morrow " target=" Hoffs " weight="2" />
+      <edge id="208" source=" Harlen Morrow " target=" Lord Hoff " weight="4" />
+      <edge id="209" source=" Sepp Teufel dan " target=" Sult Arch Lector " weight="1" />
+      <edge id="210" source=" Sepp Teufel dan " target=" Jezal dan Luthar " weight="1" />
+      <edge id="211" source=" Kault dan Coster Magister " target=" Lord Hoff " weight="2" />
+      <edge id="212" source=" Barezin " target=" Lord Heugen " weight="1" />
+      <edge id="213" source=" Barezin " target=" Lord Hoff " weight="1" />
+      <edge id="214" source=" Frost " target=" Jezal dan Luthar " weight="1" />
+      <edge id="215" source=" Stone-Splitter " target=" Black Dow " weight="5" />
+      <edge id="216" source=" Gurkhul " target=" Lord Hoff " weight="1" />
+      <edge id="217" source=" Angland " target=" Meed dan Fedor " weight="2" />
+      <edge id="218" source=" Angland " target=" Jezal dan Luthar " weight="2" />
+      <edge id="219" source=" Forley " target=" Black Dow " weight="6" />
+      <edge id="220" source=" Mercer " target=" Sult Arch Lector " weight="1" />
+      <edge id="221" source=" Bremer dan Gorst " target=" Meed dan Fedor " weight="1" />
+      <edge id="222" source=" Bremer dan Gorst " target=" Jezal dan Luthar " weight="15" />
+      <edge id="223" source=" Vallimir Major " target=" Jezal dan Luthar " weight="1" />
+      <edge id="224" source=" Lord Hoff " target=" Sult Arch Lector " weight="2" />
+      <edge id="225" source=" Lord Hoff " target=" Jezal dan Luthar " weight="2" />
+      <edge id="226" source=" Sult Arch Lector " target=" Jezal dan Luthar " weight="1" />
+      <edge id="227" source=" Jezal dan Luthar " target=" Lord Heugen " weight="1" />
+    </edges>
+  </graph>
+</gexf>

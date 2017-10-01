@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Hatter " label=" Hatter " />
+      <node id=" Hare " label=" Hare " />
+      <node id=" Edwin " label=" Edwin " />
+      <node id=" Bill " label=" Bill " />
+      <node id=" William " label=" William " />
+      <node id=" Queen " label=" Queen " />
+      <node id=" Dinah " label=" Dinah " />
+      <node id=" Ann Mary " label=" Ann Mary " />
+      <node id=" Morcar " label=" Morcar " />
+      <node id=" Footman " label=" Footman " />
+      <node id=" Alice ALICE " label=" Alice ALICE " />
+      <node id=" Mabel " label=" Mabel " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Hatter " target=" Hare " weight="1" />
+      <edge id="1" source=" Hare " target=" Alice ALICE " weight="9" />
+      <edge id="2" source=" Edwin " target=" Morcar " weight="2" />
+      <edge id="3" source=" Bill " target=" Alice ALICE " weight="3" />
+      <edge id="4" source=" William " target=" Alice ALICE " weight="2" />
+      <edge id="5" source=" Queen " target=" Alice ALICE " weight="2" />
+      <edge id="6" source=" Dinah " target=" Alice ALICE " weight="2" />
+      <edge id="7" source=" Ann Mary " target=" Alice ALICE " weight="1" />
+      <edge id="8" source=" Footman " target=" Alice ALICE " weight="1" />
+      <edge id="9" source=" Alice ALICE " target=" Mabel " weight="1" />
+    </edges>
+  </graph>
+</gexf>

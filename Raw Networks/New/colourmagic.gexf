@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Broadman " label=" Broadman " />
+      <node id=" Withel Stren " label=" Withel Stren " />
+      <node id=" Tethis " label=" Tethis " />
+      <node id=" Garhartra " label=" Garhartra " />
+      <node id=" Terton " label=" Terton " />
+      <node id=" Liartes " label=" Liartes " />
+      <node id=" Nef " label=" Nef " />
+      <node id=" Ymor " label=" Ymor " />
+      <node id=" Twoflower " label=" Twoflower " />
+      <node id=" Hrun " label=" Hrun " />
+      <node id=" Kring " label=" Kring " />
+      <node id=" Bravd " label=" Bravd " />
+      <node id=" Blind Hugh " label=" Blind Hugh " />
+      <node id=" Bel-Shamharoth " label=" Bel-Shamharoth " />
+      <node id=" bush " label=" bush " />
+      <node id=" Krull " label=" Krull " />
+      <node id=" Vestcake " label=" Vestcake " />
+      <node id=" Liessa " label=" Liessa " />
+      <node id=" Druellae " label=" Druellae " />
+      <node id=" Rincewind " label=" Rincewind " />
+      <node id=" Wyrmberg " label=" Wyrmberg " />
+      <node id=" Zlorf Flannelfoot " label=" Zlorf Flannelfoot " />
+      <node id=" Gorrin " label=" Gorrin " />
+      <node id=" Laolith " label=" Laolith " />
+      <node id=" Psepha " label=" Psepha " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Broadman " target=" Rincewind " weight="1" />
+      <edge id="1" source=" Broadman " target=" Ymor " weight="3" />
+      <edge id="2" source=" Broadman " target=" Twoflower " weight="1" />
+      <edge id="3" source=" Broadman " target=" Blind Hugh " weight="1" />
+      <edge id="4" source=" Withel Stren " target=" Rincewind " weight="3" />
+      <edge id="5" source=" Withel Stren " target=" Ymor " weight="1" />
+      <edge id="6" source=" Withel Stren " target=" Twoflower " weight="1" />
+      <edge id="7" source=" Tethis " target=" Twoflower " weight="1" />
+      <edge id="8" source=" Tethis " target=" Krull " weight="1" />
+      <edge id="9" source=" Garhartra " target=" Rincewind " weight="1" />
+      <edge id="10" source=" Terton " target=" Krull " weight="1" />
+      <edge id="11" source=" Liartes " target=" Hrun " weight="1" />
+      <edge id="12" source=" Liartes " target=" bush " weight="3" />
+      <edge id="13" source=" Liartes " target=" Liessa " weight="1" />
+      <edge id="14" source=" Nef " target=" Rincewind " weight="2" />
+      <edge id="15" source=" Nef " target=" Wyrmberg " weight="1" />
+      <edge id="16" source=" Nef " target=" Twoflower " weight="1" />
+      <edge id="17" source=" Ymor " target=" Gorrin " weight="1" />
+      <edge id="18" source=" Ymor " target=" Zlorf Flannelfoot " weight="3" />
+      <edge id="19" source=" Ymor " target=" Blind Hugh " weight="2" />
+      <edge id="20" source=" Twoflower " target=" Kring " weight="1" />
+      <edge id="21" source=" Twoflower " target=" Hrun " weight="5" />
+      <edge id="22" source=" Twoflower " target=" Rincewind " weight="20" />
+      <edge id="23" source=" Twoflower " target=" Blind Hugh " weight="3" />
+      <edge id="24" source=" Hrun " target=" bush " weight="8" />
+      <edge id="25" source=" Hrun " target=" Liessa " weight="3" />
+      <edge id="26" source=" Hrun " target=" Kring " weight="3" />
+      <edge id="27" source=" Hrun " target=" Bravd " weight="1" />
+      <edge id="28" source=" Hrun " target=" Rincewind " weight="2" />
+      <edge id="29" source=" Kring " target=" Rincewind " weight="6" />
+      <edge id="30" source=" Kring " target=" Psepha " weight="1" />
+      <edge id="31" source=" Blind Hugh " target=" Rincewind " weight="2" />
+      <edge id="32" source=" Bel-Shamharoth " target=" Rincewind " weight="1" />
+      <edge id="33" source=" bush " target=" Liessa " weight="1" />
+      <edge id="34" source=" Krull " target=" Rincewind " weight="3" />
+      <edge id="35" source=" Krull " target=" Vestcake " weight="1" />
+      <edge id="36" source=" Liessa " target=" Laolith " weight="2" />
+      <edge id="37" source=" Druellae " target=" Rincewind " weight="1" />
+      <edge id="38" source=" Rincewind " target=" Wyrmberg " weight="1" />
+      <edge id="39" source=" Rincewind " target=" Psepha " weight="1" />
+    </edges>
+  </graph>
+</gexf>

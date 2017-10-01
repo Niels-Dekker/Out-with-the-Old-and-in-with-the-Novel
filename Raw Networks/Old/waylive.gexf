@@ -1,0 +1,774 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Monsieur " label=" Monsieur " />
+      <node id=" Carbury Hall " label=" Carbury Hall " />
+      <node id=" Montague MONTAGUE Paul PAUL Mrs. " label=" Montague MONTAGUE Paul PAUL Mrs. " />
+      <node id=" Miss Carbury " label=" Miss Carbury " />
+      <node id=" Mixet Joe " label=" Mixet Joe " />
+      <node id=" Alf ALF Mr. MR. Ferdinand " label=" Alf ALF Mr. MR. Ferdinand " />
+      <node id=" Staines " label=" Staines " />
+      <node id=" MARIE MELMOTTE Marie Melmotte " label=" MARIE MELMOTTE Marie Melmotte " />
+      <node id=" Lord Griffin De " label=" Lord Griffin De " />
+      <node id=" St. Fabricius " label=" St. Fabricius " />
+      <node id=" Mr. Wilson " label=" Mr. Wilson " />
+      <node id=" Grassloughs " label=" Grassloughs " />
+      <node id=" Legge Wilson " label=" Legge Wilson " />
+      <node id=" MISS MELMOTTE Miss Melmotte " label=" MISS MELMOTTE Miss Melmotte " />
+      <node id=" Brehgert Mr. MR. BREHGERT " label=" Brehgert Mr. MR. BREHGERT " />
+      <node id=" Monogram Damask " label=" Monogram Damask " />
+      <node id=" Mr. George Whitstable " label=" Mr. George Whitstable " />
+      <node id=" Barham John BARHAM " label=" Barham John BARHAM " />
+      <node id=" Brehgert EZEKIEL Ezekiel BREHGERT " label=" Brehgert EZEKIEL Ezekiel BREHGERT " />
+      <node id=" Mr. Primero " label=" Mr. Primero " />
+      <node id=" Blake Septimus " label=" Blake Septimus " />
+      <node id=" Mixet Mr. " label=" Mixet Mr. " />
+      <node id=" Marquis " label=" Marquis " />
+      <node id=" Mr. Crumb " label=" Mr. Crumb " />
+      <node id=" Cuthbert " label=" Cuthbert " />
+      <node id=" Lord Buntingford " label=" Lord Buntingford " />
+      <node id=" Melmotte Madame " label=" Melmotte Madame " />
+      <node id=" Dante " label=" Dante " />
+      <node id=" Ramsbottom Mr. " label=" Ramsbottom Mr. " />
+      <node id=" Jones Mr. " label=" Jones Mr. " />
+      <node id=" Mr. Bumby " label=" Mr. Bumby " />
+      <node id=" Robert " label=" Robert " />
+      <node id=" Lady Julia Goldsheiner " label=" Lady Julia Goldsheiner " />
+      <node id=" Henrietta Carbury CARBURY HENRIETTA " label=" Henrietta Carbury CARBURY HENRIETTA " />
+      <node id=" Mr. Loiter " label=" Mr. Loiter " />
+      <node id=" Auld Reekie " label=" Auld Reekie " />
+      <node id=" Lincoln " label=" Lincoln " />
+      <node id=" Mary " label=" Mary " />
+      <node id=" Grasslough Lord " label=" Grasslough Lord " />
+      <node id=" Montague Mr. Paul " label=" Montague Mr. Paul " />
+      <node id=" Carbury Manor " label=" Carbury Manor " />
+      <node id=" Pickering Park " label=" Pickering Park " />
+      <node id=" Herr Vossner " label=" Herr Vossner " />
+      <node id=" Brown Mr. " label=" Brown Mr. " />
+      <node id=" Mr. MR. COHENLUPE Cohenlupe " label=" Mr. MR. COHENLUPE Cohenlupe " />
+      <node id=" Melmottes " label=" Melmottes " />
+      <node id=" Mr. Todd " label=" Mr. Todd " />
+      <node id=" Westminster " label=" Westminster " />
+      <node id=" Ruggles Daniel " label=" Ruggles Daniel " />
+      <node id=" Mr. MR. Squercum SQUERCUM " label=" Mr. MR. Squercum SQUERCUM " />
+      <node id=" Barham Father " label=" Barham Father " />
+      <node id=" HAMILTON Fisker Hamilton K. FISKER " label=" HAMILTON Fisker Hamilton K. FISKER " />
+      <node id=" Mademoiselle Racine " label=" Mademoiselle Racine " />
+      <node id=" LONGESTAFFE Longestaffe Dolly DOLLY " label=" LONGESTAFFE Longestaffe Dolly DOLLY " />
+      <node id=" Mr. Blake " label=" Mr. Blake " />
+      <node id=" Mr. Booker " label=" Mr. Booker " />
+      <node id=" Mr. Hepworth " label=" Mr. Hepworth " />
+      <node id=" Barham Mr. " label=" Barham Mr. " />
+      <node id=" Mr. Splinter " label=" Mr. Splinter " />
+      <node id=" Mr. Croll " label=" Mr. Croll " />
+      <node id=" Mr. MR. Fisker FISKER " label=" Mr. MR. Fisker FISKER " />
+      <node id=" Lowestoft " label=" Lowestoft " />
+      <node id=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " label=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " />
+      <node id=" Muster Carbury " label=" Muster Carbury " />
+      <node id=" Beargarden " label=" Beargarden " />
+      <node id=" Georgey " label=" Georgey " />
+      <node id=" Broune Mrs. " label=" Broune Mrs. " />
+      <node id=" Longestaffe Sophia " label=" Longestaffe Sophia " />
+      <node id=" Prince " label=" Prince " />
+      <node id=" George Mrs. Whitstable " label=" George Mrs. Whitstable " />
+      <node id=" Ruggles Mr. " label=" Ruggles Mr. " />
+      <node id=" Lord GRENDALL Grendall Alfred " label=" Lord GRENDALL Grendall Alfred " />
+      <node id=" Mr. Smith " label=" Mr. Smith " />
+      <node id=" Jane Lady Pewet " label=" Jane Lady Pewet " />
+      <node id=" Adam " label=" Adam " />
+      <node id=" Bishop " label=" Bishop " />
+      <node id=" Primeros " label=" Primeros " />
+      <node id=" Lane Abchurch " label=" Lane Abchurch " />
+      <node id=" Grendall Miles Mr. " label=" Grendall Miles Mr. " />
+      <node id=" Lupton Lionel " label=" Lupton Lionel " />
+      <node id=" Street BRUTON Bruton " label=" Street BRUTON Bruton " />
+      <node id=" Mr. Bideawhile " label=" Mr. Bideawhile " />
+      <node id=" Mr. Goldsheiner " label=" Mr. Goldsheiner " />
+      <node id=" Mr. Flatfleece " label=" Mr. Flatfleece " />
+      <node id=" Gregory Gribe " label=" Gregory Gribe " />
+      <node id=" Start Lady Julia " label=" Start Lady Julia " />
+      <node id=" Patrick " label=" Patrick " />
+      <node id=" Ruggles Ruby Miss " label=" Ruggles Ruby Miss " />
+      <node id=" Mrs. Melmotte " label=" Mrs. Melmotte " />
+      <node id=" Albury " label=" Albury " />
+      <node id=" Squire " label=" Squire " />
+      <node id=" O. U. I. " label=" O. U. I. " />
+      <node id=" Vera Cruz " label=" Vera Cruz " />
+      <node id=" Mr. Leadham " label=" Mr. Leadham " />
+      <node id=" Beccles " label=" Beccles " />
+      <node id=" Jones Tom " label=" Jones Tom " />
+      <node id=" ROGER Mr. Roger Carbury CARBURY " label=" ROGER Mr. Roger Carbury CARBURY " />
+      <node id=" LADY Lady Carbury " label=" LADY Lady Carbury " />
+      <node id=" Boss David " label=" Boss David " />
+      <node id=" Mr. Killegrew " label=" Mr. Killegrew " />
+      <node id=" Jove " label=" Jove " />
+      <node id=" FELIX Felix Carbury CARBURY " label=" FELIX Felix Carbury CARBURY " />
+      <node id=" Bungay " label=" Bungay " />
+      <node id=" Elise Didon " label=" Elise Didon " />
+      <node id=" Catchboy Lady " label=" Catchboy Lady " />
+      <node id=" Pipkins " label=" Pipkins " />
+      <node id=" Lane Fetter " label=" Lane Fetter " />
+      <node id=" Hetta HETTA Carbury CARBURY " label=" Hetta HETTA Carbury CARBURY " />
+      <node id=" Herr Croll " label=" Herr Croll " />
+      <node id=" Lady Pomona " label=" Lady Pomona " />
+      <node id=" Sophy " label=" Sophy " />
+      <node id=" Buggins Mrs. " label=" Buggins Mrs. " />
+      <node id=" Mr. Hurtle " label=" Mr. Hurtle " />
+      <node id=" Nidderdale Lord NIDDERDALE LORD " label=" Nidderdale Lord NIDDERDALE LORD " />
+      <node id=" Brehgert Mrs. " label=" Brehgert Mrs. " />
+      <node id=" Mr. Beauclerk Beauchamp " label=" Mr. Beauclerk Beauchamp " />
+      <node id=" Fisker Mrs. " label=" Fisker Mrs. " />
+      <node id=" Pipkin Mrs. " label=" Pipkin Mrs. " />
+      <node id=" Mr. MR. Broune BROUNE " label=" Mr. MR. Broune BROUNE " />
+      <node id="#N/A" label="#N/A" />
+      <node id=" Mr. Batherbolt " label=" Mr. Batherbolt " />
+      <node id=" Toodlam " label=" Toodlam " />
+      <node id=" Dukes " label=" Dukes " />
+      <node id=" HURTLE Hurtle MRS. Mrs. " label=" HURTLE Hurtle MRS. Mrs. " />
+      <node id=" Monogram LADY MONOGRAM Lady " label=" Monogram LADY MONOGRAM Lady " />
+      <node id=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " label=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " />
+      <node id=" Barker Fitzgerald " label=" Barker Fitzgerald " />
+      <node id=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " label=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " />
+      <node id=" CRUMB JOHN John Crumb Mrs. " label=" CRUMB JOHN John Crumb Mrs. " />
+      <node id=" Didon Madame " label=" Didon Madame " />
+      <node id=" Robinson Crusoe " label=" Robinson Crusoe " />
+      <node id=" Lupton Mr. " label=" Lupton Mr. " />
+      <node id=" Julia Triplex " label=" Julia Triplex " />
+      <node id=" Yeld Mrs. " label=" Yeld Mrs. " />
+      <node id=" Mrs. Primero " label=" Mrs. Primero " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Monsieur " target=" MARIE MELMOTTE Marie Melmotte " weight="1" />
+      <edge id="1" source=" Monsieur " target=" Didon Madame " weight="1" />
+      <edge id="2" source=" Carbury Hall " target=" Barham Father " weight="1" />
+      <edge id="3" source=" Carbury Hall " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="4" source=" Carbury Hall " target=" Lady Pomona " weight="1" />
+      <edge id="5" source=" Carbury Hall " target=" LADY Lady Carbury " weight="1" />
+      <edge id="6" source=" Carbury Hall " target=" Henrietta Carbury CARBURY HENRIETTA " weight="1" />
+      <edge id="7" source=" Carbury Hall " target=" Barham John BARHAM " weight="1" />
+      <edge id="8" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Grendall Miles Mr. " weight="6" />
+      <edge id="9" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Hetta HETTA Carbury CARBURY " weight="21" />
+      <edge id="10" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Grasslough Lord " weight="1" />
+      <edge id="11" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Montague Mr. Paul " weight="6" />
+      <edge id="12" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Herr Vossner " weight="1" />
+      <edge id="13" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Mr. MR. COHENLUPE Cohenlupe " weight="8" />
+      <edge id="14" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Gregory Gribe " weight="1" />
+      <edge id="15" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" MARIE MELMOTTE Marie Melmotte " weight="19" />
+      <edge id="16" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Pipkin Mrs. " weight="5" />
+      <edge id="17" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" HAMILTON Fisker Hamilton K. FISKER " weight="45" />
+      <edge id="18" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="2" />
+      <edge id="19" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Didon Madame " weight="1" />
+      <edge id="20" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Ruggles Ruby Miss " weight="2" />
+      <edge id="21" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Broune Mrs. " weight="1" />
+      <edge id="22" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" HURTLE Hurtle MRS. Mrs. " weight="46" />
+      <edge id="23" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Vera Cruz " weight="2" />
+      <edge id="24" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Mr. Croll " weight="1" />
+      <edge id="25" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Mr. MR. Fisker FISKER " weight="10" />
+      <edge id="26" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Lowestoft " weight="1" />
+      <edge id="27" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Brehgert EZEKIEL Ezekiel BREHGERT " weight="1" />
+      <edge id="28" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Mixet Mr. " weight="1" />
+      <edge id="29" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Mr. MR. Broune BROUNE " weight="5" />
+      <edge id="30" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="1" />
+      <edge id="31" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" ROGER Mr. Roger Carbury CARBURY " weight="47" />
+      <edge id="32" source=" Montague MONTAGUE Paul PAUL Mrs. " target="#N/A" weight="1" />
+      <edge id="33" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" LADY Lady Carbury " weight="11" />
+      <edge id="34" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Mr. Crumb " weight="1" />
+      <edge id="35" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" FELIX Felix Carbury CARBURY " weight="24" />
+      <edge id="36" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Ramsbottom Mr. " weight="4" />
+      <edge id="37" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Lord GRENDALL Grendall Alfred " weight="4" />
+      <edge id="38" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Bungay " weight="3" />
+      <edge id="39" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="11" />
+      <edge id="40" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Pipkins " weight="1" />
+      <edge id="41" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" CRUMB JOHN John Crumb Mrs. " weight="3" />
+      <edge id="42" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Nidderdale Lord NIDDERDALE LORD " weight="3" />
+      <edge id="43" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Mr. Hurtle " weight="1" />
+      <edge id="44" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Henrietta Carbury CARBURY HENRIETTA " weight="9" />
+      <edge id="45" source=" Montague MONTAGUE Paul PAUL Mrs. " target=" Lane Abchurch " weight="1" />
+      <edge id="46" source=" Miss Carbury " target=" MARIE MELMOTTE Marie Melmotte " weight="1" />
+      <edge id="47" source=" Miss Carbury " target=" ROGER Mr. Roger Carbury CARBURY " weight="3" />
+      <edge id="48" source=" Miss Carbury " target=" Hetta HETTA Carbury CARBURY " weight="1" />
+      <edge id="49" source=" Mixet Joe " target=" Pipkin Mrs. " weight="3" />
+      <edge id="50" source=" Mixet Joe " target=" Ruggles Mr. " weight="1" />
+      <edge id="51" source=" Mixet Joe " target=" Ruggles Ruby Miss " weight="11" />
+      <edge id="52" source=" Mixet Joe " target=" Bungay " weight="2" />
+      <edge id="53" source=" Mixet Joe " target=" CRUMB JOHN John Crumb Mrs. " weight="20" />
+      <edge id="54" source=" Mixet Joe " target=" Mr. Crumb " weight="1" />
+      <edge id="55" source=" Mixet Joe " target=" HURTLE Hurtle MRS. Mrs. " weight="3" />
+      <edge id="56" source=" Mixet Joe " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="57" source=" Alf ALF Mr. MR. Ferdinand " target=" St. Fabricius " weight="1" />
+      <edge id="58" source=" Alf ALF Mr. MR. Ferdinand " target=" Jones Mr. " weight="2" />
+      <edge id="59" source=" Alf ALF Mr. MR. Ferdinand " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="60" source=" Alf ALF Mr. MR. Ferdinand " target=" Mr. MR. Broune BROUNE " weight="7" />
+      <edge id="61" source=" Alf ALF Mr. MR. Ferdinand " target=" Mr. Booker " weight="6" />
+      <edge id="62" source=" Alf ALF Mr. MR. Ferdinand " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="63" source=" Alf ALF Mr. MR. Ferdinand " target=" Barker Fitzgerald " weight="1" />
+      <edge id="64" source=" Alf ALF Mr. MR. Ferdinand " target=" Mr. Bideawhile " weight="1" />
+      <edge id="65" source=" Alf ALF Mr. MR. Ferdinand " target=" LADY Lady Carbury " weight="24" />
+      <edge id="66" source=" Alf ALF Mr. MR. Ferdinand " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="4" />
+      <edge id="67" source=" Alf ALF Mr. MR. Ferdinand " target=" Dukes " weight="1" />
+      <edge id="68" source=" Alf ALF Mr. MR. Ferdinand " target=" MARIE MELMOTTE Marie Melmotte " weight="1" />
+      <edge id="69" source=" Alf ALF Mr. MR. Ferdinand " target=" FELIX Felix Carbury CARBURY " weight="6" />
+      <edge id="70" source=" Alf ALF Mr. MR. Ferdinand " target=" Westminster " weight="1" />
+      <edge id="71" source=" Staines " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="72" source=" Staines " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="73" source=" Staines " target=" Montague Mr. Paul " weight="1" />
+      <edge id="74" source=" Staines " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="75" source=" MARIE MELMOTTE Marie Melmotte " target=" Grendall Miles Mr. " weight="7" />
+      <edge id="76" source=" MARIE MELMOTTE Marie Melmotte " target=" Hetta HETTA Carbury CARBURY " weight="4" />
+      <edge id="77" source=" MARIE MELMOTTE Marie Melmotte " target=" Lupton Lionel " weight="2" />
+      <edge id="78" source=" MARIE MELMOTTE Marie Melmotte " target=" Robert " weight="1" />
+      <edge id="79" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. Bideawhile " weight="6" />
+      <edge id="80" source=" MARIE MELMOTTE Marie Melmotte " target=" Montague Mr. Paul " weight="6" />
+      <edge id="81" source=" MARIE MELMOTTE Marie Melmotte " target=" Lady Pomona " weight="2" />
+      <edge id="82" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. Booker " weight="3" />
+      <edge id="83" source=" MARIE MELMOTTE Marie Melmotte " target=" Elise Didon " weight="1" />
+      <edge id="84" source=" MARIE MELMOTTE Marie Melmotte " target=" Monogram LADY MONOGRAM Lady " weight="9" />
+      <edge id="85" source=" MARIE MELMOTTE Marie Melmotte " target=" Pickering Park " weight="7" />
+      <edge id="86" source=" MARIE MELMOTTE Marie Melmotte " target=" Herr Vossner " weight="1" />
+      <edge id="87" source=" MARIE MELMOTTE Marie Melmotte " target=" Brown Mr. " weight="9" />
+      <edge id="88" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. MR. COHENLUPE Cohenlupe " weight="13" />
+      <edge id="89" source=" MARIE MELMOTTE Marie Melmotte " target=" Gregory Gribe " weight="1" />
+      <edge id="90" source=" MARIE MELMOTTE Marie Melmotte " target=" Auld Reekie " weight="2" />
+      <edge id="91" source=" MARIE MELMOTTE Marie Melmotte " target=" Lord Griffin De " weight="2" />
+      <edge id="92" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. MR. Squercum SQUERCUM " weight="9" />
+      <edge id="93" source=" MARIE MELMOTTE Marie Melmotte " target=" Barham Father " weight="1" />
+      <edge id="94" source=" MARIE MELMOTTE Marie Melmotte " target=" HAMILTON Fisker Hamilton K. FISKER " weight="15" />
+      <edge id="95" source=" MARIE MELMOTTE Marie Melmotte " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="8" />
+      <edge id="96" source=" MARIE MELMOTTE Marie Melmotte " target=" Nidderdale Lord NIDDERDALE LORD " weight="26" />
+      <edge id="97" source=" MARIE MELMOTTE Marie Melmotte " target=" Grassloughs " weight="1" />
+      <edge id="98" source=" MARIE MELMOTTE Marie Melmotte " target=" Albury " weight="1" />
+      <edge id="99" source=" MARIE MELMOTTE Marie Melmotte " target=" Legge Wilson " weight="1" />
+      <edge id="100" source=" MARIE MELMOTTE Marie Melmotte " target=" Melmotte Madame " weight="35" />
+      <edge id="101" source=" MARIE MELMOTTE Marie Melmotte " target=" O. U. I. " weight="1" />
+      <edge id="102" source=" MARIE MELMOTTE Marie Melmotte " target=" HURTLE Hurtle MRS. Mrs. " weight="4" />
+      <edge id="103" source=" MARIE MELMOTTE Marie Melmotte " target=" Brehgert Mr. MR. BREHGERT " weight="5" />
+      <edge id="104" source=" MARIE MELMOTTE Marie Melmotte " target=" Grasslough Lord " weight="7" />
+      <edge id="105" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. Croll " weight="33" />
+      <edge id="106" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. MR. Fisker FISKER " weight="10" />
+      <edge id="107" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. George Whitstable " weight="1" />
+      <edge id="108" source=" MARIE MELMOTTE Marie Melmotte " target=" Fisker Mrs. " weight="2" />
+      <edge id="109" source=" MARIE MELMOTTE Marie Melmotte " target=" Herr Croll " weight="4" />
+      <edge id="110" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. Leadham " weight="2" />
+      <edge id="111" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. MR. Broune BROUNE " weight="15" />
+      <edge id="112" source=" MARIE MELMOTTE Marie Melmotte " target=" Lord Buntingford " weight="1" />
+      <edge id="113" source=" MARIE MELMOTTE Marie Melmotte " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="8" />
+      <edge id="114" source=" MARIE MELMOTTE Marie Melmotte " target=" Mr. Beauclerk Beauchamp " weight="5" />
+      <edge id="115" source=" MARIE MELMOTTE Marie Melmotte " target=" ROGER Mr. Roger Carbury CARBURY " weight="11" />
+      <edge id="116" source=" MARIE MELMOTTE Marie Melmotte " target="#N/A" weight="1" />
+      <edge id="117" source=" MARIE MELMOTTE Marie Melmotte " target=" LADY Lady Carbury " weight="9" />
+      <edge id="118" source=" MARIE MELMOTTE Marie Melmotte " target=" Marquis " weight="4" />
+      <edge id="119" source=" MARIE MELMOTTE Marie Melmotte " target=" Carbury Manor " weight="1" />
+      <edge id="120" source=" MARIE MELMOTTE Marie Melmotte " target=" Henrietta Carbury CARBURY HENRIETTA " weight="2" />
+      <edge id="121" source=" MARIE MELMOTTE Marie Melmotte " target=" FELIX Felix Carbury CARBURY " weight="44" />
+      <edge id="122" source=" MARIE MELMOTTE Marie Melmotte " target=" Monogram Damask " weight="2" />
+      <edge id="123" source=" MARIE MELMOTTE Marie Melmotte " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="8" />
+      <edge id="124" source=" MARIE MELMOTTE Marie Melmotte " target=" Lord GRENDALL Grendall Alfred " weight="36" />
+      <edge id="125" source=" MARIE MELMOTTE Marie Melmotte " target=" Jane Lady Pewet " weight="1" />
+      <edge id="126" source=" MARIE MELMOTTE Marie Melmotte " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="17" />
+      <edge id="127" source=" MARIE MELMOTTE Marie Melmotte " target=" Didon Madame " weight="11" />
+      <edge id="128" source=" MARIE MELMOTTE Marie Melmotte " target=" Prince " weight="2" />
+      <edge id="129" source=" MARIE MELMOTTE Marie Melmotte " target=" Julia Triplex " weight="1" />
+      <edge id="130" source=" MARIE MELMOTTE Marie Melmotte " target=" Barham John BARHAM " weight="2" />
+      <edge id="131" source=" MARIE MELMOTTE Marie Melmotte " target=" Mrs. Primero " weight="2" />
+      <edge id="132" source=" MARIE MELMOTTE Marie Melmotte " target=" Lane Abchurch " weight="1" />
+      <edge id="133" source=" Lord Griffin De " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="134" source=" Lord Griffin De " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="3" />
+      <edge id="135" source=" Lord Griffin De " target=" Mr. Wilson " weight="1" />
+      <edge id="136" source=" St. Fabricius " target=" Barham Father " weight="1" />
+      <edge id="137" source=" St. Fabricius " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="138" source=" St. Fabricius " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="139" source=" Mr. Wilson " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="140" source=" Legge Wilson " target=" Prince " weight="1" />
+      <edge id="141" source=" Legge Wilson " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="142" source=" MISS MELMOTTE Miss Melmotte " target=" HAMILTON Fisker Hamilton K. FISKER " weight="2" />
+      <edge id="143" source=" MISS MELMOTTE Miss Melmotte " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="144" source=" MISS MELMOTTE Miss Melmotte " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="1" />
+      <edge id="145" source=" MISS MELMOTTE Miss Melmotte " target=" Street BRUTON Bruton " weight="1" />
+      <edge id="146" source=" MISS MELMOTTE Miss Melmotte " target=" Mademoiselle Racine " weight="1" />
+      <edge id="147" source=" MISS MELMOTTE Miss Melmotte " target=" Elise Didon " weight="1" />
+      <edge id="148" source=" MISS MELMOTTE Miss Melmotte " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="149" source=" MISS MELMOTTE Miss Melmotte " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="150" source=" MISS MELMOTTE Miss Melmotte " target=" FELIX Felix Carbury CARBURY " weight="8" />
+      <edge id="151" source=" MISS MELMOTTE Miss Melmotte " target=" Mr. Croll " weight="1" />
+      <edge id="152" source=" MISS MELMOTTE Miss Melmotte " target=" Mr. MR. Fisker FISKER " weight="1" />
+      <edge id="153" source=" MISS MELMOTTE Miss Melmotte " target=" Hetta HETTA Carbury CARBURY " weight="2" />
+      <edge id="154" source=" Brehgert Mr. MR. BREHGERT " target=" Mr. MR. Squercum SQUERCUM " weight="1" />
+      <edge id="155" source=" Brehgert Mr. MR. BREHGERT " target=" HAMILTON Fisker Hamilton K. FISKER " weight="1" />
+      <edge id="156" source=" Brehgert Mr. MR. BREHGERT " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="1" />
+      <edge id="157" source=" Brehgert Mr. MR. BREHGERT " target=" Mr. Todd " weight="1" />
+      <edge id="158" source=" Brehgert Mr. MR. BREHGERT " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="11" />
+      <edge id="159" source=" Brehgert Mr. MR. BREHGERT " target=" Brehgert Mrs. " weight="1" />
+      <edge id="160" source=" Brehgert Mr. MR. BREHGERT " target=" Lady Pomona " weight="2" />
+      <edge id="161" source=" Brehgert Mr. MR. BREHGERT " target=" Georgey " weight="2" />
+      <edge id="162" source=" Brehgert Mr. MR. BREHGERT " target=" Cuthbert " weight="1" />
+      <edge id="163" source=" Brehgert Mr. MR. BREHGERT " target=" Sophy " weight="1" />
+      <edge id="164" source=" Brehgert Mr. MR. BREHGERT " target=" Lady Julia Goldsheiner " weight="1" />
+      <edge id="165" source=" Brehgert Mr. MR. BREHGERT " target=" Longestaffe Sophia " weight="1" />
+      <edge id="166" source=" Brehgert Mr. MR. BREHGERT " target=" Mr. George Whitstable " weight="2" />
+      <edge id="167" source=" Brehgert Mr. MR. BREHGERT " target=" Brehgert EZEKIEL Ezekiel BREHGERT " weight="1" />
+      <edge id="168" source=" Brehgert Mr. MR. BREHGERT " target=" Mr. Croll " weight="5" />
+      <edge id="169" source=" Brehgert Mr. MR. BREHGERT " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="2" />
+      <edge id="170" source=" Brehgert Mr. MR. BREHGERT " target=" Monogram LADY MONOGRAM Lady " weight="6" />
+      <edge id="171" source=" Brehgert Mr. MR. BREHGERT " target=" George Mrs. Whitstable " weight="2" />
+      <edge id="172" source=" Brehgert Mr. MR. BREHGERT " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="24" />
+      <edge id="173" source=" Monogram Damask " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="174" source=" Monogram Damask " target=" Mr. Goldsheiner " weight="1" />
+      <edge id="175" source=" Monogram Damask " target=" Julia Triplex " weight="1" />
+      <edge id="176" source=" Monogram Damask " target=" Monogram LADY MONOGRAM Lady " weight="1" />
+      <edge id="177" source=" Monogram Damask " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="178" source=" Mr. George Whitstable " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="7" />
+      <edge id="179" source=" Mr. George Whitstable " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="180" source=" Mr. George Whitstable " target=" Grasslough Lord " weight="1" />
+      <edge id="181" source=" Mr. George Whitstable " target=" Lady Pomona " weight="1" />
+      <edge id="182" source=" Mr. George Whitstable " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="183" source=" Mr. George Whitstable " target=" Longestaffe Sophia " weight="9" />
+      <edge id="184" source=" Mr. George Whitstable " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="185" source=" Mr. George Whitstable " target=" Toodlam " weight="1" />
+      <edge id="186" source=" Mr. George Whitstable " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="5" />
+      <edge id="187" source=" Barham John BARHAM " target=" ROGER Mr. Roger Carbury CARBURY " weight="3" />
+      <edge id="188" source=" Barham John BARHAM " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="3" />
+      <edge id="189" source=" Barham John BARHAM " target=" LADY Lady Carbury " weight="2" />
+      <edge id="190" source=" Barham John BARHAM " target=" Mr. Hepworth " weight="1" />
+      <edge id="191" source=" Barham John BARHAM " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="192" source=" Barham John BARHAM " target=" Yeld Mrs. " weight="1" />
+      <edge id="193" source=" Brehgert EZEKIEL Ezekiel BREHGERT " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="1" />
+      <edge id="194" source=" Brehgert EZEKIEL Ezekiel BREHGERT " target=" Brehgert Mrs. " weight="1" />
+      <edge id="195" source=" Brehgert EZEKIEL Ezekiel BREHGERT " target=" Lady Julia Goldsheiner " weight="3" />
+      <edge id="196" source=" Brehgert EZEKIEL Ezekiel BREHGERT " target=" Mr. Todd " weight="3" />
+      <edge id="197" source=" Mr. Primero " target=" Mrs. Primero " weight="1" />
+      <edge id="198" source=" Blake Septimus " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="199" source=" Blake Septimus " target=" Mr. MR. Broune BROUNE " weight="2" />
+      <edge id="200" source=" Mixet Mr. " target=" Pipkin Mrs. " weight="1" />
+      <edge id="201" source=" Mixet Mr. " target=" Bungay " weight="1" />
+      <edge id="202" source=" Mixet Mr. " target=" Ruggles Ruby Miss " weight="1" />
+      <edge id="203" source=" Mixet Mr. " target=" Pipkins " weight="1" />
+      <edge id="204" source=" Mixet Mr. " target=" CRUMB JOHN John Crumb Mrs. " weight="8" />
+      <edge id="205" source=" Marquis " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="206" source=" Marquis " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="207" source=" Marquis " target=" Auld Reekie " weight="2" />
+      <edge id="208" source=" Marquis " target=" Nidderdale Lord NIDDERDALE LORD " weight="2" />
+      <edge id="209" source=" Mr. Crumb " target=" Pipkin Mrs. " weight="2" />
+      <edge id="210" source=" Mr. Crumb " target=" Ruggles Mr. " weight="1" />
+      <edge id="211" source=" Mr. Crumb " target=" Ruggles Ruby Miss " weight="5" />
+      <edge id="212" source=" Mr. Crumb " target=" Bungay " weight="1" />
+      <edge id="213" source=" Mr. Crumb " target=" Buggins Mrs. " weight="1" />
+      <edge id="214" source=" Mr. Crumb " target=" CRUMB JOHN John Crumb Mrs. " weight="12" />
+      <edge id="215" source=" Mr. Crumb " target=" FELIX Felix Carbury CARBURY " weight="2" />
+      <edge id="216" source=" Mr. Crumb " target=" HURTLE Hurtle MRS. Mrs. " weight="10" />
+      <edge id="217" source=" Mr. Crumb " target=" ROGER Mr. Roger Carbury CARBURY " weight="2" />
+      <edge id="218" source=" Cuthbert " target=" Mr. Croll " weight="1" />
+      <edge id="219" source=" Lord Buntingford " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="220" source=" Lord Buntingford " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="221" source=" Melmotte Madame " target=" Auld Reekie " weight="1" />
+      <edge id="222" source=" Melmotte Madame " target=" Grasslough Lord " weight="1" />
+      <edge id="223" source=" Melmotte Madame " target=" Lady Pomona " weight="3" />
+      <edge id="224" source=" Melmotte Madame " target=" Pickering Park " weight="1" />
+      <edge id="225" source=" Melmotte Madame " target=" Mr. MR. COHENLUPE Cohenlupe " weight="1" />
+      <edge id="226" source=" Melmotte Madame " target=" Grendall Miles Mr. " weight="2" />
+      <edge id="227" source=" Melmotte Madame " target=" HAMILTON Fisker Hamilton K. FISKER " weight="5" />
+      <edge id="228" source=" Melmotte Madame " target=" Didon Madame " weight="2" />
+      <edge id="229" source=" Melmotte Madame " target=" Mr. Croll " weight="3" />
+      <edge id="230" source=" Melmotte Madame " target=" Mr. MR. Fisker FISKER " weight="2" />
+      <edge id="231" source=" Melmotte Madame " target=" Herr Croll " weight="1" />
+      <edge id="232" source=" Melmotte Madame " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="1" />
+      <edge id="233" source=" Melmotte Madame " target=" ROGER Mr. Roger Carbury CARBURY " weight="2" />
+      <edge id="234" source=" Melmotte Madame " target=" LADY Lady Carbury " weight="2" />
+      <edge id="235" source=" Melmotte Madame " target=" Longestaffe Sophia " weight="1" />
+      <edge id="236" source=" Melmotte Madame " target=" FELIX Felix Carbury CARBURY " weight="9" />
+      <edge id="237" source=" Melmotte Madame " target=" Monogram LADY MONOGRAM Lady " weight="4" />
+      <edge id="238" source=" Melmotte Madame " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="4" />
+      <edge id="239" source=" Melmotte Madame " target=" Lord GRENDALL Grendall Alfred " weight="2" />
+      <edge id="240" source=" Melmotte Madame " target=" Jane Lady Pewet " weight="1" />
+      <edge id="241" source=" Melmotte Madame " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="4" />
+      <edge id="242" source=" Melmotte Madame " target=" Nidderdale Lord NIDDERDALE LORD " weight="2" />
+      <edge id="243" source=" Melmotte Madame " target=" Mrs. Primero " weight="1" />
+      <edge id="244" source=" Dante " target=" Hetta HETTA Carbury CARBURY " weight="1" />
+      <edge id="245" source=" Ramsbottom Mr. " target=" HAMILTON Fisker Hamilton K. FISKER " weight="1" />
+      <edge id="246" source=" Ramsbottom Mr. " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="247" source=" Ramsbottom Mr. " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="248" source=" Ramsbottom Mr. " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="249" source=" Ramsbottom Mr. " target=" HURTLE Hurtle MRS. Mrs. " weight="3" />
+      <edge id="250" source=" Ramsbottom Mr. " target=" Mr. MR. Fisker FISKER " weight="1" />
+      <edge id="251" source=" Jones Mr. " target=" Mr. Leadham " weight="2" />
+      <edge id="252" source=" Jones Mr. " target=" Mr. MR. Broune BROUNE " weight="1" />
+      <edge id="253" source=" Jones Mr. " target=" Mr. Booker " weight="1" />
+      <edge id="254" source=" Jones Mr. " target=" Mr. Beauclerk Beauchamp " weight="1" />
+      <edge id="255" source=" Jones Mr. " target=" LADY Lady Carbury " weight="2" />
+      <edge id="256" source=" Mr. Bumby " target=" Mr. MR. Squercum SQUERCUM " weight="2" />
+      <edge id="257" source=" Mr. Bumby " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="1" />
+      <edge id="258" source=" Robert " target=" Didon Madame " weight="1" />
+      <edge id="259" source=" Lady Julia Goldsheiner " target=" Julia Triplex " weight="1" />
+      <edge id="260" source=" Lady Julia Goldsheiner " target=" Mr. Goldsheiner " weight="1" />
+      <edge id="261" source=" Lady Julia Goldsheiner " target=" Catchboy Lady " weight="1" />
+      <edge id="262" source=" Lady Julia Goldsheiner " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="263" source=" Lady Julia Goldsheiner " target=" Mr. Todd " weight="5" />
+      <edge id="264" source=" Lady Julia Goldsheiner " target=" Start Lady Julia " weight="1" />
+      <edge id="265" source=" Lady Julia Goldsheiner " target=" Monogram LADY MONOGRAM Lady " weight="2" />
+      <edge id="266" source=" Lady Julia Goldsheiner " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="267" source=" Henrietta Carbury CARBURY HENRIETTA " target=" Hetta HETTA Carbury CARBURY " weight="3" />
+      <edge id="268" source=" Henrietta Carbury CARBURY HENRIETTA " target=" ROGER Mr. Roger Carbury CARBURY " weight="44" />
+      <edge id="269" source=" Henrietta Carbury CARBURY HENRIETTA " target=" Montague Mr. Paul " weight="1" />
+      <edge id="270" source=" Henrietta Carbury CARBURY HENRIETTA " target=" Lady Pomona " weight="1" />
+      <edge id="271" source=" Henrietta Carbury CARBURY HENRIETTA " target=" LADY Lady Carbury " weight="7" />
+      <edge id="272" source=" Henrietta Carbury CARBURY HENRIETTA " target=" Herr Vossner " weight="2" />
+      <edge id="273" source=" Henrietta Carbury CARBURY HENRIETTA " target=" FELIX Felix Carbury CARBURY " weight="2" />
+      <edge id="274" source=" Henrietta Carbury CARBURY HENRIETTA " target=" HURTLE Hurtle MRS. Mrs. " weight="3" />
+      <edge id="275" source=" Henrietta Carbury CARBURY HENRIETTA " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="4" />
+      <edge id="276" source=" Mr. Loiter " target=" LADY Lady Carbury " weight="3" />
+      <edge id="277" source=" Auld Reekie " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="278" source=" Auld Reekie " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="279" source=" Auld Reekie " target=" Nidderdale Lord NIDDERDALE LORD " weight="3" />
+      <edge id="280" source=" Auld Reekie " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="281" source=" Auld Reekie " target=" Westminster " weight="1" />
+      <edge id="282" source=" Lincoln " target=" Lane Fetter " weight="1" />
+      <edge id="283" source=" Lincoln " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="284" source=" Lincoln " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="1" />
+      <edge id="285" source=" Mary " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="286" source=" Mary " target=" Hetta HETTA Carbury CARBURY " weight="1" />
+      <edge id="287" source=" Grasslough Lord " target=" Mr. MR. Squercum SQUERCUM " weight="1" />
+      <edge id="288" source=" Grasslough Lord " target=" HAMILTON Fisker Hamilton K. FISKER " weight="1" />
+      <edge id="289" source=" Grasslough Lord " target=" Grendall Miles Mr. " weight="9" />
+      <edge id="290" source=" Grasslough Lord " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="24" />
+      <edge id="291" source=" Grasslough Lord " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="1" />
+      <edge id="292" source=" Grasslough Lord " target=" Lord GRENDALL Grendall Alfred " weight="3" />
+      <edge id="293" source=" Grasslough Lord " target=" LADY Lady Carbury " weight="1" />
+      <edge id="294" source=" Grasslough Lord " target=" O. U. I. " weight="2" />
+      <edge id="295" source=" Grasslough Lord " target=" Nidderdale Lord NIDDERDALE LORD " weight="2" />
+      <edge id="296" source=" Grasslough Lord " target=" Herr Vossner " weight="1" />
+      <edge id="297" source=" Grasslough Lord " target=" Lupton Mr. " weight="1" />
+      <edge id="298" source=" Grasslough Lord " target=" FELIX Felix Carbury CARBURY " weight="3" />
+      <edge id="299" source=" Grasslough Lord " target=" Mr. MR. Fisker FISKER " weight="1" />
+      <edge id="300" source=" Montague Mr. Paul " target=" Pipkin Mrs. " weight="1" />
+      <edge id="301" source=" Montague Mr. Paul " target=" Mr. Leadham " weight="1" />
+      <edge id="302" source=" Montague Mr. Paul " target=" HAMILTON Fisker Hamilton K. FISKER " weight="2" />
+      <edge id="303" source=" Montague Mr. Paul " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="304" source=" Montague Mr. Paul " target=" Mr. MR. Broune BROUNE " weight="1" />
+      <edge id="305" source=" Montague Mr. Paul " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="2" />
+      <edge id="306" source=" Montague Mr. Paul " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="307" source=" Montague Mr. Paul " target=" Ruggles Ruby Miss " weight="1" />
+      <edge id="308" source=" Montague Mr. Paul " target=" LADY Lady Carbury " weight="1" />
+      <edge id="309" source=" Montague Mr. Paul " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="310" source=" Montague Mr. Paul " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="311" source=" Montague Mr. Paul " target=" HURTLE Hurtle MRS. Mrs. " weight="23" />
+      <edge id="312" source=" Montague Mr. Paul " target=" Mr. MR. Fisker FISKER " weight="1" />
+      <edge id="313" source=" Montague Mr. Paul " target=" ROGER Mr. Roger Carbury CARBURY " weight="6" />
+      <edge id="314" source=" Montague Mr. Paul " target=" FELIX Felix Carbury CARBURY " weight="18" />
+      <edge id="315" source=" Montague Mr. Paul " target=" Hetta HETTA Carbury CARBURY " weight="7" />
+      <edge id="316" source=" Carbury Manor " target=" Mr. Beauclerk Beauchamp " weight="1" />
+      <edge id="317" source=" Carbury Manor " target=" LADY Lady Carbury " weight="1" />
+      <edge id="318" source=" Pickering Park " target=" Mr. MR. Squercum SQUERCUM " weight="4" />
+      <edge id="319" source=" Pickering Park " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="3" />
+      <edge id="320" source=" Pickering Park " target=" Herr Croll " weight="1" />
+      <edge id="321" source=" Pickering Park " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="2" />
+      <edge id="322" source=" Pickering Park " target=" Mr. Bideawhile " weight="2" />
+      <edge id="323" source=" Pickering Park " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="2" />
+      <edge id="324" source=" Pickering Park " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="325" source=" Pickering Park " target=" Mr. MR. COHENLUPE Cohenlupe " weight="1" />
+      <edge id="326" source=" Pickering Park " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="327" source=" Herr Vossner " target=" Nidderdale Lord NIDDERDALE LORD " weight="2" />
+      <edge id="328" source=" Herr Vossner " target=" Grendall Miles Mr. " weight="2" />
+      <edge id="329" source=" Herr Vossner " target=" Hetta HETTA Carbury CARBURY " weight="1" />
+      <edge id="330" source=" Herr Vossner " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="331" source=" Herr Vossner " target=" LADY Lady Carbury " weight="1" />
+      <edge id="332" source=" Herr Vossner " target=" Beargarden " weight="2" />
+      <edge id="333" source=" Herr Vossner " target=" O. U. I. " weight="1" />
+      <edge id="334" source=" Herr Vossner " target=" Mr. Flatfleece " weight="2" />
+      <edge id="335" source=" Herr Vossner " target=" Lupton Mr. " weight="1" />
+      <edge id="336" source=" Herr Vossner " target=" Jove " weight="1" />
+      <edge id="337" source=" Herr Vossner " target=" HURTLE Hurtle MRS. Mrs. " weight="2" />
+      <edge id="338" source=" Herr Vossner " target=" FELIX Felix Carbury CARBURY " weight="2" />
+      <edge id="339" source=" Herr Vossner " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="3" />
+      <edge id="340" source=" Brown Mr. " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="2" />
+      <edge id="341" source=" Mr. MR. COHENLUPE Cohenlupe " target=" Grendall Miles Mr. " weight="2" />
+      <edge id="342" source=" Mr. MR. COHENLUPE Cohenlupe " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="1" />
+      <edge id="343" source=" Mr. MR. COHENLUPE Cohenlupe " target=" Lupton Lionel " weight="1" />
+      <edge id="344" source=" Mr. MR. COHENLUPE Cohenlupe " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="1" />
+      <edge id="345" source=" Mr. MR. COHENLUPE Cohenlupe " target=" Lord GRENDALL Grendall Alfred " weight="7" />
+      <edge id="346" source=" Mr. MR. COHENLUPE Cohenlupe " target=" Mr. Bideawhile " weight="1" />
+      <edge id="347" source=" Mr. MR. COHENLUPE Cohenlupe " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="6" />
+      <edge id="348" source=" Mr. MR. COHENLUPE Cohenlupe " target=" Nidderdale Lord NIDDERDALE LORD " weight="2" />
+      <edge id="349" source=" Mr. MR. COHENLUPE Cohenlupe " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="350" source=" Mr. MR. COHENLUPE Cohenlupe " target=" Mr. Croll " weight="2" />
+      <edge id="351" source=" Melmottes " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="352" source=" Mr. Todd " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="1" />
+      <edge id="353" source=" Mr. Todd " target=" Mr. Beauclerk Beauchamp " weight="2" />
+      <edge id="354" source=" Mr. Todd " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="355" source=" Westminster " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="356" source=" Westminster " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="357" source=" Westminster " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="358" source=" Ruggles Daniel " target=" CRUMB JOHN John Crumb Mrs. " weight="3" />
+      <edge id="359" source=" Ruggles Daniel " target=" FELIX Felix Carbury CARBURY " weight="2" />
+      <edge id="360" source=" Ruggles Daniel " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="361" source=" Ruggles Daniel " target=" Bungay " weight="1" />
+      <edge id="362" source=" Ruggles Daniel " target=" Ruggles Ruby Miss " weight="3" />
+      <edge id="363" source=" Mr. MR. Squercum SQUERCUM " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="10" />
+      <edge id="364" source=" Mr. MR. Squercum SQUERCUM " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="1" />
+      <edge id="365" source=" Mr. MR. Squercum SQUERCUM " target=" Mr. Bideawhile " weight="7" />
+      <edge id="366" source=" Mr. MR. Squercum SQUERCUM " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="3" />
+      <edge id="367" source=" Mr. MR. Squercum SQUERCUM " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="368" source=" Mr. MR. Squercum SQUERCUM " target=" Lane Fetter " weight="1" />
+      <edge id="369" source=" Mr. MR. Squercum SQUERCUM " target=" Mr. Flatfleece " weight="1" />
+      <edge id="370" source=" Mr. MR. Squercum SQUERCUM " target=" Lane Abchurch " weight="1" />
+      <edge id="371" source=" Barham Father " target=" Ruggles Ruby Miss " weight="1" />
+      <edge id="372" source=" Barham Father " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="2" />
+      <edge id="373" source=" Barham Father " target=" CRUMB JOHN John Crumb Mrs. " weight="1" />
+      <edge id="374" source=" Barham Father " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="375" source=" Barham Father " target=" ROGER Mr. Roger Carbury CARBURY " weight="3" />
+      <edge id="376" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Grendall Miles Mr. " weight="3" />
+      <edge id="377" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Hetta HETTA Carbury CARBURY " weight="3" />
+      <edge id="378" source=" HAMILTON Fisker Hamilton K. FISKER " target=" FELIX Felix Carbury CARBURY " weight="12" />
+      <edge id="379" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Pipkin Mrs. " weight="1" />
+      <edge id="380" source=" HAMILTON Fisker Hamilton K. FISKER " target=" LONGESTAFFE Longestaffe Dolly DOLLY " weight="3" />
+      <edge id="381" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Ruggles Ruby Miss " weight="1" />
+      <edge id="382" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Vera Cruz " weight="2" />
+      <edge id="383" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Mr. Croll " weight="1" />
+      <edge id="384" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Mr. MR. Fisker FISKER " weight="1" />
+      <edge id="385" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Herr Croll " weight="2" />
+      <edge id="386" source=" HAMILTON Fisker Hamilton K. FISKER " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="2" />
+      <edge id="387" source=" HAMILTON Fisker Hamilton K. FISKER " target=" ROGER Mr. Roger Carbury CARBURY " weight="6" />
+      <edge id="388" source=" HAMILTON Fisker Hamilton K. FISKER " target="#N/A" weight="1" />
+      <edge id="389" source=" HAMILTON Fisker Hamilton K. FISKER " target=" HURTLE Hurtle MRS. Mrs. " weight="3" />
+      <edge id="390" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="391" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="3" />
+      <edge id="392" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Nidderdale Lord NIDDERDALE LORD " weight="2" />
+      <edge id="393" source=" HAMILTON Fisker Hamilton K. FISKER " target=" Fisker Mrs. " weight="1" />
+      <edge id="394" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Grendall Miles Mr. " weight="10" />
+      <edge id="395" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Mr. Bideawhile " weight="11" />
+      <edge id="396" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Lady Pomona " weight="2" />
+      <edge id="397" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Sophy " weight="2" />
+      <edge id="398" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Monogram LADY MONOGRAM Lady " weight="1" />
+      <edge id="399" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" O. U. I. " weight="1" />
+      <edge id="400" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="16" />
+      <edge id="401" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Mr. Batherbolt " weight="1" />
+      <edge id="402" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" LADY Lady Carbury " weight="1" />
+      <edge id="403" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Georgey " weight="2" />
+      <edge id="404" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Lane Fetter " weight="1" />
+      <edge id="405" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" FELIX Felix Carbury CARBURY " weight="14" />
+      <edge id="406" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" George Mrs. Whitstable " weight="1" />
+      <edge id="407" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="4" />
+      <edge id="408" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="409" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="7" />
+      <edge id="410" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Nidderdale Lord NIDDERDALE LORD " weight="10" />
+      <edge id="411" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Lupton Mr. " weight="1" />
+      <edge id="412" source=" LONGESTAFFE Longestaffe Dolly DOLLY " target=" Mr. Flatfleece " weight="1" />
+      <edge id="413" source=" Mr. Blake " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="414" source=" Mr. Blake " target=" LADY Lady Carbury " weight="1" />
+      <edge id="415" source=" Mr. Blake " target=" Mr. MR. Broune BROUNE " weight="3" />
+      <edge id="416" source=" Mr. Booker " target=" Hetta HETTA Carbury CARBURY " weight="1" />
+      <edge id="417" source=" Mr. Booker " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="418" source=" Mr. Booker " target=" LADY Lady Carbury " weight="12" />
+      <edge id="419" source=" Mr. Booker " target=" Mr. MR. Broune BROUNE " weight="1" />
+      <edge id="420" source=" Mr. Hepworth " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="421" source=" Mr. Hepworth " target=" ROGER Mr. Roger Carbury CARBURY " weight="2" />
+      <edge id="422" source=" Barham Mr. " target=" Yeld Mrs. " weight="3" />
+      <edge id="423" source=" Mr. Splinter " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="424" source=" Mr. Croll " target=" Mr. Smith " weight="1" />
+      <edge id="425" source=" Mr. Croll " target=" Herr Croll " weight="1" />
+      <edge id="426" source=" Mr. Croll " target=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " weight="1" />
+      <edge id="427" source=" Mr. Croll " target=" Street BRUTON Bruton " weight="1" />
+      <edge id="428" source=" Mr. Croll " target=" Mr. Bideawhile " weight="2" />
+      <edge id="429" source=" Mr. Croll " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="3" />
+      <edge id="430" source=" Mr. Croll " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="431" source=" Mr. Croll " target=" FELIX Felix Carbury CARBURY " weight="2" />
+      <edge id="432" source=" Mr. MR. Fisker FISKER " target=" Pipkin Mrs. " weight="1" />
+      <edge id="433" source=" Mr. MR. Fisker FISKER " target=" Herr Croll " weight="1" />
+      <edge id="434" source=" Mr. MR. Fisker FISKER " target=" Lord GRENDALL Grendall Alfred " weight="1" />
+      <edge id="435" source=" Mr. MR. Fisker FISKER " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="436" source=" Mr. MR. Fisker FISKER " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="2" />
+      <edge id="437" source=" Mr. MR. Fisker FISKER " target=" Beargarden " weight="1" />
+      <edge id="438" source=" Mr. MR. Fisker FISKER " target=" Nidderdale Lord NIDDERDALE LORD " weight="3" />
+      <edge id="439" source=" Mr. MR. Fisker FISKER " target=" HURTLE Hurtle MRS. Mrs. " weight="1" />
+      <edge id="440" source=" Mr. MR. Fisker FISKER " target=" FELIX Felix Carbury CARBURY " weight="3" />
+      <edge id="441" source=" Lowestoft " target=" CRUMB JOHN John Crumb Mrs. " weight="1" />
+      <edge id="442" source=" Lowestoft " target=" HURTLE Hurtle MRS. Mrs. " weight="2" />
+      <edge id="443" source=" Lowestoft " target=" ROGER Mr. Roger Carbury CARBURY " weight="2" />
+      <edge id="444" source=" Lowestoft " target=" Hetta HETTA Carbury CARBURY " weight="2" />
+      <edge id="445" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Grendall Miles Mr. " weight="4" />
+      <edge id="446" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Hetta HETTA Carbury CARBURY " weight="1" />
+      <edge id="447" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Mr. Bideawhile " weight="4" />
+      <edge id="448" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Lady Pomona " weight="4" />
+      <edge id="449" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Gregory Gribe " weight="2" />
+      <edge id="450" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Monogram LADY MONOGRAM Lady " weight="2" />
+      <edge id="451" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Mr. MR. Broune BROUNE " weight="1" />
+      <edge id="452" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Mr. Beauclerk Beauchamp " weight="1" />
+      <edge id="453" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" ROGER Mr. Roger Carbury CARBURY " weight="2" />
+      <edge id="454" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Georgey " weight="2" />
+      <edge id="455" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Longestaffe Sophia " weight="1" />
+      <edge id="456" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" FELIX Felix Carbury CARBURY " weight="2" />
+      <edge id="457" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="7" />
+      <edge id="458" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="45" />
+      <edge id="459" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Nidderdale Lord NIDDERDALE LORD " weight="2" />
+      <edge id="460" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Lupton Mr. " weight="1" />
+      <edge id="461" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Julia Triplex " weight="1" />
+      <edge id="462" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Mrs. Primero " weight="1" />
+      <edge id="463" source=" LONGESTAFFE Mr. MR. Longestaffe ADOLPHUS Adolphus " target=" Lane Abchurch " weight="1" />
+      <edge id="464" source=" Muster Carbury " target=" CRUMB JOHN John Crumb Mrs. " weight="1" />
+      <edge id="465" source=" Beargarden " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="466" source=" Georgey " target=" Longestaffe Sophia " weight="3" />
+      <edge id="467" source=" Georgey " target=" Lady Pomona " weight="2" />
+      <edge id="468" source=" Broune Mrs. " target=" Mr. MR. Broune BROUNE " weight="1" />
+      <edge id="469" source=" Broune Mrs. " target=" LADY Lady Carbury " weight="1" />
+      <edge id="470" source=" Longestaffe Sophia " target=" Lady Pomona " weight="2" />
+      <edge id="471" source=" Longestaffe Sophia " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="5" />
+      <edge id="472" source=" Prince " target=" Grendall Miles Mr. " weight="1" />
+      <edge id="473" source=" George Mrs. Whitstable " target=" Lady Pomona " weight="2" />
+      <edge id="474" source=" Ruggles Mr. " target=" Pipkin Mrs. " weight="3" />
+      <edge id="475" source=" Ruggles Mr. " target=" Ruggles Ruby Miss " weight="1" />
+      <edge id="476" source=" Ruggles Mr. " target=" CRUMB JOHN John Crumb Mrs. " weight="2" />
+      <edge id="477" source=" Ruggles Mr. " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="478" source=" Lord GRENDALL Grendall Alfred " target=" FELIX Felix Carbury CARBURY " weight="10" />
+      <edge id="479" source=" Lord GRENDALL Grendall Alfred " target=" O. U. I. " weight="1" />
+      <edge id="480" source=" Lord GRENDALL Grendall Alfred " target=" Mr. Beauclerk Beauchamp " weight="1" />
+      <edge id="481" source=" Lord GRENDALL Grendall Alfred " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="482" source=" Lord GRENDALL Grendall Alfred " target=" Grendall Miles Mr. " weight="7" />
+      <edge id="483" source=" Lord GRENDALL Grendall Alfred " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="4" />
+      <edge id="484" source=" Lord GRENDALL Grendall Alfred " target=" Nidderdale Lord NIDDERDALE LORD " weight="7" />
+      <edge id="485" source=" Lord GRENDALL Grendall Alfred " target=" Lupton Mr. " weight="1" />
+      <edge id="486" source=" Lord GRENDALL Grendall Alfred " target=" Lane Abchurch " weight="1" />
+      <edge id="487" source=" Mr. Smith " target=" Herr Croll " weight="1" />
+      <edge id="488" source=" Mr. Smith " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="489" source=" Jane Lady Pewet " target=" Lady Pomona " weight="1" />
+      <edge id="490" source=" Adam " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="491" source=" Bishop " target=" ROGER Mr. Roger Carbury CARBURY " weight="2" />
+      <edge id="492" source=" Bishop " target=" Yeld Mrs. " weight="3" />
+      <edge id="493" source=" Bishop " target=" Hetta HETTA Carbury CARBURY " weight="2" />
+      <edge id="494" source=" Primeros " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="495" source=" Primeros " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="496" source=" Lane Abchurch " target=" Herr Croll " weight="1" />
+      <edge id="497" source=" Lane Abchurch " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="498" source=" Grendall Miles Mr. " target=" FELIX Felix Carbury CARBURY " weight="20" />
+      <edge id="499" source=" Grendall Miles Mr. " target=" Albury " weight="1" />
+      <edge id="500" source=" Grendall Miles Mr. " target=" O. U. I. " weight="1" />
+      <edge id="501" source=" Grendall Miles Mr. " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="502" source=" Grendall Miles Mr. " target="#N/A" weight="1" />
+      <edge id="503" source=" Grendall Miles Mr. " target=" LADY Lady Carbury " weight="1" />
+      <edge id="504" source=" Grendall Miles Mr. " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="5" />
+      <edge id="505" source=" Grendall Miles Mr. " target=" Nidderdale Lord NIDDERDALE LORD " weight="5" />
+      <edge id="506" source=" Lupton Lionel " target=" Mr. Beauclerk Beauchamp " weight="3" />
+      <edge id="507" source=" Lupton Lionel " target=" Nidderdale Lord NIDDERDALE LORD " weight="2" />
+      <edge id="508" source=" Street BRUTON Bruton " target=" Mr. Bideawhile " weight="1" />
+      <edge id="509" source=" Street BRUTON Bruton " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="510" source=" Mr. Bideawhile " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="4" />
+      <edge id="511" source=" Mr. Bideawhile " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="512" source=" Mr. Bideawhile " target=" Lane Fetter " weight="1" />
+      <edge id="513" source=" Gregory Gribe " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="514" source=" Gregory Gribe " target=" Didon Madame " weight="1" />
+      <edge id="515" source=" Gregory Gribe " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="516" source=" Start Lady Julia " target=" Catchboy Lady " weight="1" />
+      <edge id="517" source=" Patrick " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="518" source=" Patrick " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="519" source=" Patrick " target=" LADY Lady Carbury " weight="3" />
+      <edge id="520" source=" Patrick " target=" Mr. MR. Broune BROUNE " weight="1" />
+      <edge id="521" source=" Ruggles Ruby Miss " target=" Pipkin Mrs. " weight="40" />
+      <edge id="522" source=" Ruggles Ruby Miss " target=" ROGER Mr. Roger Carbury CARBURY " weight="2" />
+      <edge id="523" source=" Ruggles Ruby Miss " target=" LADY Lady Carbury " weight="1" />
+      <edge id="524" source=" Ruggles Ruby Miss " target=" Bungay " weight="4" />
+      <edge id="525" source=" Ruggles Ruby Miss " target=" Buggins Mrs. " weight="1" />
+      <edge id="526" source=" Ruggles Ruby Miss " target=" CRUMB JOHN John Crumb Mrs. " weight="58" />
+      <edge id="527" source=" Ruggles Ruby Miss " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="528" source=" Ruggles Ruby Miss " target=" FELIX Felix Carbury CARBURY " weight="22" />
+      <edge id="529" source=" Ruggles Ruby Miss " target=" HURTLE Hurtle MRS. Mrs. " weight="17" />
+      <edge id="530" source=" Ruggles Ruby Miss " target=" Squire " weight="1" />
+      <edge id="531" source=" Mrs. Melmotte " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="532" source=" Squire " target=" Pipkin Mrs. " weight="1" />
+      <edge id="533" source=" Squire " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="534" source=" Squire " target=" ROGER Mr. Roger Carbury CARBURY " weight="1" />
+      <edge id="535" source=" O. U. I. " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="536" source=" Mr. Leadham " target=" LADY Lady Carbury " weight="4" />
+      <edge id="537" source=" Mr. Leadham " target=" Mr. MR. Broune BROUNE " weight="1" />
+      <edge id="538" source=" Beccles " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="539" source=" Beccles " target=" Bungay " weight="1" />
+      <edge id="540" source=" Beccles " target=" LADY Lady Carbury " weight="1" />
+      <edge id="541" source=" Jones Tom " target=" Robinson Crusoe " weight="1" />
+      <edge id="542" source=" ROGER Mr. Roger Carbury CARBURY " target=" Hetta HETTA Carbury CARBURY " weight="32" />
+      <edge id="543" source=" ROGER Mr. Roger Carbury CARBURY " target=" Lady Pomona " weight="2" />
+      <edge id="544" source=" ROGER Mr. Roger Carbury CARBURY " target=" HURTLE Hurtle MRS. Mrs. " weight="49" />
+      <edge id="545" source=" ROGER Mr. Roger Carbury CARBURY " target=" Pipkin Mrs. " weight="10" />
+      <edge id="546" source=" ROGER Mr. Roger Carbury CARBURY " target=" Mr. MR. Broune BROUNE " weight="1" />
+      <edge id="547" source=" ROGER Mr. Roger Carbury CARBURY " target=" LADY Lady Carbury " weight="68" />
+      <edge id="548" source=" ROGER Mr. Roger Carbury CARBURY " target=" FELIX Felix Carbury CARBURY " weight="71" />
+      <edge id="549" source=" ROGER Mr. Roger Carbury CARBURY " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="550" source=" ROGER Mr. Roger Carbury CARBURY " target=" Bungay " weight="2" />
+      <edge id="551" source=" ROGER Mr. Roger Carbury CARBURY " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="552" source=" ROGER Mr. Roger Carbury CARBURY " target=" CRUMB JOHN John Crumb Mrs. " weight="28" />
+      <edge id="553" source=" ROGER Mr. Roger Carbury CARBURY " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="554" source=" ROGER Mr. Roger Carbury CARBURY " target=" Yeld Mrs. " weight="4" />
+      <edge id="555" source=" LADY Lady Carbury " target=" Hetta HETTA Carbury CARBURY " weight="21" />
+      <edge id="556" source=" LADY Lady Carbury " target=" Lady Pomona " weight="1" />
+      <edge id="557" source=" LADY Lady Carbury " target=" FELIX Felix Carbury CARBURY " weight="35" />
+      <edge id="558" source=" LADY Lady Carbury " target=" Nidderdale Lord NIDDERDALE LORD " weight="3" />
+      <edge id="559" source=" LADY Lady Carbury " target=" Mr. MR. Broune BROUNE " weight="48" />
+      <edge id="560" source=" LADY Lady Carbury " target="#N/A" weight="1" />
+      <edge id="561" source=" LADY Lady Carbury " target=" HURTLE Hurtle MRS. Mrs. " weight="4" />
+      <edge id="562" source=" LADY Lady Carbury " target=" Barker Fitzgerald " weight="1" />
+      <edge id="563" source=" LADY Lady Carbury " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="14" />
+      <edge id="564" source=" LADY Lady Carbury " target=" Yeld Mrs. " weight="1" />
+      <edge id="565" source=" Boss David " target=" Mr. Killegrew " weight="3" />
+      <edge id="566" source=" Jove " target=" FELIX Felix Carbury CARBURY " weight="1" />
+      <edge id="567" source=" Jove " target=" Lady Pomona " weight="1" />
+      <edge id="568" source=" Jove " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="569" source=" FELIX Felix Carbury CARBURY " target=" Hetta HETTA Carbury CARBURY " weight="29" />
+      <edge id="570" source=" FELIX Felix Carbury CARBURY " target=" Herr Croll " weight="1" />
+      <edge id="571" source=" FELIX Felix Carbury CARBURY " target=" Lady Pomona " weight="2" />
+      <edge id="572" source=" FELIX Felix Carbury CARBURY " target=" Pipkin Mrs. " weight="5" />
+      <edge id="573" source=" FELIX Felix Carbury CARBURY " target=" Didon Madame " weight="7" />
+      <edge id="574" source=" FELIX Felix Carbury CARBURY " target=" Mr. MR. Broune BROUNE " weight="24" />
+      <edge id="575" source=" FELIX Felix Carbury CARBURY " target="#N/A" weight="1" />
+      <edge id="576" source=" FELIX Felix Carbury CARBURY " target=" HURTLE Hurtle MRS. Mrs. " weight="11" />
+      <edge id="577" source=" FELIX Felix Carbury CARBURY " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="4" />
+      <edge id="578" source=" FELIX Felix Carbury CARBURY " target=" Bungay " weight="2" />
+      <edge id="579" source=" FELIX Felix Carbury CARBURY " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="18" />
+      <edge id="580" source=" FELIX Felix Carbury CARBURY " target=" CRUMB JOHN John Crumb Mrs. " weight="22" />
+      <edge id="581" source=" FELIX Felix Carbury CARBURY " target=" Nidderdale Lord NIDDERDALE LORD " weight="18" />
+      <edge id="582" source=" Bungay " target=" Pipkin Mrs. " weight="2" />
+      <edge id="583" source=" Bungay " target=" CRUMB JOHN John Crumb Mrs. " weight="5" />
+      <edge id="584" source=" Bungay " target=" HURTLE Hurtle MRS. Mrs. " weight="3" />
+      <edge id="585" source=" Elise Didon " target=" Didon Madame " weight="1" />
+      <edge id="586" source=" Pipkins " target=" CRUMB JOHN John Crumb Mrs. " weight="1" />
+      <edge id="587" source=" Hetta HETTA Carbury CARBURY " target=" HURTLE Hurtle MRS. Mrs. " weight="26" />
+      <edge id="588" source=" Hetta HETTA Carbury CARBURY " target=" Pipkin Mrs. " weight="1" />
+      <edge id="589" source=" Hetta HETTA Carbury CARBURY " target=" Mr. MR. Broune BROUNE " weight="5" />
+      <edge id="590" source=" Hetta HETTA Carbury CARBURY " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="591" source=" Hetta HETTA Carbury CARBURY " target=" CRUMB JOHN John Crumb Mrs. " weight="3" />
+      <edge id="592" source=" Hetta HETTA Carbury CARBURY " target=" Nidderdale Lord NIDDERDALE LORD " weight="1" />
+      <edge id="593" source=" Hetta HETTA Carbury CARBURY " target=" Yeld Mrs. " weight="5" />
+      <edge id="594" source=" Herr Croll " target=" Nidderdale Lord NIDDERDALE LORD " weight="3" />
+      <edge id="595" source=" Herr Croll " target=" HURTLE Hurtle MRS. Mrs. " weight="1" />
+      <edge id="596" source=" Lady Pomona " target=" Mr. Batherbolt " weight="3" />
+      <edge id="597" source=" Lady Pomona " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="598" source=" Lady Pomona " target=" Julia Triplex " weight="1" />
+      <edge id="599" source=" Lady Pomona " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="5" />
+      <edge id="600" source=" Sophy " target=" Mr. Batherbolt " weight="1" />
+      <edge id="601" source=" Sophy " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="2" />
+      <edge id="602" source=" Buggins Mrs. " target=" CRUMB JOHN John Crumb Mrs. " weight="1" />
+      <edge id="603" source=" Buggins Mrs. " target=" HURTLE Hurtle MRS. Mrs. " weight="2" />
+      <edge id="604" source=" Mr. Hurtle " target=" HURTLE Hurtle MRS. Mrs. " weight="4" />
+      <edge id="605" source=" Mr. Hurtle " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="606" source=" Nidderdale Lord NIDDERDALE LORD " target=" Didon Madame " weight="3" />
+      <edge id="607" source=" Nidderdale Lord NIDDERDALE LORD " target=" Mr. MR. Broune BROUNE " weight="2" />
+      <edge id="608" source=" Nidderdale Lord NIDDERDALE LORD " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="3" />
+      <edge id="609" source=" Nidderdale Lord NIDDERDALE LORD " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="5" />
+      <edge id="610" source=" Nidderdale Lord NIDDERDALE LORD " target=" CRUMB JOHN John Crumb Mrs. " weight="1" />
+      <edge id="611" source=" Brehgert Mrs. " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="612" source=" Mr. Beauclerk Beauchamp " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="1" />
+      <edge id="613" source=" Mr. Beauclerk Beauchamp " target=" Lupton Mr. " weight="1" />
+      <edge id="614" source=" Pipkin Mrs. " target=" CRUMB JOHN John Crumb Mrs. " weight="2" />
+      <edge id="615" source=" Pipkin Mrs. " target=" HURTLE Hurtle MRS. Mrs. " weight="10" />
+      <edge id="616" source=" Mr. MR. Broune BROUNE " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="5" />
+      <edge id="617" source=" Mr. MR. Broune BROUNE " target=" Yeld Mrs. " weight="1" />
+      <edge id="618" source=" Mr. Batherbolt " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="619" source=" Toodlam " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="1" />
+      <edge id="620" source=" HURTLE Hurtle MRS. Mrs. " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="16" />
+      <edge id="621" source=" HURTLE Hurtle MRS. Mrs. " target=" CRUMB JOHN John Crumb Mrs. " weight="7" />
+      <edge id="622" source=" Monogram LADY MONOGRAM Lady " target=" Julia Triplex " weight="3" />
+      <edge id="623" source=" Monogram LADY MONOGRAM Lady " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="2" />
+      <edge id="624" source=" Monogram LADY MONOGRAM Lady " target=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " weight="11" />
+      <edge id="625" source=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " target=" Yeld Mrs. " weight="1" />
+      <edge id="626" source=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " target=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " weight="6" />
+      <edge id="627" source=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " target=" Julia Triplex " weight="1" />
+      <edge id="628" source=" LONGESTAFFE Miss GEORGIANA Longestaffe Georgiana MISS " target=" Mrs. Primero " weight="1" />
+      <edge id="629" source=" Augustus Mr. AUGUSTUS MELMOTTE MR. Melmotte " target=" Didon Madame " weight="1" />
+    </edges>
+  </graph>
+</gexf>

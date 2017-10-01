@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id=" Matthewson " label=" Matthewson " />
+      <node id=" Thornton John " label=" Thornton John " />
+      <node id=" Miller " label=" Miller " />
+      <node id=" Pike " label=" Pike " />
+      <node id=" Pete " label=" Pete " />
+      <node id=" Manuel " label=" Manuel " />
+      <node id=" Skeet " label=" Skeet " />
+      <node id=" Burton " label=" Burton " />
+      <node id=" Francois " label=" Francois " />
+      <node id=" Buck " label=" Buck " />
+      <node id=" Dawson " label=" Dawson " />
+      <node id=" Billee " label=" Billee " />
+      <node id=" Koona " label=" Koona " />
+      <node id=" Charles " label=" Charles " />
+      <node id=" Perrault " label=" Perrault " />
+      <node id=" Hal " label=" Hal " />
+      <node id=" Spitz " label=" Spitz " />
+      <node id=" Dave " label=" Dave " />
+      <node id=" Teek " label=" Teek " />
+      <node id=" Joe " label=" Joe " />
+      <node id=" Hans " label=" Hans " />
+      <node id=" Toots " label=" Toots " />
+      <node id=" Dolly " label=" Dolly " />
+    </nodes>
+    <edges>
+      <edge id="0" source=" Matthewson " target=" Thornton John " weight="2" />
+      <edge id="1" source=" Thornton John " target=" Buck " weight="4" />
+      <edge id="2" source=" Thornton John " target=" Pete " weight="8" />
+      <edge id="3" source=" Thornton John " target=" Charles " weight="1" />
+      <edge id="4" source=" Thornton John " target=" Perrault " weight="1" />
+      <edge id="5" source=" Thornton John " target=" Hal " weight="3" />
+      <edge id="6" source=" Thornton John " target=" Hans " weight="9" />
+      <edge id="7" source=" Thornton John " target=" Burton " weight="1" />
+      <edge id="8" source=" Thornton John " target=" Francois " weight="1" />
+      <edge id="9" source=" Thornton John " target=" Dawson " weight="4" />
+      <edge id="10" source=" Miller " target=" Manuel " weight="1" />
+      <edge id="11" source=" Miller " target=" Spitz " weight="1" />
+      <edge id="12" source=" Miller " target=" Toots " weight="1" />
+      <edge id="13" source=" Pike " target=" Koona " weight="1" />
+      <edge id="14" source=" Pike " target=" Perrault " weight="1" />
+      <edge id="15" source=" Pike " target=" Spitz " weight="4" />
+      <edge id="16" source=" Pike " target=" Teek " weight="1" />
+      <edge id="17" source=" Pike " target=" Joe " weight="1" />
+      <edge id="18" source=" Pete " target=" Hans " weight="9" />
+      <edge id="19" source=" Skeet " target=" Hans " weight="1" />
+      <edge id="20" source=" Francois " target=" Koona " weight="1" />
+      <edge id="21" source=" Francois " target=" Joe " weight="1" />
+      <edge id="22" source=" Francois " target=" Buck " weight="1" />
+      <edge id="23" source=" Francois " target=" Perrault " weight="16" />
+      <edge id="24" source=" Francois " target=" Spitz " weight="5" />
+      <edge id="25" source=" Francois " target=" Dave " weight="1" />
+      <edge id="26" source=" Francois " target=" Dawson " weight="1" />
+      <edge id="27" source=" Francois " target=" Billee " weight="1" />
+      <edge id="28" source=" Buck " target=" Spitz " weight="2" />
+      <edge id="29" source=" Buck " target=" Perrault " weight="1" />
+      <edge id="30" source=" Dawson " target=" Spitz " weight="1" />
+      <edge id="31" source=" Billee " target=" Hal " weight="1" />
+      <edge id="32" source=" Billee " target=" Spitz " weight="1" />
+      <edge id="33" source=" Billee " target=" Dolly " weight="1" />
+      <edge id="34" source=" Billee " target=" Joe " weight="3" />
+      <edge id="35" source=" Koona " target=" Teek " weight="2" />
+      <edge id="36" source=" Koona " target=" Joe " weight="1" />
+      <edge id="37" source=" Charles " target=" Hal " weight="9" />
+      <edge id="38" source=" Perrault " target=" Spitz " weight="1" />
+      <edge id="39" source=" Spitz " target=" Dave " weight="1" />
+      <edge id="40" source=" Spitz " target=" Joe " weight="1" />
+      <edge id="41" source=" Spitz " target=" Toots " weight="1" />
+      <edge id="42" source=" Teek " target=" Joe " weight="1" />
+      <edge id="43" source=" Joe " target=" Dolly " weight="1" />
+    </edges>
+  </graph>
+</gexf>
