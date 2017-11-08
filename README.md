@@ -9,11 +9,13 @@ Prerequisites:
 
 * Python 3
    * [KafNafParserPy](https://github.com/cltl/KafNafParserPy)  
+   * [NetworkX](https://networkx.github.io)
 * [BookNLP commit 81d7a31](https://github.com/dbamman/book-nlp)
 * [IXA-PIPE-NERC version 1.1.1](http://ixa2.si.ehu.es/ixa-pipes/)
 * [Stanford NER version 3.8.0 (2017-06-09](https://nlp.stanford.edu/software/stanford-ner-2017-06-09.zip) 
 * [Illinois NE Tagger version 3.0.23](https://cogcomp.org/page/software_view/NETagger)
 * [CoNLL NER evaluation script](https://www.clips.uantwerpen.be/conll2002/ner/bin/conlleval.txt)
+* [Gephi](https://gephi.org)
 
 Directory listing:  
 
