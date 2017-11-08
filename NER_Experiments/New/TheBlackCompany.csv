@@ -1,0 +1,305 @@
+Shuffle	sentenceID	pre-context	sentence to be annotated	post-context	# people sentence	character 1	character 2	character 3	character 4	character 5	character 6	character 7	character 8	character 9	character 10
+0.799686762588114	5	|One bolt struck the bronze plaque sealing the tomb of the forvalaka , obliterating half the spell of confinement . |	|It rained stones . |	|Statues bled . |	0										
+0.8472627338614	179	|Two of attempted murder by poisoning . |	|The magistrates decreed the punishment of slaves . '' |	|He was having fun . |	0										
+0.080290210582334	256	|At their head rode a dark figure on the biggest black stallion I 've ever seen . |	|The rider was small , effeminately slim , and clad in worn black leather . |	|He wore a black morion which concealed his head entirely . |	1	DEFAULT									
+0.824958101583568	165	|the old man asked . |	|`` You can get your sons and grandsons out here , Blue . '' |	|Chairs squeaked . |	1	Blue									
+0.794953675893203	194	|A dagger slipped past a shield . |	|One of our men went down , I am not much as a fighter , but I stepped into his place . |	|Mercy said something snide that I did not catch . |	2	DEFAULT	DEFAULT								
+0.329556445854369	192	|Those who were not guilty obviously feared they would be condemned with those who were . |	|Beryl 's justice is fast , crude , and harsh , and seldom gives a defendant opportunity to clear himself . |	|A dagger slipped past a shield . |	1	Beryl									
+0.831156337337604	229	|We took more prisoners than expected . |	|`` Was a bunch of them . '' |	|Mercy 's eyes twinkled . |	1										
+0.532693541887028	175	|Mercy grinned evilly . |	|`` He plays the innocent well . |	|It 's murder , Verus . |	1	DEFAULT									
+0.809495091404601	23	|The Queen of the Jewel Cities was old and decadent and mad , filled with the stench of degeneracy and moral dryrot . |	|Only a fool would be surprised by anything found creeping its night streets . |	|I had every shutter thrown wide , praying for a breath off the harbor , rotting fish and all . |	0										
+0.861606628391955	87	|Closer at hand , the wheeling gulls were as surly and lackadaisical as the day promised to make most men . |	|Another summer in service to the Syndic of Beryl , sweating and grimy , thanklessly shielding him from political rivals and his undisciplined native troops . |	|Another summer busting our butts for Curly 's reward . |	1	Beryl									
+0.391048077632453	190	|A wave of dagger-brandishing humanity hit us . |	|They forced us back to the door . |	|Those who were not guilty obviously feared they would be condemned with those who were . |	0										
+0.485217340573226	234	|Fate is a fickle bitch . |	|She 'd led us to Mole Tavern at a critical moment . |	|Poking around , our witch man had unearthed a prize , a crowd concealed in a hideout beneath the wine cellar . |	1	DEFAULT									
+0.877337133383767	136	|Mercy was our nastiest platoon leader . |	|He thought a dozen men would suffice , but lei Silent and me lag along . |	|I could patch the wounded . |	3	Mercy	Silent	DEFAULT							
+0.831405590426434	77	|I 'll see the Captain . '' |	|I patted his shoulder , checked the next room . |	|Curly was it for morning sick call . |	2	DEFAULT	DEFAULT								
+0.967437384900131	286	|The troops are beyond control now . |	|Generally , though , they will act against rioters . |	|They see riot suppression as license to loot . |	0										
+0.763623003018518	244	|`` Think they 'll try something ? '' |	|They did not . |	|His supreme confidence cowed anyone who had ideas . |	0										
+0.785064261860991	49	|His whole face puckered at the first taste . |	|`` Look , Croaker , I. ... '' The smell of the stuff revolted me . |	|`` Drink , friend . |	2	Croaker	DEFAULT								
+0.229790705009471	196	|Mercy said something snide that I did not catch . |	|`` That 's your chance at heaven wasted , '' I countered . |	|`` You 're out of the Annals forever . '' |	2	Mercy	DEFAULT								
+0.915449687655136	2	|We must blame ourselves for misinterpreting them . |	|One-Eye 's handicap in no way impairs his marvelous hindsight . |	|Lightning from a clear sky smote the Necropolitan Hill . |	1	One-Eye									
+0.172626527390868	119	|`` Yo ! '' |	|I hollered . |	|`` Fire ! |	1	DEFAULT									
+0.824705089899824	162	|Mercy thundered . |	|He could get a big roar out of his small body . |	|`` How may we help you , honored sirs ? '' |	1	Mercy									
+0.858177755908284	185	|In Beryl only criminals are buried uncremated , or not buried al all . |	|An uproar rose in the kitchen . |	|Somebody was trying to get out the back door . |	0										
+0.805963726153863	181	|He was having fun . |	|Mercy was n't one of my favorite people . |	|He never slopped being the boy who pulled wings off flies . |	2	Mercy	DEFAULT								
+0.551948433724327	176	|`` He plays the innocent well . |	|It 's murder , Verus . |	|Two charges of murder by poisoning . |	1	Verus									
+0.918083899392115	237	|Among them were some of the best known Blues . |	|Mercy chattered , wondering aloud how large a reward our informant deserved . |	|No such informant existed . |	1	Mercy									
+0.879775352380692	134	|His voice had a hard edge . |	|The Black Company does not suffer malicious attacks upon its men . |	|Mercy was our nastiest platoon leader . |	0										
+0.093318585960995	300	|We could ill afford the loss of one . |	|In the Groan the streets were carpet led with corpses . |	|The rats grew fat . |	0										
+0.389203310311174	122	|Riots in the Groan ! |	|Dancing at the Gate of Dawn ! '' |	|Dancing was an old time general who nearly destroyed Beryl . |	1	Dancing									
+0.843890780672132	203	|Spectators gathered outside . |	|Soon some adventurer would hit us from behind . |	|A dagger nicked Mercy . |	0										
+0.383808127769856	241	|Our enemies would scurry around looking for phantom spies . |	|`` Move them out , '' Mercy ordered . |	|Still grinning , he eyed the sullen crowd . |	1	Mercy									
+0.941062088819031	142	|He just grinned . |	|Silent he is and silent he stays . |	|The place was called Mole Tavern . |	1	DEFAULT									
+0.646818475339751	183	|He never slopped being the boy who pulled wings off flies . |	|The punishment of slaves meant being left up for scavenger birds after public crucifixion . |	|In Beryl only criminals are buried uncremated , or not buried al all . |	0										
+0.827696857306655	48	|All of it . '' |	|His whole face puckered at the first taste . |	|`` Look , Croaker , I. ... '' The smell of the stuff revolted me . |	1	DEFAULT									
+0.13694079194965	107	|Fires flickered behind its broken teeth . |	|A glittering silver band encircled the skull . |	|`` What the hell is that ? '' |	0										
+0.068642290838008	163	|He could get a big roar out of his small body . |	|`` How may we help you , honored sirs ? '' |	|the old man asked . |	0										
+0.523310592583862	303	|Clouds of vultures and ravens migrated from the countryside . |	|The Captain ordered the Company into the Bastion . |	|`` Let it run its course , '' he said . |	1	DEFAULT									
+0.396204645075629	255	|They looked tougher than anyone in Beryl but us . |	|At their head rode a dark figure on the biggest black stallion I 've ever seen . |	|The rider was small , effeminately slim , and clad in worn black leather . |	1	DEFAULT									
+0.600592531465536	156	|Mercy shouted . |	|`` Get your butt out here ! '' |	|The grandfather of the managing family appeared . |	0										
+0.675697725526094	280	|The Beryl mob is savage . |	|Riots occur almost without provocation . |	|When things go bad the dead number in the thousands . |	0										
+0.168280654013612	66	|Let the stuff work . '' |	|I settled him down , `` Tell me what you ate outside . '' |	|I collected a pen and a chart tacked onto a board . |	2	DEFAULT	DEFAULT								
+0.48859828409961	164	|`` How may we help you , honored sirs ? '' |	|the old man asked . |	|`` You can get your sons and grandsons out here , Blue . '' |	1	DEFAULT									
+0.278188532746047	167	|Chairs squeaked . |	|A soldier slammed his blade into a tabletop . |	|`` Sit still , '' Mercy said . |	1	DEFAULT									
+0.756498949946739	53	|Then Pokey took it and lived . '' |	|Word was out about that . |	|He drank . |	0										
+0.279370401143005	158	|The grandfather of the managing family appeared . |	|He sidled toward us like a mutt expecting a kick . |	|The customers began buzzing . |	1	DEFAULT									
+0.758981241263124	251	|We had come to the Avenue of the Syndics ' , which winds from the Customs House uptown to the Bastion 's main gate . |	|There was a procession on the Avenue . |	|Though we reached the intersection first , Mercy yielded the right-of-way . |	0										
+0.586159875161388	11	|For nine evenings running , ten black vultures circled the Bastion . |	|Then one evicted , the eagle which lived atop the Paper Tower . |	|Astrologers refused readings , fearing for their lives . |	0										
+0.95715517593164	171	|You 'll be loose in an hour . '' |	|The old man began shaking . |	|`` I do n't understand , sir . |	1	DEFAULT									
+0.491292881370758	152	|Mercy was a smallish , cocky fellow , fond of the dramatic gesture . |	|His entry should have been preceded by fanfares . |	|The crowd froze , stared at our shields and bared blades , at snatches of grim faces barely visible through gaps in our face guards . |	1	Mercy									
+0.286355384080913	290	|Several cohorts from the Fork Barracks demanded a special donative before they would respond to a directive to restore order . |	|The Syndic refused to pay . |	|The cohorts mutinied . |	0										
+0.573377622681005	129	|Channels meant bug the Lieutenant first . |	|Do n't interrupt his nap unless the Blues were storming the Bastion . |	|I explained about Curly and my chart . |	1	DEFAULT									
+0.986186157303457	243	|Still grinning , he eyed the sullen crowd . |	|`` Think they 'll try something ? '' |	|They did not . |	0										
+0.599466199814113	150	|People sleep up top during the summer . |	|He led the rest of us through the Mole 's front door . |	|Mercy was a smallish , cocky fellow , fond of the dramatic gesture . |	1	Mercy									
+0.662053042050191	103	|I faced the harbor . |	|A ship was founding the Island , a great lumbering beast that dwarfed the dhows and feluccas . |	|A silver skull bulged in the center of its full-bellied black sail . |	0										
+0.217225912147963	76	|`` You rest . |	|I 'll see the Captain . '' |	|I patted his shoulder , checked the next room . |	2	DEFAULT	DEFAULT								
+0.876396116801254	120	|I hollered . |	|`` Fire ! |	|Riots in the Groan ! |	0										
+0.500236450398489	264	|Something primitive deep inside me wanted to run . |	|But curiosity plagued me more . |	|Who was he ? |	1	DEFAULT									
+0.345915044273687	195	|One of our men went down , I am not much as a fighter , but I stepped into his place . |	|Mercy said something snide that I did not catch . |	|`` That 's your chance at heaven wasted , '' I countered . |	2	Mercy	DEFAULT								
+0.249564471692168	85	|But down on the water the air was in motion . |	|There was always a breeze out around the Island , though it avoided the shore as if fearing leprosy . |	|Closer at hand , the wheeling gulls were as surly and lackadaisical as the day promised to make most men . |	0										
+0.230721266923196	91	|Our forebrethren would be embarrassed to see us so diminished . |	|Beryl is misery curdled , but also ancient and intriguing . |	|Its history is a bottomless well filled with murky water . |	0										
+0.144669215980849	278	|They sparked something monstrous . |	|The perpetually abrasive weather does things to men 's reason . |	|The Beryl mob is savage . |	0										
+0.479215390077408	228	|He 's not nice either , though he seldom participates directly . |	|We took more prisoners than expected . |	|`` Was a bunch of them . '' |	0										
+0.870508729703167	35	|`` It 's bad , Croaker . |	|Really . '' |	|`` Uhm . '' |	0										
+0.408852890773052	70	|I was sure the poison had come from one of several nearby dives frequented by the Bastion garrison . |	|Curly produced one across-the-board match . |	|`` Bingo ! |	1	Curly									
+0.100022140219116	214	|I asked . |	|Silent grinned , exposing sharp teeth . |	|He passed a dusky paw across my eyes . |	0										
+0.082342504901176	95	|No easy task , for the city 's earlier historians wrote with an eye to pleasing the powers of their day . |	|The most interesting period , for me , is the ancient kingdom , which is the least satisfactorily chronicled . |	|It was then , in the reign of Niam , that the forvalaka came , were overcome after a decade of terror , and were confined in their dark tomb atop the Necropolitan Hill . |	1	DEFAULT									
+0.92692442934908	210	|Mole patrons began slapping their faces and pawing the air , forsaking us . |	|They hopped and danced , grabbed their backs and behinds , squealed and howled piteously . |	|Several collapsed . |	0										
+0.647429739817174	97	|It was then , in the reign of Niam , that the forvalaka came , were overcome after a decade of terror , and were confined in their dark tomb atop the Necropolitan Hill . |	|Echoes of that terror persist in folklore and matronly admonitions to unruly children . |	|No one recalls what the forvalaka were , now . |	0										
+0.437214876071754	226	|Saving the Syndic the cost of a trial and a hangman , Mercy called that . |	|Silent looked on , still grinning . |	|He 's not nice either , though he seldom participates directly . |	0										
+0.507418865475447	178	|Two charges of murder by poisoning . |	|Two of attempted murder by poisoning . |	|The magistrates decreed the punishment of slaves . '' |	0										
+0.138848344901773	304	|The Captain ordered the Company into the Bastion . |	|`` Let it run its course , '' he said . |	|`` We 've done enough . '' |	1	DEFAULT									
+0.816195214233638	19	|We did have four modestly accomplished wizards to stand sentinel against predatory tomorrows-though never by any means as sophisticated as divining through sheeps ' entrails . |	|Still , the best augurs are those who divine from the portents of the past . |	|They compile phenomenal records . |	0										
+0.803758504765553	151	|He led the rest of us through the Mole 's front door . |	|Mercy was a smallish , cocky fellow , fond of the dramatic gesture . |	|His entry should have been preceded by fanfares . |	1	Mercy									
+0.84181511394184	238	|Mercy chattered , wondering aloud how large a reward our informant deserved . |	|No such informant existed . |	|The yammer was meant to save our tame wizards from becoming prime targets . |	0										
+0.61175523392051	59	|You 'll be okay . |	|Yeah . |	|It looks that way . '' |	0										
+0.453188302188002	52	|Two men died before I came up with that . |	|Then Pokey took it and lived . '' |	|Word was out about that . |	1	Pokey									
+0.484016454820003	263	|That rider chilled me . |	|Something primitive deep inside me wanted to run . |	|But curiosity plagued me more . |	1	DEFAULT									
+0.472160855089397	189	|The public room exploded . |	|A wave of dagger-brandishing humanity hit us . |	|They forced us back to the door . |	0										
+0.087331115039584	13	|Astrologers refused readings , fearing for their lives . |	|A mad soothsayer wandered the streets proclaiming the imminent end of the world . |	|At the Bastion , the eagle not only ; departed , the ivy on the outer ramparts withered and gave way to a creeper which appeared black in all but the most intense sunlight . |	0										
+0.936818326850844	211	|They hopped and danced , grabbed their backs and behinds , squealed and howled piteously . |	|Several collapsed . |	|`` What the hell did you do ? '' |	0										
+0.838119881108094	191	|They forced us back to the door . |	|Those who were not guilty obviously feared they would be condemned with those who were . |	|Beryl 's justice is fast , crude , and harsh , and seldom gives a defendant opportunity to clear himself . |	0										
+0.713374750408562	138	|I could patch the wounded . |	|Silent would be useful if the Blues played rough . |	|Silent held us up half a day while he made a quick trip to the woods , `` What the hell you up to ? '' |	1	Silent									
+0.708531331831068	172	|The old man began shaking . |	|`` I do n't understand , sir . |	|What have we done ? '' |	2	DEFAULT	DEFAULT								
+0.73773223921213	27	|I mopped my face and grimaced at my first patient . |	|`` Crabs again , Curly ? '' |	|He grinned feebly . |	1	Curly									
+0.084244747830668	63	|It was a subtle poison . |	|`` Get over there on the cot where the breeze will hit you-if the son of a bitch ever comes up . |	|And lie still . |	1	DEFAULT									
+0.738890396152225	236	|Poking around , our witch man had unearthed a prize , a crowd concealed in a hideout beneath the wine cellar . |	|Among them were some of the best known Blues . |	|Mercy chattered , wondering aloud how large a reward our informant deserved . |	0										
+0.929921091111475	239	|No such informant existed . |	|The yammer was meant to save our tame wizards from becoming prime targets . |	|Our enemies would scurry around looking for phantom spies . |	0										
+0.031482429039901	268	|Why was he here ? |	|The eyeless gaze of the rider swept across us indifferently , as though passing over a flock of sheep . |	|Then it jerked back , fixing on Silent . |	0										
+0.589932806579048	9	|One victim escaped after its bowels were opened and was not recaptured . |	|At the Fork Barracks , where the Urban Cohorts were billeted , the image of Teux turned completely around . |	|For nine evenings running , ten black vultures circled the Bastion . |	0										
+0.092137361074563	75	|He was ready to go settle up himself . |	|`` You rest . |	|I 'll see the Captain . '' |	1	DEFAULT									
+0.201271524210856	188	|Our men were objecting . |	|The public room exploded . |	|A wave of dagger-brandishing humanity hit us . |	0										
+0.396798200867774	221	|They have a foul temper unrivalled anywhere in Nature . |	|They cowed the Mole crowd fast , without bothering our lads . |	|`` Fine work , Silent , '' Mercy said , after having vented his fury on several hapless patrons . |	0										
+0.172789884586414	94	|I amuse myself plumbing its shadowy depths , trying to isolate fact from fiction , legend , and myth . |	|No easy task , for the city 's earlier historians wrote with an eye to pleasing the powers of their day . |	|The most interesting period , for me , is the ancient kingdom , which is the least satisfactorily chronicled . |	0										
+0.670895900284859	28	|`` Crabs again , Curly ? '' |	|He grinned feebly . |	|His face was pale . |	1	DEFAULT									
+0.242282337350342	200	|You do n't leave out anything . '' |	|A dozen citizens went down . |	|Blood pooled in low places on the floor . |	0										
+0.986682017477242	26	|There was n't enough breeze to stir a cobweb . |	|I mopped my face and grimaced at my first patient . |	|`` Crabs again , Curly ? '' |	2	DEFAULT	Curly								
+0.767960887601033	83	|The upper air was still and heavy and hazy . |	|The horizon could not be discerned . |	|But down on the water the air was in motion . |	0										
+0.490539773007596	259	|Black gloves concealed his hands . |	|He seemed to be unarmed . |	|`` Damn me , '' Mercy whispered . |	1	DEFAULT									
+0.929386932129708	60	|Yeah . |	|It looks that way . '' |	|I 'd had to open up Walleye and Wild Bruce to learn the truth . |	0										
+0.746161216570976	93	|Its history is a bottomless well filled with murky water . |	|I amuse myself plumbing its shadowy depths , trying to isolate fact from fiction , legend , and myth . |	|No easy task , for the city 's earlier historians wrote with an eye to pleasing the powers of their day . |	1	DEFAULT									
+0.092696129315488	135	|The Black Company does not suffer malicious attacks upon its men . |	|Mercy was our nastiest platoon leader . |	|He thought a dozen men would suffice , but lei Silent and me lag along . |	1	Mercy									
+0.505329824828792	180	|The magistrates decreed the punishment of slaves . '' |	|He was having fun . |	|Mercy was n't one of my favorite people . |	1	Mercy									
+0.414595589638624	182	|Mercy was n't one of my favorite people . |	|He never slopped being the boy who pulled wings off flies . |	|The punishment of slaves meant being left up for scavenger birds after public crucifixion . |	1	Mercy									
+0.180823956797583	154	|The crowd froze , stared at our shields and bared blades , at snatches of grim faces barely visible through gaps in our face guards . |	|`` Verus ! '' |	|Mercy shouted . |	1	Verus									
+0.744886857143916	37	|`` Uhm . '' |	|I assumed my professional demeanor , sure what it was . |	|His skin was clammy , despite the heat . |	1	DEFAULT									
+0.948672874944954	273	|The column passed on , hardened , disciplined . |	|Shaken , Mercy got our mob moving again . |	|We entered the Bastion only yards behind the strangers . |	1	Mercy									
+0.689245013047548	250	|Mercy called an unexpected halt . |	|We had come to the Avenue of the Syndics ' , which winds from the Customs House uptown to the Bastion 's main gate . |	|There was a procession on the Avenue . |	0										
+0.898882273066697	39	|His skin was clammy , despite the heat . |	|`` Eaten outside the commissary lately , Curly ? '' |	|A fly landed on his head , strutted like a conqueror . |	1	Curly									
+0.715411019156419	47	|`` Drink this . |	|All of it . '' |	|His whole face puckered at the first taste . |	0										
+0.332732636559858	272	|And still he seemed somehow diminished . |	|The column passed on , hardened , disciplined . |	|Shaken , Mercy got our mob moving again . |	0										
+0.685547740328451	297	|In the end , the mutineers scattered rather than face the rest of the Black Company . |	|The riots were the worst in memory . |	|We lost almost a hundred brethren trying to suppress them . |	0										
+0.382812161247441	302	|The rats grew fat . |	|Clouds of vultures and ravens migrated from the countryside . |	|The Captain ordered the Company into the Bastion . |	0										
+0.411948290568579	109	|`` What the hell is that ? '' |	|a sentry asked . |	|`` I do n't know , Whitey . '' |	1	DEFAULT									
+0.192044084836991	96	|The most interesting period , for me , is the ancient kingdom , which is the least satisfactorily chronicled . |	|It was then , in the reign of Niam , that the forvalaka came , were overcome after a decade of terror , and were confined in their dark tomb atop the Necropolitan Hill . |	|Echoes of that terror persist in folklore and matronly admonitions to unruly children . |	0										
+0.767975722277854	296	|He came to me more dead than alive . |	|In the end , the mutineers scattered rather than face the rest of the Black Company . |	|The riots were the worst in memory . |	1	DEFAULT									
+0.516289589131624	254	|The procession consisted of a hundred armed men . |	|They looked tougher than anyone in Beryl but us . |	|At their head rode a dark figure on the biggest black stallion I 've ever seen . |	0										
+0.276489300012204	54	|Word was out about that . |	|He drank . |	|`` You mean it 's poison ? |	1	DEFAULT									
+0.797594798019978	105	|A silver skull bulged in the center of its full-bellied black sail . |	|That skull 's red eyes glowed . |	|Fires flickered behind its broken teeth . |	0										
+0.98054022206248	159	|He sidled toward us like a mutt expecting a kick . |	|The customers began buzzing . |	|`` Silence ! '' |	0										
+0.124777090723885	101	|The sentries , in their shaded kiosks , wore towels draped around their necks . |	|A breeze startled me . |	|I faced the harbor . |	1	DEFAULT									
+0.017424493783561	18	|We should have been better prepared . |	|We did have four modestly accomplished wizards to stand sentinel against predatory tomorrows-though never by any means as sophisticated as divining through sheeps ' entrails . |	|Still , the best augurs are those who divine from the portents of the past . |	0										
+0.537393747917079	137	|He thought a dozen men would suffice , but lei Silent and me lag along . |	|I could patch the wounded . |	|Silent would be useful if the Blues played rough . |	1	DEFAULT									
+0.858323681054902	55	|He drank . |	|`` You mean it 's poison ? |	|The damned Blues slipped me something ? '' |	1	DEFAULT									
+0.506974185848357	253	|Though we reached the intersection first , Mercy yielded the right-of-way . |	|The procession consisted of a hundred armed men . |	|They looked tougher than anyone in Beryl but us . |	0										
+0.939962367912196	32	|Thus the name . |	|I checked the watch schedule and duty roster . |	|Nothing there he would want to avoid . |	1	DEFAULT									
+0.019838821601025	215	|Silent grinned , exposing sharp teeth . |	|He passed a dusky paw across my eyes . |	|I saw the . |	2	Silent	DEFAULT								
+0.009490496046148	130	|Do n't interrupt his nap unless the Blues were storming the Bastion . |	|I explained about Curly and my chart . |	|He swung his feet off the desk . |	2	DEFAULT	Curly								
+0.609213424523939	112	|The ship 's size impressed me more than did its flashy sail . |	|The four minor wizards we had with the Company could match that showmanship . |	|But I 'd never seen a galley sporting five banks of oars . |	0										
+0.965895013838171	299	|We lost almost a hundred brethren trying to suppress them . |	|We could ill afford the loss of one . |	|In the Groan the streets were carpet led with corpses . |	0										
+0.156140833019173	206	|He lost patience . |	|`` Silent ! '' |	|Silent was on the job already , but he was Silent . |	1	Silent									
+0.652174341884605	267	|Had he come off that strange ship in the harbor ? |	|Why was he here ? |	|The eyeless gaze of the rider swept across us indifferently , as though passing over a flock of sheep . |	1	DEFAULT									
+0.796449680361035	65	|And lie still . |	|Let the stuff work . '' |	|I settled him down , `` Tell me what you ate outside . '' |	0										
+0.056197766441921	153	|His entry should have been preceded by fanfares . |	|The crowd froze , stared at our shields and bared blades , at snatches of grim faces barely visible through gaps in our face guards . |	|`` Verus ! '' |	0										
+0.300459267056407	81	|Halfway oven I paused , stared north , past the mole and lighthouse and Fortress Island , at the Sea of Torments . |	|Particolored sails speckled the dingy grey-brown water as coastal dhows scooted out along the spiderweb of routes linking the Jewel Cities . |	|The upper air was still and heavy and hazy . |	0										
+0.182082886433007	1	|Chapter One : LEGATE There were prodigies and portents enough , One-Eye says . |	|We must blame ourselves for misinterpreting them . |	|One-Eye 's handicap in no way impairs his marvelous hindsight . |	0										
+0.695801509305693	131	|I explained about Curly and my chart . |	|He swung his feet off the desk . |	|`` Sounds like work for Mercy . '' |	1	DEFAULT									
+0.317163567071996	197	|`` That 's your chance at heaven wasted , '' I countered . |	|`` You 're out of the Annals forever . '' |	|`` Crap . |	1	DEFAULT									
+0.689419435251042	209	|That meant no sound , and very little flash or fury . |	|Mole patrons began slapping their faces and pawing the air , forsaking us . |	|They hopped and danced , grabbed their backs and behinds , squealed and howled piteously . |	0										
+0.501572438920329	57	|The damned Blues slipped me something ? '' |	|`` Take it easy . |	|You 'll be okay . |	0										
+0.155458202267545	285	|A parade of weak , short-term Syndics let discipline lapse - . |	|The troops are beyond control now . |	|Generally , though , they will act against rioters . |	0										
+0.43151099099242	121	|`` Fire ! |	|Riots in the Groan ! |	|Dancing at the Gate of Dawn ! '' |	0										
+0.276395596845242	235	|She 'd led us to Mole Tavern at a critical moment . |	|Poking around , our witch man had unearthed a prize , a crowd concealed in a hideout beneath the wine cellar . |	|Among them were some of the best known Blues . |	0										
+0.326457794136906	117	|He did not respond . |	|I invited myself inside , found him snoring in his big wooden chair . |	|`` Yo ! '' |	2	DEFAULT	DEFAULT								
+0.594295986410613	177	|It 's murder , Verus . |	|Two charges of murder by poisoning . |	|Two of attempted murder by poisoning . |	0										
+0.727853081380463	160	|The customers began buzzing . |	|`` Silence ! '' |	|Mercy thundered . |	0										
+0.659467318703742	12	|Then one evicted , the eagle which lived atop the Paper Tower . |	|Astrologers refused readings , fearing for their lives . |	|A mad soothsayer wandered the streets proclaiming the imminent end of the world . |	0										
+0.913783706739397	287	|Generally , though , they will act against rioters . |	|They see riot suppression as license to loot . |	|The worst happened . |	0										
+0.830362306468441	29	|He grinned feebly . |	|His face was pale . |	|`` It 's my stomach , Croaker , '' His pate looks like a polished ostrich egg . |	1	DEFAULT									
+0.092283585563389	4	|Lightning from a clear sky smote the Necropolitan Hill . |	|One bolt struck the bronze plaque sealing the tomb of the forvalaka , obliterating half the spell of confinement . |	|It rained stones . |	0										
+0.91828220992007	115	|I recalled my mission . |	|I knocked on the Captain 's door . |	|He did not respond . |	2	DEFAULT	DEFAULT								
+0.951681540694917	43	|`` Yeah . |	|Three , four times . '' |	|`` Uhm . '' |	0										
+0.175810594276667	41	|A fly landed on his head , strutted like a conqueror . |	|He did n't notice . |	|`` Yeah . |	1	DEFAULT									
+0.094912869968076	62	|I 'd had to open up Walleye and Wild Bruce to learn the truth . |	|It was a subtle poison . |	|`` Get over there on the cot where the breeze will hit you-if the son of a bitch ever comes up . |	0										
+0.605465528067452	246	|His supreme confidence cowed anyone who had ideas . |	|We wound through mazelike streets half as old as the world , our prisoners shuffling listlessly . |	|I gawked . |	0										
+0.155324855096445	283	|This was one of the worst times . |	|The army is half the problem . |	|A parade of weak , short-term Syndics let discipline lapse - . |	0										
+0.820563531708041	155	|`` Verus ! '' |	|Mercy shouted . |	|`` Get your butt out here ! '' |	1	Mercy									
+0.234763390685465	128	|`` You 're presumptuous , Croaker , When are you going to learn to go through channels ? '' |	|Channels meant bug the Lieutenant first . |	|Do n't interrupt his nap unless the Blues were storming the Bastion . |	1	DEFAULT									
+0.894318330238561	61	|It looks that way . '' |	|I 'd had to open up Walleye and Wild Bruce to learn the truth . |	|It was a subtle poison . |	2	Walleye	Wild Bruce								
+0.976913252751861	248	|I gawked . |	|My comrades are indifferent to the past , but I can not help being awed-and occasionally intimidated-by how time-deep Beryl 's history runs . |	|Mercy called an unexpected halt . |	1	DEFAULT									
+0.932099174105868	42	|He did n't notice . |	|`` Yeah . |	|Three , four times . '' |	0										
+0.020910081406421	199	|`` Crap . |	|You do n't leave out anything . '' |	|A dozen citizens went down . |	1	DEFAULT									
+0.258876707444792	140	|Silent held us up half a day while he made a quick trip to the woods , `` What the hell you up to ? '' |	|I asked when he got back , lugging a ratty-looking sack . |	|He just grinned . |	2	DEFAULT	Silent								
+0.604373025778907	67	|I settled him down , `` Tell me what you ate outside . '' |	|I collected a pen and a chart tacked onto a board . |	|I had done the same with Pokey , and with Wild Bruce before he died , and had had Walleye 's platoon sergeant backtrack his movements . |	1	DEFAULT									
+0.810801143789102	139	|Silent would be useful if the Blues played rough . |	|Silent held us up half a day while he made a quick trip to the woods , `` What the hell you up to ? '' |	|I asked when he got back , lugging a ratty-looking sack . |	1	Silent									
+0.695762037553521	80	|I took the long route , along Trejan 's Wall , which overlooks Beryl 's harbor . |	|Halfway oven I paused , stared north , past the mole and lighthouse and Fortress Island , at the Sea of Torments . |	|Particolored sails speckled the dingy grey-brown water as coastal dhows scooted out along the spiderweb of routes linking the Jewel Cities . |	1	DEFAULT									
+0.122232971030616	240	|The yammer was meant to save our tame wizards from becoming prime targets . |	|Our enemies would scurry around looking for phantom spies . |	|`` Move them out , '' Mercy ordered . |	0										
+0.95171607045781	72	|`` Bingo ! |	|We 've got the bastards now . '' |	|`` Who ? '' |	0										
+0.501547123159162	217	|I saw the . |	|Mole tram a slightly altered perspective . |	|The bag he had lugged in from out of town proved to be one of those hornets ' nests you can , if you 're unlucky , run into in the woods south of Beryl . |	0										
+0.31268786204937	184	|The punishment of slaves meant being left up for scavenger birds after public crucifixion . |	|In Beryl only criminals are buried uncremated , or not buried al all . |	|An uproar rose in the kitchen . |	0										
+0.573400373562181	276	|We had arrested most of the more conservative Blue leadership . |	|When word of the raid spread , the volatile types decided to flex their muscles . |	|They sparked something monstrous . |	0										
+0.427825851347584	40	|`` Eaten outside the commissary lately , Curly ? '' |	|A fly landed on his head , strutted like a conqueror . |	|He did n't notice . |	1	Curly									
+0.850015059534779	44	|Three , four times . '' |	|`` Uhm . '' |	|I mixed a nasty , milky concoction . |	0										
+0.994269399798044	69	|I had done the same with Pokey , and with Wild Bruce before he died , and had had Walleye 's platoon sergeant backtrack his movements . |	|I was sure the poison had come from one of several nearby dives frequented by the Bastion garrison . |	|Curly produced one across-the-board match . |	1	DEFAULT									
+0.541517767627432	169	|`` Sit still , '' Mercy said . |	|`` You 're just having lunch , fine . |	|You 'll be loose in an hour . '' |	1	DEFAULT									
+0.087172870078045	232	|`` Thanks , Silent . '' |	|The line stretched a block . |	|Fate is a fickle bitch . |	0										
+0.536564775179059	133	|`` Sounds like work for Mercy . '' |	|His voice had a hard edge . |	|The Black Company does not suffer malicious attacks upon its men . |	1	DEFAULT									
+0.462978238960331	141	|I asked when he got back , lugging a ratty-looking sack . |	|He just grinned . |	|Silent he is and silent he stays . |	1	Silent									
+0.554551598884247	242	|`` Move them out , '' Mercy ordered . |	|Still grinning , he eyed the sullen crowd . |	|`` Think they 'll try something ? '' |	1	Mercy									
+0.49810216788593	227	|Silent looked on , still grinning . |	|He 's not nice either , though he seldom participates directly . |	|We took more prisoners than expected . |	1	Silent									
+0.669560608298512	73	|We 've got the bastards now . '' |	|`` Who ? '' |	|He was ready to go settle up himself . |	0										
+0.346412289878698	219	|The bag he had lugged in from out of town proved to be one of those hornets ' nests you can , if you 're unlucky , run into in the woods south of Beryl . |	|Its tenants were the bumblebee-looking monsters peasants call bald-faced hornets . |	|They have a foul temper unrivalled anywhere in Nature . |	0										
+0.089751458944183	14	|A mad soothsayer wandered the streets proclaiming the imminent end of the world . |	|At the Bastion , the eagle not only ; departed , the ivy on the outer ramparts withered and gave way to a creeper which appeared black in all but the most intense sunlight . |	|But that happens every year . |	0										
+0.073527407751533	157	|`` Get your butt out here ! '' |	|The grandfather of the managing family appeared . |	|He sidled toward us like a mutt expecting a kick . |	0										
+0.816904993469185	92	|Beryl is misery curdled , but also ancient and intriguing . |	|Its history is a bottomless well filled with murky water . |	|I amuse myself plumbing its shadowy depths , trying to isolate fact from fiction , legend , and myth . |	0										
+0.293992915673668	222	|They cowed the Mole crowd fast , without bothering our lads . |	|`` Fine work , Silent , '' Mercy said , after having vented his fury on several hapless patrons . |	|He herded the survivors into the street . |	2	Silent	Mercy								
+0.110335445740031	10	|At the Fork Barracks , where the Urban Cohorts were billeted , the image of Teux turned completely around . |	|For nine evenings running , ten black vultures circled the Bastion . |	|Then one evicted , the eagle which lived atop the Paper Tower . |	0										
+0.411126228340149	17	|Fools can make an omen of anything in retrospect . |	|We should have been better prepared . |	|We did have four modestly accomplished wizards to stand sentinel against predatory tomorrows-though never by any means as sophisticated as divining through sheeps ' entrails . |	0										
+0.051863083212358	79	|Curly was it for morning sick call . |	|I took the long route , along Trejan 's Wall , which overlooks Beryl 's harbor . |	|Halfway oven I paused , stared north , past the mole and lighthouse and Fortress Island , at the Sea of Torments . |	1	DEFAULT									
+0.71339197430726	108	|A glittering silver band encircled the skull . |	|`` What the hell is that ? '' |	|a sentry asked . |	0										
+0.468068135911024	146	|I had passed many an evening there . |	|Mercy assigned three men to the back door , and a pair each to the two windows . |	|He sent another two to the roof . |	1	Mercy									
+0.450945309046502	116	|I knocked on the Captain 's door . |	|He did not respond . |	|I invited myself inside , found him snoring in his big wooden chair . |	1	DEFAULT									
+0.570765550559006	6	|It rained stones . |	|Statues bled . |	|Priests at several temples reported sacrificial victims without hearts or livers . |	0										
+0.023866776846954	260	|He seemed to be unarmed . |	|`` Damn me , '' Mercy whispered . |	|I was disturbed . |	1	Mercy									
+0.40103715662798	218	|Mole tram a slightly altered perspective . |	|The bag he had lugged in from out of town proved to be one of those hornets ' nests you can , if you 're unlucky , run into in the woods south of Beryl . |	|Its tenants were the bumblebee-looking monsters peasants call bald-faced hornets . |	1	DEFAULT									
+0.124093278255349	173	|`` I do n't understand , sir . |	|What have we done ? '' |	|Mercy grinned evilly . |	0										
+0.219842852342233	282	|When things go bad the dead number in the thousands . |	|This was one of the worst times . |	|The army is half the problem . |	0										
+0.547811392915905	22	|Beryl totters perpetually , ready to stumble over a precipice into chaos . |	|The Queen of the Jewel Cities was old and decadent and mad , filled with the stench of degeneracy and moral dryrot . |	|Only a fool would be surprised by anything found creeping its night streets . |	0										
+0.090946877976386	262	|I was disturbed . |	|That rider chilled me . |	|Something primitive deep inside me wanted to run . |	1	DEFAULT									
+0.537189118876087	21	|They compile phenomenal records . |	|Beryl totters perpetually , ready to stumble over a precipice into chaos . |	|The Queen of the Jewel Cities was old and decadent and mad , filled with the stench of degeneracy and moral dryrot . |	0										
+0.389557681576449	301	|In the Groan the streets were carpet led with corpses . |	|The rats grew fat . |	|Clouds of vultures and ravens migrated from the countryside . |	0										
+0.186281043435336	144	|The place was called Mole Tavern . |	|It was a comfortable hangout . |	|I had passed many an evening there . |	0										
+0.422056581457885	15	|At the Bastion , the eagle not only ; departed , the ivy on the outer ramparts withered and gave way to a creeper which appeared black in all but the most intense sunlight . |	|But that happens every year . |	|Fools can make an omen of anything in retrospect . |	0										
+0.64916317441756	106	|That skull 's red eyes glowed . |	|Fires flickered behind its broken teeth . |	|A glittering silver band encircled the skull . |	0										
+0.640519601114226	166	|`` You can get your sons and grandsons out here , Blue . '' |	|Chairs squeaked . |	|A soldier slammed his blade into a tabletop . |	0										
+0.053781446338879	84	|The horizon could not be discerned . |	|But down on the water the air was in motion . |	|There was always a breeze out around the Island , though it avoided the shore as if fearing leprosy . |	0										
+0.755888085482749	127	|He did n't crack an eyelid or smile . |	|`` You 're presumptuous , Croaker , When are you going to learn to go through channels ? '' |	|Channels meant bug the Lieutenant first . |	1	Croaker									
+0.790340598582639	277	|When word of the raid spread , the volatile types decided to flex their muscles . |	|They sparked something monstrous . |	|The perpetually abrasive weather does things to men 's reason . |	0										
+0.516464386702246	111	|`` I do n't know , Whitey . '' |	|The ship 's size impressed me more than did its flashy sail . |	|The four minor wizards we had with the Company could match that showmanship . |	1	DEFAULT									
+0.851854879484711	104	|A ship was founding the Island , a great lumbering beast that dwarfed the dhows and feluccas . |	|A silver skull bulged in the center of its full-bellied black sail . |	|That skull 's red eyes glowed . |	0										
+0.454991937927606	216	|He passed a dusky paw across my eyes . |	|I saw the . |	|Mole tram a slightly altered perspective . |	1	DEFAULT									
+0.882428062293302	34	|Nothing there he would want to avoid . |	|`` It 's bad , Croaker . |	|Really . '' |	1	Croaker									
+0.499144711105175	168	|A soldier slammed his blade into a tabletop . |	|`` Sit still , '' Mercy said . |	|`` You 're just having lunch , fine . |	1	Mercy									
+0.536637107515934	225	|I examined our injured brother while the unharmed soldier finished the wounded . |	|Saving the Syndic the cost of a trial and a hangman , Mercy called that . |	|Silent looked on , still grinning . |	1	Mercy									
+0.546538319207066	257	|The rider was small , effeminately slim , and clad in worn black leather . |	|He wore a black morion which concealed his head entirely . |	|Black gloves concealed his hands . |	1	DEFAULT									
+0.966227340857774	3	|One-Eye 's handicap in no way impairs his marvelous hindsight . |	|Lightning from a clear sky smote the Necropolitan Hill . |	|One bolt struck the bronze plaque sealing the tomb of the forvalaka , obliterating half the spell of confinement . |	0										
+0.451745522144846	249	|My comrades are indifferent to the past , but I can not help being awed-and occasionally intimidated-by how time-deep Beryl 's history runs . |	|Mercy called an unexpected halt . |	|We had come to the Avenue of the Syndics ' , which winds from the Customs House uptown to the Bastion 's main gate . |	1	Mercy									
+0.744947190873444	148	|He sent another two to the roof . |	|Every building in Beryl has a roof hatch . |	|People sleep up top during the summer . |	0										
+0.431290581644075	274	|Shaken , Mercy got our mob moving again . |	|We entered the Bastion only yards behind the strangers . |	|We had arrested most of the more conservative Blue leadership . |	0										
+0.619770670638973	275	|We entered the Bastion only yards behind the strangers . |	|We had arrested most of the more conservative Blue leadership . |	|When word of the raid spread , the volatile types decided to flex their muscles . |	0										
+0.384269962090639	86	|There was always a breeze out around the Island , though it avoided the shore as if fearing leprosy . |	|Closer at hand , the wheeling gulls were as surly and lackadaisical as the day promised to make most men . |	|Another summer in service to the Syndic of Beryl , sweating and grimy , thanklessly shielding him from political rivals and his undisciplined native troops . |	0										
+0.281377574130435	143	|Silent he is and silent he stays . |	|The place was called Mole Tavern . |	|It was a comfortable hangout . |	0										
+0.624337199704817	30	|His face was pale . |	|`` It 's my stomach , Croaker , '' His pate looks like a polished ostrich egg . |	|Thus the name . |	2	DEFAULT	Croaker								
+0.301513248472764	252	|There was a procession on the Avenue . |	|Though we reached the intersection first , Mercy yielded the right-of-way . |	|The procession consisted of a hundred armed men . |	1	Mercy									
+0.319525146082221	7	|Statues bled . |	|Priests at several temples reported sacrificial victims without hearts or livers . |	|One victim escaped after its bowels were opened and was not recaptured . |	0										
+0.12019112304764	247	|We wound through mazelike streets half as old as the world , our prisoners shuffling listlessly . |	|I gawked . |	|My comrades are indifferent to the past , but I can not help being awed-and occasionally intimidated-by how time-deep Beryl 's history runs . |	1	DEFAULT									
+0.44438643531929	102	|A breeze startled me . |	|I faced the harbor . |	|A ship was founding the Island , a great lumbering beast that dwarfed the dhows and feluccas . |	1	DEFAULT									
+0.785125333999623	284	|The army is half the problem . |	|A parade of weak , short-term Syndics let discipline lapse - . |	|The troops are beyond control now . |	0										
+0.28043098648386	123	|Dancing at the Gate of Dawn ! '' |	|Dancing was an old time general who nearly destroyed Beryl . |	|People still shudder at his name . |	1	Dancing									
+0.514864119492845	113	|The four minor wizards we had with the Company could match that showmanship . |	|But I 'd never seen a galley sporting five banks of oars . |	|I recalled my mission . |	1	DEFAULT									
+0.510995460590149	88	|Another summer in service to the Syndic of Beryl , sweating and grimy , thanklessly shielding him from political rivals and his undisciplined native troops . |	|Another summer busting our butts for Curly 's reward . |	|The pay was good , but not in coin of the soul . |	1	Curly									
+0.23496900477373	125	|People still shudder at his name . |	|The Captain was cool . |	|He did n't crack an eyelid or smile . |	1	DEFAULT									
+0.111574134743811	223	|`` Fine work , Silent , '' Mercy said , after having vented his fury on several hapless patrons . |	|He herded the survivors into the street . |	|I examined our injured brother while the unharmed soldier finished the wounded . |	1	Mercy									
+0.227299806589421	124	|Dancing was an old time general who nearly destroyed Beryl . |	|People still shudder at his name . |	|The Captain was cool . |	1	Dancing									
+0.822655635400859	33	|I checked the watch schedule and duty roster . |	|Nothing there he would want to avoid . |	|`` It 's bad , Croaker . |	1	DEFAULT									
+0.697301836089463	100	|I resumed walking , despairing of beating the heat . |	|The sentries , in their shaded kiosks , wore towels draped around their necks . |	|A breeze startled me . |	0										
+0.722442672236244	231	|Mercy 's eyes twinkled . |	|`` Thanks , Silent . '' |	|The line stretched a block . |	1	Silent									
+0.454613474933156	89	|Another summer busting our butts for Curly 's reward . |	|The pay was good , but not in coin of the soul . |	|Our forebrethren would be embarrassed to see us so diminished . |	0										
+0.490429296410456	161	|`` Silence ! '' |	|Mercy thundered . |	|He could get a big roar out of his small body . |	1	Mercy									
+0.06254819727392	265	|But curiosity plagued me more . |	|Who was he ? |	|Had he come off that strange ship in the harbor ? |	1	DEFAULT									
+0.212243434657211	271	|Silent met stare for stare , and showed no fear . |	|And still he seemed somehow diminished . |	|The column passed on , hardened , disciplined . |	1	Silent									
+0.032597859212583	25	|I had every shutter thrown wide , praying for a breath off the harbor , rotting fish and all . |	|There was n't enough breeze to stir a cobweb . |	|I mopped my face and grimaced at my first patient . |	0										
+0.081200819985939	68	|I collected a pen and a chart tacked onto a board . |	|I had done the same with Pokey , and with Wild Bruce before he died , and had had Walleye 's platoon sergeant backtrack his movements . |	|I was sure the poison had come from one of several nearby dives frequented by the Bastion garrison . |	4	DEFAULT	Pokey	Wild Bruce	Walleye						
+0.590803190473021	71	|Curly produced one across-the-board match . |	|`` Bingo ! |	|We 've got the bastards now . '' |	0										
+0.905051996724437	270	|Then it jerked back , fixing on Silent . |	|Silent met stare for stare , and showed no fear . |	|And still he seemed somehow diminished . |	1	Silent									
+0.953560107843841	126	|The Captain was cool . |	|He did n't crack an eyelid or smile . |	|`` You 're presumptuous , Croaker , When are you going to learn to go through channels ? '' |	1	DEFAULT									
+0.933598070146875	279	|The perpetually abrasive weather does things to men 's reason . |	|The Beryl mob is savage . |	|Riots occur almost without provocation . |	0										
+0.757805075805242	205	|A dagger nicked Mercy . |	|He lost patience . |	|`` Silent ! '' |	1	Mercy									
+0.412794168123652	258	|He wore a black morion which concealed his head entirely . |	|Black gloves concealed his hands . |	|He seemed to be unarmed . |	1	DEFAULT									
+0.395135327977103	78	|I patted his shoulder , checked the next room . |	|Curly was it for morning sick call . |	|I took the long route , along Trejan 's Wall , which overlooks Beryl 's harbor . |	1	Curly									
+0.503905960068182	298	|The riots were the worst in memory . |	|We lost almost a hundred brethren trying to suppress them . |	|We could ill afford the loss of one . |	0										
+0.34058743684571	51	|`` Drink , friend . |	|Two men died before I came up with that . |	|Then Pokey took it and lived . '' |	1	DEFAULT									
+0.468383992503794	174	|What have we done ? '' |	|Mercy grinned evilly . |	|`` He plays the innocent well . |	1	Mercy									
+0.392826130342782	201	|A dozen citizens went down . |	|Blood pooled in low places on the floor . |	|Spectators gathered outside . |	0										
+0.334203938847122	45	|`` Uhm . '' |	|I mixed a nasty , milky concoction . |	|`` Drink this . |	1	DEFAULT									
+0.484254683258588	193	|Beryl 's justice is fast , crude , and harsh , and seldom gives a defendant opportunity to clear himself . |	|A dagger slipped past a shield . |	|One of our men went down , I am not much as a fighter , but I stepped into his place . |	0										
+0.63653330733011	58	|`` Take it easy . |	|You 'll be okay . |	|Yeah . |	1	DEFAULT									
+0.33951628313235	198	|`` You 're out of the Annals forever . '' |	|`` Crap . |	|You do n't leave out anything . '' |	0										
+0.949362038277718	208	|Silent was on the job already , but he was Silent . |	|That meant no sound , and very little flash or fury . |	|Mole patrons began slapping their faces and pawing the air , forsaking us . |	0										
+0.968815118456381	118	|I invited myself inside , found him snoring in his big wooden chair . |	|`` Yo ! '' |	|I hollered . |	0										
+0.096768447671522	36	|Really . '' |	|`` Uhm . '' |	|I assumed my professional demeanor , sure what it was . |	0										
+0.818016908780482	187	|Somebody was trying to get out the back door . |	|Our men were objecting . |	|The public room exploded . |	0										
+0.352525079037228	207	|`` Silent ! '' |	|Silent was on the job already , but he was Silent . |	|That meant no sound , and very little flash or fury . |	1	Silent									
+0.217693992241469	269	|The eyeless gaze of the rider swept across us indifferently , as though passing over a flock of sheep . |	|Then it jerked back , fixing on Silent . |	|Silent met stare for stare , and showed no fear . |	1	Silent									
+0.959416033494358	82	|Particolored sails speckled the dingy grey-brown water as coastal dhows scooted out along the spiderweb of routes linking the Jewel Cities . |	|The upper air was still and heavy and hazy . |	|The horizon could not be discerned . |	0										
+0.511336022545931	289	|The worst happened . |	|Several cohorts from the Fork Barracks demanded a special donative before they would respond to a directive to restore order . |	|The Syndic refused to pay . |	0										
+0.050373405439203	266	|Who was he ? |	|Had he come off that strange ship in the harbor ? |	|Why was he here ? |	1	DEFAULT									
+0.760646054063894	147	|Mercy assigned three men to the back door , and a pair each to the two windows . |	|He sent another two to the roof . |	|Every building in Beryl has a roof hatch . |	1	Mercy									
+0.694787588024319	288	|They see riot suppression as license to loot . |	|The worst happened . |	|Several cohorts from the Fork Barracks demanded a special donative before they would respond to a directive to restore order . |	0										
+0.657270409639208	204	|Soon some adventurer would hit us from behind . |	|A dagger nicked Mercy . |	|He lost patience . |	1	Mercy									
+0.684054289840853	50	|`` Look , Croaker , I. ... '' The smell of the stuff revolted me . |	|`` Drink , friend . |	|Two men died before I came up with that . |	0										
+0.225030692258645	220	|Its tenants were the bumblebee-looking monsters peasants call bald-faced hornets . |	|They have a foul temper unrivalled anywhere in Nature . |	|They cowed the Mole crowd fast , without bothering our lads . |	0										
+0.882705343737316	213	|`` What the hell did you do ? '' |	|I asked . |	|Silent grinned , exposing sharp teeth . |	1	DEFAULT									
+0.624194876095801	261	|`` Damn me , '' Mercy whispered . |	|I was disturbed . |	|That rider chilled me . |	1	DEFAULT									
+0.932942384516769	74	|`` Who ? '' |	|He was ready to go settle up himself . |	|`` You rest . |	1	DEFAULT									
+0.32622263397783	233	|The line stretched a block . |	|Fate is a fickle bitch . |	|She 'd led us to Mole Tavern at a critical moment . |	0										
+0.9371225629992	8	|Priests at several temples reported sacrificial victims without hearts or livers . |	|One victim escaped after its bowels were opened and was not recaptured . |	|At the Fork Barracks , where the Urban Cohorts were billeted , the image of Teux turned completely around . |	0										
+0.678890730980487	202	|Blood pooled in low places on the floor . |	|Spectators gathered outside . |	|Soon some adventurer would hit us from behind . |	0										
+0.605934497303599	245	|They did not . |	|His supreme confidence cowed anyone who had ideas . |	|We wound through mazelike streets half as old as the world , our prisoners shuffling listlessly . |	1	DEFAULT									
+0.087546065397633	291	|The Syndic refused to pay . |	|The cohorts mutinied . |	|Mercy 's platoon hastily established a strongpoint near the Rubbish Gate and held off all three cohorts . |	0										
+0.340935112117328	212	|Several collapsed . |	|`` What the hell did you do ? '' |	|I asked . |	1	DEFAULT									
+0.115661243326823	132	|He swung his feet off the desk . |	|`` Sounds like work for Mercy . '' |	|His voice had a hard edge . |	1	Mercy									
+0.529076472907031	295	|Mercy himself lost an eye , a finger , was wounded in shoulder and hip , and had more than a hundred holes in his shield when help arrived . |	|He came to me more dead than alive . |	|In the end , the mutineers scattered rather than face the rest of the Black Company . |	1	Mercy									
+0.581745644148351	20	|Still , the best augurs are those who divine from the portents of the past . |	|They compile phenomenal records . |	|Beryl totters perpetually , ready to stumble over a precipice into chaos . |	0										
+0.309115767874903	294	|Most of our men were killed , but none ran . |	|Mercy himself lost an eye , a finger , was wounded in shoulder and hip , and had more than a hundred holes in his shield when help arrived . |	|He came to me more dead than alive . |	1	Mercy									
+0.012393531749493	145	|It was a comfortable hangout . |	|I had passed many an evening there . |	|Mercy assigned three men to the back door , and a pair each to the two windows . |	1	DEFAULT									
+0.702780133333565	56	|`` You mean it 's poison ? |	|The damned Blues slipped me something ? '' |	|`` Take it easy . |	1	DEFAULT									
+0.970742234789595	64	|`` Get over there on the cot where the breeze will hit you-if the son of a bitch ever comes up . |	|And lie still . |	|Let the stuff work . '' |	0										
+0.196381250358622	24	|Only a fool would be surprised by anything found creeping its night streets . |	|I had every shutter thrown wide , praying for a breath off the harbor , rotting fish and all . |	|There was n't enough breeze to stir a cobweb . |	1	DEFAULT									
+0.965157709131445	230	|`` Was a bunch of them . '' |	|Mercy 's eyes twinkled . |	|`` Thanks , Silent . '' |	1	Mercy									
+0.520170347143468	99	|No one recalls what the forvalaka were , now . |	|I resumed walking , despairing of beating the heat . |	|The sentries , in their shaded kiosks , wore towels draped around their necks . |	1	DEFAULT									
+0.591956195150145	224	|He herded the survivors into the street . |	|I examined our injured brother while the unharmed soldier finished the wounded . |	|Saving the Syndic the cost of a trial and a hangman , Mercy called that . |	1	DEFAULT									
+0.410709276020457	293	|Mercy 's platoon hastily established a strongpoint near the Rubbish Gate and held off all three cohorts . |	|Most of our men were killed , but none ran . |	|Mercy himself lost an eye , a finger , was wounded in shoulder and hip , and had more than a hundred holes in his shield when help arrived . |	0										
+0.176427995128748	31	|`` It 's my stomach , Croaker , '' His pate looks like a polished ostrich egg . |	|Thus the name . |	|I checked the watch schedule and duty roster . |	0										
+0.817925002480309	46	|I mixed a nasty , milky concoction . |	|`` Drink this . |	|All of it . '' |	0										
+0.921684166260255	98	|Echoes of that terror persist in folklore and matronly admonitions to unruly children . |	|No one recalls what the forvalaka were , now . |	|I resumed walking , despairing of beating the heat . |	0										
+0.128617064807185	281	|Riots occur almost without provocation . |	|When things go bad the dead number in the thousands . |	|This was one of the worst times . |	0										
+0.318926385733479	16	|But that happens every year . |	|Fools can make an omen of anything in retrospect . |	|We should have been better prepared . |	0										
+0.746993727130465	186	|An uproar rose in the kitchen . |	|Somebody was trying to get out the back door . |	|Our men were objecting . |	0										
+0.92136620078554	110	|a sentry asked . |	|`` I do n't know , Whitey . '' |	|The ship 's size impressed me more than did its flashy sail . |	2	DEFAULT	Whitey								
+0.776545737059091	149	|Every building in Beryl has a roof hatch . |	|People sleep up top during the summer . |	|He led the rest of us through the Mole 's front door . |	0										
+0.070692757940913	90	|The pay was good , but not in coin of the soul . |	|Our forebrethren would be embarrassed to see us so diminished . |	|Beryl is misery curdled , but also ancient and intriguing . |	0										
+0.921931173244703	114	|But I 'd never seen a galley sporting five banks of oars . |	|I recalled my mission . |	|I knocked on the Captain 's door . |	1	DEFAULT									
+0.214279516711319	292	|The cohorts mutinied . |	|Mercy 's platoon hastily established a strongpoint near the Rubbish Gate and held off all three cohorts . |	|Most of our men were killed , but none ran . |	1	Mercy									
+0.59333788613558	170	|`` You 're just having lunch , fine . |	|You 'll be loose in an hour . '' |	|The old man began shaking . |	1	DEFAULT									
+0.246159395782299	38	|I assumed my professional demeanor , sure what it was . |	|His skin was clammy , despite the heat . |	|`` Eaten outside the commissary lately , Curly ? '' |	1	Curly									

@@ -1,0 +1,107 @@
+Shuffle	sentenceID	pre-context	sentence to be annotated	post-context	# people sentence	character 1	character 2	character 3	character 4	character 5	character 6	character 7	character 8	character 9	character 10
+0.68995004777334	79	|I went to stand before him , leaning on my sword , tired in my arms and legs all of a sudden . |	|`` Best speak your piece quickly , farmer . |	|Brother Gemt 's a-coming with his axe . |	1	DEFAULT									
+0.063256085488508	54	|Liked to see them go out with a smile . |	|`` What treasure ? '' |	|Rike wanted to know , still surly . |	0										
+0.075821368438163	59	|Rike lifted his visor , treating us to his ugly face . |	|Well , brutal more than ugly . |	|I think the scars improved him . |	0										
+0.798427640320462	104	|I 'd hardly be fifteen and rousting villages . |	|By the time fifteen came around , I 'd be King ! |	|Some people are born to rub you the wrong way . |	1	DEFAULT									
+0.239380380859571	51	|He was wont to call Rike `` Little Rikey , '' on account of him being a head taller than any of us and twice as wide . |	|Makin always told jokes . |	|He 'd tell them to those as he killed , if they gave him time . |	1	Makin									
+0.535967352915703	83	|He did n't seem too worried . |	|It 's hard to worry a man so close to the worm-feast . |	|Still , it irked me that he held me so lightly and called me `` boy . '' |	0										
+0.493777951225609	63	|Makin pursed his lips . |	|I never liked his lips , too thick and fleshy , but I forgave him that , for his joking and his deathly work with that flail of his . |	|`` Well , you can have the cows , Little Rikey . |	2	Makin	Brother Rike								
+0.257337574032584	80	|`` Best speak your piece quickly , farmer . |	|Brother Gemt 's a-coming with his axe . |	|Chop-chop . '' |	1	Gemt									
+0.134531036782203	41	|I gave him my warning look . |	|His cursing stole the magic from the scene ; besides , I had to be stern with him . |	|Rike was always on the edge after a battle , wanting more . |	2	Brother Rike	DEFAULT								
+0.229041551559408	97	|`` Fifteen summers , no more . |	|Could n't be more ... '' His words came slow , from blue lips in a white face . |	|Out by two , I would have told him , but he 'd gone past hearing . |	1	DEFAULT									
+0.193659495515365	74	|But we 'd torch the place soon enough and the stink would all turn to wood-smoke . |	|Gold rings ? |	|I needed no more payment . |	0										
+0.722270185142118	27	|But look where disagreeing got him . |	|`` Shit-poor farm maggots . '' |	|Rike discarded a handful of fingers over Bovid 's open belly . |	0										
+0.260694431808665	33	|One ! |	|A whole village and one fecking gold ring . |	|I 'd like to set the bastards up and knock â€™em down again . |	0										
+0.466694033742878	82	|Chop-chop . '' |	|He did n't seem too worried . |	|It 's hard to worry a man so close to the worm-feast . |	1	DEFAULT									
+0.409078061342866	29	|Rike discarded a handful of fingers over Bovid 's open belly . |	|He came to me , holding out his takings , as if it was my fault . |	|`` Look ! |	2	Brother Rike	DEFAULT								
+0.360019475416477	40	|There 's more than one kind of gold in Mabberton . '' |	|I gave him my warning look . |	|His cursing stole the magic from the scene ; besides , I had to be stern with him . |	2	DEFAULT	DEFAULT								
+0.620420717401012	17	|Two hundred dead farmers lying with their scythes and axes . |	|You know , I warned them that we do this for a living . |	|I said it to their leader , Bovid Tor . |	2	DEFAULT	DEFAULT								
+0.155025760388323	86	|`` Do you have daughters , farmer ? |	|Hiding in the cellar maybe ? |	|Old Rike will sniff them out . '' |	0										
+0.93527903707308	23	|And they got it . |	|War , my friends , is a thing of beauty . |	|Those as says otherwise are losing . |	0										
+0.27217946807893	65	|`` Well , you can have the cows , Little Rikey . |	|Me , I 'm going to find a farmer 's daughter or three , before the others use them all up . '' |	|They went off then , Rike doing that laugh of his , `` hur , hur , hur , '' as if he was trying to cough a fishbone out . |	1	DEFAULT									
+0.363451078247891	101	|`` Take his head , '' I told them . |	|`` Leave his fat belly for the ravens . '' |	|Fifteen ! |	1	DEFAULT									
+0.596826556613922	69	|Bovid followed them with his eyes , but he could n't turn his head . |	|I looked at the ravens , I watched Gemt and his half-wit brother , Maical , taking heads , Maical with the cart and Gemt with the axe . |	|A thing of beauty , I tell you . |	3	DEFAULT	Gemt	Maical							
+0.241261423803088	76	|I needed no more payment . |	|`` Boy ! '' |	|Bovid called out , his voice all hollow like , and weak . |	1	DEFAULT									
+0.358679850218434	99	|Out by two , I would have told him , but he 'd gone past hearing . |	|The cart creaked up behind me , and Gemt came along with his axe dripping . |	|`` Take his head , '' I told them . |	2	DEFAULT	Gemt								
+0.161719319529554	30	|He came to me , holding out his takings , as if it was my fault . |	|`` Look ! |	|One gold ring . |	0										
+0.1364356688275	89	|Bovid looked up sharp at that , pained and sharp . |	|`` H-how old are you , boy ? '' |	|Again the `` boy . '' |	1	DEFAULT									
+0.73107140422154	84	|It 's hard to worry a man so close to the worm-feast . |	|Still , it irked me that he held me so lightly and called me `` boy . '' |	|`` Do you have daughters , farmer ? |	2	DEFAULT	DEFAULT								
+0.322249499810536	18	|You know , I warned them that we do this for a living . |	|I said it to their leader , Bovid Tor . |	|I gave them that chance , I always do . |	2	DEFAULT	Bovid								
+0.50467577581605	95	|I do n't think he caught even that . |	|I do n't think he even knew it was me that opened him up not half an hour before . |	|`` Fifteen summers , no more . |	2	DEFAULT	DEFAULT								
+0.372687623680984	7	|Blood in the gutters , blood on the flagstones , blood in the fountain . |	|The corpses posed as corpses do . |	|Some comical , reaching for the sky with missing fingers , some peaceful , coiled about their wounds . |	0										
+0.048828360462024	16	|And that was Mabberton . |	|Two hundred dead farmers lying with their scythes and axes . |	|You know , I warned them that we do this for a living . |	0										
+0.683653219316609	71	|A thing of beauty , I tell you . |	|At least to look at . |	|I 'll agree war smells bad . |	0										
+0.711178820496737	15	|Strange , it 's killing that gives me a thirst . |	|And that was Mabberton . |	|Two hundred dead farmers lying with their scythes and axes . |	0										
+0.539968790142812	91	|Again the `` boy . '' |	|`` Old enough to slit you open like a fat purse , '' I said , getting angry now . |	|I do n't like to get angry . |	2	DEFAULT	DEFAULT								
+0.752055276841306	50	|There 's treasure aplenty to be found . '' |	|He was wont to call Rike `` Little Rikey , '' on account of him being a head taller than any of us and twice as wide . |	|Makin always told jokes . |	1	Brother Rike									
+0.482035260489003	28	|`` Shit-poor farm maggots . '' |	|Rike discarded a handful of fingers over Bovid 's open belly . |	|He came to me , holding out his takings , as if it was my fault . |	2	Brother Rike	Bovid								
+0.799634379261679	56	|Rike wanted to know , still surly . |	|`` When you get farmers , what else do you always get , Little Rikey ? '' |	|Makin raised his eyebrows all suggestive . |	1	Brother Rike									
+0.307687478849433	88	|Old Rike will sniff them out . '' |	|Bovid looked up sharp at that , pained and sharp . |	|`` H-how old are you , boy ? '' |	1	Bovid									
+0.941357721070674	60	|Well , brutal more than ugly . |	|I think the scars improved him . |	|`` Cows ? '' |	2	DEFAULT	DEFAULT								
+0.635135558603769	92	|`` Old enough to slit you open like a fat purse , '' I said , getting angry now . |	|I do n't like to get angry . |	|It makes me angry . |	1	DEFAULT									
+0.457651834610402	43	|Rike was always on the edge after a battle , wanting more . |	|I gave him a look that told him I had more . |	|More than he could handle . |	2	Brother Rike	DEFAULT								
+0.25394470606882	49	|`` Brother Jorg is right , Little Rikey . |	|There 's treasure aplenty to be found . '' |	|He was wont to call Rike `` Little Rikey , '' on account of him being a head taller than any of us and twice as wide . |	0										
+0.040635943521178	36	|Fecking bog-farmers . '' |	|He would too : he was an evil bastard , and greedy with it . |	|I held his eye . |	1	DEFAULT									
+0.929644599093855	68	|I watched them force the door to Bovid 's place opposite the church , a fine house , high roofed with wooden slates and a little flower garden in front . |	|Bovid followed them with his eyes , but he could n't turn his head . |	|I looked at the ravens , I watched Gemt and his half-wit brother , Maical , taking heads , Maical with the cart and Gemt with the axe . |	1	Bovid									
+0.149573616301338	20	|I gave them that chance , I always do . |	|But no . |	|They wanted blood and slaughter . |	0										
+0.498125756839417	64	|I never liked his lips , too thick and fleshy , but I forgave him that , for his joking and his deathly work with that flail of his . |	|`` Well , you can have the cows , Little Rikey . |	|Me , I 'm going to find a farmer 's daughter or three , before the others use them all up . '' |	1	Brother Rike									
+0.691333263433401	85	|Still , it irked me that he held me so lightly and called me `` boy . '' |	|`` Do you have daughters , farmer ? |	|Hiding in the cellar maybe ? |	1	DEFAULT									
+0.170059573269409	39	|`` Settle down , Brother Rike . |	|There 's more than one kind of gold in Mabberton . '' |	|I gave him my warning look . |	0										
+0.459794353011741	2	|Always the ravens . |	|They settled on the gables of the church even before the injured became the dead . |	|Even before Rike had finished taking fingers from hands , and rings from fingers . |	0										
+0.501687325589811	57	|`` When you get farmers , what else do you always get , Little Rikey ? '' |	|Makin raised his eyebrows all suggestive . |	|Rike lifted his visor , treating us to his ugly face . |	1	Makin									
+0.609764358969417	8	|The corpses posed as corpses do . |	|Some comical , reaching for the sky with missing fingers , some peaceful , coiled about their wounds . |	|Flies rose above the wounded as they struggled . |	0										
+0.864424177525285	73	|I 'll agree war smells bad . |	|But we 'd torch the place soon enough and the stink would all turn to wood-smoke . |	|Gold rings ? |	0										
+0.010015183587147	53	|He 'd tell them to those as he killed , if they gave him time . |	|Liked to see them go out with a smile . |	|`` What treasure ? '' |	0										
+0.336817299637806	34	|A whole village and one fecking gold ring . |	|I 'd like to set the bastards up and knock â€™em down again . |	|Fecking bog-farmers . '' |	1	DEFAULT									
+0.533948720295613	96	|I do n't think he even knew it was me that opened him up not half an hour before . |	|`` Fifteen summers , no more . |	|Could n't be more ... '' His words came slow , from blue lips in a white face . |	0										
+0.770862142626024	102	|`` Leave his fat belly for the ravens . '' |	|Fifteen ! |	|I 'd hardly be fifteen and rousting villages . |	0										
+0.62935005347216	4	|Even before Rike had finished taking fingers from hands , and rings from fingers . |	|I leaned back against the gallowspost and nodded to the birds , a dozen of them in a black line , wise-eyed and watching . |	|The town-square ran red . |	1	DEFAULT									
+0.59597033451918	10	|Flies rose above the wounded as they struggled . |	|This way and that , some blind , some sly , all betrayed by their buzzing entourage . |	|`` Water ! |	0										
+0.775859547777456	93	|I do n't like to get angry . |	|It makes me angry . |	|I do n't think he caught even that . |	1	DEFAULT									
+0.844063561279381	90	|`` H-how old are you , boy ? '' |	|Again the `` boy . '' |	|`` Old enough to slit you open like a fat purse , '' I said , getting angry now . |	0										
+0.176267672207932	66	|Me , I 'm going to find a farmer 's daughter or three , before the others use them all up . '' |	|They went off then , Rike doing that laugh of his , `` hur , hur , hur , '' as if he was trying to cough a fishbone out . |	|I watched them force the door to Bovid 's place opposite the church , a fine house , high roofed with wooden slates and a little flower garden in front . |	1	Brother Rike									
+0.422995100208838	11	|This way and that , some blind , some sly , all betrayed by their buzzing entourage . |	|`` Water ! |	|Water ! '' |	0										
+0.237827227149094	48	|If Makin had a skill , then smoothing things over was it . |	|`` Brother Jorg is right , Little Rikey . |	|There 's treasure aplenty to be found . '' |	2	Brother Rike	Jorg								
+0.684247893949274	52	|Makin always told jokes . |	|He 'd tell them to those as he killed , if they gave him time . |	|Liked to see them go out with a smile . |	1	Makin									
+0.478116582772107	106	|Some people are born to rub you the wrong way . |	|Brother Gemt was born to rub the world the wrong way . |	|2 Mabberton burned well . |	1	Gemt									
+0.561175670687767	78	|Bovid called out , his voice all hollow like , and weak . |	|I went to stand before him , leaning on my sword , tired in my arms and legs all of a sudden . |	|`` Best speak your piece quickly , farmer . |	2	Bovid	DEFAULT								
+0.032331276935658	77	|`` Boy ! '' |	|Bovid called out , his voice all hollow like , and weak . |	|I went to stand before him , leaning on my sword , tired in my arms and legs all of a sudden . |	1	Bovid									
+0.806904662036846	67	|They went off then , Rike doing that laugh of his , `` hur , hur , hur , '' as if he was trying to cough a fishbone out . |	|I watched them force the door to Bovid 's place opposite the church , a fine house , high roofed with wooden slates and a little flower garden in front . |	|Bovid followed them with his eyes , but he could n't turn his head . |	2	Bovid									
+0.438348143198449	42	|His cursing stole the magic from the scene ; besides , I had to be stern with him . |	|Rike was always on the edge after a battle , wanting more . |	|I gave him a look that told him I had more . |	1	Brother Rike									
+0.784671757742273	55	|`` What treasure ? '' |	|Rike wanted to know , still surly . |	|`` When you get farmers , what else do you always get , Little Rikey ? '' |	1	Brother Rike									
+0.480903095865961	94	|It makes me angry . |	|I do n't think he caught even that . |	|I do n't think he even knew it was me that opened him up not half an hour before . |	2	DEFAULT	DEFAULT								
+0.896472811305278	25	|Those as says otherwise are losing . |	|If I 'd bothered to go over to old Bovid , propped up against the fountain with his guts in his lap , he 'd probably take a contrary view . |	|But look where disagreeing got him . |	2	Bovid	DEFAULT								
+0.978965209523119	3	|They settled on the gables of the church even before the injured became the dead . |	|Even before Rike had finished taking fingers from hands , and rings from fingers . |	|I leaned back against the gallowspost and nodded to the birds , a dozen of them in a black line , wise-eyed and watching . |	1	Brother Rike									
+0.785182203580321	81	|Brother Gemt 's a-coming with his axe . |	|Chop-chop . '' |	|He did n't seem too worried . |	0										
+0.609743247111302	14	|It 's always water with the dying . |	|Strange , it 's killing that gives me a thirst . |	|And that was Mabberton . |	1	DEFAULT									
+0.193847811688209	61	|I think the scars improved him . |	|`` Cows ? '' |	|Makin pursed his lips . |	0										
+0.563176900281726	21	|But no . |	|They wanted blood and slaughter . |	|And they got it . |	0										
+0.091916606006864	6	|The town-square ran red . |	|Blood in the gutters , blood on the flagstones , blood in the fountain . |	|The corpses posed as corpses do . |	0										
+0.642123797230046	35	|I 'd like to set the bastards up and knock â€™em down again . |	|Fecking bog-farmers . '' |	|He would too : he was an evil bastard , and greedy with it . |	0										
+0.916876158157041	38	|I held his eye . |	|`` Settle down , Brother Rike . |	|There 's more than one kind of gold in Mabberton . '' |	1	Brother Rike									
+0.425485631681035	26	|If I 'd bothered to go over to old Bovid , propped up against the fountain with his guts in his lap , he 'd probably take a contrary view . |	|But look where disagreeing got him . |	|`` Shit-poor farm maggots . '' |	1	Bovid									
+0.719432938838523	5	|I leaned back against the gallowspost and nodded to the birds , a dozen of them in a black line , wise-eyed and watching . |	|The town-square ran red . |	|Blood in the gutters , blood on the flagstones , blood in the fountain . |	0										
+0.138121034392352	87	|Hiding in the cellar maybe ? |	|Old Rike will sniff them out . '' |	|Bovid looked up sharp at that , pained and sharp . |	1	Brother Rike									
+0.433577789385003	103	|Fifteen ! |	|I 'd hardly be fifteen and rousting villages . |	|By the time fifteen came around , I 'd be King ! |	1	DEFAULT									
+0.503512265681496	62	|`` Cows ? '' |	|Makin pursed his lips . |	|I never liked his lips , too thick and fleshy , but I forgave him that , for his joking and his deathly work with that flail of his . |	1	Makin									
+0.359847777607033	9	|Some comical , reaching for the sky with missing fingers , some peaceful , coiled about their wounds . |	|Flies rose above the wounded as they struggled . |	|This way and that , some blind , some sly , all betrayed by their buzzing entourage . |	0										
+0.36763608866501	19	|I said it to their leader , Bovid Tor . |	|I gave them that chance , I always do . |	|But no . |	1	DEFAULT									
+0.629721389406117	12	|`` Water ! |	|Water ! '' |	|It 's always water with the dying . |	0										
+0.874396067392338	98	|Could n't be more ... '' His words came slow , from blue lips in a white face . |	|Out by two , I would have told him , but he 'd gone past hearing . |	|The cart creaked up behind me , and Gemt came along with his axe dripping . |	2	DEFAULT	DEFAULT								
+0.022941943877798	1	|Ravens ! |	|Always the ravens . |	|They settled on the gables of the church even before the injured became the dead . |	0										
+0.225962206821434	32	|One gold ring . |	|One ! |	|A whole village and one fecking gold ring . |	0										
+0.033212370882556	24	|War , my friends , is a thing of beauty . |	|Those as says otherwise are losing . |	|If I 'd bothered to go over to old Bovid , propped up against the fountain with his guts in his lap , he 'd probably take a contrary view . |	0										
+0.22235695090296	100	|The cart creaked up behind me , and Gemt came along with his axe dripping . |	|`` Take his head , '' I told them . |	|`` Leave his fat belly for the ravens . '' |	2	DEFAULT	DEFAULT								
+0.00392611569027	47	|Makin came up then and flung an arm about each of us , clapping gauntlet to shoulder-plate . |	|If Makin had a skill , then smoothing things over was it . |	|`` Brother Jorg is right , Little Rikey . |	1	Makin									
+0.858711083464902	37	|He would too : he was an evil bastard , and greedy with it . |	|I held his eye . |	|`` Settle down , Brother Rike . |	2	Brother Rike	DEFAULT								
+0.737530372686005	22	|They wanted blood and slaughter . |	|And they got it . |	|War , my friends , is a thing of beauty . |	0										
+0.660452005879108	58	|Makin raised his eyebrows all suggestive . |	|Rike lifted his visor , treating us to his ugly face . |	|Well , brutal more than ugly . |	1	Brother Rike									
+0.880495832320336	13	|Water ! '' |	|It 's always water with the dying . |	|Strange , it 's killing that gives me a thirst . |	0										
+0.58756414555119	70	|I looked at the ravens , I watched Gemt and his half-wit brother , Maical , taking heads , Maical with the cart and Gemt with the axe . |	|A thing of beauty , I tell you . |	|At least to look at . |	1	DEFAULT									
+0.08160374771329	45	|More than he could handle . |	|He grumbled , stowed his bloody ring , and thrust his knife back in his belt . |	|Makin came up then and flung an arm about each of us , clapping gauntlet to shoulder-plate . |	1	Makin									
+0.017029397082384	72	|At least to look at . |	|I 'll agree war smells bad . |	|But we 'd torch the place soon enough and the stink would all turn to wood-smoke . |	1	DEFAULT									
+0.19817813970561	44	|I gave him a look that told him I had more . |	|More than he could handle . |	|He grumbled , stowed his bloody ring , and thrust his knife back in his belt . |	1	DEFAULT									
+0.449042800134272	105	|By the time fifteen came around , I 'd be King ! |	|Some people are born to rub you the wrong way . |	|Brother Gemt was born to rub the world the wrong way . |	0										
+0.388683034520725	46	|He grumbled , stowed his bloody ring , and thrust his knife back in his belt . |	|Makin came up then and flung an arm about each of us , clapping gauntlet to shoulder-plate . |	|If Makin had a skill , then smoothing things over was it . |	1	Makin									
+0.297990636993153	31	|`` Look ! |	|One gold ring . |	|One ! |	0										
+0.301012967672758	75	|Gold rings ? |	|I needed no more payment . |	|`` Boy ! '' |	1	DEFAULT									
