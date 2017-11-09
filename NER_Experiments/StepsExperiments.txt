@@ -115,5 +115,8 @@ for x in Old/*gs ; do python booknlp2gs.py $x path/to/BookNLPOutput/${x%.gs}*.to
 for x in New/*booknlpoutput ; do echo $x ; perl conlleval.pl < $x ; done
 for x in Old/*booknlpoutput ; do echo $x ; perl conlleval.pl < $x ; done
 
+###### BookNLP co-ref
+for each novel in collection run below command (replace {variable} by desired input and output):
 
+./runjava novels/BookNLP -doc data/originalTexts/{novel_to_evaluate.txt} -printHTML -p data/output/{novel_logger} -tok data/tokens/{novel_to_evaluate.tokens} -f
 
