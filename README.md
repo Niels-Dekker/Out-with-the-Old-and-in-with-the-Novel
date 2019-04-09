@@ -8,7 +8,7 @@ Please cite if you write a research paper using these resources: http://peerj.co
 Contact: niels.m.dekker@gmail.com  
 Last updated: 9 April 2019
 
-<img src="/Visualisations/GameOfThrones.pdf" alt="GoT Social Network"/>
+<img src="/Visualisations/GameOfThrones.png" alt="GoT Social Network"/>
 
 For the interactive visualisation created using D3.js, please visit https://blog.trifork.com/wp-content/uploads/got/.
 
