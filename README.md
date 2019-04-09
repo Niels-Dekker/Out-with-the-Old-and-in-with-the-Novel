@@ -1,9 +1,12 @@
-# Out with the Old and in with the Novel
+# Evaluating named entity recognition tools for extracting social networks from novels
 
-This Github repository contains the code and experiments for the paper "Out with the Old and in with the Novel? Evaluating Social Network Extraction for Classic and Modern Fiction Literature - Niels  Dekker, Marieke van Erp & Tobias Kuhn" (currently under review)
+This Github repository contains the code and experiments for the paper "Evaluating named entity recognition tools
+for extracting social networks from novels" by Niels Dekker, Marieke van Erp & Tobias Kuhn.
+
+Please cite if you write a research paper using these resources: http://peerj.com/articles/cs-189.
 
 Contact: niels.m.dekker@gmail.com  
-Last updated: 8 November 2017
+Last updated: 9 April 2019
 
 Prerequisites:
 
