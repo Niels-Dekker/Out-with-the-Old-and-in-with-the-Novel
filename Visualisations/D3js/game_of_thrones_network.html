@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Game of Thrones Network</title>
+<style>
+    
+body{
+    overflow: hidden;
+    background-color: black;
+    margin: 5px;
+}
+
+@font-face {
+    font-family: "Game of Thrones";
+    src: url("Game of Thrones.ttf");
+}
+
+h1{
+    font-weight: 100;
+    text-align: center;
+    color: white;
+    text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;
+}
+
+h2{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;
+}
+
+p{
+    color:white;
+}
+
+hr{
+	margin-top: 1.5em;
+  	margin-bottom: 1.5em;
+  	border-width: 0.5px;
+  	border-style: outset;
+  	border-color: gray;
+}
+
+a:link {
+	color: orange;
+}
+a:visited {
+	color: #ff3300}
+
+a:hover {
+	color: white;
+}
+
+.main{
+    width:85%;
+    float: right;
+}
+
+.GOT{
+    font-family: "Game of Thrones";
+    color:gray;
+}
+
+.node {
+    stroke: white;
+    fill: rgb(0, 197, 197);
+}
+
+.link {
+    stroke: rgb(0, 120, 120);
+}
+
+.label {
+    fill: white;
+    font-family: Verdana;
+    text-anchor: middle;
+    stroke: black;
+    overflow-wrap: break-word;
+    font-weight: bold;
+    pointer-events: none;
+}
+
+.tools {
+    box-sizing: border-box;
+    font-size: 13px;
+    padding: 0.25em 1em;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 15%;
+    background: rgb(0, 130, 130);
+    border-right: 1px solid;
+    border-color: white;
+    z-index: 1;
+    overflow: auto;
+}
+
+
+</style>
+</head>
+<body>
+<div class="tools" id='tools'>
+    <h1><b>About</b></h1>
+    <p>This interactive visualisation contains character interactions from <i>A Game of Thrones</i>, automatically extracted using Natural Language Processing. For more information on that process, please refer to the accompanying <a href="link to blog post">blog post</a> or <a href="http://peerj.com/articles/cs-189"> paper</a>.</p>
+    <hr>
+
+    <h2>Basic Controls</h2>
+    <p>You can move around individual nodes by clicking and dragging them through the visualisation space.</p>
+    <p>By clicking on a node once, you can see its neighbouts. Clicking any node again will reset the highlighting.</p>
+    <p>You can zoom by scrolling up or down and pan by dragging the background.</p>
+    <hr>
+
+    <h2>Search</h2>
+    <p>You can search for individual nodes by entering a name below. The node will be highlighted for a brief amount of time.</p>
+
+</div>
+<div class='main' id='main'>
+	<div>
+		<h1>An interactive <span class='GOT'>Game <font size="-0.25">of</font> Thrones</span> network visualisation</h1>
+	</div>
+<script src="d3v4.js"></script>
+<script>
+
+
+var margin = {top: -20, right: -20, bottom: -20, left: -20},
+    width = window.innerWidth - margin.left - margin.right,
+    height = window.innerHeight * 0.92 - margin.top - margin.bottom;
+
+var min_zoom = 0.3;
+var max_zoom = 5;
+var scale = 0.75;
+
+var transform = d3.zoomIdentity.translate(-50, 150).scale(scale);
+
+var zoom = d3.zoom()
+            .scaleExtent([min_zoom, max_zoom])
+            .on("zoom", handleZoom)
+
+function handleZoom(){
+  if (container) {
+    container.attr("transform", d3.event.transform);
+  }
+};
+
+var svg = d3.select("#main").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .call(zoom)
+    .call(zoom.transform, transform)
+    .on("dblclick.zoom", null)
+    .append("g");
+
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink())
+    .force("charge", d3.forceManyBody().strength([-120]).distanceMax([500]))
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+var container = svg.append('g')
+  	.attr("transform", transform);    // Applies initial transform
+
+var search = d3.select("#tools")
+    .append('form')
+    .attr('onsubmit', 'return false;')
+    .style('text-align', 'center')
+    .style('display', 'block');
+
+var box = search.append('input')
+    .attr('type', 'text')
+    .attr('id', 'searchTerm')
+    .attr('placeholder', 'Find node by name...');
+
+var button = search.append('input')
+    .attr('type', 'button')
+    .attr('value', 'Search')
+    .on('click', function () { searchNodes(); });
+
+search.append('hr')
+
+var toggle = 0;
+
+d3.json("network.json", function(error, graph) {
+    if (error) throw error;
+
+    function getNodeIndex(id) {
+        for (var i = 0; i < graph.nodes.length; i++) {
+            if (id == graph.nodes[i].id) return i;
+        }
+    }
+
+    graph.links.forEach(function(e) {
+        e.source = getNodeIndex(e.source);
+        e.target = getNodeIndex(e.target);
+    }); 
+
+    // Make object of all neighboring nodes.
+    var linkedByIndex = {};
+    graph.links.forEach(function(d) {
+        linkedByIndex[d.source + ',' + d.target] = 1;
+        linkedByIndex[d.target + ',' + d.source] = 1;
+    });
+
+    // A function to test if two nodes are neighboring.
+    function neighboring(a, b) {
+        return linkedByIndex[a.index + ',' + b.index];
+    }
+
+    // Linear scale for degree centrality.
+    var degreeSize = d3.scaleLinear()
+        .domain([d3.min(graph.nodes, function(d) {return d.Degree; }), d3.max(graph.nodes, function(d) {return d.Degree; })])
+        .range([5,50]);
+
+    // Collision detection based on degree centrality.
+    simulation.force("collide", d3.forceCollide().radius( function (d) { return degreeSize(d.Degree) * 1.3; }));
+
+    var link = container.append("g")
+        .attr("class", "links")
+        .selectAll("line")
+        .data(graph.links, function(d) { return d.source + ", " + d.target;})
+        .enter().append("line")
+        .attr('class', 'link')
+        .style("stroke-width", function (d) { return degreeSize(d.weight) })
+        .style("stroke-opacity", function (d) {return d.weight / 20});
+
+    var node = container.append("g")
+        .attr("class", "nodes")
+        .selectAll("circle")
+        .data(graph.nodes)
+        .enter().append("circle")
+        .attr('r', function(d, i) { return degreeSize(d.Degree); })
+        .style("fill-opacity", function (d) {return d.Degree / 20})
+        .style("stroke-width", function (d) { return d.Degree / 15 })
+        .style("stroke-opacity", function (d) {return d.Degree / 50})
+        .on("mouseover", function(d)
+         {
+             d3.select(this)
+                .transition()
+                .duration(250)
+                .attr("r", function (d) { return degreeSize(d.Degree) * 1.3; })
+                .style("stroke", "orange")
+         })
+        .on("mouseout", function(d)
+         {
+            d3.select(this)
+                .transition()
+                .duration(250)
+                .attr("r", function (d) { return degreeSize(d.Degree); })
+                .style("stroke", "white")
+         })
+        .attr('class', 'node')
+        .on('click', function(d, i) {
+            if (toggle == 0) {
+                d3.selectAll('.link').style('stroke-opacity', function (l) {
+                  return l.target == d || l.source == d ? 1 : 0.1;
+                });
+                d3.selectAll('.link').style('stroke', function (l) {
+                  return l.target == d || l.source == d ? "white" : "grey";
+                });
+                d3.selectAll('.node').style('stroke-opacity', function (n) {
+                  return neighboring(d, n) || d==n ? 1 : 0.2;
+                });
+                d3.selectAll('.node').style('fill-opacity', function (n) {
+                  return neighboring(d, n) || d==n ? 1 : 0.2;
+                });
+                d3.selectAll('.label').style('fill-opacity', function (n) {
+                  return neighboring(d, n) || d==n ? 1 : 0.2;
+                });
+                d3.select(this).style('fill-opacity', 1);
+                toggle = 1;
+            }
+            else {
+                // Restore nodes and links to normal opacity.
+                d3.selectAll('.link').style("stroke-opacity", function (d) {return d.weight / 20});
+                d3.selectAll('.link').style('stroke', "rgb(0, 120, 120)")
+                d3.selectAll('.node').style("stroke-opacity", function (d) {return d.Degree / 50});
+                d3.selectAll('.node').style("fill-opacity", function (d) {return d.Degree / 20});
+                d3.selectAll('.label').style("fill-opacity", function (d) {return d.Degree / 50});
+                toggle = 0;
+            }
+        })
+        .call(d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended));
+
+    var label = container.append("g")
+        .selectAll(".label")
+        .data(graph.nodes)
+        .enter().append("text")
+        .attr("class", "label")
+        .text(function (d) { return d.name; })
+        .style("fill-opacity", function (d) {return d.Degree / 50})
+        .style("stroke-width", function (d) {return d.Degree / 70})
+        .style("font-size", function (d) {return degreeSize(d.Degree) / 3})
+
+    node.append("title")
+        .text(function(d) { return d.name; });
+
+    simulation
+        .nodes(graph.nodes)
+        .on("tick", ticked);
+
+    simulation.force("link")
+        .links(graph.links);
+
+    function ticked() {
+        link
+            .attr("x1", function(d) { return d.source.x; })
+            .attr("y1", function(d) { return d.source.y; })
+            .attr("x2", function(d) { return d.target.x; })
+            .attr("y2", function(d) { return d.target.y; });
+
+        node
+            .attr("cx", function(d) { return d.x; })
+            .attr("cy", function(d) { return d.y; });
+
+        label.attr("x", function (d) { return d.x; })
+            .attr("y", function (d) {
+                var h = this.getBBox().height;
+                return d.y + h/4;
+            });
+    }
+
+    d3.select('#tools')
+        .append('h2')
+        .text('Edge Weight')
+        .style('text-align', 'center')
+        .style('display', 'block');
+
+    d3.select('#tools')
+    	.append('p')
+    	.text('You can set the threshold for the minimum weight required for edges to connect nodes by using the below slider. For performance reasons, the default is set to 2.')
+    	.style('text-align', 'left')
+        .style('display', 'block');
+
+    var slider = d3.select('#tools')
+    	.append('p')
+    	.text('Edge weight threshold: ')
+        .style('fill', 'white')
+        .style('font-style', 'italic')
+        .style('text-align', 'center')
+        .style('display', 'block');
+
+    slider.append('label')
+        .attr('for', 'threshold')
+        .text('2')
+        .style('font-weight', 'bold')
+        .style('font-style', 'normal')
+        .style('font-size', '1.3em');
+
+    slider.append('input')
+        .attr('type', 'range')
+        .attr('min', d3.min(graph.links, function(d) {return d.weight; }))
+        .attr('max', d3.max(graph.links, function(d) {return d.weight; }) / 2)
+        .attr('value', 2)
+        .attr('id', 'threshold')
+        .style('width', '100%')
+        .style('text-align', 'center')
+        .style('display', 'block')
+        .on('input', function () { redraw(this.value) });
+
+    function redraw(value){
+        var threshold = value;
+
+        d3.select('label').text(threshold);
+
+        var newData = [];
+        graph.links.forEach( function (d) {
+            if (d.weight >= threshold) {newData.push(d); };
+        });
+
+        link = link.data(newData, function(d) {return d.source + ', ' + d.target;});
+        link.exit().remove();
+        var linkEnter = link.enter()
+                        .append('line')
+                        .attr('class', 'link')
+                        .style("stroke-width", function (d) { return degreeSize(d.weight) })
+                        .style("stroke-opacity", function (d) {return d.weight / 20});
+
+        link = linkEnter.merge(link);
+
+        node = node.data(graph.nodes);
+
+        simulation
+            .nodes(graph.nodes)
+            .on('tick', ticked)
+            .force("link")
+            .links(newData);
+
+        simulation.alphaTarget(0.1).restart();
+    }
+
+    redraw(2)
+});
+
+function dragstarted(d) {
+    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+}
+
+function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+}
+
+function dragended(d) {
+    if (!d3.event.active) simulation.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+}
+
+function zoomed() {
+    container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")");
+}
+
+function searchNodes() {
+    var term = document.getElementById('searchTerm').value;
+    var otherNodes = container.selectAll('.node').filter(function (d, i) {
+        return d.name.toLowerCase().search(term.toLowerCase()) == -1;
+    });
+    otherNodes.style('opacity', 0.2);
+    var link = container.selectAll('.link');
+    link.style('stroke-opacity', 0.2);
+
+    var otherLabels = container.selectAll('.label').filter(function (d, i) {
+        return d.name.toLowerCase().search(term.toLowerCase()) == -1;
+    });
+    otherLabels.style('opacity', 0.2);
+
+    d3.selectAll('.node')
+        .transition()
+        .duration(5000)
+        .style('opacity', 1);
+
+    d3.selectAll('.link')
+        .transition()
+        .duration(5000)
+        .style("stroke-opacity", function (d) {return d.weight / 20});
+
+    d3.selectAll('.label')
+        .transition()
+        .duration(5000)
+        .style('opacity', 1);
+}
+
+</script>
+</div>
+</body>
+</html>

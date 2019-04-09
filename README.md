@@ -8,6 +8,8 @@ Please cite if you write a research paper using these resources: http://peerj.co
 Contact: niels.m.dekker@gmail.com  
 Last updated: 9 April 2019
 
+![Game Of Thrones Social Network](https://github.com/Niels-Dekker/Out-with-the-Old-and-in-with-the-Novel/tree/master/Visualisations/GameOfThrones.pdf)
+
 Prerequisites:
 
 * Python 3
